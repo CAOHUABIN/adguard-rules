@@ -13,6 +13,7 @@
 | DNS 拦截（一行一个域名，最通用） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_blocklist.txt |
 | DNS 拦截（hosts 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_blocklist_hosts.txt |
 | 全格式广告过滤规则 | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/adguard_rules_merged.txt |
+| Safari 精简拦截规则（主机名版，约 4.9 万条） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/safari_rules.txt |
 | 以上任一链接的 CDN 加速版（把 raw.githubusercontent.com 换成 cdn.jsdelivr.net/gh） | 见下方 |
 
 CDN 加速版示例：`https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_adguard.txt`
