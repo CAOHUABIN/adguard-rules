@@ -128,19 +128,5 @@ def main():
             f.write(f"||{d}^\n")
     print(f"[写出] {out_ag}")
 
-    # 4) 更新 README 中的 DNS 章节
-    md = os.path.join(OUT, "README.md")
-    with open(md, "a", encoding="utf-8") as f:
-        f.write("\n## 四、DNS 过滤规则整合\n")
-        f.write("\n整合后的 DNS 拦截清单（唯一域名 **%d** 个）：\n" % total)
-        f.write("\n| 来源 | 新增域名 | 官方地址 |\n|---|---:|---|\n")
-        for name, url, added in per_source:
-            f.write(f"| {name} | {added} | {url} |\n")
-        f.write("\n生成文件：\n")
-        f.write("- **dns_blocklist.txt**：一行一个域名（最通用，AdGuard Home 自定义过滤 / Pi-hole / AdGuard DNS 通用）。\n")
-        f.write("- **dns_blocklist_hosts.txt**：hosts 格式（0.0.0.0 域名），用于 hosts 文件替换或 AdGuard Home hosts 导入。\n")
-        f.write("- **dns_blocklist_adguard.txt**：AdGuard 原生 `||domain^` 格式，可直接作为 DNS 过滤订阅。\n")
-    print("[写出] README.md 更新")
-
 if __name__ == "__main__":
     main()
