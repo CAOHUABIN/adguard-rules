@@ -31,6 +31,7 @@
 | 国内 DNS 拦截（一行一个域名） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist.txt |
 | 国内 DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_hosts.txt |
 | 国内全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_cn_rules.txt |
+| 国内 Safari 精简（iPhone/iPad AdGuard，约4.9万条） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/safari_cn_rules.txt |
 
 > 需要同时拦截国际站点广告时，建议叠加全量规则或国际通用列表。
 
