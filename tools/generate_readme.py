@@ -41,6 +41,25 @@ def main():
                 if m:
                     dns_count = m.group(1)
 
+    # 读取国内网络专用规则统计（若存在）
+    cn_rules = cn_dns = None
+    cn_path_rules = os.path.join(OUT, "adguard_cn_rules.txt")
+    cn_path_dns = os.path.join(OUT, "dns_cn_blocklist.txt")
+    if os.path.exists(cn_path_rules):
+        for line in open(cn_path_rules, encoding="utf-8"):
+            if line.startswith("! 合并去重后唯一规则总数"):
+                m = re.search(r":\s*([\d]+)", line)
+                if m:
+                    cn_rules = m.group(1)
+                    break
+    if os.path.exists(cn_path_dns):
+        for line in open(cn_path_dns, encoding="utf-8"):
+            if line.startswith("# 唯一域名数"):
+                m = re.search(r":\s*([\d]+)", line)
+                if m:
+                    cn_dns = m.group(1)
+                    break
+
     L = []
     L.append("# Doubao AdGuard 拦截规则合集（自动更新）")
     L.append("")
@@ -48,6 +67,8 @@ def main():
     L.append("")
     L.append(f"- 全格式广告过滤规则：**{total_rules}** 条（adguard_rules_merged.txt）")
     L.append(f"- DNS 拦截域名：**{dns_count}** 个（dns_blocklist*.txt）")
+    if cn_rules is not None:
+        L.append(f"- 国内网络专用规则：**{cn_rules}** 条 / **{cn_dns}** 个域名（adguard_cn_rules.txt 等）")
     L.append("")
     L.append("## 订阅地址（AdGuard / AdGuard Home 直接添加）")
     L.append("")
@@ -61,6 +82,19 @@ def main():
     L.append("| 以上任一链接的 CDN 加速版（把 raw.githubusercontent.com 换成 cdn.jsdelivr.net/gh） | 见下方 |")
     L.append("")
     L.append("CDN 加速版示例：`https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_adguard.txt`")
+    L.append("")
+    L.append("## 国内网络专用规则（轻量，聚焦国内站点）")
+    L.append("")
+    L.append("由 AdGuard Chinese filter + EasyList China + 乘风(CJX) + anti-AD 合并去重生成，专为国内网络环境整理，不含国际全量列表，体积更小、误伤更低。")
+    L.append("")
+    L.append("| 用途 | 订阅地址 |")
+    L.append("|---|---|")
+    L.append("| 国内 DNS 拦截（AdGuard `||域名^` 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist_adguard.txt |")
+    L.append("| 国内 DNS 拦截（一行一个域名） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist.txt |")
+    L.append("| 国内 DNS 拦截（hosts 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist_hosts.txt |")
+    L.append("| 国内全格式广告过滤规则 | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/adguard_cn_rules.txt |")
+    L.append("")
+    L.append("> 需要同时拦截国际站点广告时，建议叠加全量规则或国际通用列表。")
     L.append("")
     L.append("## 合并来源")
     L.append("")
