@@ -8,16 +8,17 @@
 
 ## 订阅地址（AdGuard / AdGuard Home 直接添加）
 
+> 以下均为 **jsDelivr CDN 加速地址，国内可直接访问**（GitHub raw 在国内常无法访问，仅作海外备用）。
+
 | 用途 | 订阅地址 |
 |---|---|
-| DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_blocklist_adguard.txt |
-| DNS 拦截（一行一个域名，最通用） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_blocklist.txt |
-| DNS 拦截（hosts 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_blocklist_hosts.txt |
-| 全格式广告过滤规则 | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/adguard_rules_merged.txt |
-| Safari 精简拦截规则（主机名版，约 4.9 万条） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/safari_rules.txt |
-| 以上任一链接的 CDN 加速版（把 raw.githubusercontent.com 换成 cdn.jsdelivr.net/gh） | 见下方 |
+| DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_adguard.txt |
+| DNS 拦截（一行一个域名，最通用） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist.txt |
+| DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_hosts.txt |
+| 全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_rules_merged.txt |
+| Safari 精简拦截规则（主机名版，约 4.9 万条） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/safari_rules.txt |
 
-CDN 加速版示例：`https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_adguard.txt`
+海外/备用（GitHub raw）：`https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/<文件名>`
 
 ## 国内网络专用规则（轻量，聚焦国内站点）
 
@@ -25,10 +26,10 @@ CDN 加速版示例：`https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rule
 
 | 用途 | 订阅地址 |
 |---|---|
-| 国内 DNS 拦截（AdGuard `||域名^` 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist_adguard.txt |
-| 国内 DNS 拦截（一行一个域名） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist.txt |
-| 国内 DNS 拦截（hosts 格式） | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/dns_cn_blocklist_hosts.txt |
-| 国内全格式广告过滤规则 | https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/adguard_cn_rules.txt |
+| 国内 DNS 拦截（AdGuard `||域名^` 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_adguard.txt |
+| 国内 DNS 拦截（一行一个域名） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist.txt |
+| 国内 DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_hosts.txt |
+| 国内全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_cn_rules.txt |
 
 > 需要同时拦截国际站点广告时，建议叠加全量规则或国际通用列表。
 

@@ -20,6 +20,17 @@
 - **dns_cn_blocklist_hosts.txt**：hosts 格式（0.0.0.0 domain）。
 - **dns_cn_blocklist_adguard.txt**：AdGuard DNS 订阅格式（||domain^）。
 
+## 订阅地址（jsDelivr CDN，国内可直接访问）
+
+| 用途 | 订阅地址 |
+|---|---|
+| 国内 DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_adguard.txt |
+| 国内 DNS 拦截（一行一个域名） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist.txt |
+| 国内 DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_hosts.txt |
+| 国内全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_cn_rules.txt |
+
+> 海外/备用（GitHub raw）：`https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/<文件名>`
+
 ## 说明
 
 - 定位为国内轻量方案：只含中文/国内针对性来源，规避国际全量列表对国内正常服务（统计、CDN、App 组件）的误伤。
