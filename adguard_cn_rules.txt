@@ -4,11 +4,11 @@
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20078 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20084 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
 !   [中文] EasyList China（EasyList 国内补充） (17022 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95638 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111860
+! 合并去重后唯一规则总数: 111866
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -6792,6 +6792,7 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com###player-vip
 huavod.com##a[href^="https://lesi198.com"]
+huavod.net##.hr-slot-box
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
@@ -7777,8 +7778,11 @@ le.com##.lay_body[style^="width:980px;height:90px;"]
 le.com##.lay_title[style^="width:490px;height:60px;"]
 le.com##.lbzDaoliu
 le.com##div[data-type="bottomLayerView"]
+league-funny.com###feedDetail > div:not([class], [id], [data-html-content]):has(> #PC_AD_Block)
 league-funny.com###popupvideoad
+league-funny.com##+js(json-prune, pageProps.adSystem props.pageProps.adSystem)
 league-funny.com##+js(no-setTimeout-if, ad_num_show)
+league-funny.com##+js(set-constant, __NEXT_DATA__.props.pageProps.adSystem, [])
 league-funny.com##.google_more
 league-funny.com##.more2ad_bb
 league-funny.com##.player_bb
@@ -7789,7 +7793,9 @@ league-funny.com##.w336center
 league-funny.com##.widgetBox.w300600
 league-funny.com##.widgetBox.w728Bottom
 league-funny.com##article > div.w-full:has(> div[id^="div-gpt-ad-"])
+league-funny.com##div[class*="h-[250px]"]:has(> div[id^="div-gpt-"]:only-child)
 league-funny.com##div[class^="dan_pmp"]
+league-funny.com##section.w-full > .border-b:has(> .hidden > div[id^="div-gpt-"]:only-child)
 league-funny.com,coco01.net##.scupioadslot
 leiling.org##.ad__single-double-rectangle-wrap
 lenniu.com##.caClass

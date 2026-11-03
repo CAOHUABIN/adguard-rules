@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Doubao Safari 精简拦截规则（主机名版）
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
-! 覆盖域名: 49000/432108（按来源收录数优先截取）
+! 覆盖域名: 49000/432159（按来源收录数优先截取）
 !
 ||agkn.com^
 ||bidswitch.net^
@@ -33352,6 +33352,7 @@
 ||aad-marketing.ascendeventmedia.com^
 ||aadata.april-international.com^
 ||aadeda.niche-beauty.com^
+||aafrjewsszwiv.site^
 ||aagemuwuyfhqz.site^
 ||aagm.link^
 ||aahamarketing.hubinternational.com^
@@ -34645,6 +34646,7 @@
 ||afs.googlesyndication.com^
 ||afterdownloads.com^
 ||aftrk3.com^
+||afvcrykaqo.in^
 ||afvnzlgxo.com^
 ||afzaspjhyo.in^
 ||ag1.zuszw.com^
@@ -35068,6 +35070,7 @@
 ||ambitious-collar.pro^
 ||amblerpisky.cfd^
 ||ambroty.xyz^
+||amccfczlswotq.online^
 ||amcdn.vn^
 ||amcgns.giesswein.com^
 ||amcraahmou.com^
@@ -36906,6 +36909,7 @@
 ||awgakxasz.in^
 ||awggij.wplay.co^
 ||awgiyrcpiqmf.com^
+||awgrxtcvxnjqa.online^
 ||awh3vupyf.com^
 ||awjvkqtpixelu.space^
 ||awklir.0506mall.com^
@@ -38272,6 +38276,7 @@
 ||bqmbcznkaz.icu^
 ||bqmshxayvjnur.site^
 ||bqnharsjbikxe.space^
+||bqohmtzgtwyvi.space^
 ||bqoulb.nowo.pt^
 ||bqplydkjst.com^
 ||bqptdcceaoeam.online^
@@ -38429,6 +38434,7 @@
 ||bsna.galeria-kaufhof.de^
 ||bsna.inno.be^
 ||bsnwicychhpjy.website^
+||bsoezfextjrla.space^
 ||bspiu.heatwavevisual.com^
 ||bsqhqpzlidgjj.site^
 ||bstream.channelcom.tech^
@@ -40187,6 +40193,7 @@
 ||collector.t-idr.com^
 ||collector.taoxh.life^
 ||collector.vhx.tv^
+||collector.wawlabs.com^
 ||collector.xhofficial.com^
 ||collector1.sooplive.com^
 ||collector1.xhamster.com^
@@ -42252,6 +42259,7 @@
 ||dbarlhnjfyoug.space^
 ||dbb6251066.com^
 ||dbcdqp72lzmvj.cloudfront.net^
+||dbcsbfwaegztc.space^
 ||dberthformttete.com^
 ||dbh1.milb.com^
 ||dbh4.milb.com^
@@ -43027,6 +43035,7 @@
 ||djbztw.marimekko.com^
 ||djeletflauukt.online^
 ||djhanucviqf.com^
+||djhvqumujikde.site^
 ||djibjamowntzl.online^
 ||djlleurfotfzy.space^
 ||djlqbgvlkqqpn.site^
@@ -43346,6 +43355,7 @@
 ||dpdvx.com^
 ||dpfdkelsimf.com^
 ||dpicywjxpgn.com^
+||dplapevefntpx.online^
 ||dplp1.ibmnorthamerica.adobesandbox.com^
 ||dpm.demdex.net.iberostar.com^
 ||dpmoemsgcxqkz.space^
@@ -43483,6 +43493,7 @@
 ||dsftcd.com^
 ||dsfvya.com^
 ||dsgldf.com^
+||dsgqxzkacskjx.online^
 ||dsgvgw.com^
 ||dsgwdhffrq.com^
 ||dsgwoa.com^
@@ -45486,6 +45497,7 @@
 ||evidence20.com^
 ||evirategrallic.com^
 ||evkjai.grandado.com^
+||evmxvermhmljo.website^
 ||evnqhsxsrhz.com^
 ||evnrubshwdvyq.com^
 ||evnzcl.ranking.ac^
@@ -45890,6 +45902,7 @@
 ||fbjpji.europcar.es^
 ||fbnayfsagcchw.space^
 ||fbnazqugcohsu.space^
+||fbojksrucqczm.space^
 ||fbolloiwd.com^
 ||fbqhxcrefynme.site^
 ||fbqmtmrjoxkfam.com^
@@ -46321,6 +46334,7 @@
 ||fk0hwmdoh.com^
 ||fk5lv2qyqoclnk.rest^
 ||fk8k4t55e.com^
+||fkdeavpxkjuoa.space^
 ||fkeupa.bett1.de^
 ||fkfovt.icu^
 ||fkfwyixbukmua.online^
@@ -46762,6 +46776,7 @@
 ||free-counter.co.uk^
 ||free-datings.com^
 ||free.srcdn.xyz^
+||freealremark.org^
 ||freecamsexposed.com^
 ||freecounter.ovh^
 ||freecounterstat.com^
@@ -47183,6 +47198,7 @@
 ||ganselbemete.cyou^
 ||ganserunwry.qpon^
 ||gaolageakali.cyou^
+||gaolcomptlytaxable.cfd^
 ||gapasjodvjul.in^
 ||gapwadfcmeilz.space^
 ||garage08062025.shop^
@@ -48987,19 +49003,3 @@
 ||hepsiads-gw.hepsiburada.com^
 ||heqsrpghksnlx.space^
 ||herbidnoxayawps.qpon^
-||herculean57.com^
-||herdicmurkest.com^
-||herefwukou.org^
-||heresanothernicemess.com^
-||heroidsliming.qpon^
-||heron.joel.is^
-||heron.notability.com^
-||heron.oneaudiobooks.app^
-||heron.scarletnoir.co^
-||herpes2.pa-ruit.jp^
-||herring.artemis.cloud^
-||herring.panda.network^
-||herspqrsawohn.site^
-||heruliaramus.com^
-||hesads.akamaized.net^
-||hesprh.sony.jp^
