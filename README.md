@@ -15,8 +15,9 @@
 | DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_adguard.txt |
 | DNS 拦截（一行一个域名，最通用） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist.txt |
 | DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_blocklist_hosts.txt |
-| 全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_rules_merged.txt |
 | Safari 精简拦截规则（主机名版，约 4.9 万条） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/safari_rules.txt |
+
+> **注意**：全格式广告过滤规则 `adguard_rules_merged.txt`（约 25MB）超过 jsDelivr 单文件 20MB 上限，**国内 CDN 不可用**。国内用户请用上方 DNS 域名版；确需全格式时海外走 GitHub raw：`https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/adguard_rules_merged.txt`。
 
 海外/备用（GitHub raw）：`https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/<文件名>`
 
