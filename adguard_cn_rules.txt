@@ -4,11 +4,11 @@
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20084 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17022 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20100 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17038 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95638 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111866
+! 合并去重后唯一规则总数: 111882
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -11799,6 +11799,7 @@ zzzyk.com###Tinfo
 ||1ns1rosb.de^
 ||1nvnkyg65.com^
 ||1nvxl968le.com^
+||1ny5gaksj8.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -11807,6 +11808,7 @@ zzzyk.com###Tinfo
 ||1odi7j43c.de^
 ||1osb.com^
 ||1ovzgs15u.com^
+||1p5j4qb3zc.com^
 ||1p8ln1dtr.de^
 ||1paujqtq9.com^
 ||1pel.com^
@@ -11863,6 +11865,7 @@ zzzyk.com###Tinfo
 ||1wkg.cn^
 ||1wo2fytcws.com^
 ||1worldonline.com^
+||1wxj1q0wo5.com^
 ||1x3x.com^
 ||1x6666.com/img/
 ||1x6arks9.xyz^
@@ -12826,6 +12829,7 @@ zzzyk.com###Tinfo
 ||470kk.com/js/indextop.js
 ||47235645.xyz^
 ||475d3ea23c.com^
+||477d95h3tj.com^
 ||477zw.com/js/nzm
 ||47b48d19d4.com^
 ||47c7zhqak.com^
@@ -12838,6 +12842,7 @@ zzzyk.com###Tinfo
 ||484r.com/images/flash/gallery_
 ||48583ed9cf.com^
 ||4863232c.xyz^
+||487wlz7nbc.com^
 ||48c5089fa7.com^
 ||48cc0c0e07.com^
 ||48dd51f81a.com^
@@ -13349,6 +13354,7 @@ zzzyk.com###Tinfo
 ||5ntq14y5y.com^
 ||5o8aj5nt.de^
 ||5p35xkp1p.com^
+||5p478n58i9.com^
 ||5pi13h3q.de^
 ||5platforms.net^
 ||5qnyx6k5w.com^
@@ -14525,6 +14531,7 @@ zzzyk.com###Tinfo
 ||9mdg9cu59.com^
 ||9mnmzh506.com^
 ||9nl.eu^
+||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
 ||9obmf866d.com^
@@ -26716,6 +26723,7 @@ zzzyk.com###Tinfo
 ||bsgbd77l.de^
 ||bsgefrduwiaxk.site^
 ||bshare.cn^
+||bshhyxoy62.com^
 ||bshrdr.com^
 ||bsigxzskaybsw.website^
 ||bsjgdn.supergoop.com^
@@ -53933,6 +53941,7 @@ zzzyk.com###Tinfo
 ||ineemotbptecd.online^
 ||inencr.woodhouseclothing.com^
 ||ineoocqxztbzj.site^
+||inequation23.com^
 ||inestimablereddencloset.com^
 ||inetstats.org^
 ||inexhaustiblenormcall.com^
@@ -57375,6 +57384,7 @@ zzzyk.com###Tinfo
 ||jprutbffhyhgi.space^
 ||jprzxoufuehde.space^
 ||jptgtr.astellas.jp^
+||jptifzvqhanvha.com^
 ||jptobh.network.com.tr^
 ||jpush.cn^
 ||jpush.html5.qq.com^
@@ -70136,6 +70146,7 @@ zzzyk.com###Tinfo
 ||mzykitcgblmwl.online^
 ||mzypnfarkhqww.site^
 ||mzzfree.com/file/upload/202109/14/180421861.gif
+||mzzueflt.com^
 ||mzzzpvllsjxpy.online^
 ||n-analytics.io^
 ||n-core-pipe.com^
@@ -72473,6 +72484,7 @@ zzzyk.com###Tinfo
 ||o8u3n4q7fe.com^
 ||o911o.com^
 ||o9gvxuj9t6.com^
+||o9m5znv8ta.com^
 ||o9qdqbu6nu.com^
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
 ||oa-panther.data.aliyun.com^
@@ -79313,6 +79325,7 @@ zzzyk.com###Tinfo
 ||q643s5wiiz.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
+||q70t79hxor.com^
 ||q777.sfchronicle.com^
 ||q7vnwa1ma7.com^
 ||q88z1s3.com^
@@ -83120,6 +83133,7 @@ zzzyk.com###Tinfo
 ||rrbqvmoordsye.space^
 ||rrbresheojhst.space^
 ||rrbrmijkhpork.online^
+||rrd14g5o8n.com^
 ||rrdtjj.top^
 ||rretmobueggyz.site^
 ||rrgiuy.jackroad.co.jp^
@@ -102763,6 +102777,7 @@ zzzyk.com###Tinfo
 ||vfjoawcligjcs.online^
 ||vfkwbnwrglemo.online^
 ||vfmahn.slevomat.cz^
+||vfmlgaxxc4.com^
 ||vfmqozdgawaii.website^
 ||vfnq.cn^
 ||vfo4.carrefour-banque.fr^
@@ -106440,6 +106455,7 @@ zzzyk.com###Tinfo
 ||wrrqigpzmekcd.space^
 ||wrrsaegzdhqou.site^
 ||wrsfgbypbzesc.site^
+||wrsy5mdrj1.com^
 ||wrufer.com^
 ||wrugwj.bakerross.de^
 ||wruixgttpajyx.online^

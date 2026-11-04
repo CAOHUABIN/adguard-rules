@@ -1,6 +1,6 @@
 # Title: Doubao 国内网络 DNS 拦截清单（纯域名）
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 95865
+# 唯一域名数: 95881
 #
 0.myikas.com
 0.net.easyjet.com
@@ -727,6 +727,7 @@
 1ns1rosb.de
 1nvnkyg65.com
 1nvxl968le.com
+1ny5gaksj8.com
 1o0g85u7k1.com
 1o1nuqbjea.com
 1o23ptd0sv.com
@@ -735,6 +736,7 @@
 1odi7j43c.de
 1osb.com
 1ovzgs15u.com
+1p5j4qb3zc.com
 1p8ln1dtr.de
 1paujqtq9.com
 1pel.com
@@ -788,6 +790,7 @@
 1wkg.cn
 1wo2fytcws.com
 1worldonline.com
+1wxj1q0wo5.com
 1x3x.com
 1x6arks9.xyz
 1y55vfy87.com
@@ -1574,6 +1577,7 @@
 46y7erj0mw.com
 47235645.xyz
 475d3ea23c.com
+477d95h3tj.com
 47b48d19d4.com
 47c7zhqak.com
 47f9jdixm7.com
@@ -1584,6 +1588,7 @@
 484l.com
 48583ed9cf.com
 4863232c.xyz
+487wlz7nbc.com
 48c5089fa7.com
 48cc0c0e07.com
 48dd51f81a.com
@@ -1976,6 +1981,7 @@
 5ntq14y5y.com
 5o8aj5nt.de
 5p35xkp1p.com
+5p478n58i9.com
 5pi13h3q.de
 5platforms.net
 5qnyx6k5w.com
@@ -2967,6 +2973,7 @@
 9mdg9cu59.com
 9mnmzh506.com
 9nl.eu
+9nvj3swk9l.com
 9nwplq7y2o.com
 9nzrfglryy.com
 9obmf866d.com
@@ -14578,6 +14585,7 @@ bsgbcdzmvggpc.site
 bsgbd77l.de
 bsgefrduwiaxk.site
 bshare.cn
+bshhyxoy62.com
 bshrdr.com
 bsigxzskaybsw.website
 bsjgdn.supergoop.com
@@ -40356,6 +40364,7 @@ ineedhits.com
 ineemotbptecd.online
 inencr.woodhouseclothing.com
 ineoocqxztbzj.site
+inequation23.com
 inestimablereddencloset.com
 inetstats.org
 inexhaustiblenormcall.com
@@ -43591,6 +43600,7 @@ jprbql.jdsports.fr
 jprutbffhyhgi.space
 jprzxoufuehde.space
 jptgtr.astellas.jp
+jptifzvqhanvha.com
 jptobh.network.com.tr
 jpush.cn
 jpush.html5.qq.com
@@ -55752,6 +55762,7 @@ mzxun.com
 mzy2014.com
 mzykitcgblmwl.online
 mzypnfarkhqww.site
+mzzueflt.com
 mzzzpvllsjxpy.online
 n-analytics.io
 n-core-pipe.com
@@ -58015,6 +58026,7 @@ o8agbq0qwm.com
 o8u3n4q7fe.com
 o911o.com
 o9gvxuj9t6.com
+o9m5znv8ta.com
 o9qdqbu6nu.com
 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
 oa-panther.data.aliyun.com
@@ -64625,6 +64637,7 @@ q5viqnac3i.com
 q643s5wiiz.com
 q6iw41lkk.com
 q6zikgclq9.com
+q70t79hxor.com
 q777.sfchronicle.com
 q7vnwa1ma7.com
 q88z1s3.com
@@ -68256,6 +68269,7 @@ rrbaib.tsutsumishop.jp
 rrbqvmoordsye.space
 rrbresheojhst.space
 rrbrmijkhpork.online
+rrd14g5o8n.com
 rrdtjj.top
 rretmobueggyz.site
 rrgiuy.jackroad.co.jp
@@ -87310,6 +87324,7 @@ vfjktzbecbede.space
 vfjoawcligjcs.online
 vfkwbnwrglemo.online
 vfmahn.slevomat.cz
+vfmlgaxxc4.com
 vfmqozdgawaii.website
 vfnq.cn
 vfo4.carrefour-banque.fr
@@ -90856,6 +90871,7 @@ wrqukqxwkmzhz.site
 wrrqigpzmekcd.space
 wrrsaegzdhqou.site
 wrsfgbypbzesc.site
+wrsy5mdrj1.com
 wrufer.com
 wrugwj.bakerross.de
 wruixgttpajyx.online

@@ -1,5 +1,5 @@
 # Title: Doubao 国内网络 DNS 拦截清单（hosts 格式）
-# 唯一域名数: 95865
+# 唯一域名数: 95881
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -727,6 +727,7 @@
 0.0.0.0 1ns1rosb.de
 0.0.0.0 1nvnkyg65.com
 0.0.0.0 1nvxl968le.com
+0.0.0.0 1ny5gaksj8.com
 0.0.0.0 1o0g85u7k1.com
 0.0.0.0 1o1nuqbjea.com
 0.0.0.0 1o23ptd0sv.com
@@ -735,6 +736,7 @@
 0.0.0.0 1odi7j43c.de
 0.0.0.0 1osb.com
 0.0.0.0 1ovzgs15u.com
+0.0.0.0 1p5j4qb3zc.com
 0.0.0.0 1p8ln1dtr.de
 0.0.0.0 1paujqtq9.com
 0.0.0.0 1pel.com
@@ -788,6 +790,7 @@
 0.0.0.0 1wkg.cn
 0.0.0.0 1wo2fytcws.com
 0.0.0.0 1worldonline.com
+0.0.0.0 1wxj1q0wo5.com
 0.0.0.0 1x3x.com
 0.0.0.0 1x6arks9.xyz
 0.0.0.0 1y55vfy87.com
@@ -1574,6 +1577,7 @@
 0.0.0.0 46y7erj0mw.com
 0.0.0.0 47235645.xyz
 0.0.0.0 475d3ea23c.com
+0.0.0.0 477d95h3tj.com
 0.0.0.0 47b48d19d4.com
 0.0.0.0 47c7zhqak.com
 0.0.0.0 47f9jdixm7.com
@@ -1584,6 +1588,7 @@
 0.0.0.0 484l.com
 0.0.0.0 48583ed9cf.com
 0.0.0.0 4863232c.xyz
+0.0.0.0 487wlz7nbc.com
 0.0.0.0 48c5089fa7.com
 0.0.0.0 48cc0c0e07.com
 0.0.0.0 48dd51f81a.com
@@ -1976,6 +1981,7 @@
 0.0.0.0 5ntq14y5y.com
 0.0.0.0 5o8aj5nt.de
 0.0.0.0 5p35xkp1p.com
+0.0.0.0 5p478n58i9.com
 0.0.0.0 5pi13h3q.de
 0.0.0.0 5platforms.net
 0.0.0.0 5qnyx6k5w.com
@@ -2967,6 +2973,7 @@
 0.0.0.0 9mdg9cu59.com
 0.0.0.0 9mnmzh506.com
 0.0.0.0 9nl.eu
+0.0.0.0 9nvj3swk9l.com
 0.0.0.0 9nwplq7y2o.com
 0.0.0.0 9nzrfglryy.com
 0.0.0.0 9obmf866d.com
@@ -14578,6 +14585,7 @@
 0.0.0.0 bsgbd77l.de
 0.0.0.0 bsgefrduwiaxk.site
 0.0.0.0 bshare.cn
+0.0.0.0 bshhyxoy62.com
 0.0.0.0 bshrdr.com
 0.0.0.0 bsigxzskaybsw.website
 0.0.0.0 bsjgdn.supergoop.com
@@ -40356,6 +40364,7 @@
 0.0.0.0 ineemotbptecd.online
 0.0.0.0 inencr.woodhouseclothing.com
 0.0.0.0 ineoocqxztbzj.site
+0.0.0.0 inequation23.com
 0.0.0.0 inestimablereddencloset.com
 0.0.0.0 inetstats.org
 0.0.0.0 inexhaustiblenormcall.com
@@ -43591,6 +43600,7 @@
 0.0.0.0 jprutbffhyhgi.space
 0.0.0.0 jprzxoufuehde.space
 0.0.0.0 jptgtr.astellas.jp
+0.0.0.0 jptifzvqhanvha.com
 0.0.0.0 jptobh.network.com.tr
 0.0.0.0 jpush.cn
 0.0.0.0 jpush.html5.qq.com
@@ -55752,6 +55762,7 @@
 0.0.0.0 mzy2014.com
 0.0.0.0 mzykitcgblmwl.online
 0.0.0.0 mzypnfarkhqww.site
+0.0.0.0 mzzueflt.com
 0.0.0.0 mzzzpvllsjxpy.online
 0.0.0.0 n-analytics.io
 0.0.0.0 n-core-pipe.com
@@ -58015,6 +58026,7 @@
 0.0.0.0 o8u3n4q7fe.com
 0.0.0.0 o911o.com
 0.0.0.0 o9gvxuj9t6.com
+0.0.0.0 o9m5znv8ta.com
 0.0.0.0 o9qdqbu6nu.com
 0.0.0.0 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 oa-panther.data.aliyun.com
@@ -64625,6 +64637,7 @@
 0.0.0.0 q643s5wiiz.com
 0.0.0.0 q6iw41lkk.com
 0.0.0.0 q6zikgclq9.com
+0.0.0.0 q70t79hxor.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 q7vnwa1ma7.com
 0.0.0.0 q88z1s3.com
@@ -68256,6 +68269,7 @@
 0.0.0.0 rrbqvmoordsye.space
 0.0.0.0 rrbresheojhst.space
 0.0.0.0 rrbrmijkhpork.online
+0.0.0.0 rrd14g5o8n.com
 0.0.0.0 rrdtjj.top
 0.0.0.0 rretmobueggyz.site
 0.0.0.0 rrgiuy.jackroad.co.jp
@@ -87310,6 +87324,7 @@
 0.0.0.0 vfjoawcligjcs.online
 0.0.0.0 vfkwbnwrglemo.online
 0.0.0.0 vfmahn.slevomat.cz
+0.0.0.0 vfmlgaxxc4.com
 0.0.0.0 vfmqozdgawaii.website
 0.0.0.0 vfnq.cn
 0.0.0.0 vfo4.carrefour-banque.fr
@@ -90856,6 +90871,7 @@
 0.0.0.0 wrrqigpzmekcd.space
 0.0.0.0 wrrsaegzdhqou.site
 0.0.0.0 wrsfgbypbzesc.site
+0.0.0.0 wrsy5mdrj1.com
 0.0.0.0 wrufer.com
 0.0.0.0 wrugwj.bakerross.de
 0.0.0.0 wruixgttpajyx.online
