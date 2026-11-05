@@ -2,8 +2,8 @@
 
 多源合并去重生成的 AdGuard 拦截规则与 DNS 拦截清单，每日自动重新拉取来源、合并去重并推送更新。
 
-- 全格式广告过滤规则：**692538** 条（adguard_rules_merged.txt）
-- DNS 拦截域名：**579754** 个（dns_blocklist*.txt）
+- 全格式广告过滤规则：**786885** 条（adguard_rules_merged.txt）
+- DNS 拦截域名：**585530** 个（dns_blocklist*.txt）
 - 国内网络专用规则：**111882** 条 / **95881** 个域名（adguard_cn_rules.txt 等）
 
 ## 订阅地址（AdGuard / AdGuard Home 直接添加）
@@ -51,6 +51,11 @@
 | 隐私 | EasyPrivacy（国际隐私/跟踪） | 53693 | https://easylist-downloads.adblockplus.org/easyprivacy.txt |
 | 中文 | EasyList China（中文广告） | 17816 | https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt |
 | 中文 | 乘风广告过滤规则（CJX） | 1169 | https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt |
+| 广告 | AdGuard DNS filter（iOS 专用版） | 188674 | https://filters.adtidy.org/dns/filter_1_ios.txt |
+| 广告 | 217heidai AdBlock DNS（合并去重 DNS） | 241907 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt |
+| 中文 | 217heidai AdBlock DNS Lite（国内 DNS） | 8496 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt |
+| 广告 | 217heidai AdBlock Filter（全格式合并） | 102777 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt |
+| 中文 | 217heidai AdBlock Filter Lite（国内全格式） | 43044 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt |
 
 ## 说明
 

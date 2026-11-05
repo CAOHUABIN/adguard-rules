@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
-! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.5.1140
-! Last modified: 2026-11-05T11:40:14+07:00
+! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD + 217heidai Lite 的中文规则合集，每日自动更新。
+! Version: 2026.11.5.1955
+! Last modified: 2026-11-05T19:55:38+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !

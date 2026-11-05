@@ -20,6 +20,11 @@ SOURCES = [
     ("easyprivacy.txt",         "EasyPrivacy（国际隐私/跟踪）",               "https://easylist-downloads.adblockplus.org/easyprivacy.txt",  "隐私"),
     ("easylistchina.txt",       "EasyList China（中文广告）",                 "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt", "中文"),
     ("cjx_rule.txt",            "乘风广告过滤规则（CJX）",                    "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt", "中文"),
+    ("official_adguard_dns_ios.txt", "AdGuard DNS filter（iOS 专用版）",       "https://filters.adtidy.org/dns/filter_1_ios.txt",            "广告"),
+    ("heidai_dns.txt",          "217heidai AdBlock DNS（合并去重 DNS）",       "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt", "广告"),
+    ("heidai_dns_lite.txt",     "217heidai AdBlock DNS Lite（国内 DNS）",      "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt", "中文"),
+    ("heidai_filters.txt",      "217heidai AdBlock Filter（全格式合并）",      "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt", "广告"),
+    ("heidai_filters_lite.txt", "217heidai AdBlock Filter Lite（国内全格式）", "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt", "中文"),
 ]
 
 def is_comment(line):
