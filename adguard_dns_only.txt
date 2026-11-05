@@ -1,11 +1,15 @@
 [Adblock Plus 2.0]
-! Title: Doubao DNS 域名规则（从全格式规则提取）
+! Title: DNS 域名规则（从全格式规则提取）
 ! Description: 从全格式合并规则中提取的 DNS 级域名拦截规则（||域名^），每日自动更新。
-! Version: 2026.11.5.0725
-! Last modified: 2026-11-05T07:25:56+07:00
+! Version: 2026.11.5.1140
+! Last modified: 2026-11-05T11:40:13+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
 !
+# 说明: 仅含域名级规则，适用于 AdGuard Home / AdGuard DNS 过滤模式
+# 唯一域名数: 213132
+# 来源: 同 adguard_rules_merged.txt 的 12 个列表合并去重
+#
 100.pncdn.cn
 17u.cn
 37cs.com

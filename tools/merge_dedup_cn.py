@@ -60,7 +60,7 @@ def main():
     # ---------- 1) 国内 AdGuard 全格式规则 ----------
     header = []
     header.append("[Adblock Plus 2.0]")
-    header.append("! Title: Doubao 国内网络专用拦截规则（AdGuard 格式）")
+    header.append("! Title: 国内网络专用拦截规则（AdGuard 格式）")
     header.append("! Version: 2026-11-03")
     header.append("! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，")
     header.append("!       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。")
@@ -102,7 +102,7 @@ def main():
     # 纯域名
     out_plain = os.path.join(OUT, "dns_cn_blocklist.txt")
     with open(out_plain, "w", encoding="utf-8") as f:
-        f.write("# Title: Doubao 国内网络 DNS 拦截清单（纯域名）\n")
+        f.write("# Title: 国内网络 DNS 拦截域名清单（纯域名）\n")
         f.write("# 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq\n")
         f.write(f"# 唯一域名数: {total_domains}\n#\n")
         f.write("\n".join(domains) + "\n")
@@ -111,7 +111,7 @@ def main():
     # hosts 格式
     out_hosts = os.path.join(OUT, "dns_cn_blocklist_hosts.txt")
     with open(out_hosts, "w", encoding="utf-8") as f:
-        f.write("# Title: Doubao 国内网络 DNS 拦截清单（hosts 格式）\n")
+        f.write("# Title: 国内网络 DNS 拦截清单（hosts 格式）\n")
         f.write(f"# 唯一域名数: {total_domains}\n# 兼容 hosts / AdGuard Home hosts / Pi-hole\n#\n")
         for d in domains:
             f.write(f"0.0.0.0 {d}\n")
@@ -121,7 +121,7 @@ def main():
     out_ag_dns = os.path.join(OUT, "dns_cn_blocklist_adguard.txt")
     with open(out_ag_dns, "w", encoding="utf-8") as f:
         f.write("[Adblock Plus 2.0]\n")
-        f.write("! Title: Doubao 国内网络 DNS 拦截清单（AdGuard 格式）\n")
+        f.write("! Title: 国内网络 DNS 拦截清单（AdGuard 格式）\n")
         f.write(f"! 唯一域名数: {total_domains}\n")
         f.write("! 适用于 AdGuard / AdGuard Home DNS 过滤订阅\n!\n")
         for d in domains:
@@ -130,7 +130,7 @@ def main():
 
     # ---------- 3) 国内规则 Markdown 说明 ----------
     lines = []
-    lines.append("# 国内网络专用拦截规则（Doubao）")
+    lines.append("# 国内网络专用拦截规则")
     lines.append("")
     lines.append("专为**国内网络环境**整理的轻量拦截规则，聚焦国内站点广告与跟踪拦截，合并去重，不含国际全量列表。")
     lines.append("")

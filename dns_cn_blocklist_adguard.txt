@@ -1,10 +1,13 @@
 [Adblock Plus 2.0]
-! Title: Doubao 国内网络 DNS 拦截清单（AdGuard 格式）
+! Title: 国内网络 DNS 拦截清单（AdGuard 格式）
 ! Description: 国内专用 DNS 去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
-! Version: 2026.11.5.0725
-! Last modified: 2026-11-05T07:25:57+07:00
+! Version: 2026.11.5.1140
+! Last modified: 2026-11-05T11:40:14+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+!
+! 唯一域名数: 95881
+! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
 !
 ||0.myikas.com^
 ||0.net.easyjet.com^

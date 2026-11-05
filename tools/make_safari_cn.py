@@ -50,7 +50,7 @@ selected = items[:CAP]
 outp = os.path.join(OUT, "safari_cn_rules.txt")
 with open(outp, "w", encoding="utf-8") as f:
     f.write("[Adblock Plus 2.0]\n")
-    f.write("! Title: Doubao 国内网络 Safari 精简拦截规则（主机名版）\n")
+    f.write("! Title: 国内网络 Safari 精简拦截规则（主机名版）\n")
     f.write("! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法\n")
     f.write("! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD\n")
     f.write(f"! 覆盖域名: {len(selected)}/{total}（按来源收录数优先截取）\n!\n")

@@ -97,7 +97,7 @@ def main():
     # 1) 纯域名列表（一行一个，通用）
     out_plain = os.path.join(OUT, "dns_blocklist.txt")
     with open(out_plain, "w", encoding="utf-8") as f:
-        f.write("# Title: Doubao DNS 拦截清单（合并去重）\n")
+        f.write("# Title: DNS 拦截域名清单（纯域名）\n")
         f.write("# 说明: 一行一个域名，兼容 AdGuard Home 自定义过滤、Pi-hole、AdGuard DNS、dnsmasq 等\n")
         f.write(f"# 唯一域名数: {total}\n")
         f.write("# 来源:\n")
@@ -110,7 +110,7 @@ def main():
     # 2) hosts 格式（0.0.0.0 domain）
     out_hosts = os.path.join(OUT, "dns_blocklist_hosts.txt")
     with open(out_hosts, "w", encoding="utf-8") as f:
-        f.write("# Title: Doubao DNS 拦截清单（hosts 格式）\n")
+        f.write("# Title: DNS 拦截清单（hosts 格式）\n")
         f.write(f"# 唯一域名数: {total}\n")
         f.write("# 兼容 hosts 文件 / AdGuard Home hosts / Pi-hole（导入格式 hosts）\n#\n")
         for d in domains:
@@ -121,7 +121,7 @@ def main():
     out_ag = os.path.join(OUT, "dns_blocklist_adguard.txt")
     with open(out_ag, "w", encoding="utf-8") as f:
         f.write("[Adblock Plus 2.0]\n")
-        f.write("! Title: Doubao DNS 拦截清单（AdGuard 格式）\n")
+        f.write("! Title: DNS 拦截清单（AdGuard 格式）\n")
         f.write(f"! 唯一域名数: {total}\n")
         f.write("! 适用于 AdGuard / AdGuard Home DNS 过滤订阅\n!\n")
         for d in domains:

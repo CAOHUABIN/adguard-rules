@@ -61,7 +61,7 @@ def main():
                     break
 
     L = []
-    L.append("# Doubao AdGuard 拦截规则合集（自动更新）")
+    L.append("# AdGuard 拦截规则合集（每日自动更新）")
     L.append("")
     L.append("多源合并去重生成的 AdGuard 拦截规则与 DNS 拦截清单，每日自动重新拉取来源、合并去重并推送更新。")
     L.append("")

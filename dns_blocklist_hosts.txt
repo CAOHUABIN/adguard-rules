@@ -1,9 +1,12 @@
-# Title: Doubao DNS 拦截清单（hosts 格式）
+# Title: DNS 拦截清单（hosts 格式）
 # Description: 合并 AdGuard DNS filter + StevenBlack + HaGeZi Multi PRO + anti-AD + 1Hosts Lite 的去重 hosts 清单，每日自动更新。
-# Version: 2026.11.5.0725
-# Last modified: 2026-11-05T07:25:57+07:00
+# Version: 2026.11.5.1140
+# Last modified: 2026-11-05T11:40:14+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+#
+# 唯一域名数: 579754
+# 兼容 hosts 文件 / AdGuard Home hosts / Pi-hole（导入格式 hosts）
 #
 0.0.0.0 0--4.com
 0.0.0.0 0--d.com

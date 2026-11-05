@@ -57,7 +57,7 @@ def main():
     # ---------- 通用 AdGuard 规则文件（全格式） ----------
     header = []
     header.append("[Adblock Plus 2.0]")
-    header.append("! Title: Doubao AdGuard 合并去重规则（最全不重复）")
+    header.append("! Title: AdGuard 全格式拦截规则（合并去重）")
     header.append("! Version: 2026-10-31")
     header.append("! 说明: 由以下来源合并并精确去重生成，适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus 等")
     header.append("! ----------------------------------------------------------------------")
@@ -101,7 +101,7 @@ def main():
 
     out_dns = os.path.join(OUT, "adguard_dns_only.txt")
     with open(out_dns, "w", encoding="utf-8") as f:
-        f.write("# Title: Doubao AdGuard DNS 域名规则（合并去重）\n")
+        f.write("# Title: DNS 域名规则（从全格式规则提取）\n")
         f.write("# 说明: 仅含域名级规则，适用于 AdGuard Home / AdGuard DNS 过滤模式\n")
         f.write(f"# 唯一域名数: {len(domain_set)}\n")
         f.write("# 来源: 同 adguard_rules_merged.txt 的 12 个列表合并去重\n")
