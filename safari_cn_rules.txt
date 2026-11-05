@@ -4,7 +4,7 @@
 ! Version: 2026.11.5.1140
 ! Last modified: 2026-11-05T11:40:15+07:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD

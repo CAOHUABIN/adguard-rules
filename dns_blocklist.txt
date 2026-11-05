@@ -4,7 +4,7 @@
 ! Version: 2026.11.5.1140
 ! Last modified: 2026-11-05T11:40:13+07:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home 自定义过滤、Pi-hole、AdGuard DNS、dnsmasq 等
 # 唯一域名数: 579754

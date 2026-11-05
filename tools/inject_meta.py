@@ -11,7 +11,7 @@
 import sys, datetime, zoneinfo
 
 TZ = zoneinfo.ZoneInfo("Asia/Bangkok")
-REPO = "https://github.com/CAOHUABIN/doubao-adguard-rules"
+REPO = "https://github.com/CAOHUABIN/adguard-rules"
 
 KEYS = ("Title", "Description", "Version", "Last modified", "Expires", "Homepage")
 

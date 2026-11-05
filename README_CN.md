@@ -24,13 +24,13 @@
 
 | 用途 | 订阅地址 |
 |---|---|
-| 国内 DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_adguard.txt |
-| 国内 DNS 拦截（一行一个域名） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist.txt |
-| 国内 DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/dns_cn_blocklist_hosts.txt |
-| 国内全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/adguard_cn_rules.txt |
-| 国内 Safari 精简（iPhone/iPad AdGuard，约4.9万条） | https://cdn.jsdelivr.net/gh/CAOHUABIN/doubao-adguard-rules@main/safari_cn_rules.txt |
+| 国内 DNS 拦截（AdGuard `||域名^` 格式，推荐） | https://cdn.jsdelivr.net/gh/CAOHUABIN/adguard-rules@main/dns_cn_blocklist_adguard.txt |
+| 国内 DNS 拦截（一行一个域名） | https://cdn.jsdelivr.net/gh/CAOHUABIN/adguard-rules@main/dns_cn_blocklist.txt |
+| 国内 DNS 拦截（hosts 格式） | https://cdn.jsdelivr.net/gh/CAOHUABIN/adguard-rules@main/dns_cn_blocklist_hosts.txt |
+| 国内全格式广告过滤规则 | https://cdn.jsdelivr.net/gh/CAOHUABIN/adguard-rules@main/adguard_cn_rules.txt |
+| 国内 Safari 精简（iPhone/iPad AdGuard，约4.9万条） | https://cdn.jsdelivr.net/gh/CAOHUABIN/adguard-rules@main/safari_cn_rules.txt |
 
-> 海外/备用（GitHub raw）：`https://raw.githubusercontent.com/CAOHUABIN/doubao-adguard-rules/main/<文件名>`
+> 海外/备用（GitHub raw）：`https://raw.githubusercontent.com/CAOHUABIN/adguard-rules/main/<文件名>`
 
 ## 说明
 

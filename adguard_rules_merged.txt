@@ -4,7 +4,7 @@
 ! Version: 2026.11.5.1140
 ! Last modified: 2026-11-05T11:40:13+07:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 由以下来源合并并精确去重生成，适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus 等
 ! ----------------------------------------------------------------------

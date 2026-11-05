@@ -4,7 +4,7 @@
 ! Version: 2026.11.5.1140
 ! Last modified: 2026-11-05T11:40:14+07:00
 ! Expires: 1 day (update frequency)
-! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
