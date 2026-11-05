@@ -1,6 +1,9 @@
 # Title: Doubao 国内网络 DNS 拦截清单（hosts 格式）
-# 唯一域名数: 95881
-# 兼容 hosts / AdGuard Home hosts / Pi-hole
+# Description: 国内专用去重 hosts 清单，每日自动更新。
+# Version: 2026.11.5.0725
+# Last modified: 2026-11-05T07:25:58+07:00
+# Expires: 1 day (update frequency)
+# Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
 #
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com

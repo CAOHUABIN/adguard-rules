@@ -1,13 +1,11 @@
-# Title: Doubao DNS 拦截清单（合并去重）
-# 说明: 一行一个域名，兼容 AdGuard Home 自定义过滤、Pi-hole、AdGuard DNS、dnsmasq 等
-# 唯一域名数: 579754
-# 来源:
-#   - AdGuard 12列表提取的DNS域名（含 AdGuard DNS filter）（新增 212718）: 见 adguard_rules_merged.txt
-#   - StevenBlack hosts（广告+恶意软件）（新增 72116）: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-#   - HaGeZi Multi PRO（广告/跟踪/钓鱼/恶意）（新增 152342）: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-#   - anti-AD（中文广告+跟踪）（新增 8046）: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-#   - 1Hosts Lite（广告/跟踪/诈骗）（新增 134532）: https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-#
+[Adblock Plus 2.0]
+! Title: Doubao DNS 拦截域名清单（纯域名）
+! Description: 合并 AdGuard DNS filter + StevenBlack + HaGeZi Multi PRO + anti-AD + 1Hosts Lite 的去重域名清单，一行一个域名，每日自动更新。
+! Version: 2026.11.5.0725
+! Last modified: 2026-11-05T07:25:56+07:00
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
+!
 0--4.com
 0--d.com
 0--foodwarez.da.ru

@@ -1,7 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Doubao DNS 拦截清单（AdGuard 格式）
-! 唯一域名数: 579754
-! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
+! Description: 合并 AdGuard DNS filter + StevenBlack + HaGeZi Multi PRO + anti-AD + 1Hosts Lite 的去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
+! Version: 2026.11.5.0725
+! Last modified: 2026-11-05T07:25:57+07:00
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/CAOHUABIN/doubao-adguard-rules
 !
 ||0--4.com^
 ||0--d.com^
