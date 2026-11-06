@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.6.0411
-# Last modified: 2026-11-06T04:11:17+07:00
+# Version: 2026.11.7.0412
+# Last modified: 2026-11-07T04:12:17+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 96513
+# 唯一域名数: 96525
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -22,6 +22,7 @@
 0.0.0.0 00427011ae.com
 0.0.0.0 005ad66f1d.com
 0.0.0.0 00609c257b.com
+0.0.0.0 007bq3y7e5.com
 0.0.0.0 0082tv.net
 0.0.0.0 0086555.com
 0.0.0.0 009f45b51c.com
@@ -2221,6 +2222,7 @@
 0.0.0.0 6glece4homah8dweracea.com
 0.0.0.0 6grxxoqmpc.com
 0.0.0.0 6h6pdph56.com
+0.0.0.0 6htu6jje0l.com
 0.0.0.0 6iejd9pk0.com
 0.0.0.0 6ign0q6xb1.com
 0.0.0.0 6iiz8ni96v.com
@@ -2688,6 +2690,7 @@
 0.0.0.0 8f998710bd.com
 0.0.0.0 8fdmj67f5e.com
 0.0.0.0 8feichai.com
+0.0.0.0 8fjklyd4os.com
 0.0.0.0 8g2a7mifv.com
 0.0.0.0 8gl.com.cn
 0.0.0.0 8gptk28oag.com
@@ -23054,6 +23057,7 @@
 0.0.0.0 ddf.shumayin.com
 0.0.0.0 ddfcash.com
 0.0.0.0 ddfocqtbglcxt.website
+0.0.0.0 ddft5oqi7q.com
 0.0.0.0 ddgjjj.com
 0.0.0.0 ddhpwyarmgevw.online
 0.0.0.0 ddhrzfgnufzoz.online
@@ -24548,6 +24552,7 @@
 0.0.0.0 dkijbymomybjs.site
 0.0.0.0 dkjn1bal2.com
 0.0.0.0 dkjtppgsfoiqd.site
+0.0.0.0 dkkm83qokh.com
 0.0.0.0 dkkqqhonowers.site
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmvyl.kidsahoi.ch
@@ -31392,6 +31397,7 @@
 0.0.0.0 fiveplusthree.com
 0.0.0.0 fivesidedsquare.com
 0.0.0.0 fivstoinoedtu.online
+0.0.0.0 fivvdbnotgndfg.com
 0.0.0.0 fiwcuorvjpzmx.site
 0.0.0.0 fiwekmyzlnvjx.site
 0.0.0.0 fiwinet.firmenwissen.com
@@ -37050,6 +37056,7 @@
 0.0.0.0 henzhuan.com
 0.0.0.0 heoddikvdm.com
 0.0.0.0 hepaticft.com
+0.0.0.0 heptagon54.com
 0.0.0.0 heptix.net
 0.0.0.0 heqipjkwjhnnn.online
 0.0.0.0 heqsrpghksnlx.space
@@ -38869,6 +38876,7 @@
 0.0.0.0 i2ad.jp
 0.0.0.0 i2fxsez4f0.com
 0.0.0.0 i2i.jp
+0.0.0.0 i2jmbz5ec0.com
 0.0.0.0 i2t1zp6t2v.com
 0.0.0.0 i2ye9dnle.com
 0.0.0.0 i3.letvimg.com
@@ -63065,6 +63073,7 @@
 0.0.0.0 po.funshion.com
 0.0.0.0 po.ponant.com
 0.0.0.0 po18.in
+0.0.0.0 po1c0tw4b2.com
 0.0.0.0 po3x411qe3.com
 0.0.0.0 poavoabe.net
 0.0.0.0 pocfhggunmrpo.online
@@ -79519,6 +79528,7 @@
 0.0.0.0 techreviewtech.com
 0.0.0.0 techservices.trapptechnology.com
 0.0.0.0 techsupport.balluff.com
+0.0.0.0 tecraccimk.com
 0.0.0.0 tectrixsnavvle.com
 0.0.0.0 tecunonline.com
 0.0.0.0 teczbq.amicashop.com
@@ -87885,6 +87895,7 @@
 0.0.0.0 vfyfldhdthlin.space
 0.0.0.0 vfymgla.com
 0.0.0.0 vg247-uk.vg247.com
+0.0.0.0 vg3z87oecg.com
 0.0.0.0 vgavzy.spierandmackay.com
 0.0.0.0 vgazda.krefel.be
 0.0.0.0 vgbify.underarmour.de
@@ -89173,6 +89184,7 @@
 0.0.0.0 w00tmedia.net
 0.0.0.0 w010w.com.cn
 0.0.0.0 w07.xyz
+0.0.0.0 w0c42chjph.com
 0.0.0.0 w0kaf7jjg.com
 0.0.0.0 w0we.com
 0.0.0.0 w1.askwai.com

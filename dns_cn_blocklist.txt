@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.6.0411
-! Last modified: 2026-11-06T04:11:17+07:00
+! Version: 2026.11.7.0412
+! Last modified: 2026-11-07T04:12:17+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 96513
+# 唯一域名数: 96525
 #
 0.myikas.com
 0.net.easyjet.com
@@ -23,6 +23,7 @@
 00427011ae.com
 005ad66f1d.com
 00609c257b.com
+007bq3y7e5.com
 0082tv.net
 0086555.com
 009f45b51c.com
@@ -2222,6 +2223,7 @@
 6glece4homah8dweracea.com
 6grxxoqmpc.com
 6h6pdph56.com
+6htu6jje0l.com
 6iejd9pk0.com
 6ign0q6xb1.com
 6iiz8ni96v.com
@@ -2689,6 +2691,7 @@
 8f998710bd.com
 8fdmj67f5e.com
 8feichai.com
+8fjklyd4os.com
 8g2a7mifv.com
 8gl.com.cn
 8gptk28oag.com
@@ -23055,6 +23058,7 @@ dde.jishengjc.com
 ddf.shumayin.com
 ddfcash.com
 ddfocqtbglcxt.website
+ddft5oqi7q.com
 ddgjjj.com
 ddhpwyarmgevw.online
 ddhrzfgnufzoz.online
@@ -24549,6 +24553,7 @@ dkgp834o9n8xl.cloudfront.net
 dkijbymomybjs.site
 dkjn1bal2.com
 dkjtppgsfoiqd.site
+dkkm83qokh.com
 dkkqqhonowers.site
 dkm6b5q0h53z4.cloudfront.net
 dkmvyl.kidsahoi.ch
@@ -31393,6 +31398,7 @@ fiulemas.com
 fiveplusthree.com
 fivesidedsquare.com
 fivstoinoedtu.online
+fivvdbnotgndfg.com
 fiwcuorvjpzmx.site
 fiwekmyzlnvjx.site
 fiwinet.firmenwissen.com
@@ -37051,6 +37057,7 @@ hentoe.xyz
 henzhuan.com
 heoddikvdm.com
 hepaticft.com
+heptagon54.com
 heptix.net
 heqipjkwjhnnn.online
 heqsrpghksnlx.space
@@ -38870,6 +38877,7 @@ i27jhc4ut0.com
 i2ad.jp
 i2fxsez4f0.com
 i2i.jp
+i2jmbz5ec0.com
 i2t1zp6t2v.com
 i2ye9dnle.com
 i3.letvimg.com
@@ -63066,6 +63074,7 @@ pnzjebwvmqdxv.online
 po.funshion.com
 po.ponant.com
 po18.in
+po1c0tw4b2.com
 po3x411qe3.com
 poavoabe.net
 pocfhggunmrpo.online
@@ -79520,6 +79529,7 @@ techpump.com
 techreviewtech.com
 techservices.trapptechnology.com
 techsupport.balluff.com
+tecraccimk.com
 tectrixsnavvle.com
 tecunonline.com
 teczbq.amicashop.com
@@ -87886,6 +87896,7 @@ vfwpaocvysbpo.site
 vfyfldhdthlin.space
 vfymgla.com
 vg247-uk.vg247.com
+vg3z87oecg.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
 vgbify.underarmour.de
@@ -89174,6 +89185,7 @@ w0082.com
 w00tmedia.net
 w010w.com.cn
 w07.xyz
+w0c42chjph.com
 w0kaf7jjg.com
 w0we.com
 w1.askwai.com

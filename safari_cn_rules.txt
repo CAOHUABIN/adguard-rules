@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.6.0411
-! Last modified: 2026-11-06T04:11:17+07:00
+! Version: 2026.11.7.0412
+! Last modified: 2026-11-07T04:12:18+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/96384（按来源收录数优先截取）
+! 覆盖域名: 49000/96396（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -1708,7 +1708,6 @@
 ||dehua.ixinfan.com^
 ||dehudoz.com^
 ||deliver.ifeng.com^
-||delivery.playallvideos.com^
 ||delivery.wasu.cn^
 ||dependence39.com^
 ||derivative10.top^
@@ -4977,7 +4976,6 @@
 ||xdlipr.icu^
 ||xdnjqtn.com^
 ||xdxqw9nnr.com^
-||xdyjt.com^
 ||xeb3x4yj4t.com^
 ||xejaxlfypblfvg.com^
 ||xekrbwex7d.com^
@@ -5463,6 +5461,7 @@
 ||zzhizbzowrzlvy.com^
 ||zzuccikqt.com^
 ||002777.xyz^
+||007bq3y7e5.com^
 ||06f2egypr.com^
 ||1.15lu.com^
 ||1.201980.com^
@@ -5496,10 +5495,12 @@
 ||51.la^
 ||666579.xyz^
 ||666hh999gg.com^
+||6htu6jje0l.com^
 ||6ogiuks905.com^
 ||7011.stia.cn^
 ||776.jstatic.xyz^
 ||7d36a.com^
+||8fjklyd4os.com^
 ||8ybghd4zn.com^
 ||9867.org^
 ||98765.pw^
@@ -5615,10 +5616,12 @@
 ||daima.diaoben.net^
 ||daiwofei2019.top^
 ||data.waptime.cn^
+||ddft5oqi7q.com^
 ||df888.eastday.com^
 ||dfqzah.xyz^
 ||dhkqqe.top^
 ||dkaktsb.icu^
+||dkkm83qokh.com^
 ||dkweuy.com^
 ||dlads.cn^
 ||dm.cnbanbao.com^
@@ -5646,6 +5649,7 @@
 ||fc.3dmgame.com^
 ||fdluoxnn.com^
 ||files.xtpag.top^
+||fivvdbnotgndfg.com^
 ||flstudiochina.com^
 ||fpoyvjgdm.com^
 ||fsuooh.cc^
@@ -5659,6 +5663,7 @@
 ||guitarpro.cc^
 ||h1.azuimeh.top^
 ||hdc.maxli.cn^
+||heptagon54.com^
 ||hfisngksng.com^
 ||hfparjrmndbvta.com^
 ||hhba03201kdh.com^
@@ -5674,6 +5679,7 @@
 ||hubcloud.com.cn^
 ||huishenghuiying.com.cn^
 ||hz.shouyoutv.com^
+||i2jmbz5ec0.com^
 ||iads.xinmin.cn^
 ||iconworkshop.cn^
 ||icws.jb51.net^
@@ -5760,6 +5766,7 @@
 ||pdfexpert.cc^
 ||pic.fengniao.com^
 ||pixoctopus.pixnet.net^
+||po1c0tw4b2.com^
 ||puata.info^
 ||q1.yyxwzx.com^
 ||qbhsocu.com^
@@ -5799,6 +5806,7 @@
 ||t1.612.com^
 ||taboola.com^
 ||taobao.qq.com^
+||tecraccimk.com^
 ||telecome.cn^
 ||tf.360.cn^
 ||theweeklydonut.org^
@@ -5824,8 +5832,10 @@
 ||vegaschina.cn^
 ||vernaellac.com^
 ||vfie3ximi3elx4uw.cfd^
+||vg3z87oecg.com^
 ||vv1.pyhfxdm.cn^
 ||w.xiaopiaoyou.com^
+||w0c42chjph.com^
 ||wap.qqbiquge.net^
 ||wap001.bytravel.cn^
 ||wdziitkl.com^
@@ -27370,6 +27380,7 @@
 ||delivery.lululemon.com^
 ||delivery.marketing.boutiqaat.com^
 ||delivery.momentummedia.com.au^
+||delivery.playallvideos.com^
 ||delivery.porn.com^
 ||delivery.pryzmads.com^
 ||deliveryinterference.com^
@@ -48999,14 +49010,3 @@
 ||landing.madridista-free.realmadrid.com^
 ||landing.newyorkjets.com^
 ||landing.wolterskluwer.hu^
-||landingneglected.com^
-||landingpage.emaillpb.adobe.com^
-||landingpages.csustudycentres.edu.au^
-||landingpages.siemens-healthineers.com^
-||landingpg.com^
-||landings.omegacrmconsulting.com^
-||landkarts.com^
-||landlordspy.com^
-||landmantinaja.com^
-||landonirwin.com^
-||landscaperedressave.com^
