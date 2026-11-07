@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.7.0412
-! Last modified: 2026-11-07T04:12:18+07:00
+! Version: 2026.11.8.0410
+! Last modified: 2026-11-08T04:10:59+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/96396（按来源收录数优先截取）
+! 覆盖域名: 49000/96408（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -6421,6 +6421,7 @@
 ||1o26.com^
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||1odi7j43c.de^
+||1okxxe67d.com^
 ||1osb.com^
 ||1p8ln1dtr.de^
 ||1pel.com^
@@ -6548,6 +6549,7 @@
 ||234y.com^
 ||235123.net^
 ||2398.pw^
+||23civw6cl.com^
 ||23hssicm9.de^
 ||23l1b.cn^
 ||24-sportnews.com^
@@ -7077,6 +7079,7 @@
 ||4a75c45821.com^
 ||4ac38e317e.com^
 ||4ad4ba0610.com^
+||4ad9bqnjb.com^
 ||4affiliate.net^
 ||4armn.com^
 ||4au.htf16a.cn^
@@ -7105,6 +7108,7 @@
 ||4g0b1inr.de^
 ||4gf.9tkl2d.cn^
 ||4h44.com^
+||4hfm8gfow.com^
 ||4jaehnfqizyx.controlconceptsusa.com^
 ||4jnzhl0d0.com^
 ||4link.it^
@@ -23496,6 +23500,7 @@
 ||cortellisconnections.thomsonreuters.com^
 ||corveesferrums.com^
 ||coryphstoma.com^
+||cosecant36.com^
 ||cosedcost.com^
 ||cosetengarb.com^
 ||cosme.caseepo.jp^
@@ -39599,6 +39604,7 @@
 ||h12-media.com^
 ||h2.18sd.cn^
 ||h2.msn.com^
+||h2m1op6zw.com^
 ||h2sry.site^
 ||h2tcbox.baidu.com^
 ||h353.ncadvertiser.com^
@@ -39908,6 +39914,7 @@
 ||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hb.yahoo.net^
+||hb287nh0w.com^
 ||hb94dnbe.de^
 ||hbaazk.bukalapak.com^
 ||hbahrd.yogibo.jp^
@@ -41925,6 +41932,7 @@
 ||i2ad.jp^
 ||i2i.jp^
 ||i3.letvimg.com^
+||i3594uli4.com^
 ||i36mf.cn^
 ||i3z.cn^
 ||i4.fuimg.com^
@@ -49002,11 +49010,3 @@
 ||landing.clubcar.com^
 ||landing.computershare.com^
 ||landing.e.columbuscrew.com^
-||landing.georgeson.com^
-||landing.kccllc.com^
-||landing.kwm.com^
-||landing.lgensol.com^
-||landing.lp.eurobet.it^
-||landing.madridista-free.realmadrid.com^
-||landing.newyorkjets.com^
-||landing.wolterskluwer.hu^

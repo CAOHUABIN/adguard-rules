@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.7.0412
-! Last modified: 2026-11-07T04:12:17+07:00
+! Version: 2026.11.8.0410
+! Last modified: 2026-11-08T04:10:58+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
@@ -10,10 +10,10 @@
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
 !   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20052 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (16989 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文] EasyList China（EasyList 国内补充） (17001 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96292 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 112455
+! 合并去重后唯一规则总数: 112467
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -11784,6 +11784,7 @@ zzzyk.com###Tinfo
 ||1o26.com^
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||1odi7j43c.de^
+||1okxxe67d.com^
 ||1osb.com^
 ||1ovzgs15u.com^
 ||1p5j4qb3zc.com^
@@ -11994,6 +11995,7 @@ zzzyk.com###Tinfo
 ||239300.net/template/*_mh_gg
 ||2398.pw^
 ||23bei.com/static/plugins/layer/layer.
+||23civw6cl.com^
 ||23cox7hu4.com^
 ||23dx6xe42.com^
 ||23hssicm9.de^
@@ -12846,6 +12848,7 @@ zzzyk.com###Tinfo
 ||4a75c45821.com^
 ||4ac38e317e.com^
 ||4ad4ba0610.com^
+||4ad9bqnjb.com^
 ||4affiliate.net^
 ||4armn.com^
 ||4au.htf16a.cn^
@@ -12891,6 +12894,7 @@ zzzyk.com###Tinfo
 ||4h44.com^
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
+||4hfm8gfow.com^
 ||4hw.com.cn/js/common.js
 ||4i2q0y9wv.com^
 ||4ikj2pbeqb.com^
@@ -31804,6 +31808,7 @@ zzzyk.com###Tinfo
 ||corveesferrums.com^
 ||coryphstoma.com^
 ||cos1999.top^
+||cosecant36.com^
 ||cosedcost.com^
 ||cosetengarb.com^
 ||cosiskkm.com^
@@ -49529,6 +49534,7 @@ zzzyk.com###Tinfo
 ||h2.18sd.cn^
 ||h2.msn.com^
 ||h27aq0mc6.com^
+||h2m1op6zw.com^
 ||h2sry.site^
 ||h2tcbox.baidu.com^
 ||h32rbpk7ne.com^
@@ -49926,6 +49932,7 @@ zzzyk.com###Tinfo
 ||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hb.yahoo.net^
+||hb287nh0w.com^
 ||hb94dnbe.de^
 ||hbaazk.bukalapak.com^
 ||hbahrd.yogibo.jp^
@@ -52258,6 +52265,7 @@ zzzyk.com###Tinfo
 ||i2ye9dnle.com^
 ||i3.letvimg.com^
 ||i322.com/ad_avshow/
+||i3594uli4.com^
 ||i36mf.cn^
 ||i3j6h7j9cj.com^
 ||i3l7wf.com^
@@ -68713,6 +68721,7 @@ zzzyk.com###Tinfo
 ||mjmobi.com^
 ||mjmramjfgqmcr.online^
 ||mjnpya.marktplaats.nl^
+||mjpauup21.com^
 ||mjpwanvakwyslm.com^
 ||mjramgmogoewx.site^
 ||mjriazemzybdg.online^
@@ -78863,6 +78872,7 @@ zzzyk.com###Tinfo
 ||ps.haohaowan8.com^
 ||ps.pmu.fr^
 ||ps123.net/MyFile/
+||ps2nsp6nz.com^
 ||psa1xoeve.com^
 ||psaltauw.net^
 ||psaqzhkc.xyz^
@@ -79877,6 +79887,7 @@ zzzyk.com###Tinfo
 ||qdcode.com^
 ||qdcqpfhcnzzwe.space^
 ||qddlm.com^
+||qde87pge0.com^
 ||qdemrnocqeadj.site^
 ||qdgscaydqhmib.space^
 ||qdgyxhbasgytt.online^
@@ -107159,6 +107170,7 @@ zzzyk.com###Tinfo
 ||wundercounter.com^
 ||wunderloop.net^
 ||wuofkjhdaowoq.space^
+||wuos2fhox.com^
 ||wup-185a61e7.bendigobank.com.au^
 ||wup-2ffe60ee.westpac.com.au^
 ||wuporg.com^
