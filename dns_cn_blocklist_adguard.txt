@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截清单（AdGuard 格式）
 ! Description: 国内专用 DNS 去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
-! Version: 2026.11.8.1310
-! Last modified: 2026-11-08T13:10:54+07:00
+! Version: 2026.11.9.0411
+! Last modified: 2026-11-09T04:11:13+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
-! 唯一域名数: 97138
+! 唯一域名数: 97140
 ! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
 !
 ||0.myikas.com^
@@ -27742,6 +27742,7 @@
 ||edwmpt.com^
 ||edxokpyyqycra.space^
 ||edxwcxnfpukze.site^
+||edyr2ip7zg.com^
 ||edzvubkgsokfg.online^
 ||ee.0pi84.cn^
 ||ee.2v0ni.cn^
@@ -39481,6 +39482,7 @@
 ||if.yyjsbz.cn^
 ||ifacelog.iqiyi.com^
 ||ifactz.com^
+||ifawj9hvvl.com^
 ||ifb33zuqc.com^
 ||ifc58.com^
 ||ifcartbwtzzwb.online^

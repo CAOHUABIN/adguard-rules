@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.8.1310
-# Last modified: 2026-11-08T13:10:54+07:00
+# Version: 2026.11.9.0411
+# Last modified: 2026-11-09T04:11:13+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 97138
+# 唯一域名数: 97140
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -27741,6 +27741,7 @@
 0.0.0.0 edwmpt.com
 0.0.0.0 edxokpyyqycra.space
 0.0.0.0 edxwcxnfpukze.site
+0.0.0.0 edyr2ip7zg.com
 0.0.0.0 edzvubkgsokfg.online
 0.0.0.0 ee.0pi84.cn
 0.0.0.0 ee.2v0ni.cn
@@ -39480,6 +39481,7 @@
 0.0.0.0 if.yyjsbz.cn
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 ifactz.com
+0.0.0.0 ifawj9hvvl.com
 0.0.0.0 ifb33zuqc.com
 0.0.0.0 ifc58.com
 0.0.0.0 ifcartbwtzzwb.online
