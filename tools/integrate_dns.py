@@ -13,7 +13,12 @@ DNS_SOURCES = [
     ("dns_hagezi_pro.txt",      "HaGeZi Multi PRO（广告/跟踪/钓鱼/恶意）",         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"),
     ("dns_antiad.txt",          "anti-AD（中文广告+跟踪）",                        "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"),
     ("dns_1hosts_lite.txt",     "1Hosts Lite（广告/跟踪/诈骗）",                   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt"),
+    ("hagezi_tiktok.txt",       "HaGeZi TikTok Extended（仅保留 log/mcs/mon/ads 追踪端点，剔除 frontier CDN）", "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt"),
 ]
+
+# 这些前缀的域名是 TikTok 视频/Feed CDN 边缘节点，拦了会刷不出视频，必须跳过
+Tiktok_SKIP_PREFIXES = ("frontier",)
+Tiktok_SKIP_EXACT = {"h4g3z1-native-tiktok-extended.web.app"}
 
 # 跳过这些保留名/IP
 SKIP = {"localhost", "localhost.localdomain", "local", "broadcasthost", "ip6-localhost",
@@ -79,7 +84,26 @@ def main():
             print(f"[跳过] 缺失: {fname}")
             continue
         before = len(all_domains)
-        if fname in ("dns_stevenblack.txt", "dns_1hosts_lite.txt", "adguard_dns_only.txt"):
+        if fname == "hagezi_tiktok.txt":
+            # 专门处理：adblock 格式 + 剔除 frontier* CDN 节点和 hagezi 自家测试域名
+            with open(path, "r", encoding="utf-8", errors="replace") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("!") or line.startswith("#") or line.startswith("[Adblock"):
+                        continue
+                    if not line.startswith("||"):
+                        continue
+                    m = ADP_DOMAIN.match(line)
+                    if not m:
+                        continue
+                    d = clean(m.group(1))
+                    if d in SKIP or d in Tiktok_SKIP_EXACT:
+                        continue
+                    if any(d.startswith(p) for p in Tiktok_SKIP_PREFIXES):
+                        continue
+                    all_domains.add(d)
+            n = len(all_domains) - before
+        elif fname in ("dns_stevenblack.txt", "dns_1hosts_lite.txt", "adguard_dns_only.txt"):
             n = extract_from_hosts(path, all_domains)
             # adguard_dns_only 可能含 adblock 行，也走 adblock 提取补充
             if fname == "adguard_dns_only.txt":
