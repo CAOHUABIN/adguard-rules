@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.9.0411
-! Last modified: 2026-11-09T04:11:13+07:00
+! Version: 2026.11.10.0411
+! Last modified: 2026-11-10T04:11:10+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/97011（按来源收录数优先截取）
+! 覆盖域名: 49000/97021（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5537,6 +5537,8 @@
 ||7d36a.com^
 ||9867.org^
 ||98765.pw^
+||9bialak0c.com^
+||9wkvbvm90.com^
 ||a.10tianqi.com^
 ||a.52wubi.com^
 ||a.777n.com^
@@ -5638,6 +5640,7 @@
 ||cpro.baidustatic.com^
 ||cpro.xixiliya.cn^
 ||css.juqingba.cn^
+||cvpovse.com^
 ||cxgfq.pinlue.com^
 ||d.ab126.com^
 ||d.win10com.com^
@@ -5665,6 +5668,7 @@
 ||drawers06.com^
 ||drlagqnl.com^
 ||drmcmm.baidu.com^
+||du9kcdusj.com^
 ||duiwai.baidu.com^
 ||dup.baidustatic.com^
 ||dwyeuy.com^
@@ -5679,6 +5683,7 @@
 ||fancydsp.com^
 ||farm-cn.plista.com^
 ||fc.3dmgame.com^
+||fddmimp37.com^
 ||fdluoxnn.com^
 ||files.xtpag.top^
 ||flstudiochina.com^
@@ -5695,6 +5700,7 @@
 ||guitarpro.cc^
 ||h1.azuimeh.top^
 ||hdc.maxli.cn^
+||hejdlnmicpblpm.com^
 ||hfisngksng.com^
 ||hhba03201kdh.com^
 ||hhba03210kdh.com^
@@ -5708,6 +5714,7 @@
 ||hsehk.cn^
 ||hubcloud.com.cn^
 ||huishenghuiying.com.cn^
+||hxuxv7vx0.com^
 ||hz.shouyoutv.com^
 ||iads.xinmin.cn^
 ||iconworkshop.cn^
@@ -5755,6 +5762,7 @@
 ||krbulhb.com^
 ||kstj.baidu.com^
 ||kukanmanhua.cyou^
+||kusjw4wqj.com^
 ||lafacw.xyz^
 ||lh1dki82.com^
 ||ll.gxsky.com^
@@ -5769,6 +5777,7 @@
 ||makeding.com^
 ||market.178.com^
 ||mathtype.cn^
+||mbfo10wjf.com^
 ||mediav.com^
 ||meijxqop.com^
 ||mernrza.com^
@@ -5851,6 +5860,7 @@
 ||ubmcvideo.baidustatic.com^
 ||ue8im.com^
 ||un.ubaike.cn^
+||undersurface08.com^
 ||uu1.3gu.com^
 ||v1.kwpewga.cn^
 ||v1.taksh.cn^
@@ -49000,13 +49010,3 @@
 ||kxxyhjamtwozu.space^
 ||kxysrmpkrvekx.site^
 ||kyad88.com^
-||kycgrnuxacgcn.site^
-||kydasvsuegixi.website^
-||kydcwp.landwirt.com^
-||kydertwsgqqkw.online^
-||kyfumulus.com^
-||kygelf.ludwig-von-kapff.de^
-||kyggpktctzozd.space^
-||kyhmzwonysozy.site^
-||kyigqvraimsly.space^
-||kyiustxgrkvkt.website^

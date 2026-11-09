@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.9.0411
-! Last modified: 2026-11-09T04:11:13+07:00
+! Version: 2026.11.10.0411
+! Last modified: 2026-11-10T04:11:09+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20075 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17012 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20086 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17022 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96920 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 113070
+! 合并去重后唯一规则总数: 113081
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -14455,6 +14455,7 @@ zzzyk.com###Tinfo
 ||9b55.pandasuite.io^
 ||9bce82ca1a.com^
 ||9bdb.pandasuite.io^
+||9bialak0c.com^
 ||9c69fe7c20.com^
 ||9c6d95b6b3.com^
 ||9c867e2056.com^
@@ -14566,6 +14567,7 @@ zzzyk.com###Tinfo
 ||9wad.com^
 ||9wcn.com/gcld/500.gif
 ||9wdjf9va.xyz^
+||9wkvbvm90.com^
 ||9wushuo.com^
 ||9xeqynu3gt7c.com^
 ||9xob25oszs.com^
@@ -33128,6 +33130,7 @@ zzzyk.com###Tinfo
 ||cvoyrn.astotel.com^
 ||cvpdkmzxvnzng.online^
 ||cvpl9qbz6.com^
+||cvpovse.com^
 ||cvpthv.vipoutlet.com^
 ||cvqfwzrnkvtun.website^
 ||cvqpuusbccduh.online^
@@ -38861,6 +38864,7 @@ zzzyk.com###Tinfo
 ||du2uh7rq0r0d3.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du99h8anpnevg.cloudfront.net^
+||du9kcdusj.com^
 ||duafznjfjcpdt.space^
 ||dualping.com^
 ||dualstack-logs.amap.com^
@@ -43850,6 +43854,7 @@ zzzyk.com###Tinfo
 ||fdc.my0511.com^$script
 ||fdcfbvikm.com^
 ||fdd.tianhuafund.cn^
+||fddmimp37.com^
 ||fdetolgput.com^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
@@ -50441,6 +50446,7 @@ zzzyk.com###Tinfo
 ||heiye.cc/js/hei
 ||heiye.cc/js/xuanfu.js
 ||hej.henriksommerfeld.se^
+||hejdlnmicpblpm.com^
 ||hekhnn.turnkeyvr.com^
 ||hekowutus.com^
 ||heky0uxng.com^
@@ -52273,6 +52279,7 @@ zzzyk.com###Tinfo
 ||hxuaodojgvxbt.website^
 ||hxugfgodnrlkm.space^
 ||hxuquhggjucll.online^
+||hxuxv7vx0.com^
 ||hxyzkpzzbzekl.site^
 ||hy-cn.cn^
 ||hy-partners.com^
@@ -60161,6 +60168,7 @@ zzzyk.com###Tinfo
 ||kurpjriycgiff.site^
 ||kurtasdemarch.com^
 ||kushou.com^
+||kusjw4wqj.com^
 ||kuusay.yalispor.com.tr^
 ||kuvirixa.com^
 ||kuvpapzeapdv.com^
@@ -67553,6 +67561,7 @@ zzzyk.com###Tinfo
 ||mbdlog.iqiyi.com^
 ||mbelia.underarmour.co.uk^
 ||mbeoxt.perfumesclub.pt^
+||mbfo10wjf.com^
 ||mbgrgkhawfpyo.website^
 ||mbhgnrcwhnatt.online^
 ||mbid.marfeelrev.com^
@@ -92899,6 +92908,7 @@ zzzyk.com###Tinfo
 ||sud.holidayinsider.com^
 ||sud.holidays.hrs.de^
 ||sudon.afefw.com^
+||sudugu.cc/scripts/yuedu.js
 ||sudugu.com/config/v7.js
 ||sudupan.com^*.gif
 ||suedai.com^
@@ -101700,6 +101710,7 @@ zzzyk.com###Tinfo
 ||understandwaspish.com^
 ||understatedplace.com^
 ||understoodocean.com^
+||undersurface08.com^
 ||undertone.com^
 ||undertow52.top^
 ||undertow88.com^
