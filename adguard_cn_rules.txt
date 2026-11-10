@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.10.0411
-! Last modified: 2026-11-10T04:11:09+07:00
+! Version: 2026.11.11.0413
+! Last modified: 2026-11-11T04:13:18+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20086 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17022 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20101 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17037 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96920 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 113081
+! 合并去重后唯一规则总数: 113096
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -11409,6 +11409,7 @@ zzzyk.com###Tinfo
 ||1357902.cn^
 ||136ckqmwc.com^
 ||13728c1810.com^
+||137ioe2krr.com^
 ||137kfj65k.de^
 ||13874bb1da.com^
 ||138d525093.com^
@@ -13310,6 +13311,7 @@ zzzyk.com###Tinfo
 ||5hdz1gnue.com^
 ||5hebtbbgbo.com^
 ||5hffr1p22j.com^
+||5hi8d6076.com^
 ||5ho41ueq7w.com^
 ||5hu7hee0pt.com^
 ||5icim50.de^
@@ -14121,6 +14123,7 @@ zzzyk.com###Tinfo
 ||8b317a773b.com^
 ||8b81ffcb90.com^
 ||8bq898.73miqb.cn^
+||8c2sxamc6w.com^
 ||8c56c86ead.com^
 ||8c66b76e9b.com^
 ||8c6fac8fda.com^
@@ -14531,6 +14534,7 @@ zzzyk.com###Tinfo
 ||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
+||9o2r9h0ket.com^
 ||9obmf866d.com^
 ||9oxhstb2m2.com^
 ||9p81m19kr.com^
@@ -60120,6 +60124,7 @@ zzzyk.com###Tinfo
 ||kudxyhdiidlxa.online^
 ||kuebyeaqklsre.online^
 ||kueezrtb.com^
+||kuerlefc.com^
 ||kuffobduumzwl.space^
 ||kufvqdstaemar.site^
 ||kugeshuffle.com^
@@ -60955,6 +60960,7 @@ zzzyk.com###Tinfo
 ||ld.za9mnx.com^
 ||ld0766.com/*20*a/
 ||ld1qwww3kj.com^
+||ld7v2xm6ti.com^
 ||ldaqsvgwamnwi.com^
 ||ldb.cc/js/top.js
 ||ldckmk.divarese.com.tr^
@@ -64056,6 +64062,7 @@ zzzyk.com###Tinfo
 ||lvjczzaojopzc.website^
 ||lvjquuyugqirb.space^
 ||lvksiviwpenew.website^
+||lvnqnjiocnfvvk.com^
 ||lvpktwenaifrf.site^
 ||lvsats.gardner-white.com^
 ||lvse.cn/output/block/html/
@@ -65418,6 +65425,7 @@ zzzyk.com###Tinfo
 ||m6r.eu^
 ||m78vxjm35d.com^
 ||m7hkvwwl.xyz^
+||m7xud9jqpu.com^
 ||m81mfege2.com^
 ||m8h5qjmlb3.com^
 ||m8qk101065.com^
@@ -81642,6 +81650,7 @@ zzzyk.com###Tinfo
 ||r0d2dzltw7.com^
 ||r1.mail.ru^
 ||r1jprcr42.com^
+||r1owcxiy50.com^
 ||r1ztni.oui.sncf^
 ||r2.tschewang.com^
 ||r27y52dd7.com^
@@ -84899,6 +84908,7 @@ zzzyk.com###Tinfo
 ||s3bltexcm.com^
 ||s3d4.cn^
 ||s3g6.com^
+||s3kokfksap.com^
 ||s3m.milkjpg.com^
 ||s3network1.com^
 ||s3r.zerkalo.io^
@@ -89186,6 +89196,7 @@ zzzyk.com###Tinfo
 ||solucx.com.br^
 ||solution.agc-chemicals.com^
 ||solution.resonac.com^
+||solution97.com^
 ||solutionbiologyisle.com^
 ||solutions.a-1freeman.com^
 ||solutions.aampglobal.com^
@@ -96226,6 +96237,7 @@ zzzyk.com###Tinfo
 ||tjgeagvhlpxru.site^
 ||tjgssn.com^
 ||tjhhr.com^
+||tjhi6gplu.com^
 ||tjhuajiantang.com^
 ||tjitde.dodo.it^
 ||tjiyavxmtihln.space^
@@ -104395,6 +104407,7 @@ zzzyk.com###Tinfo
 ||vlgtgjpcgoiqa.online^
 ||vlhdwxtvqvqvi.site^
 ||vlhpssfra.com^
+||vlifpif.com^
 ||vlion.cn^
 ||vlion.cn^$3p
 ||vlion.cn^$third-party
@@ -104902,6 +104915,7 @@ zzzyk.com###Tinfo
 ||vukgifjbxdeml.space^
 ||vukifrwnczdwk.online^
 ||vukqsoyedcbzg.website^
+||vul4a3k0kt.com^
 ||vulgateemptily.com^
 ||vulnerablecognomen.com^
 ||vulnerableimmigrateaboveaverage.com^
@@ -112866,6 +112880,7 @@ zzzyk.com###Tinfo
 ||zvypqoedujvod.website^
 ||zvyukviiirywi.space^
 ||zvzpopazdasxh.website^
+||zw17ig1gnw.com^
 ||zwaar.net^
 ||zwaar.org^
 ||zwatgf.megaknihy.cz^

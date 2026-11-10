@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.10.0411
-# Last modified: 2026-11-10T04:11:10+07:00
+# Version: 2026.11.11.0413
+# Last modified: 2026-11-11T04:13:19+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 97150
+# 唯一域名数: 97165
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -465,6 +465,7 @@
 0.0.0.0 1357902.cn
 0.0.0.0 136ckqmwc.com
 0.0.0.0 13728c1810.com
+0.0.0.0 137ioe2krr.com
 0.0.0.0 137kfj65k.de
 0.0.0.0 13874bb1da.com
 0.0.0.0 138d525093.com
@@ -1973,6 +1974,7 @@
 0.0.0.0 5hdz1gnue.com
 0.0.0.0 5hebtbbgbo.com
 0.0.0.0 5hffr1p22j.com
+0.0.0.0 5hi8d6076.com
 0.0.0.0 5ho41ueq7w.com
 0.0.0.0 5hte21mz.com
 0.0.0.0 5hu7hee0pt.com
@@ -2677,6 +2679,7 @@
 0.0.0.0 8b317a773b.com
 0.0.0.0 8b81ffcb90.com
 0.0.0.0 8bq898.73miqb.cn
+0.0.0.0 8c2sxamc6w.com
 0.0.0.0 8c56c86ead.com
 0.0.0.0 8c66b76e9b.com
 0.0.0.0 8c6fac8fda.com
@@ -3006,6 +3009,7 @@
 0.0.0.0 9nvj3swk9l.com
 0.0.0.0 9nwplq7y2o.com
 0.0.0.0 9nzrfglryy.com
+0.0.0.0 9o2r9h0ket.com
 0.0.0.0 9obmf866d.com
 0.0.0.0 9oxhstb2m2.com
 0.0.0.0 9p81m19kr.com
@@ -46209,6 +46213,7 @@
 0.0.0.0 kudxyhdiidlxa.online
 0.0.0.0 kuebyeaqklsre.online
 0.0.0.0 kueezrtb.com
+0.0.0.0 kuerlefc.com
 0.0.0.0 kuffobduumzwl.space
 0.0.0.0 kufvqdstaemar.site
 0.0.0.0 kugeshuffle.com
@@ -47000,6 +47005,7 @@
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
 0.0.0.0 ld1qwww3kj.com
+0.0.0.0 ld7v2xm6ti.com
 0.0.0.0 ldaqsvgwamnwi.com
 0.0.0.0 ldckmk.divarese.com.tr
 0.0.0.0 lddt.de
@@ -49993,6 +49999,7 @@
 0.0.0.0 lvjczzaojopzc.website
 0.0.0.0 lvjquuyugqirb.space
 0.0.0.0 lvksiviwpenew.website
+0.0.0.0 lvnqnjiocnfvvk.com
 0.0.0.0 lvpktwenaifrf.site
 0.0.0.0 lvsats.gardner-white.com
 0.0.0.0 lvtezhupqcvtq.site
@@ -51294,6 +51301,7 @@
 0.0.0.0 m6r.eu
 0.0.0.0 m78vxjm35d.com
 0.0.0.0 m7hkvwwl.xyz
+0.0.0.0 m7xud9jqpu.com
 0.0.0.0 m81mfege2.com
 0.0.0.0 m8h5qjmlb3.com
 0.0.0.0 m8qk101065.com
@@ -66887,6 +66895,7 @@
 0.0.0.0 r0d2dzltw7.com
 0.0.0.0 r1.mail.ru
 0.0.0.0 r1jprcr42.com
+0.0.0.0 r1owcxiy50.com
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r2.tschewang.com
 0.0.0.0 r27y52dd7.com
@@ -70054,6 +70063,7 @@
 0.0.0.0 s3bltexcm.com
 0.0.0.0 s3d4.cn
 0.0.0.0 s3g6.com
+0.0.0.0 s3kokfksap.com
 0.0.0.0 s3m.milkjpg.com
 0.0.0.0 s3network1.com
 0.0.0.0 s3r.zerkalo.io
@@ -74147,6 +74157,7 @@
 0.0.0.0 solucx.com.br
 0.0.0.0 solution.agc-chemicals.com
 0.0.0.0 solution.resonac.com
+0.0.0.0 solution97.com
 0.0.0.0 solutionbiologyisle.com
 0.0.0.0 solutions.a-1freeman.com
 0.0.0.0 solutions.aampglobal.com
@@ -80983,6 +80994,7 @@
 0.0.0.0 tjgeagvhlpxru.site
 0.0.0.0 tjgssn.com
 0.0.0.0 tjhhr.com
+0.0.0.0 tjhi6gplu.com
 0.0.0.0 tjhuajiantang.com
 0.0.0.0 tjitde.dodo.it
 0.0.0.0 tjiyavxmtihln.space
@@ -88979,6 +88991,7 @@
 0.0.0.0 vlgtgjpcgoiqa.online
 0.0.0.0 vlhdwxtvqvqvi.site
 0.0.0.0 vlhpssfra.com
+0.0.0.0 vlifpif.com
 0.0.0.0 vlion.cn
 0.0.0.0 vlitag.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
@@ -89470,6 +89483,7 @@
 0.0.0.0 vukgifjbxdeml.space
 0.0.0.0 vukifrwnczdwk.online
 0.0.0.0 vukqsoyedcbzg.website
+0.0.0.0 vul4a3k0kt.com
 0.0.0.0 vulgateemptily.com
 0.0.0.0 vulnerablecognomen.com
 0.0.0.0 vulnerableimmigrateaboveaverage.com
@@ -96967,6 +96981,7 @@
 0.0.0.0 zvypqoedujvod.website
 0.0.0.0 zvyukviiirywi.space
 0.0.0.0 zvzpopazdasxh.website
+0.0.0.0 zw17ig1gnw.com
 0.0.0.0 zwaar.net
 0.0.0.0 zwaar.org
 0.0.0.0 zwatgf.megaknihy.cz

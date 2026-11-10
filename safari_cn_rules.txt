@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.10.0411
-! Last modified: 2026-11-10T04:11:10+07:00
+! Version: 2026.11.11.0413
+! Last modified: 2026-11-11T04:13:19+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/97021（按来源收录数优先截取）
+! 覆盖域名: 49000/97036（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5518,6 +5518,7 @@
 ||11.golang8.com^
 ||11.yiqig.com^
 ||1200555.com^
+||137ioe2krr.com^
 ||1iuh5l.com^
 ||1o057bolbb.com^
 ||1ttxjgo7fd.com^
@@ -5529,15 +5530,18 @@
 ||4009997658.com^
 ||4k1x3mkrus.com^
 ||51.la^
+||5hi8d6076.com^
 ||666579.xyz^
 ||666hh999gg.com^
 ||6ogiuks905.com^
 ||7011.stia.cn^
 ||776.jstatic.xyz^
 ||7d36a.com^
+||8c2sxamc6w.com^
 ||9867.org^
 ||98765.pw^
 ||9bialak0c.com^
+||9o2r9h0ket.com^
 ||9wkvbvm90.com^
 ||a.10tianqi.com^
 ||a.52wubi.com^
@@ -5761,19 +5765,23 @@
 ||kqzyfj.com^
 ||krbulhb.com^
 ||kstj.baidu.com^
+||kuerlefc.com^
 ||kukanmanhua.cyou^
 ||kusjw4wqj.com^
 ||lafacw.xyz^
+||ld7v2xm6ti.com^
 ||lh1dki82.com^
 ||ll.gxsky.com^
 ||logoshejishi.com^
 ||lp70zi3ou3.com^
+||lvnqnjiocnfvvk.com^
 ||lyz.radio366.com^
 ||m.aty.sohu.com^
 ||m1.51kaowang.com^
 ||m1.darfd.com^
 ||m1.jintang114.org^
 ||m1.nn670.com^
+||m7xud9jqpu.com^
 ||makeding.com^
 ||market.178.com^
 ||mathtype.cn^
@@ -5813,6 +5821,7 @@
 ||qnywphp.forum^
 ||qxaz2xcw.com^
 ||qxwoiv.com^
+||r1owcxiy50.com^
 ||ra1.xyz^
 ||renrenkanpian.com^
 ||retrieval-bd.duote.com^
@@ -5821,6 +5830,7 @@
 ||s1.tuzhaozhao.com^
 ||s1.wesiedu.com^
 ||s3-nl-01.mangabuddy.in^
+||s3kokfksap.com^
 ||sbpb1.qulishi.com^
 ||shankejingling.com^
 ||shieryuefajkix.com^
@@ -5833,6 +5843,7 @@
 ||sikncs.com^
 ||sjbbsja.forum^
 ||sm-cloud.yunsafe.top^
+||solution97.com^
 ||spcode.baidu.com^
 ||srtb.msn.cn^
 ||st-fly.b-cdn.net^
@@ -5845,6 +5856,7 @@
 ||telecome.cn^
 ||tf.360.cn^
 ||theweeklydonut.org^
+||tjhi6gplu.com^
 ||tk.504pk.com^
 ||tns.simba.taobao.com^
 ||tp.suppercacheimages.top^
@@ -5867,6 +5879,8 @@
 ||vegaschina.cn^
 ||vernaellac.com^
 ||vfie3ximi3elx4uw.cfd^
+||vlifpif.com^
+||vul4a3k0kt.com^
 ||vv1.pyhfxdm.cn^
 ||w.xiaopiaoyou.com^
 ||wap.qqbiquge.net^
@@ -5949,6 +5963,7 @@
 ||ziweuu.com^
 ||zkhjsta.beauty^
 ||zmhpphp.forum^
+||zw17ig1gnw.com^
 ||0.myikas.com^
 ||0.net.easyjet.com^
 ||000491b06a.com^
@@ -48995,18 +49010,3 @@
 ||kxmebjwzwynks.space^
 ||kxmrwu.ibarakinews.jp^
 ||kxmujssflgqac.site^
-||kxnlhtvyaozws.space^
-||kxnuaytyunkqo.online^
-||kxoarhydioiuf.site^
-||kxpfisvedcclz.online^
-||kxpkzbjpmkpoq.site^
-||kxqmhfgjlbkvd.space^
-||kxrquxwodfcne.space^
-||kxtqgp.mistermenuiserie.com^
-||kxtsxpdqpksaw.online^
-||kxtszslwanvgl.site^
-||kxtzixtkfdihg.space^
-||kxuingylmnoxo.space^
-||kxxyhjamtwozu.space^
-||kxysrmpkrvekx.site^
-||kyad88.com^

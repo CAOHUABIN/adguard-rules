@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.10.0411
-! Last modified: 2026-11-10T04:11:09+07:00
+! Version: 2026.11.11.0413
+! Last modified: 2026-11-11T04:13:18+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 97150
+# 唯一域名数: 97165
 #
 0.myikas.com
 0.net.easyjet.com
@@ -466,6 +466,7 @@
 1357902.cn
 136ckqmwc.com
 13728c1810.com
+137ioe2krr.com
 137kfj65k.de
 13874bb1da.com
 138d525093.com
@@ -1974,6 +1975,7 @@
 5hdz1gnue.com
 5hebtbbgbo.com
 5hffr1p22j.com
+5hi8d6076.com
 5ho41ueq7w.com
 5hte21mz.com
 5hu7hee0pt.com
@@ -2678,6 +2680,7 @@
 8b317a773b.com
 8b81ffcb90.com
 8bq898.73miqb.cn
+8c2sxamc6w.com
 8c56c86ead.com
 8c66b76e9b.com
 8c6fac8fda.com
@@ -3007,6 +3010,7 @@
 9nvj3swk9l.com
 9nwplq7y2o.com
 9nzrfglryy.com
+9o2r9h0ket.com
 9obmf866d.com
 9oxhstb2m2.com
 9p81m19kr.com
@@ -46210,6 +46214,7 @@ kudwviqhujjzc.space
 kudxyhdiidlxa.online
 kuebyeaqklsre.online
 kueezrtb.com
+kuerlefc.com
 kuffobduumzwl.space
 kufvqdstaemar.site
 kugeshuffle.com
@@ -47001,6 +47006,7 @@ lcztnn.asics-trading.co.jp
 ld.mediaget.com
 ld.za9mnx.com
 ld1qwww3kj.com
+ld7v2xm6ti.com
 ldaqsvgwamnwi.com
 ldckmk.divarese.com.tr
 lddt.de
@@ -49994,6 +50000,7 @@ lvizjwwjbnhuh.space
 lvjczzaojopzc.website
 lvjquuyugqirb.space
 lvksiviwpenew.website
+lvnqnjiocnfvvk.com
 lvpktwenaifrf.site
 lvsats.gardner-white.com
 lvtezhupqcvtq.site
@@ -51295,6 +51302,7 @@ m6qxdu6m6w.com
 m6r.eu
 m78vxjm35d.com
 m7hkvwwl.xyz
+m7xud9jqpu.com
 m81mfege2.com
 m8h5qjmlb3.com
 m8qk101065.com
@@ -66888,6 +66896,7 @@ r023m83skv5v.com
 r0d2dzltw7.com
 r1.mail.ru
 r1jprcr42.com
+r1owcxiy50.com
 r1ztni.oui.sncf
 r2.tschewang.com
 r27y52dd7.com
@@ -70055,6 +70064,7 @@ s362693299.aon.com
 s3bltexcm.com
 s3d4.cn
 s3g6.com
+s3kokfksap.com
 s3m.milkjpg.com
 s3network1.com
 s3r.zerkalo.io
@@ -74148,6 +74158,7 @@ solucionesreales.americanexpress.es
 solucx.com.br
 solution.agc-chemicals.com
 solution.resonac.com
+solution97.com
 solutionbiologyisle.com
 solutions.a-1freeman.com
 solutions.aampglobal.com
@@ -80984,6 +80995,7 @@ tjfutvjymqzdp.online
 tjgeagvhlpxru.site
 tjgssn.com
 tjhhr.com
+tjhi6gplu.com
 tjhuajiantang.com
 tjitde.dodo.it
 tjiyavxmtihln.space
@@ -88980,6 +88992,7 @@ vlexokrako.com
 vlgtgjpcgoiqa.online
 vlhdwxtvqvqvi.site
 vlhpssfra.com
+vlifpif.com
 vlion.cn
 vlitag.com
 vlive.qqvideo.tc.qq.com
@@ -89471,6 +89484,7 @@ vujglx.icu
 vukgifjbxdeml.space
 vukifrwnczdwk.online
 vukqsoyedcbzg.website
+vul4a3k0kt.com
 vulgateemptily.com
 vulnerablecognomen.com
 vulnerableimmigrateaboveaverage.com
@@ -96968,6 +96982,7 @@ zvxcuqfdzf.com
 zvypqoedujvod.website
 zvyukviiirywi.space
 zvzpopazdasxh.website
+zw17ig1gnw.com
 zwaar.net
 zwaar.org
 zwatgf.megaknihy.cz
