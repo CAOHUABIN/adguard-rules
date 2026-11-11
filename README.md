@@ -2,9 +2,9 @@
 
 多源合并去重生成的 AdGuard 拦截规则与 DNS 拦截清单，每日自动重新拉取来源、合并去重并推送更新。
 
-- 全格式广告过滤规则：**819907** 条（adguard_rules_merged.txt）
-- DNS 拦截域名：**575852** 个（dns_blocklist*.txt）
-- 国内网络专用规则：**113096** 条 / **97165** 个域名（adguard_cn_rules.txt 等）
+- 全格式广告过滤规则：**821712** 条（adguard_rules_merged.txt）
+- DNS 拦截域名：**575523** 个（dns_blocklist*.txt）
+- 国内网络专用规则：**111639** 条 / **95707** 个域名（adguard_cn_rules.txt 等）
 
 ## 订阅地址（AdGuard / AdGuard Home 直接添加）
 
@@ -39,19 +39,19 @@
 
 | 类别 | 规则列表 | 规则数 | 订阅地址 |
 |---|---|---:|---|
-| 广告 | AdGuard Base filter（基础广告过滤） | 131732 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
-| 隐私 | AdGuard Tracking Protection（跟踪防护） | 437994 | https://filters.adtidy.org/extension/ublock/filters/3.txt |
-| 社交 | AdGuard Social Media（社交媒体） | 16543 | https://filters.adtidy.org/extension/ublock/filters/4.txt |
-| 广告 | AdGuard Mobile Ads（移动端广告） | 7998 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
-| 干扰 | AdGuard Annoyances（干扰元素） | 60040 | https://filters.adtidy.org/extension/ublock/filters/14.txt |
-| 广告 | AdGuard DNS filter（DNS广告过滤） | 188612 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
-| 隐私 | AdGuard URL Tracking（URL跟踪参数清除） | 2738 | https://filters.adtidy.org/extension/ublock/filters/17.txt |
-| 中文 | AdGuard Chinese filter（中文过滤） | 20894 | https://filters.adtidy.org/extension/ublock/filters/224.txt |
-| 广告 | EasyList（国际广告） | 76565 | https://easylist-downloads.adblockplus.org/easylist.txt |
+| 广告 | AdGuard Base filter（基础广告过滤） | 132134 | https://filters.adtidy.org/extension/ublock/filters/2.txt |
+| 隐私 | AdGuard Tracking Protection（跟踪防护） | 439411 | https://filters.adtidy.org/extension/ublock/filters/3.txt |
+| 社交 | AdGuard Social Media（社交媒体） | 16547 | https://filters.adtidy.org/extension/ublock/filters/4.txt |
+| 广告 | AdGuard Mobile Ads（移动端广告） | 8003 | https://filters.adtidy.org/extension/ublock/filters/11.txt |
+| 干扰 | AdGuard Annoyances（干扰元素） | 60082 | https://filters.adtidy.org/extension/ublock/filters/14.txt |
+| 广告 | AdGuard DNS filter（DNS广告过滤） | 190435 | https://filters.adtidy.org/extension/ublock/filters/15.txt |
+| 隐私 | AdGuard URL Tracking（URL跟踪参数清除） | 2740 | https://filters.adtidy.org/extension/ublock/filters/17.txt |
+| 中文 | AdGuard Chinese filter（中文过滤） | 20907 | https://filters.adtidy.org/extension/ublock/filters/224.txt |
+| 广告 | EasyList（国际广告） | 76965 | https://easylist-downloads.adblockplus.org/easylist.txt |
 | 隐私 | EasyPrivacy（国际隐私/跟踪） | 53786 | https://easylist-downloads.adblockplus.org/easyprivacy.txt |
-| 中文 | EasyList China（中文广告） | 17813 | https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt |
+| 中文 | EasyList China（中文广告） | 17825 | https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt |
 | 中文 | 乘风广告过滤规则（CJX） | 1169 | https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt |
-| 广告 | AdGuard DNS filter（iOS 专用版） | 188628 | https://filters.adtidy.org/dns/filter_1_ios.txt |
+| 广告 | AdGuard DNS filter（iOS 专用版） | 190423 | https://filters.adtidy.org/dns/filter_1_ios.txt |
 | 广告 | 217heidai AdBlock DNS（合并去重 DNS） | 241907 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt |
 | 中文 | 217heidai AdBlock DNS Lite（国内 DNS） | 8496 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt |
 | 广告 | 217heidai AdBlock Filter（全格式合并） | 102777 | https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt |
