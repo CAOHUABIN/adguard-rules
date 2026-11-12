@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截清单（AdGuard 格式）
 ! Description: 国内专用 DNS 去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
-! Version: 2026.11.12.0411
-! Last modified: 2026-11-12T04:11:06+07:00
+! Version: 2026.11.13.0412
+! Last modified: 2026-11-13T04:12:43+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
-! 唯一域名数: 95707
+! 唯一域名数: 95715
 ! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
 !
 ||0.myikas.com^
@@ -1467,6 +1467,7 @@
 ||3p8801.co^
 ||3pf2kwmc3g.com^
 ||3pkf5m0gd.com^
+||3pq0vah1e0.com^
 ||3q9j4w2r9d.com^
 ||3qfe1gfa.de^
 ||3qtdjf4830.com^
@@ -1631,6 +1632,7 @@
 ||4ac38e317e.com^
 ||4ad4ba0610.com^
 ||4ad9bqnjb.com^
+||4ae8xsq18s.com^
 ||4affiliate.net^
 ||4armn.com^
 ||4au.htf16a.cn^
@@ -12135,6 +12137,7 @@
 ||bb2r.com^
 ||bb3d97785c.com^
 ||bb4ytxk9.xyz^
+||bb5uxk0dfa.com^
 ||bb75d99ef0.com^
 ||bb88480f1d.com^
 ||bbagnw.sedaily.com^
@@ -29072,6 +29075,7 @@
 ||era67hfo92w.com^
 ||erabaru.net^
 ||eradisciplinemomentary.com^
+||eraf2uzhji.com^
 ||erafbtkgkirqe.site^
 ||eralway.com^
 ||erate.co.il^
@@ -46427,6 +46431,7 @@
 ||ldvkmzygcoido.site^
 ||ldwfhkykiilho.online^
 ||ldxpmz.people.com^
+||ldxxawzpy9.com^
 ||ldy.350.com^
 ||ldy.adqku.cn^
 ||ldy.zfdvzp.cn^
@@ -55280,6 +55285,7 @@
 ||multiple46.top^
 ||multiplewhenceingredient.com^
 ||multiplication29.top^
+||multiplicator98.com^
 ||multiplier47.top^
 ||multiply5.top^
 ||multirackaffability.com^
@@ -65923,6 +65929,7 @@
 ||r30vhf31sv.com^
 ||r40xff8q48.com^
 ||r42tag.com^
+||r44r4l5na1.com^
 ||r45j15.com^
 ||r4nds.absorba.com^
 ||r4uws5iu3g.com^
@@ -88667,6 +88674,7 @@
 ||waiterfortnight.com^
 ||waithetomaigrie.net^
 ||waitingnumber.com^
+||waj301k9sb.com^
 ||wakamoment.tk^
 ||wakbpyyvwzspn.online^
 ||wal.wolfram.com^

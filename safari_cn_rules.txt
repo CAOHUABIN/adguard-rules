@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.12.0411
-! Last modified: 2026-11-12T04:11:07+07:00
+! Version: 2026.11.13.0412
+! Last modified: 2026-11-13T04:12:43+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/95578（按来源收录数优先截取）
+! 覆盖域名: 49000/95586（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5559,7 +5559,9 @@
 ||2y2lttjs.hair^
 ||321.jintang114.org^
 ||37cs.com^
+||3pq0vah1e0.com^
 ||4009997658.com^
+||4ae8xsq18s.com^
 ||4j9cjy80f.com^
 ||51.la^
 ||666579.xyz^
@@ -5639,6 +5641,7 @@
 ||b10.justacdn.net^
 ||baidujs.cnys.com^
 ||bartender.cc^
+||bb5uxk0dfa.com^
 ||bd-js.duote.com^
 ||bd-js1.2345.com^
 ||bd.dhsz.cn^
@@ -5709,6 +5712,7 @@
 ||ecma.bdimg.com^
 ||ediuschina.com^
 ||er.5ykj.cn^
+||eraf2uzhji.com^
 ||etjkljs.beauty^
 ||ezze0ct.com^
 ||fancyapi.com^
@@ -5792,6 +5796,7 @@
 ||kstj.baidu.com^
 ||kukanmanhua.cyou^
 ||lafacw.xyz^
+||ldxxawzpy9.com^
 ||lh1dki82.com^
 ||ll.gxsky.com^
 ||logoshejishi.com^
@@ -5813,6 +5818,7 @@
 ||mm.wxc.cc^
 ||mnwor.xuanlishi.com^
 ||ms.cnbanbao.com^
+||multiplicator98.com^
 ||mycleanmymac.com^
 ||n0611.com^
 ||n55ylc001.vip^
@@ -5840,6 +5846,7 @@
 ||qnywphp.forum^
 ||qxaz2xcw.com^
 ||qxwoiv.com^
+||r44r4l5na1.com^
 ||ra1.xyz^
 ||renrenkanpian.com^
 ||retrieval-bd.duote.com^
@@ -5895,6 +5902,7 @@
 ||vfie3ximi3elx4uw.cfd^
 ||vv1.pyhfxdm.cn^
 ||w.xiaopiaoyou.com^
+||waj301k9sb.com^
 ||wap.qqbiquge.net^
 ||wap001.bytravel.cn^
 ||wdziitkl.com^
@@ -49002,11 +49010,3 @@
 ||ldpdhccjkfarr.online^
 ||ldpekzyeqyplu.online^
 ||ldpwpfjyhwvnb.space^
-||ldqkyedvfepop.online^
-||ldqtdd.peing.net^
-||ldrggvojy.com^
-||ldrws.com^
-||ldseyoekuonkl.website^
-||ldsoytbpkvwdo.online^
-||lduhtrp.net^
-||lduohrmhrme.com^

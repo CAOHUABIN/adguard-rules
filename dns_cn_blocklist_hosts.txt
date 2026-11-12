@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.12.0411
-# Last modified: 2026-11-12T04:11:06+07:00
+# Version: 2026.11.13.0412
+# Last modified: 2026-11-13T04:12:43+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95707
+# 唯一域名数: 95715
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -1466,6 +1466,7 @@
 0.0.0.0 3p8801.co
 0.0.0.0 3pf2kwmc3g.com
 0.0.0.0 3pkf5m0gd.com
+0.0.0.0 3pq0vah1e0.com
 0.0.0.0 3q9j4w2r9d.com
 0.0.0.0 3qfe1gfa.de
 0.0.0.0 3qtdjf4830.com
@@ -1630,6 +1631,7 @@
 0.0.0.0 4ac38e317e.com
 0.0.0.0 4ad4ba0610.com
 0.0.0.0 4ad9bqnjb.com
+0.0.0.0 4ae8xsq18s.com
 0.0.0.0 4affiliate.net
 0.0.0.0 4armn.com
 0.0.0.0 4au.htf16a.cn
@@ -12134,6 +12136,7 @@
 0.0.0.0 bb2r.com
 0.0.0.0 bb3d97785c.com
 0.0.0.0 bb4ytxk9.xyz
+0.0.0.0 bb5uxk0dfa.com
 0.0.0.0 bb75d99ef0.com
 0.0.0.0 bb88480f1d.com
 0.0.0.0 bbagnw.sedaily.com
@@ -29071,6 +29074,7 @@
 0.0.0.0 era67hfo92w.com
 0.0.0.0 erabaru.net
 0.0.0.0 eradisciplinemomentary.com
+0.0.0.0 eraf2uzhji.com
 0.0.0.0 erafbtkgkirqe.site
 0.0.0.0 eralway.com
 0.0.0.0 erate.co.il
@@ -46426,6 +46430,7 @@
 0.0.0.0 ldvkmzygcoido.site
 0.0.0.0 ldwfhkykiilho.online
 0.0.0.0 ldxpmz.people.com
+0.0.0.0 ldxxawzpy9.com
 0.0.0.0 ldy.350.com
 0.0.0.0 ldy.adqku.cn
 0.0.0.0 ldy.zfdvzp.cn
@@ -55279,6 +55284,7 @@
 0.0.0.0 multiple46.top
 0.0.0.0 multiplewhenceingredient.com
 0.0.0.0 multiplication29.top
+0.0.0.0 multiplicator98.com
 0.0.0.0 multiplier47.top
 0.0.0.0 multiply5.top
 0.0.0.0 multirackaffability.com
@@ -65922,6 +65928,7 @@
 0.0.0.0 r30vhf31sv.com
 0.0.0.0 r40xff8q48.com
 0.0.0.0 r42tag.com
+0.0.0.0 r44r4l5na1.com
 0.0.0.0 r45j15.com
 0.0.0.0 r4nds.absorba.com
 0.0.0.0 r4uws5iu3g.com
@@ -88666,6 +88673,7 @@
 0.0.0.0 waiterfortnight.com
 0.0.0.0 waithetomaigrie.net
 0.0.0.0 waitingnumber.com
+0.0.0.0 waj301k9sb.com
 0.0.0.0 wakamoment.tk
 0.0.0.0 wakbpyyvwzspn.online
 0.0.0.0 wal.wolfram.com

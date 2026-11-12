@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.12.0411
-! Last modified: 2026-11-12T04:11:06+07:00
+! Version: 2026.11.13.0412
+! Last modified: 2026-11-13T04:12:42+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20114 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17049 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20123 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17057 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95486 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111639
+! 合并去重后唯一规则总数: 111648
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -4788,6 +4788,7 @@ cardu.com.tw##img[src*="/ad_images/"]
 careonline.com.tw##.wrapper > script + a[href][onclick]
 carousell.com.hk###carousel-container > div[class^="D_"] > div[class^="D_"] > div[style^="width:"]:has(a[aria-label^="licksang"]):remove()
 carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
+cars.tvbs.com.tw##div[class]:has(> div[class^="min-h-"] > div[id^="car_"][id*="_read_"])
 cartoon18.com##.container-fluid > .row > .item:has(> .card > .card-body > .lines > span.badge:contains(/^ad$/))
 cartoon18.com##.embed-responsive.position-relative + .card-body > .lines > span.badge + a[href^="http"]:not([href^="/"]):not([href*="cartoon18.com"])
 cartoon18.com##.embed-responsive.position-relative > a[href^="http"]:not([href^="/"]):not([href*="cartoon18.com"])
@@ -7697,6 +7698,12 @@ kuaihou.com##.address_like
 kuaihou.com##.bz
 kuaihou.com##.ul_Address[style="border-bottom:1px solid #ddd;width:280px;"]
 kuaishouba.com##.index_adbox
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.pgmp, invokeInterstitial)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.bg-overlayer:style(pointer-events: unset !important;)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.video-player + div.ps > div:has(> div.bb)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.video-player > .dabc > .ng-star-inserted[style="position: relative;"]
 kukuo.tw##article > aside.left > .adsbygoogle:upward(1)
 kukuw.com###gg_rl
 kumi.cn##.ad64060Box
@@ -10640,12 +10647,6 @@ yesky.com##.rightGg
 yesky.com##div[class^="ad1"]
 yesky.com##div[class^="ad7"]
 yeyemo4.com,yeyemo5.com,yeyemo6.com,yeyemo7.com,yeyemo8.com,yeyemo9.com##center > a[target="_blank"] > img
-yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
-yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.pgmp, invokeInterstitial)
-yfsp.tv,aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
-yfsp.tv,aiyifan.tv,iyf.tv##.bg-overlayer:style(pointer-events: unset !important;)
-yfsp.tv,aiyifan.tv,iyf.tv##.video-player + div.ps > div:has(> div.bb)
-yfsp.tv,aiyifan.tv,iyf.tv##.video-player > .dabc > .ng-star-inserted[style="position: relative;"]
 ygdy8.cc##.container > a[href^="/"]
 ygdy8.cc##body > a[href^="/"]
 yibian.hopto.org###no-adblock-box
@@ -12671,6 +12672,7 @@ zzzyk.com###Tinfo
 ||3p8801.co^
 ||3pf2kwmc3g.com^
 ||3pkf5m0gd.com^
+||3pq0vah1e0.com^
 ||3q9j4w2r9d.com^
 ||3qfe1gfa.de^
 ||3qtdjf4830.com^
@@ -12853,6 +12855,7 @@ zzzyk.com###Tinfo
 ||4ac38e317e.com^
 ||4ad4ba0610.com^
 ||4ad9bqnjb.com^
+||4ae8xsq18s.com^
 ||4affiliate.net^
 ||4armn.com^
 ||4au.htf16a.cn^
@@ -24090,6 +24093,7 @@ zzzyk.com###Tinfo
 ||bb2r.com^
 ||bb3d97785c.com^
 ||bb4ytxk9.xyz^
+||bb5uxk0dfa.com^
 ||bb75d99ef0.com^
 ||bb88480f1d.com^
 ||bbagnw.sedaily.com^
@@ -41909,6 +41913,7 @@ zzzyk.com###Tinfo
 ||era67hfo92w.com^
 ||erabaru.net^
 ||eradisciplinemomentary.com^
+||eraf2uzhji.com^
 ||erafbtkgkirqe.site^
 ||eralway.com^
 ||erate.co.il^
@@ -60382,6 +60387,7 @@ zzzyk.com###Tinfo
 ||ldvkmzygcoido.site^
 ||ldwfhkykiilho.online^
 ||ldxpmz.people.com^
+||ldxxawzpy9.com^
 ||ldy.350.com^
 ||ldy.adqku.cn^
 ||ldy.zfdvzp.cn^
@@ -69562,6 +69568,7 @@ zzzyk.com###Tinfo
 ||multiple46.top^
 ||multiplewhenceingredient.com^
 ||multiplication29.top^
+||multiplicator98.com^
 ||multiplier47.top^
 ||multiply5.top^
 ||multirackaffability.com^
@@ -80680,6 +80687,7 @@ zzzyk.com###Tinfo
 ||r3sub.com/posters/00698128.jpg
 ||r40xff8q48.com^
 ||r42tag.com^
+||r44r4l5na1.com^
 ||r45j15.com^
 ||r4nds.absorba.com^
 ||r4uws5iu3g.com^
@@ -104106,6 +104114,7 @@ zzzyk.com###Tinfo
 ||waiterfortnight.com^
 ||waithetomaigrie.net^
 ||waitingnumber.com^
+||waj301k9sb.com^
 ||wakamoment.tk^
 ||wakbpyyvwzspn.online^
 ||wake-up-neo.com/bnet/
