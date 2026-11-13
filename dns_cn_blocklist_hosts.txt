@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.13.0412
-# Last modified: 2026-11-13T04:12:43+07:00
+# Version: 2026.11.14.0413
+# Last modified: 2026-11-14T04:13:11+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95715
+# 唯一域名数: 95725
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -10796,6 +10796,7 @@
 0.0.0.0 atkpwwdvmwmbx.online
 0.0.0.0 atl-6-ga.com
 0.0.0.0 atl-b24-link.ip.twelve99.net.iberostar.com
+0.0.0.0 atl0g02nj.com
 0.0.0.0 atlantablackstar.black.news
 0.0.0.0 atlkse.aosom.it
 0.0.0.0 atm.youku.com
@@ -41581,6 +41582,7 @@
 0.0.0.0 interaktiv-net.de
 0.0.0.0 interbasepicturespostman.com
 0.0.0.0 interbasewhirlwindwalrus.com
+0.0.0.0 intercede77.com
 0.0.0.0 interceptfarrierreap.com
 0.0.0.0 interceptum.com
 0.0.0.0 interclick.com
@@ -42841,6 +42843,7 @@
 0.0.0.0 jdzbabgbhq.com
 0.0.0.0 jdzmqj.thousandtrails.com
 0.0.0.0 jdzpzbrxhzkqn.space
+0.0.0.0 jdzxdlmc3.com
 0.0.0.0 je3zdrcua.com
 0.0.0.0 jealousembroideryroute.com
 0.0.0.0 jealoussale.com
@@ -49024,6 +49027,7 @@
 0.0.0.0 lpzxed.em.com.br
 0.0.0.0 lpzxed.superesportes.com.br
 0.0.0.0 lpzxed.uai.com.br
+0.0.0.0 lq72mfje7.com
 0.0.0.0 lqbe7i5gf.com
 0.0.0.0 lqbinr.locker-room.co.kr
 0.0.0.0 lqc006.com
@@ -49528,6 +49532,7 @@
 0.0.0.0 lzaussxps.com
 0.0.0.0 lzbepgwrqyfpv.online
 0.0.0.0 lzbgekdtxse.com
+0.0.0.0 lzcr41vbp.com
 0.0.0.0 lzcwbt.schuhcenter.de
 0.0.0.0 lzdjxp.icu
 0.0.0.0 lzduxwzbqqlyx.space
@@ -50589,6 +50594,7 @@
 0.0.0.0 m.zwda.com
 0.0.0.0 m.zwdu.com
 0.0.0.0 m0mentum.net
+0.0.0.0 m0q6xvc7c.com
 0.0.0.0 m0rsq075u.com
 0.0.0.0 m1.27com.com
 0.0.0.0 m1.51kaowang.com
@@ -53863,6 +53869,7 @@
 0.0.0.0 miifhudshrarl.space
 0.0.0.0 mijifen.com
 0.0.0.0 mijqnkabhtbpj.website
+0.0.0.0 mikasang.xyz
 0.0.0.0 mikbpsykmfdqu.online
 0.0.0.0 mikelperaia.openapp.link
 0.0.0.0 mikeyhud.com
@@ -54999,6 +55006,7 @@
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 mqqhfyfavftyk.com
+0.0.0.0 mqqj04eb0.com
 0.0.0.0 mqqxxswqtiohq.website
 0.0.0.0 mqrqtvzwdl.com
 0.0.0.0 mqsicr.smiggle.co.uk
@@ -61511,6 +61519,7 @@
 0.0.0.0 pfckhpjabpmiv.site
 0.0.0.0 pfedhnufaills.site
 0.0.0.0 pffmpgvrc.com
+0.0.0.0 pfh01c50p.com
 0.0.0.0 pfhnrxinmndvx.site
 0.0.0.0 pfivvdqcuvmig.space
 0.0.0.0 pfivwhdsliscy.online
@@ -62897,6 +62906,7 @@
 0.0.0.0 portslocked.com
 0.0.0.0 porvootransitioncare.com
 0.0.0.0 pos.baidu.com
+0.0.0.0 pos23t6jw.com
 0.0.0.0 poseunprofessionalspecific.com
 0.0.0.0 posewardenreligious.com
 0.0.0.0 posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com

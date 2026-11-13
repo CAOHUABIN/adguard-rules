@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.13.0412
-! Last modified: 2026-11-13T04:12:42+07:00
+! Version: 2026.11.14.0413
+! Last modified: 2026-11-14T04:13:11+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 95715
+# 唯一域名数: 95725
 #
 0.myikas.com
 0.net.easyjet.com
@@ -10797,6 +10797,7 @@ atkoxjrndvsct.online
 atkpwwdvmwmbx.online
 atl-6-ga.com
 atl-b24-link.ip.twelve99.net.iberostar.com
+atl0g02nj.com
 atlantablackstar.black.news
 atlkse.aosom.it
 atm.youku.com
@@ -41582,6 +41583,7 @@ interakt.ru
 interaktiv-net.de
 interbasepicturespostman.com
 interbasewhirlwindwalrus.com
+intercede77.com
 interceptfarrierreap.com
 interceptum.com
 interclick.com
@@ -42842,6 +42844,7 @@ jdwqsewrbvnnt.website
 jdzbabgbhq.com
 jdzmqj.thousandtrails.com
 jdzpzbrxhzkqn.space
+jdzxdlmc3.com
 je3zdrcua.com
 jealousembroideryroute.com
 jealoussale.com
@@ -49025,6 +49028,7 @@ lpzfkjdynfxza.space
 lpzxed.em.com.br
 lpzxed.superesportes.com.br
 lpzxed.uai.com.br
+lq72mfje7.com
 lqbe7i5gf.com
 lqbinr.locker-room.co.kr
 lqc006.com
@@ -49529,6 +49533,7 @@ lz.whafwl.com
 lzaussxps.com
 lzbepgwrqyfpv.online
 lzbgekdtxse.com
+lzcr41vbp.com
 lzcwbt.schuhcenter.de
 lzdjxp.icu
 lzduxwzbqqlyx.space
@@ -50590,6 +50595,7 @@ m.zvfuka.cn
 m.zwda.com
 m.zwdu.com
 m0mentum.net
+m0q6xvc7c.com
 m0rsq075u.com
 m1.27com.com
 m1.51kaowang.com
@@ -53864,6 +53870,7 @@ miidi.net
 miifhudshrarl.space
 mijifen.com
 mijqnkabhtbpj.website
+mikasang.xyz
 mikbpsykmfdqu.online
 mikelperaia.openapp.link
 mikeyhud.com
@@ -55000,6 +55007,7 @@ mqqad.cs0309.html5.qq.com
 mqqad.html5.qq.com
 mqqadr.reader.qq.com
 mqqhfyfavftyk.com
+mqqj04eb0.com
 mqqxxswqtiohq.website
 mqrqtvzwdl.com
 mqsicr.smiggle.co.uk
@@ -61512,6 +61520,7 @@ pfcfngllppeol.site
 pfckhpjabpmiv.site
 pfedhnufaills.site
 pffmpgvrc.com
+pfh01c50p.com
 pfhnrxinmndvx.site
 pfivvdqcuvmig.space
 pfivwhdsliscy.online
@@ -62898,6 +62907,7 @@ portptfeyfcnx.space
 portslocked.com
 porvootransitioncare.com
 pos.baidu.com
+pos23t6jw.com
 poseunprofessionalspecific.com
 posewardenreligious.com
 posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com

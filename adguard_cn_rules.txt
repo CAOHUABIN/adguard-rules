@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.13.0412
-! Last modified: 2026-11-13T04:12:42+07:00
+! Version: 2026.11.14.0413
+! Last modified: 2026-11-14T04:13:11+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20123 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17057 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20133 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17067 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95486 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111648
+! 合并去重后唯一规则总数: 111658
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -22594,6 +22594,7 @@ zzzyk.com###Tinfo
 ||atkpwwdvmwmbx.online^
 ||atl-6-ga.com^
 ||atl-b24-link.ip.twelve99.net.iberostar.com^
+||atl0g02nj.com^
 ||atlantablackstar.black.news^
 ||atlkse.aosom.it^
 ||atm.youku.com^
@@ -55124,6 +55125,7 @@ zzzyk.com###Tinfo
 ||interaktiv-net.de^
 ||interbasepicturespostman.com^
 ||interbasewhirlwindwalrus.com^
+||intercede77.com^
 ||interceptfarrierreap.com^
 ||interceptum.com^
 ||interclick.com^
@@ -56506,6 +56508,7 @@ zzzyk.com###Tinfo
 ||jdzbabgbhq.com^
 ||jdzmqj.thousandtrails.com^
 ||jdzpzbrxhzkqn.space^
+||jdzxdlmc3.com^
 ||je3zdrcua.com^
 ||jealousembroideryroute.com^
 ||jealoussale.com^
@@ -63075,6 +63078,7 @@ zzzyk.com###Tinfo
 ||lpzxed.em.com.br^
 ||lpzxed.superesportes.com.br^
 ||lpzxed.uai.com.br^
+||lq72mfje7.com^
 ||lqbe7i5gf.com^
 ||lqbinr.locker-room.co.kr^
 ||lqc006.com^
@@ -63606,6 +63610,7 @@ zzzyk.com###Tinfo
 ||lzbao.net/syster.
 ||lzbepgwrqyfpv.online^
 ||lzbgekdtxse.com^
+||lzcr41vbp.com^
 ||lzcwbt.schuhcenter.de^
 ||lzdjxp.icu^
 ||lzduxwzbqqlyx.space^
@@ -64708,6 +64713,7 @@ zzzyk.com###Tinfo
 ||m.zwda.com^
 ||m.zwdu.com^
 ||m0mentum.net^
+||m0q6xvc7c.com^
 ||m0rsq075u.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -68080,6 +68086,7 @@ zzzyk.com###Tinfo
 ||mijifen.com^
 ||mijqnkabhtbpj.website^
 ||mikanani.me/images/Masha/
+||mikasang.xyz^
 ||mikbpsykmfdqu.online^
 ||mikelperaia.openapp.link^
 ||mikeyhud.com^
@@ -69276,6 +69283,7 @@ zzzyk.com###Tinfo
 ||mqqad.html5.qq.com^
 ||mqqadr.reader.qq.com^
 ||mqqhfyfavftyk.com^
+||mqqj04eb0.com^
 ||mqqxxswqtiohq.website^
 ||mqrqtvzwdl.com^
 ||mqsicr.smiggle.co.uk^
@@ -76044,6 +76052,7 @@ zzzyk.com###Tinfo
 ||pfckhpjabpmiv.site^
 ||pfedhnufaills.site^
 ||pffmpgvrc.com^
+||pfh01c50p.com^
 ||pfhnrxinmndvx.site^
 ||pfivvdqcuvmig.space^
 ||pfivwhdsliscy.online^
@@ -77497,6 +77506,7 @@ zzzyk.com###Tinfo
 ||porvootransitioncare.com^
 ||pos.baidu.com/
 ||pos.baidu.com^
+||pos23t6jw.com^
 ||poseunprofessionalspecific.com^
 ||posewardenreligious.com^
 ||posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com^

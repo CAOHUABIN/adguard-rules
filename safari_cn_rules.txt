@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.13.0412
-! Last modified: 2026-11-13T04:12:43+07:00
+! Version: 2026.11.14.0413
+! Last modified: 2026-11-14T04:13:11+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/95586（按来源收录数优先截取）
+! 覆盖域名: 49000/95596（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5635,6 +5635,7 @@
 ||aizhantj.com^
 ||ams.fx678.com^
 ||api.shanghailingye.cn^
+||atl0g02nj.com^
 ||atm.youku.com^
 ||b.unjs.com^
 ||b1.91jucai.com^
@@ -5767,12 +5768,14 @@
 ||img2.126.net^
 ||imindmap.cc^
 ||impdsp.meituan.com^
+||intercede77.com^
 ||ipssss.com^
 ||irs01.com^
 ||irs03.com^
 ||itadapi.ithome.com.tw^
 ||iwanad.baidu.com^
 ||j.diangon.com^
+||jdzxdlmc3.com^
 ||jiaoben.eastday.com^
 ||jibn12.jintang114.org^
 ||jihehuaban.com.cn^
@@ -5800,8 +5803,11 @@
 ||lh1dki82.com^
 ||ll.gxsky.com^
 ||logoshejishi.com^
+||lq72mfje7.com^
 ||lyz.radio366.com^
+||lzcr41vbp.com^
 ||m.aty.sohu.com^
+||m0q6xvc7c.com^
 ||m1.51kaowang.com^
 ||m1.darfd.com^
 ||m1.jintang114.org^
@@ -5813,10 +5819,12 @@
 ||meijxqop.com^
 ||mernrza.com^
 ||mhdnspro.com^
+||mikasang.xyz^
 ||mindmanager.cc^
 ||miniye.xjts.cn^
 ||mm.wxc.cc^
 ||mnwor.xuanlishi.com^
+||mqqj04eb0.com^
 ||ms.cnbanbao.com^
 ||multiplicator98.com^
 ||mycleanmymac.com^
@@ -5835,8 +5843,10 @@
 ||parallelepiped48.com^
 ||parallelsdesktop.cn^
 ||pdfexpert.cc^
+||pfh01c50p.com^
 ||pic.fengniao.com^
 ||pixoctopus.pixnet.net^
+||pos23t6jw.com^
 ||puata.info^
 ||q1.yyxwzx.com^
 ||qbhsocu.com^
@@ -49000,13 +49010,3 @@
 ||ldlqnkdbozjjp.space^
 ||ldlwdsx.com^
 ||ldlyaohsraosg.online^
-||ldnkepcuqetum.online^
-||ldnlyap.com^
-||ldodcckzbfgop.site^
-||ldofvnruxhixg.site^
-||ldorlv.seiban.co.jp^
-||ldosmmmrqaqdxu.com^
-||ldoxmvlsvzban.online^
-||ldpdhccjkfarr.online^
-||ldpekzyeqyplu.online^
-||ldpwpfjyhwvnb.space^
