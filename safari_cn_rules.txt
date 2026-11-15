@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.15.0413
-! Last modified: 2026-11-15T04:13:29+07:00
+! Version: 2026.11.16.0413
+! Last modified: 2026-11-16T04:13:37+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/96596（按来源收录数优先截取）
+! 覆盖域名: 49000/96606（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5562,6 +5562,7 @@
 ||zzhizbzowrzlvy.com^
 ||zzuccikqt.com^
 ||002777.xyz^
+||0vtqrw86o.com^
 ||1.15lu.com^
 ||1.201980.com^
 ||1.32xp.com^
@@ -5589,12 +5590,14 @@
 ||37cs.com^
 ||4009997658.com^
 ||51.la^
+||5qpogztzt.com^
 ||666579.xyz^
 ||666hh999gg.com^
 ||6ogiuks905.com^
 ||7011.stia.cn^
 ||776.jstatic.xyz^
 ||7d36a.com^
+||7nwt5qq78.com^
 ||9867.org^
 ||98765.pw^
 ||a.10tianqi.com^
@@ -5733,6 +5736,7 @@
 ||ediuschina.com^
 ||er.5ykj.cn^
 ||etjkljs.beauty^
+||extraction14.com^
 ||ezze0ct.com^
 ||fancyapi.com^
 ||fancydsp.com^
@@ -5797,6 +5801,7 @@
 ||jihehuaban.com.cn^
 ||jinanrqz.com^
 ||jke1.jianke.com^
+||jnno9y1a9.com^
 ||js.kt250.com^
 ||js.oh100.com^
 ||js.ruiwen.com^
@@ -5817,6 +5822,7 @@
 ||lh1dki82.com^
 ||ll.gxsky.com^
 ||logoshejishi.com^
+||lwlqblkcucbrjy.com^
 ||lyz.radio366.com^
 ||m.aty.sohu.com^
 ||m1.51kaowang.com^
@@ -5865,6 +5871,7 @@
 ||qxaz2xcw.com^
 ||qxwoiv.com^
 ||r12ukq68l8.com^
+||r45jho6ug.com^
 ||ra1.xyz^
 ||renrenkanpian.com^
 ||retrieval-bd.duote.com^
@@ -5914,6 +5921,7 @@
 ||ue8im.com^
 ||un.ubaike.cn^
 ||uu1.3gu.com^
+||uxawyas.com^
 ||uyux77jurw.com^
 ||v1.kwpewga.cn^
 ||v1.taksh.cn^
@@ -5972,6 +5980,7 @@
 ||xjwhtz9.com^
 ||xmm.wxc.cc^
 ||xpjcg.oss-accelerate.aliyuncs.com^
+||xs27ycutl.com^
 ||xscp03091xq.com^
 ||xscp03100xq.com^
 ||xscp03101xq.com^
@@ -5999,6 +6008,7 @@
 ||yinyouapp.com^
 ||ymdxl.com^
 ||z1.o8h7d.cn^
+||z3vkcnj9f.com^
 ||ziweuu.com^
 ||zkhjsta.beauty^
 ||zmhpphp.forum^
@@ -49000,13 +49010,3 @@
 ||l.football365.fr^
 ||l.francetvinfo.fr^
 ||l.gamekult.com^
-||l.getpyfl.com^
-||l.glrcy.cn^
-||l.gocement.com^
-||l.gpay.to^
-||l.grazia.fr^
-||l.guesthug.com^
-||l.ialoc.app^
-||l.iamfy.co^
-||l.imax.com^
-||l.itribe.in^

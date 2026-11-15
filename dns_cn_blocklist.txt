@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.15.0413
-! Last modified: 2026-11-15T04:13:29+07:00
+! Version: 2026.11.16.0413
+! Last modified: 2026-11-16T04:13:36+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 96725
+# 唯一域名数: 96735
 #
 0.myikas.com
 0.net.easyjet.com
@@ -236,6 +236,7 @@
 0u9w05cxo.com
 0v0qj9fnwf.top
 0vpekhux1f.com
+0vtqrw86o.com
 0wk6gdkg8r.com
 0wpfe0duo.com
 0x01n2ptpuz3.com
@@ -2013,6 +2014,7 @@
 5pi13h3q.de
 5platforms.net
 5qnyx6k5w.com
+5qpogztzt.com
 5qryjrx3.xyz
 5sghirlr5b.com
 5t5z6augl3.com
@@ -2501,6 +2503,7 @@
 7nb71ub2xi.com
 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 7nt9p4d4.de
+7nwt5qq78.com
 7oavaac8i.com
 7p5ruxflv0.com
 7pe17z68y.com
@@ -30240,6 +30243,7 @@ extole.com
 extortionbudnumerous.com
 extqoqykkcpmo.space
 extracover.net
+extraction14.com
 extractobservation.com
 extraliner.com
 extralocker.com
@@ -43742,6 +43746,7 @@ jnljmuyjaiohr.online
 jnm.o41qed.cn
 jnmncpoktqope.online
 jnmqhpecyjrnf.online
+jnno9y1a9.com
 jnoxpedpszqfok.com
 jnppwfozovsqd.online
 jnps3tlw.xyz
@@ -49867,6 +49872,7 @@ lwjvyd.com
 lwkkvvjzmqkwm.site
 lwkvkd.maison-objet.com
 lwlcflypc.com
+lwlqblkcucbrjy.com
 lwlybwd5zq.com
 lwmbc.cn
 lwmnyf.modivo.hu
@@ -66623,6 +66629,7 @@ r40xff8q48.com
 r42tag.com
 r44r4l5na1.com
 r45j15.com
+r45jho6ug.com
 r4nds.absorba.com
 r4uws5iu3g.com
 r528e.cn
@@ -87368,6 +87375,7 @@ uwxtoegtarqfw.online
 uwy4.aegon.es
 uwzwqadqkcjgw.site
 uxahhowennlqf.website
+uxawyas.com
 uxaz.fxnfk.cn
 uxb030ku4s.com
 uxbdiplshkupo.online
@@ -93258,6 +93266,7 @@ xs.he9630.com
 xs.houyi.baofeng.net
 xs.searchacg.org
 xs.swagger1.com
+xs27ycutl.com
 xsapp.cdn.bcebos.com
 xsapykbbsdm.net
 xsbdujkox.com
@@ -95238,6 +95247,7 @@ z2ke56999.com
 z2ubj8bpk.com
 z2uyyp069d.com
 z3617cz9ep.fitness.tappbrothers.com
+z3vkcnj9f.com
 z444o.com
 z492.ctinsider.com
 z4a.net

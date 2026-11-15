@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.15.0413
-! Last modified: 2026-11-15T04:13:29+07:00
+! Version: 2026.11.16.0413
+! Last modified: 2026-11-16T04:13:36+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20142 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17076 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20152 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17086 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96508 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 112659
+! 合并去重后唯一规则总数: 112669
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -11132,6 +11132,7 @@ zzzyk.com###Tinfo
 ||0u9w05cxo.com^
 ||0v0qj9fnwf.top^
 ||0vpekhux1f.com^
+||0vtqrw86o.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x01n2ptpuz3.com^
@@ -13354,6 +13355,7 @@ zzzyk.com###Tinfo
 ||5pi13h3q.de^
 ||5platforms.net^
 ||5qnyx6k5w.com^
+||5qpogztzt.com^
 ||5qryjrx3.xyz^
 ||5s98.com/img/
 ||5sghirlr5b.com^
@@ -13913,6 +13915,7 @@ zzzyk.com###Tinfo
 ||7nb71ub2xi.com^
 ||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||7nt9p4d4.de^
+||7nwt5qq78.com^
 ||7oavaac8i.com^
 ||7p5ruxflv0.com^
 ||7pe17z68y.com^
@@ -43095,6 +43098,7 @@ zzzyk.com###Tinfo
 ||extortionbudnumerous.com^
 ||extqoqykkcpmo.space^
 ||extracover.net^
+||extraction14.com^
 ||extractobservation.com^
 ||extraliner.com^
 ||extralocker.com^
@@ -57474,6 +57478,7 @@ zzzyk.com###Tinfo
 ||jnm.o41qed.cn^
 ||jnmncpoktqope.online^
 ||jnmqhpecyjrnf.online^
+||jnno9y1a9.com^
 ||jnoxpedpszqfok.com^
 ||jnppwfozovsqd.online^
 ||jnps3tlw.xyz^
@@ -63935,6 +63940,7 @@ zzzyk.com###Tinfo
 ||lwkkvvjzmqkwm.site^
 ||lwkvkd.maison-objet.com^
 ||lwlcflypc.com^
+||lwlqblkcucbrjy.com^
 ||lwlwlw.com/ggzx/
 ||lwlwlw.com/js/FVgg.js
 ||lwlybwd5zq.com^
@@ -81382,6 +81388,7 @@ zzzyk.com###Tinfo
 ||r42tag.com^
 ||r44r4l5na1.com^
 ||r45j15.com^
+||r45jho6ug.com^
 ||r4nds.absorba.com^
 ||r4uws5iu3g.com^
 ||r528e.cn^
@@ -102739,6 +102746,7 @@ zzzyk.com###Tinfo
 ||uwy4.aegon.es^
 ||uwzwqadqkcjgw.site^
 ||uxahhowennlqf.website^
+||uxawyas.com^
 ||uxaz.fxnfk.cn^
 ||uxb030ku4s.com^
 ||uxbdiplshkupo.online^
@@ -108940,6 +108948,7 @@ zzzyk.com###Tinfo
 ||xs.houyi.baofeng.net^
 ||xs.searchacg.org^
 ||xs.swagger1.com^
+||xs27ycutl.com^
 ||xsapp.cdn.bcebos.com^
 ||xsapykbbsdm.net^
 ||xsbdujkox.com^
@@ -111067,6 +111076,7 @@ zzzyk.com###Tinfo
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
 ||z3617cz9ep.fitness.tappbrothers.com^
+||z3vkcnj9f.com^
 ||z444o.com^
 ||z492.ctinsider.com^
 ||z4a.net^$domain=aotu43.com|9xav.cc

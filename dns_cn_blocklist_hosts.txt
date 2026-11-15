@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.15.0413
-# Last modified: 2026-11-15T04:13:29+07:00
+# Version: 2026.11.16.0413
+# Last modified: 2026-11-16T04:13:37+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 96725
+# 唯一域名数: 96735
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -235,6 +235,7 @@
 0.0.0.0 0u9w05cxo.com
 0.0.0.0 0v0qj9fnwf.top
 0.0.0.0 0vpekhux1f.com
+0.0.0.0 0vtqrw86o.com
 0.0.0.0 0wk6gdkg8r.com
 0.0.0.0 0wpfe0duo.com
 0.0.0.0 0x01n2ptpuz3.com
@@ -2012,6 +2013,7 @@
 0.0.0.0 5pi13h3q.de
 0.0.0.0 5platforms.net
 0.0.0.0 5qnyx6k5w.com
+0.0.0.0 5qpogztzt.com
 0.0.0.0 5qryjrx3.xyz
 0.0.0.0 5sghirlr5b.com
 0.0.0.0 5t5z6augl3.com
@@ -2500,6 +2502,7 @@
 0.0.0.0 7nb71ub2xi.com
 0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 0.0.0.0 7nt9p4d4.de
+0.0.0.0 7nwt5qq78.com
 0.0.0.0 7oavaac8i.com
 0.0.0.0 7p5ruxflv0.com
 0.0.0.0 7pe17z68y.com
@@ -30239,6 +30242,7 @@
 0.0.0.0 extortionbudnumerous.com
 0.0.0.0 extqoqykkcpmo.space
 0.0.0.0 extracover.net
+0.0.0.0 extraction14.com
 0.0.0.0 extractobservation.com
 0.0.0.0 extraliner.com
 0.0.0.0 extralocker.com
@@ -43741,6 +43745,7 @@
 0.0.0.0 jnm.o41qed.cn
 0.0.0.0 jnmncpoktqope.online
 0.0.0.0 jnmqhpecyjrnf.online
+0.0.0.0 jnno9y1a9.com
 0.0.0.0 jnoxpedpszqfok.com
 0.0.0.0 jnppwfozovsqd.online
 0.0.0.0 jnps3tlw.xyz
@@ -49866,6 +49871,7 @@
 0.0.0.0 lwkkvvjzmqkwm.site
 0.0.0.0 lwkvkd.maison-objet.com
 0.0.0.0 lwlcflypc.com
+0.0.0.0 lwlqblkcucbrjy.com
 0.0.0.0 lwlybwd5zq.com
 0.0.0.0 lwmbc.cn
 0.0.0.0 lwmnyf.modivo.hu
@@ -66622,6 +66628,7 @@
 0.0.0.0 r42tag.com
 0.0.0.0 r44r4l5na1.com
 0.0.0.0 r45j15.com
+0.0.0.0 r45jho6ug.com
 0.0.0.0 r4nds.absorba.com
 0.0.0.0 r4uws5iu3g.com
 0.0.0.0 r528e.cn
@@ -87367,6 +87374,7 @@
 0.0.0.0 uwy4.aegon.es
 0.0.0.0 uwzwqadqkcjgw.site
 0.0.0.0 uxahhowennlqf.website
+0.0.0.0 uxawyas.com
 0.0.0.0 uxaz.fxnfk.cn
 0.0.0.0 uxb030ku4s.com
 0.0.0.0 uxbdiplshkupo.online
@@ -93257,6 +93265,7 @@
 0.0.0.0 xs.houyi.baofeng.net
 0.0.0.0 xs.searchacg.org
 0.0.0.0 xs.swagger1.com
+0.0.0.0 xs27ycutl.com
 0.0.0.0 xsapp.cdn.bcebos.com
 0.0.0.0 xsapykbbsdm.net
 0.0.0.0 xsbdujkox.com
@@ -95237,6 +95246,7 @@
 0.0.0.0 z2ubj8bpk.com
 0.0.0.0 z2uyyp069d.com
 0.0.0.0 z3617cz9ep.fitness.tappbrothers.com
+0.0.0.0 z3vkcnj9f.com
 0.0.0.0 z444o.com
 0.0.0.0 z492.ctinsider.com
 0.0.0.0 z4a.net
