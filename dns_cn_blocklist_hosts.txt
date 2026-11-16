@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.16.1236
-# Last modified: 2026-11-16T12:36:11+07:00
+# Version: 2026.11.17.0415
+# Last modified: 2026-11-17T04:15:08+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 96618
+# 唯一域名数: 96623
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -620,6 +620,7 @@
 0.0.0.0 1baq2nvd6n7.www.keevowallet.com
 0.0.0.0 1bb4f2018f.com
 0.0.0.0 1bc1au5l.xyz
+0.0.0.0 1bdy5sl4fc.com
 0.0.0.0 1be953d1cc.com
 0.0.0.0 1betandgonow.com
 0.0.0.0 1bliq.io
@@ -1803,6 +1804,7 @@
 0.0.0.0 52aan.cn
 0.0.0.0 52av.be
 0.0.0.0 52baa5963b.com
+0.0.0.0 52cg5n8jjd.com
 0.0.0.0 52d8.pandasuite.io
 0.0.0.0 52data-venture.com
 0.0.0.0 52kmh.com
@@ -2517,6 +2519,7 @@
 0.0.0.0 7x4.fr
 0.0.0.0 7x5.fr
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
+0.0.0.0 7xjdieyglr.com
 0.0.0.0 7xkdyg9b8k.com
 0.0.0.0 7xm6spgwu.com
 0.0.0.0 7xsf3h.com1.z0.glb.clouddn.com
@@ -80895,6 +80898,7 @@
 0.0.0.0 tlmsrqbupfivk.site
 0.0.0.0 tlnmttmhpcarf.online
 0.0.0.0 tlojzxvxmjiti.space
+0.0.0.0 tlomdebs.com
 0.0.0.0 tlpvbxfqcwviq.website
 0.0.0.0 tlq8ufqddj.com
 0.0.0.0 tlqndgnfgmeue.site
@@ -93634,6 +93638,7 @@
 0.0.0.0 y6p7022ep4.com
 0.0.0.0 y71.ylems.club
 0.0.0.0 y738.nhregister.com
+0.0.0.0 y756n8wwt8.com
 0.0.0.0 y76.ylems.club
 0.0.0.0 y7bo6nwk.xyz
 0.0.0.0 y820.darientimes.com

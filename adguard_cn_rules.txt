@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.16.1236
-! Last modified: 2026-11-16T12:36:11+07:00
+! Version: 2026.11.17.0415
+! Last modified: 2026-11-17T04:15:08+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20155 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17092 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20166 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17096 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96508 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 112675
+! 合并去重后唯一规则总数: 112683
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -1225,7 +1225,6 @@ $websocket,domain=wap.yushuwu.cloud
 /gg_d.php
 /gg_details_
 /gg_t.php
-/ggao.
 /ggao/*
 /ggclass/*
 /ggdata1.
@@ -2550,6 +2549,7 @@ $websocket,domain=wap.yushuwu.cloud
 91.com,beihaiting.com,guitarchina.com,hao123.com,site.baidu.com,sojson.com##.banner2
 91.com,hao123.com##.cn_banner
 91.com,hao123.com,site.baidu.com###midline
+91cg1.com##.post-content > div[style="text-align:center;margin:20px 0;"]
 91danji.com###bg_ad
 91danji.com###bg_ad,div.hr.hr48
 91danji.com##.zlVideTowNav
@@ -5016,8 +5016,10 @@ cl.wpio.xyz##.tpc_content > a[target="_blank"][onmouseover]
 cleanip.io##.iu--banner
 cleanip.io##.netfish-invite-compact
 cleanip.io##.nf-campaign
+cleanip.io##aside[data-nosnippet][class*="--"]
 cleanip.io##div[aria-label="赞助内容"]
 cleanip.io##div[aria-label^="Sponsored"]
+cleanip.io##section[data-nosnippet] > div > aside[class*="--"]
 click108.com.tw##.AD_300250
 click108.com.tw##.AD_730280
 clickhole.com,lifehacker.com,splinternews.com,avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class]:has(> div[data-ad-unit]:only-child)
@@ -11665,6 +11667,7 @@ zzzyk.com###Tinfo
 ||1baq2nvd6n7.www.keevowallet.com^
 ||1bb4f2018f.com^
 ||1bc1au5l.xyz^
+||1bdy5sl4fc.com^
 ||1be953d1cc.com^
 ||1betandgonow.com^
 ||1bliq.io^
@@ -13091,6 +13094,7 @@ zzzyk.com###Tinfo
 ||52av.be^$popup,3p
 ||52av.be^$popup,third-party
 ||52baa5963b.com^
+||52cg5n8jjd.com^
 ||52che.com/Inc/FooterComm_
 ||52che.com/NewLocal/TemplateHtml/headflash1_
 ||52d8.pandasuite.io^
@@ -13947,6 +13951,7 @@ zzzyk.com###Tinfo
 ||7xdown.com/bz/
 ||7xdown.com/idcgg/
 ||7xi9g1.com1.z0.glb.clouddn.com^
+||7xjdieyglr.com^
 ||7xkdyg9b8k.com^
 ||7xm6spgwu.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
@@ -14275,6 +14280,7 @@ zzzyk.com###Tinfo
 ||91bixin.net/api/adv/
 ||91bixin.net/api/chdd/liveAdv?
 ||91cd3khn.de^
+||91cg1.com/ssp/
 ||91danji.com/attachments/201810/12/10/2hdyj7ut9.jpg
 ||91danji.com/js/lmt.js
 ||91feiyong.com^
@@ -96248,6 +96254,7 @@ zzzyk.com###Tinfo
 ||tlmsrqbupfivk.site^
 ||tlnmttmhpcarf.online^
 ||tlojzxvxmjiti.space^
+||tlomdebs.com^
 ||tlpvbxfqcwviq.website^
 ||tlq8ufqddj.com^
 ||tlqndgnfgmeue.site^
@@ -109456,6 +109463,7 @@ zzzyk.com###Tinfo
 ||y6p7022ep4.com^
 ||y71.ylems.club^
 ||y738.nhregister.com^
+||y756n8wwt8.com^
 ||y76.ylems.club^
 ||y7bo6nwk.xyz^
 ||y820.darientimes.com^

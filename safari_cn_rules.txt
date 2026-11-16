@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.16.1236
-! Last modified: 2026-11-16T12:36:12+07:00
+! Version: 2026.11.17.0415
+! Last modified: 2026-11-17T04:15:09+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/96612（按来源收录数优先截取）
+! 覆盖域名: 49000/96617（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5562,6 +5562,7 @@
 ||zzhizbzowrzlvy.com^
 ||zzuccikqt.com^
 ||002777.xyz^
+||01wgskp9y3.com^
 ||0vtqrw86o.com^
 ||1.15lu.com^
 ||1.201980.com^
@@ -5583,6 +5584,7 @@
 ||11.golang8.com^
 ||11.yiqig.com^
 ||1200555.com^
+||1bdy5sl4fc.com^
 ||1iuh5l.com^
 ||2016.bkill.net^
 ||2y2lttjs.hair^
@@ -5590,6 +5592,7 @@
 ||37cs.com^
 ||4009997658.com^
 ||51.la^
+||52cg5n8jjd.com^
 ||5qpogztzt.com^
 ||666579.xyz^
 ||666hh999gg.com^
@@ -5599,6 +5602,7 @@
 ||776.jstatic.xyz^
 ||7d36a.com^
 ||7nwt5qq78.com^
+||7xjdieyglr.com^
 ||9867.org^
 ||98765.pw^
 ||a.10tianqi.com^
@@ -5756,6 +5760,7 @@
 ||ggcode.2345.com^
 ||ggxwb.miguvideo.com^
 ||gp.jstv.com^
+||grmxqjo.com^
 ||guess.h.qhimg.com^
 ||guitarpro.cc^
 ||h1.azuimeh.top^
@@ -5824,6 +5829,7 @@
 ||lafacw.xyz^
 ||lh1dki82.com^
 ||ll.gxsky.com^
+||ll4d0puaa2.com^
 ||logoshejishi.com^
 ||lwlqblkcucbrjy.com^
 ||lyz.radio366.com^
@@ -5909,6 +5915,7 @@
 ||tf.360.cn^
 ||theweeklydonut.org^
 ||tk.504pk.com^
+||tlomdebs.com^
 ||tns.simba.taobao.com^
 ||tp.suppercacheimages.top^
 ||track.sohu.com^
@@ -6005,6 +6012,7 @@
 ||xxsmtz8.com^
 ||xxsmtz9.com^
 ||y.photoint.net^
+||y756n8wwt8.com^
 ||ydxdg.xyz^
 ||yihuifu.cn^
 ||yijiuningyia.gushiwen.org^
@@ -6050,7 +6058,6 @@
 ||01daa.luvbr.com^
 ||01daa.luytr.com^
 ||01daa.luzdz.com^
-||01wgskp9y3.com^
 ||01ws5t.cn^
 ||0202.com.tw^
 ||020wujin.cn^
@@ -39232,7 +39239,6 @@
 ||grlrmortbxvee.space^
 ||grmtas.com^
 ||grmtech.net^
-||grmxqjo.com^
 ||grn.openapp.link^
 ||grnext.crockpot-romania.ro^
 ||grnezkzjgcwvs.space^
@@ -49004,9 +49010,3 @@
 ||l.dev.audibook.si^
 ||l.diapasonmag.fr^
 ||l.dm.casio.info^
-||l.doctissimo.fr^
-||l.dzfoot.com^
-||l.e.domain.com.au^
-||l.engage.canva.com^
-||l.entrenous.fr^
-||l.fairblocker.com^
