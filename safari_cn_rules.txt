@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.16.0413
-! Last modified: 2026-11-16T04:13:37+07:00
+! Version: 2026.11.16.1236
+! Last modified: 2026-11-16T12:36:12+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/96606（按来源收录数优先截取）
+! 覆盖域名: 49000/96612（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5593,6 +5593,7 @@
 ||5qpogztzt.com^
 ||666579.xyz^
 ||666hh999gg.com^
+||681znub3xp.com^
 ||6ogiuks905.com^
 ||7011.stia.cn^
 ||776.jstatic.xyz^
@@ -5715,6 +5716,7 @@
 ||df888.eastday.com^
 ||dfqzah.xyz^
 ||dhkqqe.top^
+||divisible26.com^
 ||dkaktsb.icu^
 ||dkweuy.com^
 ||dlads.cn^
@@ -5795,6 +5797,7 @@
 ||irs03.com^
 ||itadapi.ithome.com.tw^
 ||iwanad.baidu.com^
+||iytnwiw0e1.com^
 ||j.diangon.com^
 ||jiaoben.eastday.com^
 ||jibn12.jintang114.org^
@@ -6047,6 +6050,7 @@
 ||01daa.luvbr.com^
 ||01daa.luytr.com^
 ||01daa.luzdz.com^
+||01wgskp9y3.com^
 ||01ws5t.cn^
 ||0202.com.tw^
 ||020wujin.cn^
@@ -39228,6 +39232,7 @@
 ||grlrmortbxvee.space^
 ||grmtas.com^
 ||grmtech.net^
+||grmxqjo.com^
 ||grn.openapp.link^
 ||grnext.crockpot-romania.ro^
 ||grnezkzjgcwvs.space^
@@ -49005,8 +49010,3 @@
 ||l.engage.canva.com^
 ||l.entrenous.fr^
 ||l.fairblocker.com^
-||l.ffx.io^
-||l.football.fr^
-||l.football365.fr^
-||l.francetvinfo.fr^
-||l.gamekult.com^

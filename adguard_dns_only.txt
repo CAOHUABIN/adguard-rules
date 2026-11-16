@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: DNS 域名规则（从全格式规则提取）
 ! Description: 从全格式合并规则中提取的 DNS 级域名拦截规则（||域名^），每日自动更新。
-! Version: 2026.11.16.0413
-! Last modified: 2026-11-16T04:13:34+07:00
+! Version: 2026.11.16.1236
+! Last modified: 2026-11-16T12:36:09+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 仅含域名级规则，适用于 AdGuard Home / AdGuard DNS 过滤模式
-# 唯一域名数: 289738
+# 唯一域名数: 289864
 # 来源: 同 adguard_rules_merged.txt 的 12 个列表合并去重
 #
 100.pncdn.cn
@@ -194,6 +194,7 @@ yihuifu.cn
 ||01d449a2ad.26e8841da4.com^
 ||01ivf.com^
 ||01mspmd5yalky8.com^
+||01wgskp9y3.com^
 ||02-concepts.com^
 ||0202.com.tw^
 ||0203.info^
@@ -3469,6 +3470,7 @@ yihuifu.cn
 ||3767411.notify6.com^
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
+||3768f88292.com^
 ||3771491.notify6.com^
 ||3775247.notifysrv.com^
 ||3777631.notify6.com^
@@ -5488,6 +5490,7 @@ yihuifu.cn
 ||680dd52882.com^
 ||6812103650-prawnicy.storage.googleapis.com^
 ||6812104201-prawnicy.storage.googleapis.com^
+||681znub3xp.com^
 ||6820tp1.com^
 ||6821620008-prawnicy.storage.googleapis.com^
 ||6821719103-prawnicy.storage.googleapis.com^
@@ -34966,6 +34969,7 @@ yihuifu.cn
 ||apmplus.ap-southeast-1.volces.com^
 ||apmplus.volces.com^
 ||apmruhdf.in^
+||apnlsrhwvtoeg.site^
 ||apnpr.com^
 ||apocalypsegulliblemood.com^
 ||apocharetzian.com^
@@ -36995,6 +36999,7 @@ yihuifu.cn
 ||ardiq.shop^
 ||ardiqo.shop^
 ||arditoscambiatura.net^
+||ardmujddgdflm.online^
 ||ardont.xyz^
 ||ardricopra.cfd^
 ||ardslediana.com^$popup
@@ -38683,6 +38688,7 @@ yihuifu.cn
 ||atwpnsdqxrmfx.site^
 ||atwxrp.bibloo.cz^
 ||atxehshacdzxr.website^
+||atxjoldfwdtnx.website^
 ||atxslk.galamart.ru^
 ||aty.sohu.com^
 ||atyabalsheikh.store^
@@ -39908,6 +39914,7 @@ yihuifu.cn
 ||axvftrz.eu.cc^
 ||axvhirojna.in^
 ||axvjfzbwezssw.site^
+||axvmruqncqdiq.site^
 ||axwfl.diamondpoint.net^
 ||axwpbsweuwclq.space^
 ||axwxxnchwveir.site^
@@ -40543,6 +40550,7 @@ yihuifu.cn
 ||babator.com^
 ||babator.com^$3p
 ||babator.com^$third-party
+||babbitafd.com^
 ||babblelessenairline.com^
 ||babdk.direct-meds.com^
 ||babefocus.com^
@@ -41444,6 +41452,7 @@ yihuifu.cn
 ||bareflowmat-ss.checkoutera.com^
 ||barefootdreamsclasssettlement.e.epiqnotification.com^
 ||baregesiridite.click^
+||bareiver.rest^
 ||bareleggedhelmhim.com^
 ||barelydonkeysteed.com^
 ||barelykhariaedgiest.cfd^
@@ -42581,6 +42590,7 @@ yihuifu.cn
 ||bebi.com^$3p
 ||bebi.com^$third-party
 ||bebitealdols.cfd^
+||beblearnovelet.rest^
 ||beblearsiccar.com^
 ||bebleedchuffs.cfd^
 ||beblesscattier.cfd^
@@ -42933,6 +42943,7 @@ yihuifu.cn
 ||bemusedlyrurusarsons.cfd^
 ||bemyhole.cam^$domain=bemyhole.com
 ||ben.crxmouse.com^
+||benacusumbos.cfd^
 ||benaughty.com^
 ||benaughty.com^$popup
 ||benchcrafted.go-static.info^
@@ -43520,7 +43531,6 @@ yihuifu.cn
 ||betssononline.fr^
 ||bettacaliche.click^
 ||bettentacruela.com^
-||bettentacruela.com^$document
 ||bettentacruela.com^$popup
 ||better-replay.com^
 ||better-utility-desk.pro^
@@ -46076,6 +46086,7 @@ yihuifu.cn
 ||bm2contabilidade.com.br^
 ||bm3536.com^
 ||bm3xyw6am.com^
+||bm5mwgq9bh453wt9zb.rest^
 ||bm5unauv.xyz^
 ||bm6c3pthv.com^
 ||bma-whatsapp.com^
@@ -46638,6 +46649,7 @@ yihuifu.cn
 ||bolhas.bubbles.com.br^
 ||bolingbrookgolfclub.actonservice.com^
 ||bolitamanly.com^
+||bolivarsharns.click^
 ||bollixesyoungblkkoods.info^
 ||bollixpapula.com^
 ||bollyocean.com^
@@ -48905,6 +48917,7 @@ yihuifu.cn
 ||bugdsm.buffalo-boots.com^
 ||bugfender.com^
 ||bugfix.net.mydays.de^
+||buggingshovesthatch.cfd^
 ||buggishbecomeme.org^
 ||buggykinoosdogfish.cyou^
 ||bugherd.com^
@@ -52166,6 +52179,7 @@ yihuifu.cn
 ||carnelo.shop^
 ||carneoam.com^
 ||carnicunsworn.qpon^
+||carnifyartgumxystoi.cyou^
 ||carnivorouswordsroute.com^
 ||caroda.io^
 ||caroda.io^$3p
@@ -52722,6 +52736,7 @@ yihuifu.cn
 ||catfish.sofatido.ch^
 ||catfood.mikipetstore.com^
 ||catfront.dianping.com^
+||catfvjtimrvt.com^
 ||catharsisproductionsmarketing.catharsisproductions.com^
 ||cathaypacific.data.adobedc.net^
 ||cathaytrash.com^
@@ -53701,7 +53716,7 @@ yihuifu.cn
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.itphanpytor.club^
-||cdn.iubenda.com^$domain=lovegiver.it|mondadoristore.it|startech.com|lofficielitalia.com|ciakmagazine.it|leaddev.com|davidpuente.it|vaccinarsinlazio.org|altrarunning.eu|routinehub.co|eprice.it|bakeca.it|gdrplayers.it|centridentisticiprimo.it|grilli.org|oncewerenerd.com|costacruises.eu|ilsussidiario.net|laragione.eu|litter-robot.com|strapstudio.com|elimobile.it|crel.it|viaggiarerent.com|eurospin.it|shoujo-love.net|open3dlab.com|unicusano.it|moveo.telepass.com|bobsbusiness.co.uk|smartworld.it|scuoladelia.it|studenti.it|pierucciagricoltura.it|newatlas.com|quark.com|frame.work|aranzulla.it|sorrisi.com|automateexcel.com|ticketsms.it|cagliaripad.it|maggiolieditore.it|rivistadomino.it|ikonos.tv|fidelityhouse.eu|asustore.it|connetti.italia.it|comet.it|trony.it|optimaitalia.com|ridevideogame.com|biopills.net|crazygames.pl|giallozafferano.it|hwupgrade.it|rdrbikes.it|formu1a.uno|boilerroom.tv|gta-series.com|zeusnews.it|vgpplay.com|libretro.com|lunarg.com|rausgegangen.de|dire.it|sanihelp.it|textexpander.com|victoriassecretbeauty.it|businessschool.luiss.it|rifiutologia.it|centrocommercialeaura.it|baopublishing.it|torrinomedica.it|policlinicocampusbiomedico.it|policlinicogemelli.it|prospectmagazine.co.uk|drcommodore.it|stilcasa.net|farmaciasanvito.com|webtoppings.bar|homerun.co.uk|assodigitale.it|emisupermercati.it|internazionale.it|easycoop.com|sancarloveterinaria.it|profumeriamancino.com|attivissimo.me|comixrevolution.com|rinascente.it|martysmods.com|inclusiva-mente.it|quotidianodipuglia.it|muscleandstrength.com|manytricks.com|sportler.com|inciso.it|antoninolagana.it|coolors.co|film.it|cash-back.it|apothekeloreto.de|incube8games.com|moosend.com|martinogroup.shop|buy-european-made.eu|dentistaforyou.it|opsmobile.it|whattomine.com|hackernoon.com|happyending24.com|lofficielusa.com|lescienze.it|costacruises.co.uk|pianetamamma.it|nostrofiglio.it|primi-sorrisi.it|moico.pl|lockeritalia.com|filmamo.it|mbe.it|estateinsardegna.it|fm-world.it|ticketfairy.com|ats-brescia.it|dufercoenergia.com|gruppohera.it|herabit.com|laprealpina.com|meteoam.it|shipmag.it|benvenutofamilyrestaurant.it|bluenergygroup.it|ortofruititalia.it|treedom.net|youngplatform.com|klugo.de|ethosprofumerielauda.com|mind-verse.de|itsinternational.com|realsexdoll.it|fastnews.app|gls-italy.com|nencinisport.it|pinalli.it|bresciaoggi.it|dryyve.com|gazzettadimantova.it|gazzettamatin.com|ilnordestquotidiano.it|larena.it|radioverona.it|rentalgroup.net|rentygroup.it|telearena.it|telemantova.it|tuttoits.it|webaze.biz|zeep.agency|alanboswell.com|lavishlifecompetitions.co.uk|ehftv.com|ciclidrigani.it|ternitoday.it|tp24.it|polskiobserwator.uk|dandomain.dk|beatvest.com|nexths.it|apio.cc|phoenixnest.it|ewtn.com|gazzettinodelchianti.it|nannapause.com|lentepubblica.it|green-naturals.de|storiaemagia.com|tinybeans.com|webassistanceita.com|j-pop.it|culture.ai|ecommerce.leonealato.net|during.it|wittytv.it|maxmarafashiongroup.com|labpolitiche.it|thisonlineweb.com|digital-office24.de|moin.ai|a2a.it|bike-room.com|galvitamin.de|labottegadelnerd.com|checkout.column.news|woodinstock.org|nationalgeographic.it|gamesurf.it|mymovies.it|alfemminile.com|games-world4you.de|cdt.ch|lsusports.net|huskers.com|borderline24.com|focus2move.com|fizik.com|poggioalsole.com|misterrunning.com|parkingmycar.it|alcaminetto.com|gazzettadalba.it|kappa.com|parkingo.com|parkofpoland.com|gaffistore.com|gaffiandcorome.com|sebago.com|tolltickets.com|vittoriaprofumi.com|mc2saintbarth.com|lowhosting.org|bootstrapped.ventures|tsrm-pstrp.org|lofficielkorea.com|urbanstaroma.com|50-ml.de|incident.io|oetiker.com|granola.ai|nabbi.it|barnesglobaladvisors.com|allgamestaff.it|northcape4000.com|sideproject.games|kfzversicherungsvergleich1.de
+||cdn.iubenda.com^$domain=lovegiver.it|mondadoristore.it|startech.com|lofficielitalia.com|ciakmagazine.it|leaddev.com|davidpuente.it|vaccinarsinlazio.org|altrarunning.eu|routinehub.co|eprice.it|bakeca.it|gdrplayers.it|centridentisticiprimo.it|grilli.org|oncewerenerd.com|costacruises.eu|ilsussidiario.net|laragione.eu|litter-robot.com|strapstudio.com|elimobile.it|crel.it|viaggiarerent.com|eurospin.it|shoujo-love.net|open3dlab.com|unicusano.it|moveo.telepass.com|bobsbusiness.co.uk|smartworld.it|scuoladelia.it|studenti.it|pierucciagricoltura.it|newatlas.com|quark.com|frame.work|aranzulla.it|sorrisi.com|automateexcel.com|ticketsms.it|cagliaripad.it|maggiolieditore.it|rivistadomino.it|ikonos.tv|fidelityhouse.eu|asustore.it|connetti.italia.it|comet.it|trony.it|optimaitalia.com|ridevideogame.com|biopills.net|crazygames.pl|giallozafferano.it|hwupgrade.it|rdrbikes.it|formu1a.uno|boilerroom.tv|gta-series.com|zeusnews.it|vgpplay.com|libretro.com|lunarg.com|rausgegangen.de|dire.it|sanihelp.it|textexpander.com|victoriassecretbeauty.it|businessschool.luiss.it|rifiutologia.it|centrocommercialeaura.it|baopublishing.it|torrinomedica.it|policlinicocampusbiomedico.it|policlinicogemelli.it|prospectmagazine.co.uk|drcommodore.it|stilcasa.net|farmaciasanvito.com|webtoppings.bar|homerun.co.uk|assodigitale.it|emisupermercati.it|internazionale.it|easycoop.com|sancarloveterinaria.it|profumeriamancino.com|attivissimo.me|comixrevolution.com|rinascente.it|martysmods.com|inclusiva-mente.it|quotidianodipuglia.it|muscleandstrength.com|manytricks.com|sportler.com|inciso.it|antoninolagana.it|coolors.co|film.it|cash-back.it|apothekeloreto.de|incube8games.com|moosend.com|martinogroup.shop|buy-european-made.eu|dentistaforyou.it|opsmobile.it|whattomine.com|hackernoon.com|happyending24.com|lofficielusa.com|lescienze.it|costacruises.co.uk|pianetamamma.it|nostrofiglio.it|primi-sorrisi.it|moico.pl|lockeritalia.com|filmamo.it|mbe.it|estateinsardegna.it|fm-world.it|ticketfairy.com|ats-brescia.it|dufercoenergia.com|gruppohera.it|herabit.com|laprealpina.com|meteoam.it|shipmag.it|benvenutofamilyrestaurant.it|bluenergygroup.it|ortofruititalia.it|treedom.net|youngplatform.com|klugo.de|ethosprofumerielauda.com|mind-verse.de|itsinternational.com|realsexdoll.it|fastnews.app|gls-italy.com|nencinisport.it|pinalli.it|bresciaoggi.it|dryyve.com|gazzettadimantova.it|gazzettamatin.com|ilnordestquotidiano.it|larena.it|radioverona.it|rentalgroup.net|rentygroup.it|telearena.it|telemantova.it|tuttoits.it|webaze.biz|zeep.agency|alanboswell.com|lavishlifecompetitions.co.uk|ehftv.com|ciclidrigani.it|ternitoday.it|tp24.it|polskiobserwator.uk|dandomain.dk|beatvest.com|nexths.it|apio.cc|phoenixnest.it|ewtn.com|gazzettinodelchianti.it|nannapause.com|lentepubblica.it|green-naturals.de|storiaemagia.com|tinybeans.com|webassistanceita.com|j-pop.it|culture.ai|ecommerce.leonealato.net|during.it|wittytv.it|maxmarafashiongroup.com|labpolitiche.it|thisonlineweb.com|digital-office24.de|moin.ai|a2a.it|bike-room.com|galvitamin.de|labottegadelnerd.com|checkout.column.news|woodinstock.org|nationalgeographic.it|gamesurf.it|mymovies.it|alfemminile.com|games-world4you.de|cdt.ch|lsusports.net|huskers.com|borderline24.com|focus2move.com|fizik.com|poggioalsole.com|misterrunning.com|parkingmycar.it|alcaminetto.com|gazzettadalba.it|kappa.com|parkingo.com|parkofpoland.com|gaffistore.com|gaffiandcorome.com|sebago.com|tolltickets.com|vittoriaprofumi.com|mc2saintbarth.com|lowhosting.org|bootstrapped.ventures|tsrm-pstrp.org|lofficielkorea.com|urbanstaroma.com|50-ml.de|incident.io|oetiker.com|granola.ai|nabbi.it|barnesglobaladvisors.com|allgamestaff.it|northcape4000.com|sideproject.games|kfzversicherungsvergleich1.de|toolkit.fondazionescuola.it
 ||cdn.jampp.com^
 ||cdn.jandaqwe.com^
 ||cdn.janprocleaning.co.nz^
@@ -54386,6 +54401,7 @@ yihuifu.cn
 ||cebidaerewax.cyou^
 ||cebjrqvyienhy.site^
 ||cebnovoscizrj.online^
+||cebres.xyz^
 ||cecaatef.qpon^
 ||cecash.com^
 ||cecilliab.com^
@@ -54685,6 +54701,7 @@ yihuifu.cn
 ||cerrospahi.click^
 ||cert-service.edge44.testandtarget.omniture.com^
 ||certainband.com^
+||certaincactus.com^
 ||certainlywhen.com^
 ||certainmoss.com^
 ||certainwing.com^
@@ -56772,6 +56789,7 @@ yihuifu.cn
 ||clerk.c.prom.st^
 ||clerks.doccheck.com^
 ||clerrrep.com^
+||clerumperes.com^
 ||clesor.uoecollection.com^
 ||cleverads.vn^
 ||cleverads.vn^$3p
@@ -58569,6 +58587,7 @@ yihuifu.cn
 ||cmttvv.bonprix.se^
 ||cmvietcombank.com^
 ||cmx.autohome.com.cn^
+||cmyjmeiecznbw.site^
 ||cmymgxmbporwn.site^
 ||cmyvivsamx.in^
 ||cmyyrxuwxglbs.space^
@@ -64695,6 +64714,7 @@ yihuifu.cn
 ||crystalli.de^
 ||crystalslot.com^
 ||cryto.xyz^
+||cryvggjyqlhji.site^
 ||cryweb.github.io^
 ||crz.pecado.ro^
 ||crzohw.intersport.gr^
@@ -65512,6 +65532,7 @@ yihuifu.cn
 ||cumunzmneiyte.online^
 ||cunasreno.cfd^
 ||cunavo.shop^
+||cuncqsnhdhhqw.site^
 ||cunda.ai^
 ||cunda.ai^$third-party
 ||cundafashionclothing.shop^
@@ -65973,6 +65994,7 @@ yihuifu.cn
 ||cvevpwhszksij.online^
 ||cvfelozwatfcb.com^
 ||cvfovyleufbbt.space^
+||cvftznrelwjrj.space^
 ||cvgbl.consumeraffairs.com^
 ||cvgeps.goedkopevliegtuigtickets.be^
 ||cvgml.yema.com^
@@ -66207,6 +66229,7 @@ yihuifu.cn
 ||cyachalbbofrw.online^
 ||cyad.nate.com^
 ||cyad1.nate.com^
+||cyafskdlykiou.online^
 ||cyaijllypnzgl.online^
 ||cyamoidunifier.com^
 ||cyamusmakuk.cfd^
@@ -69090,6 +69113,7 @@ yihuifu.cn
 ||dallas-content.cresa.com^
 ||dallasnorth.place.go-static.info^
 ||dallavel.com^
+||dalleeclats.com^
 ||dalmeko.shop^
 ||dalmfn.xyz^
 ||dalmorique.com^
@@ -76411,6 +76435,7 @@ yihuifu.cn
 ||deerflyamotus.qpon^
 ||deergift.com^
 ||deerpreheat.com^
+||deertulip.com^
 ||deeschorai.com^
 ||deezer.com^$removeparam=deferredFl
 ||deezer.com^$removeparam=origin
@@ -78428,6 +78453,7 @@ yihuifu.cn
 ||dii4.zooplus.pt^
 ||dii4.zooplus.ro^
 ||dii4.zooplus.se^
+||diimvugephzxs.space^
 ||diipxa.roadtechmarine.com.au^
 ||diiurvdpkowra.site^
 ||dijtvqgoemjhv.website^
@@ -79008,6 +79034,7 @@ yihuifu.cn
 ||divinesbaze.com^
 ||divingamends.com^
 ||divingsubmissionvocational.com^
+||divisible26.com^
 ||division43.top^
 ||divisioncore.com^
 ||divisiondrearilyunfiled.com^
@@ -79395,7 +79422,6 @@ yihuifu.cn
 ||dlqycx.zenhotels.com^
 ||dlrdmw.zanui.com.au^
 ||dlrectdates.com^
-||dlrectdates.com^$document
 ||dlrectdates.com^$popup
 ||dlresctrl.phub.sandai.net^
 ||dlrioxg1637dk.cloudfront.net^
@@ -79961,6 +79987,7 @@ yihuifu.cn
 ||dogcbhkupqzor.website^
 ||dogcollarfavourbluff.com^
 ||dogearsalypine.cyou^
+||doggieruvulasenforth.cyou^
 ||doggy.digitalninjas.com^
 ||doghalf.com^
 ||doglobal.net^
@@ -81118,6 +81145,7 @@ yihuifu.cn
 ||drowsymochi.goaserv.com^
 ||drowtebedegar.com^
 ||droyd.top^
+||droyltriodes.cyou^
 ||drozhhgsejvhn.space^
 ||drpengermany.com^
 ||drpep.crossoversymmetry.com^
@@ -81984,6 +82012,7 @@ yihuifu.cn
 ||dtswghsbvpbzu.website^
 ||dtswpgusucgfd.website^
 ||dtsxn.cn^
+||dttdunyoglshx.space^
 ||dtteadlocktumblebug.info^
 ||dttemocratized.info^
 ||dttin.inhhair.com^
@@ -83069,6 +83098,7 @@ yihuifu.cn
 ||dzwjy.questoutdoors.com.au^
 ||dzwnrexxwsayy.online^
 ||dzwqfq.alpitour.it^
+||dzxgdmduahpdk.website^
 ||dzxr711a4yw31.cloudfront.net^
 ||dzyuqtbjjtfpg.site^
 ||dzyvx.maebe.co.uk^
@@ -83380,6 +83410,7 @@ yihuifu.cn
 ||e5efd04248.ea5336970a.com^
 ||e5nnk.com^
 ||e5obq1v261.www.lurkit.com^
+||e5pb8rzj6tw8lk8.rest^
 ||e608df03d6.com^
 ||e63c2b7c52.995be54914.com^
 ||e649fcmt4w54v8758cj8.rest^
@@ -83618,6 +83649,7 @@ yihuifu.cn
 ||ealjjdpbledwq.site^
 ||ealmtiqryxpox.website^
 ||ealvusnyonhwy.online^
+||eamdorayfscon.website^
 ||eamgn.littleme.com^
 ||eamsst.eamtijewelry.com^
 ||eanalytics.linqi.de^
@@ -85323,6 +85355,7 @@ yihuifu.cn
 ||egoi.page^
 ||egoi.page^$3p
 ||egoi.site^
+||egoismtenths.rest^
 ||egojvezcvpcxsy.com^
 ||egomiogdopisd.website^
 ||egordorichev.go-static.info^
@@ -85786,6 +85819,7 @@ yihuifu.cn
 ||elboncoin.fr^
 ||elbqvcoqdsido.online^
 ||elbvlyqj.com^
+||elcajathelion.cyou^
 ||elcantonartesano.com^
 ||elcineencasa.com^
 ||elclaq.icu^
@@ -92966,6 +93000,7 @@ yihuifu.cn
 ||fdhaptzvzyukn.space^
 ||fdhqzb.longkionemedics.com^
 ||fdi1rg6ihs.com^
+||fdictdipaklai.website^
 ||fdighyuwxtqpt.website^
 ||fdiinc.actonservice.com^
 ||fdikpaoxayumd.site^
@@ -93231,6 +93266,7 @@ yihuifu.cn
 ||fejrfn.seslial.com^
 ||fekljtbhbtzqv.online^
 ||fekqhf.lampeguru.dk^
+||fekqqwrgrrshg.space^
 ||fekspkhytsivw.website^
 ||fel-api.prod.browse.bestbuy.com^
 ||feldluft.de^
@@ -93418,6 +93454,7 @@ yihuifu.cn
 ||festyy.com^
 ||fet20kdo93.com^
 ||fetabrines.com^
+||fetcgererlbkd.space^
 ||fetch.canine12.com^
 ||fetch.gethuan.com^
 ||fetch.pawscapes.com.au^
@@ -94686,6 +94723,7 @@ yihuifu.cn
 ||fingerrealistic.com^
 ||fingeryrumbler.com^
 ||fingridly.info^
+||finisesarachisexceed.cfd^
 ||finiseshacklog.com^
 ||finishedcamp.pro^
 ||finisheddaysflamboyant.com^
@@ -94770,6 +94808,7 @@ yihuifu.cn
 ||fioronexo.net^
 ||fiowtf.hyggee.com^
 ||fipje.rosewe.com^
+||fipjmbp8j2l9lf9he8e6y9oukzfg.cfd^
 ||fiplvmuzlzprr.space^
 ||fipnhbnfbwxhc.site^
 ||fipqcyechylid.online^
@@ -95459,6 +95498,7 @@ yihuifu.cn
 ||fleshcash.com^$3p
 ||fleshcash.com^$third-party
 ||fleshedabody.com^
+||flesherjanapumsteamer.cfd^
 ||fleshlightcash.com^
 ||fleshlightgirls.com^
 ||fleshlightgirls.com^$3p
@@ -95600,6 +95640,7 @@ yihuifu.cn
 ||flnfeuesmzmzy.online^
 ||flnjn.coachoutlet.com^
 ||flnkmj.hometogo.fr^
+||flnqxpirffyqt.online^
 ||floater.playstream.media^$domain=ouo.io
 ||floatingpresentedshopping.com^
 ||floatjav09212026.shop^
@@ -98219,6 +98260,7 @@ yihuifu.cn
 ||ftgsxcponsrcc.site^
 ||ftjcfx.com^
 ||ftjgfjeg.rain.co.za^
+||ftjyyuqyjddej.online^
 ||ftkhknxsfimhp.site^
 ||ftksrnkazgilp.space^
 ||ftkzyiodhghcs.site^
@@ -100267,6 +100309,7 @@ yihuifu.cn
 ||gazetauruara.goaserv.com^
 ||gazicocukbeyincerrahisi.go-static.info^
 ||gazicocukbeyincerrahisi.goaserv.com^
+||gazingunmixedwharves.cfd^
 ||gazkohjzcdbty.online^
 ||gazmoons.com^
 ||gazozfasti.cyou^
@@ -105894,6 +105937,7 @@ yihuifu.cn
 ||grmtech.net^
 ||grmtech.net^$3p
 ||grmtech.net^$third-party
+||grmxqjo.com^
 ||grn-membershipff.com^
 ||grn-memberships.com^
 ||grn-memberships2021.com^
@@ -112519,6 +112563,8 @@ yihuifu.cn
 ||guatafac.org^
 ||guate.tiendaalasexpress.com^
 ||guayabomarshes.cfd^
+||guayabotampoon.rest^
+||guazpdlznzawa.site^
 ||gubagootracking.com^
 ||gubagootracking.com^$3p
 ||gubluhlqzeod.com^
@@ -112778,6 +112824,7 @@ yihuifu.cn
 ||gvalliscoreofficial.org^
 ||gvapp.ru^
 ||gvbdb.cendre.com.au^
+||gvbekpgazjwy.com^
 ||gvbfpvzdenqtg.site^
 ||gvbt3xwg.xyz^
 ||gvc.vn^
@@ -113001,6 +113048,7 @@ yihuifu.cn
 ||gxobicxhusdnt.space^
 ||gxohwrfaijevy.site^
 ||gxok7zf7zu77z9kqj2.cfd^
+||gxoqkxfcxmfji.website^
 ||gxordgtvjr.com^
 ||gxowuybbwgfjv.site^
 ||gxozdwttsqtqp.website^
@@ -113157,6 +113205,7 @@ yihuifu.cn
 ||gzfuaujzycdqf.website^
 ||gzfzcj.cn^
 ||gzgzwmp.shop^
+||gzhcrireklbaw.online^
 ||gzhkarwp9n.com^
 ||gzhpalnhttkad.online^
 ||gzidix.lampgallerian.se^
@@ -114700,6 +114749,7 @@ yihuifu.cn
 ||hectorspankasked.com^
 ||hectorstatic.baidu.com^
 ||hecwgmokvc.com^
+||hecwzxhrotjyl.site^
 ||hedefpanel.net^
 ||hedge.jymbro.app^
 ||hedgeabruptunlucky.com^
@@ -116322,6 +116372,7 @@ yihuifu.cn
 ||hmfzpxxnzkxvb.website^
 ||hmg.handelsblatt.com^
 ||hmg.wiwo.de^
+||hmgculxdgrblr.space^
 ||hmgnjf.autoscout24.it^
 ||hmgwwe.web2carz.com^
 ||hmhzr.murad.com^
@@ -117450,6 +117501,7 @@ yihuifu.cn
 ||hqhnb.red-equipment.ca^
 ||hqhor.jampack.com^
 ||hqiozkugrprzc.site^
+||hqispkpqhglyw.online^
 ||hqitrefgxtwvb.space^
 ||hqiwnj.clarins.pt^
 ||hqjuww.kolesa-darom.ru^
@@ -121475,6 +121527,7 @@ yihuifu.cn
 ||imbiaundoc.store^
 ||imbisdilom.store^
 ||imbrierbioticsmoneron.cyou^
+||imbroinjodel.cfd^
 ||imbuemadeup.com^
 ||imbueprescriptionhumiliation.com^
 ||imbuiavespina.shop^
@@ -126016,6 +126069,7 @@ yihuifu.cn
 ||iscrv.com^
 ||isdarot.com^
 ||isdriptxmxahz.website^
+||isdwamqyetrgr.online^
 ||iseatzmetrics.qantas.com^
 ||iseawave.com^
 ||isebis.takamiclinic.or.jp^
@@ -126811,6 +126865,7 @@ yihuifu.cn
 ||iyrrtosjcravm.online^
 ||iytgsogniseyy.space^
 ||iytkkiscgpghh.site^
+||iytnwiw0e1.com^
 ||iyuedu.cn.com^
 ||iyuzhqpoljnmf.space^
 ||iyvzbbqlo.com^
@@ -130602,6 +130657,7 @@ yihuifu.cn
 ||kafiribulkin.com^
 ||kafirscaplan.com^
 ||kafirwaived.click^
+||kafizhulsite.cyou^
 ||kafiztriduam.cyou^
 ||kafutxcmsyrae.website^
 ||kaganiecmi.com^
@@ -131594,6 +131650,7 @@ yihuifu.cn
 ||kfiaqobzpczlk.online^
 ||kfiip.stevemadden.ca^
 ||kfiopkln.com^
+||kfiqfearr.in^
 ||kfiqxtcuthefp.online^
 ||kfiwcpdw.autoclub.it^
 ||kfiwcpdw.motorsclub.com^
@@ -131740,6 +131797,7 @@ yihuifu.cn
 ||kh3.g1f5wq55lgc9y2oowfyp7pcot.cyou^
 ||kh3.kimhasa.com^
 ||kh4.kimhasa.com^
+||kh4iuliqqwxztgty1f9mfxpx.cfd^
 ||kh5.kimhasa.com^
 ||kh6.kimhasa.com^
 ||kh7.kimhasa.com^
@@ -131951,6 +132009,7 @@ yihuifu.cn
 ||kiiewncsjkmon.site^
 ||kiiytlrwnoptz.site^
 ||kijbwvznaofju.website^
+||kijvanavlosyw.website^
 ||kikarsundown.com^
 ||kikcrel9ygpbh2wn75j.cfd^
 ||kiki.rireetchansons.fr^
@@ -132351,6 +132410,7 @@ yihuifu.cn
 ||kjtipyiisrgig.site^
 ||kjunugorpqejn.online^
 ||kjuono.biome.com.au^
+||kjvqxwfazzsud.website^
 ||kjwbjnxpc.com^
 ||kjwbzf.mannheimer-jobanzeiger.de^
 ||kjxmcn.eset.com^
@@ -132950,6 +133010,7 @@ yihuifu.cn
 ||kocletggrqkdh.site^
 ||kocrekinek.pl^
 ||kodakedblartgossep.cyou^
+||kodakgynecic.cfd^
 ||kodaly.go-static.info^
 ||kodbviiemgkcr.site^
 ||kodcad.kr^
@@ -133603,6 +133664,7 @@ yihuifu.cn
 ||kspyqwogczssl.website^
 ||ksqjatyuv.com^
 ||ksr6uu1mk.com^
+||ksrqqwcddnxwy.site^
 ||ksrqsw.slim9.co.kr^
 ||ksseot.europcar.pt^
 ||kssmon.voga.co.kr^
@@ -135478,6 +135540,7 @@ yihuifu.cn
 ||lazadax17.com^
 ||lazadaz.xyz^
 ||lazadaz17.com^
+||lazardamierrussene.cfd^
 ||lazd8.com^
 ||lazduno.shop^
 ||lazedrumpot.top^
@@ -136468,6 +136531,7 @@ yihuifu.cn
 ||lepodownload.mediatek.com^
 ||leppq.northbrevardfuneralhome.com^
 ||leproletsu.link^
+||leprosyderipia.com^
 ||lepus.socialelite.pl^
 ||leqrcirjuawwi.site^
 ||leqrh.codispoti-law.com^
@@ -139151,6 +139215,7 @@ yihuifu.cn
 ||ll.gxsky.com^
 ||ll.liberrttyy.com^
 ||ll1fl3fygr1y7rblgb2.82luxu4ocgiixbq1lu.cyou^
+||ll4d0puaa2.com^
 ||llaaeuwepty.com^
 ||llacb.jollypets.com^
 ||llalp.omijewelry.com^
@@ -139189,6 +139254,7 @@ yihuifu.cn
 ||lliep.etrendygo.com^
 ||llink.site^
 ||llitg.sokolovelaw.com^
+||llivctuazexrg.site^
 ||lljdutrpfyuiw.online^
 ||lljoetsjbpukj.online^
 ||llkdiu.chacos.com^
@@ -150567,6 +150633,7 @@ yihuifu.cn
 ||lvvhp.focl.com^
 ||lvvinotyperronions.info^
 ||lvvjsnuqhalcx.space^
+||lvvsileqbsurl.site^
 ||lvwetfey.com^
 ||lvwgfqppnbg.com^
 ||lvwrdaevtocyj.online^
@@ -165360,6 +165427,7 @@ yihuifu.cn
 ||midpopedge.com^
 ||midriffdarby.cyou^
 ||midship24.com^
+||midspanwheeze.click^
 ||midstcabals.com^
 ||miduoke.net^
 ||midway.run^
@@ -166340,6 +166408,7 @@ yihuifu.cn
 ||mleqb8227.com^
 ||mletnkddrqios.space^
 ||mlfolu.nabava.net^
+||mlfslerfeptaf.online^
 ||mlfyllnkqsizp.website^
 ||mlgec.lexingtonaddictioncenter.com^
 ||mlgubn.autouncle.de^
@@ -168243,6 +168312,7 @@ yihuifu.cn
 ||mpylnlsjriwkb.space^
 ||mpyrwiatobzzu.space^
 ||mpzcpexsezuzp.space^
+||mpzojynjconsr.online^
 ||mpzovdkkbageu.space^
 ||mpzvlcsvicxgl.website^
 ||mq.u2th3xx9uhb18i8ij9.cyou^
@@ -169498,6 +169568,7 @@ yihuifu.cn
 ||mwkljcqfgyvmw.site^
 ||mwllnmobmruyj.online^
 ||mwllnzblxxylc.space^
+||mwnawoazqkejo.online^
 ||mwnfizmdfgcxs.space^
 ||mwotyunctxlxx.site^
 ||mwozucdauekyx.site^
@@ -173859,6 +173930,7 @@ yihuifu.cn
 ||nixbet-casino-fr.fr^
 ||nixbet-casino.fr^
 ||nixbetcasino.fr^
+||nixdndehbsnkp.space^
 ||nixie.starlightnet.work^
 ||nixnrpwbxhuza.website^
 ||nixytibrella.com^
@@ -174334,7 +174406,6 @@ yihuifu.cn
 ||noam.events.data.trafficmanager.net^
 ||noapy4ni0h.data.adobedc.net^
 ||noavoahevugrib.com^
-||noavoahevugrib.com^$document
 ||noavoahevugrib.com^$popup
 ||nobblespush.cyou^
 ||nobelwaardebaat.com^
@@ -175580,6 +175651,7 @@ yihuifu.cn
 ||nuadvpagamos.com^
 ||nuancedmorosis.com^
 ||nuaooeaurlzpv.space^
+||nuaygmpacpvjr.site^
 ||nubap.buffalojeans.com^
 ||nubbledbalked.qpon^
 ||nubblysaves.com^
@@ -176648,6 +176720,7 @@ yihuifu.cn
 ||obqj5.com^
 ||obqjcftbbenz.com^
 ||obqofw.takasu.co.jp^
+||obqqrnqjlptni.space^
 ||obqvss.debameubelen.be^
 ||obra.obraelucro.com.br^
 ||obra.obramaster.pro^
@@ -176712,6 +176785,7 @@ yihuifu.cn
 ||obtqre.contactlensking.com^
 ||obtsbskplemtn.website^
 ||obtundsfundus.qpon^
+||obtuserunaxledkassite.cyou^
 ||obudzgeniusza.pl^
 ||obunko.com^
 ||obuntoibafqlz.site^
@@ -176926,6 +177000,7 @@ yihuifu.cn
 ||oct8ne.com^
 ||octan.foundr.com^
 ||octaneai.com^*/utrk
+||octantsumbonal.rest^
 ||octavius.rocks^
 ||octavius.rocks^$3p
 ||octavius.rocks^$third-party
@@ -177499,6 +177574,7 @@ yihuifu.cn
 ||ofxelmzxcrkhp.site^
 ||ofxvob.plantura.garden^
 ||ofymjcdwjuvdi.online^
+||ofzjdrufnrcms.online^
 ||ofzqe.red-equipment.us^
 ||og-ali1.com^
 ||og-shopee9.com^
@@ -177777,6 +177853,7 @@ yihuifu.cn
 ||ointmentapathetic.com^
 ||oio.porntez.com^
 ||oiodyx.baldur-garten.de^
+||oiohevpjkf.com^
 ||oiotndkgyhcoc.site^
 ||oipahhlctgtlr.website^
 ||oipvs.banknoteworld.com^
@@ -178341,6 +178418,7 @@ yihuifu.cn
 ||omasumdeworm.click^
 ||omatri.info^
 ||omazeiros.com^
+||omberhymenia.cyou^
 ||ombet.condition1.com^
 ||ombidfzbsmkxj.online^
 ||ombreku.shop^
@@ -180971,6 +181049,7 @@ yihuifu.cn
 ||otzo.com^
 ||otzpke.arcshop.it^
 ||ou.shutterfly.com^
+||ou8tv5hcqkhel9cp31jmqj5hy7c18wcix.cfd^
 ||ou8uyc7rocu3l1q6.cfd^
 ||ouaislarue.parfum-masculin.fr^
 ||ouargilbpg.com^
@@ -181179,7 +181258,6 @@ yihuifu.cn
 ||outlotloto.cfd^
 ||outmaneuverlled.info^
 ||outoctillerytor.com^
-||outoctillerytor.com^$document
 ||outoctillerytor.com^$popup
 ||outofthebluethudboard.com^
 ||outonebraxate.com^
@@ -181339,7 +181417,6 @@ yihuifu.cn
 ||oversizedsixtieswiry.com^
 ||oversleepwilling.com^
 ||oversolosisor.com^
-||oversolosisor.com^$document
 ||oversolosisor.com^$popup
 ||oversotuntame.shop^
 ||overspvviced.info^
@@ -182676,6 +182753,7 @@ yihuifu.cn
 ||palibs.tech^
 ||palibzh.tech^
 ||palissefrumety.com^
+||pallaepuker.rest^
 ||pallet.brandyour.co^
 ||pallet.fm^
 ||palletown.asceperformance.com^
@@ -184489,6 +184567,7 @@ yihuifu.cn
 ||pdwohozrzypdc.site^
 ||pdwrsrmjjrvvj.space^
 ||pdynrtubqauer.site^
+||pdzgxujvfqngs.website^
 ||pdzosfpizkqso.online^
 ||pdzutf.sftworks.jp^
 ||pdzzjz.icu^
@@ -184690,6 +184769,7 @@ yihuifu.cn
 ||pekeshackle.com^
 ||pekirinipure.com^
 ||pekjhombxovne.online^
+||pekmvnbxooyyb.online^
 ||pekrhjaeiwkcm.space^
 ||pekrqyieeeeht.online^
 ||pelagicmismate.com^
@@ -184722,6 +184802,7 @@ yihuifu.cn
 ||pelunyvoran.pro^
 ||pelvt.clearchoice.com^
 ||pelwizmmaiquo.site^
+||pelxhmdyrrsvg.online^
 ||pemgbvuksekwb.site^
 ||pemhbptqjdtxk.website^
 ||pemmhrrqksncr.space^
@@ -190318,6 +190399,7 @@ yihuifu.cn
 ||ppdb.pl^
 ||ppdb.pl^$third-party
 ||ppdovk.home24.ch^
+||ppdtxolwevqxm.space^
 ||ppdzrzm5z7.com^
 ||ppeddrb.shop^
 ||ppedzeazco.in^
@@ -194167,6 +194249,7 @@ yihuifu.cn
 ||pybiboy.lovable.app^
 ||pybmulveaz.com^
 ||pybqfjmdztcyn.site^
+||pycnialgurkha.cyou^
 ||pycnialmolders.com^
 ||pycnicchebec.qpon^
 ||pycniteajiva.cfd^
@@ -194175,6 +194258,7 @@ yihuifu.cn
 ||pydtwiqutiusg.online^
 ||pyerc.com^
 ||pyexakcucqmrs.site^
+||pyffgcmldyudr.website^
 ||pygirfcitczab.store^
 ||pyhxwswhweugh.online^
 ||pyiukciljqkpc.space^
@@ -195899,6 +195983,7 @@ yihuifu.cn
 ||qtfqacahhqnwm.website^
 ||qtgge.darngoodyarn.com^
 ||qtgoiasqfgbgb.space^
+||qtgzrg.com^
 ||qthij.naturalizer.com^
 ||qtidcabun.in^
 ||qtiizeosoagct.site^
@@ -197373,6 +197458,7 @@ yihuifu.cn
 ||ralphlaurenfr.fr^
 ||ralphrostral.com^
 ||ralplauran.com^
+||ralqzevtvfmgd.online^
 ||ralsspass.com^
 ||ralt.site^
 ||ralvexonminthara.net^
@@ -197499,6 +197585,7 @@ yihuifu.cn
 ||rankseller.de^
 ||ranksider.com^
 ||rankyou.com^
+||ranliscian.cfd^
 ||ranlq.homedics.com^
 ||ranmaotome.com^
 ||rannat.varusteleka.com^
@@ -197833,6 +197920,7 @@ yihuifu.cn
 ||rbwhz.bareperformancenutrition.com^
 ||rbxfree.com^
 ||rbxtrk.com^$popup
+||rbzcivyibcpib.online^
 ||rbzwxevjjkjjc.site^
 ||rc.bt.ilsemedia.nl^
 ||rc.dxsvr.com^
@@ -199436,6 +199524,7 @@ yihuifu.cn
 ||remaininghopefully.com^
 ||remainmother.com^
 ||remainthieve.com^
+||remanpurflertawneys.cyou^
 ||remansgustier.cyou^
 ||remansorbi.store^
 ||remansowner.com^
@@ -199536,6 +199625,7 @@ yihuifu.cn
 ||rendescelle.net^
 ||rendfy.com^
 ||rendia-ai.com^
+||rendingfrenal.click^
 ||renditaggio.net^
 ||renditaitalia.com^
 ||renditanzia.net^
@@ -201084,6 +201174,7 @@ yihuifu.cn
 ||rigill.com^
 ||riginvestigator.com^
 ||rigkqvfvsfevc.site^
+||rigorbummer.cyou^
 ||rigorlab.com^
 ||riguavestr.store^
 ||rihbxnftttvlp.website^
@@ -201398,6 +201489,7 @@ yihuifu.cn
 ||rkeit.livom.at^
 ||rkemcsxfkqxtf.space^
 ||rkezuvqtxgltl.online^
+||rkfhsadvgwkha.website^
 ||rkft2sdl8b.ru^
 ||rkfttejbisaww.online^
 ||rkfxyofrnrmkm.site^
@@ -201645,7 +201737,6 @@ yihuifu.cn
 ||rndhaunteran.com^$popup
 ||rndmlk8asw.com^
 ||rndskittytor.com^
-||rndskittytor.com^$document
 ||rndskittytor.com^$popup
 ||rnejbimorzprh.site^
 ||rnengage.com^
@@ -204502,6 +204593,7 @@ yihuifu.cn
 ||rxawqfgzwnkiw.space^
 ||rxayc.com^
 ||rxazjsqlawiue.online^
+||rxazveloolzlw.space^
 ||rxb4kvggbtqrbt1kz236.cfd^
 ||rxbctukdsacky.site^
 ||rxbmckvoxesqa.online^
@@ -204515,6 +204607,7 @@ yihuifu.cn
 ||rxflopfxnskez.online^
 ||rxfspe.ulthi.de^
 ||rxglmys.icu^
+||rxgqfhtdyzgof.website^
 ||rxgwcjrjbzzsw.website^
 ||rxhic.lemarais.nl^
 ||rxhifyyzvrwzj.space^
@@ -204663,6 +204756,7 @@ yihuifu.cn
 ||ryosrwwsczzpe.site^
 ||rypebb.icu^
 ||rypfb.saleehair.com^
+||rypjpineo.com^
 ||ryplon-sync-gpt.com^
 ||rypmbgkfsnkjg.space^
 ||ryqixio.pro^
@@ -207993,6 +208087,7 @@ yihuifu.cn
 ||schinnerer.actonservice.com^
 ||schioimbia.store^
 ||schipperkebiiriary.info^
+||schizosarecuna.click^
 ||schjmp.com^
 ||schlafhimmel.com^
 ||schloss-werk.de^
@@ -208726,6 +208821,7 @@ yihuifu.cn
 ||sdpymnujiurkj.website^
 ||sdqoi2d.com^
 ||sdqoi2d.com^$third-party
+||sdqrdmybggtav.site^
 ||sdqwd.freepeople.com^
 ||sdqwf.ga^
 ||sdqwierorvdkt.space^
@@ -221118,6 +221214,7 @@ yihuifu.cn
 ||shanhutech.cn^
 ||shaniasutherland.com^
 ||shanjewelry.com^
+||shankedsakai.com^
 ||shankedunwindy.cyou^
 ||shanlinseed.com^
 ||shannycased.cfd^
@@ -229451,6 +229548,7 @@ yihuifu.cn
 ||smotheroxidesafety.com^
 ||smotreshka.tv^$removeparam=from
 ||smoulderallowingcommonplace.com^
+||smouseveiners.cfd^
 ||smove.city^
 ||smowtion.com^
 ||smoykkiasmybo.space^
@@ -229684,6 +229782,7 @@ yihuifu.cn
 ||smykmarketspl.shop^
 ||smyrcdnzlpgql.online^
 ||smyvbs.jyu-g.co.jp^
+||smzksxvkconkh.online^
 ||smzt.shop^
 ||smzvdx.bauhaus.hu^
 ||sn-ad-lgsmartad-com.aws-prd.net^
@@ -230406,6 +230505,7 @@ yihuifu.cn
 ||solartek.ru^
 ||solartia.com^
 ||solartrackingsystem.net^
+||soldabbr.com^
 ||solden-hotels.com^
 ||soldierreproduceadmiration.com^
 ||soldierreproduceadmiration.com^$popup
@@ -253287,7 +253387,6 @@ yihuifu.cn
 ||steeptheme.com^
 ||steepto.com^
 ||steerensout.net^
-||steerensout.net^$document
 ||steerensout.net^$popup
 ||steeringsunshine.com^
 ||steermouse.com^
@@ -256669,6 +256768,7 @@ yihuifu.cn
 ||sylqevane.com^
 ||sylqgv.urhair.co.uk^
 ||sylthi.prijskiller.nl^
+||sylvanpestful.rest^
 ||sylvarafjordhild-tech-com.pages.dev^
 ||sylverlight.net^
 ||sylviamund.com^
@@ -260646,6 +260746,7 @@ yihuifu.cn
 ||tcdn.snapfitness.com^
 ||tcdwm.com^
 ||tce.alicdn.com^
+||tcegjglhadlyr.space^
 ||tcerhxvlurvwf.site^
 ||tcfjtdaovwimt.space^
 ||tcfsst.cottlefirm.com^
@@ -265829,7 +265930,6 @@ yihuifu.cn
 ||toonsnylons.com^
 ||toonujoops.net^$popup
 ||toopsoug.net^
-||toopsoug.net^$document
 ||toopsoug.net^$popup
 ||toorl.sheex.com^
 ||tootersdarwin.com^
@@ -266304,7 +266404,6 @@ yihuifu.cn
 ||tourpariz.net^
 ||tourspicker.com^
 ||tourukaustoglee.net^
-||tourukaustoglee.net^$document
 ||tourukaustoglee.net^$popup
 ||tousersepionomissus.cyou^
 ||toushibao.com^
@@ -275298,6 +275397,7 @@ yihuifu.cn
 ||tubexazimebeze.com^
 ||tubfmkdxfywgs.site^
 ||tubfurryhen.com^
+||tubghznhktbua.site^
 ||tubgirl.me^
 ||tubgirl.org^
 ||tublikeopsy.com^
@@ -275622,6 +275722,7 @@ yihuifu.cn
 ||tuvevx.agent-sana.com^
 ||tuxcpf6pq.com^
 ||tuxedoarbourannouncement.com^
+||tuxedocard.com^
 ||tuxmat.surebaby.com^
 ||tuyendung-shopee.com^
 ||tuyendung203.com^
@@ -276223,6 +276324,7 @@ yihuifu.cn
 ||tzhbwf.retif.it^
 ||tzhchq.secretderm.com^
 ||tzhoudwocxvfl.online^
+||tzhqmfavqtjil.space^
 ||tzifafpdvzcxl.website^
 ||tzifhmvuju.com^
 ||tzimpezihat.in^
@@ -276635,6 +276737,7 @@ yihuifu.cn
 ||ubqmwnbcbc.com^
 ||ubqnvqrjaxlso.space^
 ||ubqszwafhftgm.website^
+||ubqycneopueye.website^
 ||ubracing.co.uk^
 ||ubrania.sbs^
 ||ubrgtjfyeskls.website^
@@ -278210,6 +278313,7 @@ yihuifu.cn
 ||umqosmlnjdrwl.site^
 ||umrd62a7zy.com^
 ||umrgdvvdgxjto.store^
+||umrjzubxvvsof.site^
 ||umrvmb.net.anwalt.de^
 ||umrzrffkrjqor.space^
 ||ums-rum-cn.heytapimage.com^
@@ -279491,6 +279595,7 @@ yihuifu.cn
 ||urgerrebasis.com^
 ||urgestammer.com^
 ||urgigan.info^
+||urgjhrveyyfeg.space^
 ||urhikhwdttauq.online^
 ||urhtkaleyacnw.space^
 ||urimnugocfr.com^
@@ -282331,6 +282436,7 @@ yihuifu.cn
 ||veilimportantly.com^
 ||veille-referencement.com^
 ||veille-referencement.com^$third-party
+||veilspeascod.click^
 ||veinob.com^
 ||veinouscleat.com^
 ||veinsoloistsubstitute.com^
@@ -285983,6 +286089,7 @@ yihuifu.cn
 ||vrtafd.icu^
 ||vrtcal.com^
 ||vrthnmbauiinl.site^
+||vrtnmxrmbyngf.site^
 ||vrtzads.com^
 ||vrufe4ikql.com^
 ||vruktazelin-dk.com^
@@ -286702,6 +286809,7 @@ yihuifu.cn
 ||vzbl.eu^
 ||vzcfqp.unibet.fr^
 ||vzckteikywjav.site^
+||vzcw4ceo6mgv8yvb64f486v1.rest^
 ||vzdfbajkrwede.site^
 ||vzebotlanxybu.website^
 ||vzebzbxfctexv.store^
@@ -287710,6 +287818,7 @@ yihuifu.cn
 ||wbbooupkjgwox.site^
 ||wbcdraefzhffi.site^
 ||wbclick.mobile.sina.cn^
+||wbcspijtifkki.space^
 ||wbcygu.wardow.com^
 ||wbdaxsscxpgzg.website^
 ||wbdds.com^
@@ -289829,6 +289938,7 @@ yihuifu.cn
 ||weryfkspg.mom^
 ||wes.marketing.wtinternal-sandbox.com^
 ||wesbgz.travel.co.jp^
+||wesdzbcwdvzgv.site^
 ||wesell.co.il^
 ||wesicuros.com^
 ||wesiedu.com^
@@ -294970,6 +295080,7 @@ yihuifu.cn
 ||wxa.wxs.qq.com^
 ||wxaaqr.plusdental.de^
 ||wxadserve.xyz^
+||wxahotordoxmr.online^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||wxbaal.ecosa.com.hk^
 ||wxcpjtdrckkld.website^
@@ -296077,6 +296188,7 @@ yihuifu.cn
 ||xifuquan.com^
 ||xigua.bet^
 ||xihoqsajpap.com^
+||xihqafom.in^
 ||xihubo.click^
 ||xii1ybb2hk.com^
 ||xiiaykdwdejli.online^
@@ -296249,6 +296361,7 @@ yihuifu.cn
 ||xjxlnrogiygnd.online^
 ||xjxtwlgfaopkp.online^
 ||xjxvxqfrrdszg.site^
+||xjxwerlcrftag.website^
 ||xjyafnquektoa.space^
 ||xjyhfuwzlwrrg.online^
 ||xjysy.diamondsfactory.co.uk^
@@ -301294,6 +301407,7 @@ yihuifu.cn
 ||yzatnnirsbyiq.space^
 ||yzaxye.animal-valley.com^
 ||yzazgq.buffalo.de^
+||yzbvxqxvgfujw.space^
 ||yzccdzhpooakp.store^
 ||yzcfva.healthyplanetcanada.com^
 ||yzcpqa.gumtree.com^
@@ -302737,6 +302851,7 @@ yihuifu.cn
 ||zipthelake.com^
 ||zipup.click^
 ||zipup.click^$all
+||zipzirim.com^
 ||ziqqi.com^
 ||ziqrso.24mx.no^
 ||ziqtlvrcvosig.site^
@@ -303141,6 +303256,7 @@ yihuifu.cn
 ||zmvwfd.icu^
 ||zmwrbpghsmkgx.online^
 ||zmxajgdfxmkrk.space^
+||zmxindivhhizc.space^
 ||zmxqp.drmartens.com^
 ||zmxuuwiovdzzj.online^
 ||zmyodzglqdaox.site^
@@ -303525,6 +303641,7 @@ yihuifu.cn
 ||zq7fe47jh.com^
 ||zq9lh2mouyohjt54f588ci8.2ik13mvpmnnjtm6.cyou^
 ||zqbpgojxnbvzt.space^
+||zqbtpjrjctwey.site^
 ||zqbxmcyztwdju.online^
 ||zqcfns.evesaddiction.com^
 ||zqcpf.wovenbyrd.com^

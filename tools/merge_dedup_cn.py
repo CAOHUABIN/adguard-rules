@@ -22,6 +22,48 @@ SKIP = {"localhost", "localhost.localdomain", "local", "broadcasthost", "ip6-loc
 VALID_DOMAIN = re.compile(r"^[a-z0-9]([a-z0-9\-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9\-]*[a-z0-9])?){1,}$")
 HOSTS_IP = re.compile(r"^(?:0\.0\.0\.0|127\.0\.0\.1|::1?|::|255\.255\.255\.255|0\.0\.0\.1)\s+([^\s#]+)")
 ADP_DOMAIN = re.compile(r"^\|\|([a-z0-9][a-z0-9\-]*(\.[a-z0-9][a-z0-9\-]*)+)\^?(?:\$.*)?$")
+# 仅匹配"裸整域拦截"规则 ||domain^：不带 $ 选项、不带路径通配。带 $domain=/$popup/$subdocument 或 */path 的规则是
+# 条件/作用域规则，不能当作整域 DNS 拦截，否则会把整个国内服务域名误杀导致 App 断网。
+BARE_ADP = re.compile(r"^\|\|([a-z0-9][a-z0-9\-]*(\.[a-z0-9][a-z0-9\-]*)+)\^$")
+
+# 国内主流服务主域白名单（精确匹配整域）：这些主域即使出现裸整域规则也从 DNS 清单剔除；
+# 其下的广告/追踪子域（如 ad.baidu.com）仍照常拦截。
+WHITELIST_APEX = {
+    # 百度系
+    "baidu.com", "baidu.com.cn", "bdstatic.com", "bdimg.com",
+    # 阿里/淘宝/天猫/支付宝/菜鸟
+    "taobao.com", "tmall.com", "alibaba.com", "alibaba.com.cn", "1688.com",
+    "aliyun.com", "alicdn.com", "taobaocdn.com", "alipay.com", "alipayobjects.com",
+    "antgroup.com", "cainiao.com", "cainiao.com.cn", "ele.me", "mmstat.com",
+    # 腾讯/微信/QQ
+    "qq.com", "qq.cn", "tencent.com", "weixin.qq.com", "gtimg.cn", "gtimg.com",
+    # 微博/新浪
+    "weibo.com", "weibo.cn", "sina.com.cn", "sinaimg.cn", "sina.com",
+    # 哔哩哔哩
+    "bilibili.com", "bilibili.cn", "biliapi.net", "hdslb.com",
+    # 字节系（抖音/头条/西瓜）
+    "douyin.com", "douyinvod.com", "bytedance.com", "toutiao.com", "snssdk.com",
+    "ixigua.com", "pstatp.com", "byteimg.com", "bytecdntp.com", "douyinpic.com",
+    # 知乎/豆瓣/小红书
+    "zhihu.com", "zhimg.com", "douban.com", "doubanio.com", "xiaohongshu.com", "xhscdn.com",
+    # 网易
+    "163.com", "126.com", "netease.com", "126.net", "126.com", "netease.im",
+    # 京东
+    "jd.com", "360buy.com", "360buyimg.com",
+    # 拼多多
+    "pinduoduo.com", "pddpic.com",
+    # 美团/大众点评/猫眼
+    "meituan.com", "meituan.net", "dianping.com", "maoyan.com",
+    # 快手
+    "kuaishou.com", "kuaishouimg.com", "gifshow.com",
+    # 小米/华为
+    "xiaomi.com", "mi.com", "duokan.com", "huawei.com", "hicloud.com", "vmall.com",
+    # 其他常用服务
+    "sohu.com", "sohu.com.cn", "sogou.com", "360.cn", "360.com", "qihoo.com",
+    "renren.com", "feishu.cn", "dingtalk.com", "didi.com", "didistatic.com",
+    "ctrip.com", "qunar.com", "58.com", "ganji.com", "autohome.com", "dongchedi.com",
+    "smzdm.com", "csdn.net", "jianshu.com", "juejin.cn", "segmentfault.com",
+}
 
 def is_comment(line):
     s = line.strip()
@@ -54,6 +96,16 @@ def main():
         print(f"[载入] {name}: 总行={n_total} 规则行={n_rules}")
 
     rules = sorted(rule_set)
+    # 从全格式规则里剔除白名单主域的裸整域拦截规则，避免 Safari/内容拦截器把整个服务域名断掉
+    def _is_whitelisted_bare_block(r):
+        m = BARE_ADP.match(r)
+        if m:
+            return clean(m.group(1)) in WHITELIST_APEX
+        hm = HOSTS_IP.match(r)
+        if hm:
+            return clean(hm.group(1)) in WHITELIST_APEX
+        return False
+    rules = [r for r in rules if not _is_whitelisted_bare_block(r)]
     total_rules = len(rules)
     print(f"\n国内规则合并去重后唯一规则数: {total_rules}")
 
@@ -83,17 +135,20 @@ def main():
         m = re_dns_hosts.match(r)
         if m:
             d = clean(m.group(1))
-            if d and VALID_DOMAIN.match(d) and d not in SKIP:
+            if d and VALID_DOMAIN.match(d) and d not in SKIP and d not in WHITELIST_APEX:
                 domain_set.add(d); dns_full_set.add(r)
             continue
-        m = ADP_DOMAIN.match(r)
+        # 仅裸整域规则 ||domain^ 才进入 DNS 清单；带 $ 选项/路径通配的条件规则不整域拦截
+        m = BARE_ADP.match(r)
         if m:
             d = clean(m.group(1))
-            if d and VALID_DOMAIN.match(d) and d not in SKIP:
+            if d and VALID_DOMAIN.match(d) and d not in SKIP and d not in WHITELIST_APEX:
                 domain_set.add(d); dns_full_set.add(r)
             continue
         if VALID_DOMAIN.match(r.lower()):
-            domain_set.add(r.lower()); dns_full_set.add(r)
+            d = r.lower()
+            if d not in WHITELIST_APEX:
+                domain_set.add(d); dns_full_set.add(r)
 
     domains = sorted(domain_set)
     total_domains = len(domains)
