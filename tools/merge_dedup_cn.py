@@ -29,7 +29,6 @@ BARE_ADP = re.compile(r"^\|\|([a-z0-9][a-z0-9\-]*(\.[a-z0-9][a-z0-9\-]*)+)\^$")
 # 国内主流服务主域白名单（精确匹配整域）：这些主域即使出现裸整域规则也从 DNS 清单剔除；
 # 其下的广告/追踪子域（如 ad.baidu.com）仍照常拦截。
 WHITELIST_APEX = {
-    # 百度系
     "baidu.com", "baidu.com.cn", "bdstatic.com", "bdimg.com",
     # 阿里/淘宝/天猫/支付宝/菜鸟
     "taobao.com", "tmall.com", "alibaba.com", "alibaba.com.cn", "1688.com",
@@ -65,6 +64,25 @@ WHITELIST_APEX = {
     "smzdm.com", "csdn.net", "jianshu.com", "juejin.cn", "segmentfault.com",
 }
 
+# 国内广告联盟 / SDK 配置与上报域名（人工补充）：覆盖穿山甲/巨量引擎、优量汇(腾讯)、
+# 快手广告、百度联盟、阿里妈妈等在中文来源里缺失的广告端点。推送/通知类 SDK 不在此列。
+EXTRA_AD_DOMAINS = {
+    # 穿山甲 / 巨量引擎（字节）
+    "csj.toutiao.com", "api.csj.toutiao.com",
+    "pangolin-sdk-toutiaoapi.com", "pangolin-sdk-toutiao2.com",
+    "pangolin-sdk-toutiao3.com", "pangolin-sdk-toutiao4.com", "pangolin-sdk-toutiao5.com",
+    "ad.toutiao.com", "ad.oceanengine.com", "ad.oceanapi.com", "marketing.oceanengine.com",
+    # 优量汇 / 腾讯广告
+    "ad.qq.com", "sdk.e.qq.com", "win.gdt.qq.com", "c.gdt.qq.com", "dd.gdt.qq.com",
+    "e.tencentad.cn",
+    # 快手广告
+    "ad.kuaishou.com", "ad.e.kuaishou.com", "e.kwaixs.com",
+    # 百度联盟
+    "ad.baidu.com", "adm.baidu.com",
+    # 阿里妈妈 / 淘宝广告
+    "alimama.com", "adtao.com", "ads.alimama.com", "cpc.alimama.com", "p4p.alimama.com",
+}
+
 def is_comment(line):
     s = line.strip()
     return (not s) or s.startswith("!") or s.startswith("[Adblock Plus") or s.startswith("[Adblock+") or s.startswith("#")
@@ -94,6 +112,11 @@ def main():
                 rule_set.add(line)
         per_source.append((name, url, cat, n_total, n_rules))
         print(f"[载入] {name}: 总行={n_total} 规则行={n_rules}")
+
+    # 人工补充的国内广告联盟 SDK 配置/上报域名（裸整域规则），跳过白名单主域
+    for d in EXTRA_AD_DOMAINS:
+        if d not in WHITELIST_APEX:
+            rule_set.add(f"||{d}^")
 
     rules = sorted(rule_set)
     # 从全格式规则里剔除白名单主域的裸整域拦截规则，避免 Safari/内容拦截器把整个服务域名断掉

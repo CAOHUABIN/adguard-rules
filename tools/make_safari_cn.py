@@ -14,6 +14,19 @@ CAP = 49000  # Safari 单内容拦截器规则上限约 50000，留余量
 
 CN_FILES = ["adguard_chinese.txt", "easylistchina.txt", "cjx_rule.txt", "dns_antiad.txt"]
 
+# 人工补充的国内广告联盟 SDK 配置/上报域名（与 merge_dedup_cn.py 保持一致）
+EXTRA_AD_DOMAINS = {
+    "csj.toutiao.com", "api.csj.toutiao.com",
+    "pangolin-sdk-toutiaoapi.com", "pangolin-sdk-toutiao2.com",
+    "pangolin-sdk-toutiao3.com", "pangolin-sdk-toutiao4.com", "pangolin-sdk-toutiao5.com",
+    "ad.toutiao.com", "ad.oceanengine.com", "ad.oceanapi.com", "marketing.oceanengine.com",
+    "ad.qq.com", "sdk.e.qq.com", "win.gdt.qq.com", "c.gdt.qq.com", "dd.gdt.qq.com",
+    "e.tencentad.cn",
+    "ad.kuaishou.com", "ad.e.kuaishou.com", "e.kwaixs.com",
+    "ad.baidu.com", "adm.baidu.com",
+    "alimama.com", "adtao.com", "ads.alimama.com", "cpc.alimama.com", "p4p.alimama.com",
+}
+
 counts = {}  # domain -> set of sources
 
 def add(d, src):
@@ -42,6 +55,9 @@ for fn in CN_FILES:
             continue
         if re.fullmatch(r"[a-z0-9\-\.]+\.[a-z]{2,}", line):  # 纯域名行
             add(line, fn)
+
+for d in EXTRA_AD_DOMAINS:
+    add(d, "extra-ad-sdk")
 
 total = len(counts)
 items = sorted(counts.items(), key=lambda kv: (-len(kv[1]), kv[0]))
