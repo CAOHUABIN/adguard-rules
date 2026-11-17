@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.17.1301
-# Last modified: 2026-11-17T13:01:33+07:00
+# Version: 2026.11.17.1559
+# Last modified: 2026-11-17T15:59:41+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95803
+# 唯一域名数: 95815
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -6087,6 +6087,7 @@
 0.0.0.0 adimg.cqnews.net
 0.0.0.0 adimg.daumcdn.net
 0.0.0.0 adimg.deviantart.net
+0.0.0.0 adimg.kuaishou.com
 0.0.0.0 adimg.liba.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adimg.uve.weibo.com
@@ -6290,6 +6291,7 @@
 0.0.0.0 admo.tv
 0.0.0.0 admoai.com
 0.0.0.0 admob-cn.com
+0.0.0.0 admob.com
 0.0.0.0 admobe.com
 0.0.0.0 admobile.top
 0.0.0.0 admolo.com
@@ -6626,6 +6628,7 @@
 0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.alimama.com
 0.0.0.0 ads.cc
+0.0.0.0 ads.qq.com
 0.0.0.0 ads.sohu.com
 0.0.0.0 ads.tvb.com
 0.0.0.0 ads.yeeyi.com
@@ -6708,6 +6711,7 @@
 0.0.0.0 adserve2.tom.com
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
+0.0.0.0 adservice.toutiao.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservon.com
@@ -6812,6 +6816,7 @@
 0.0.0.0 adstargets.com
 0.0.0.0 adstat.cp11.ott.cibntv.net
 0.0.0.0 adstat.izuiyou.com
+0.0.0.0 adstat.kuaishou.com
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adstean.com
 0.0.0.0 adsterra.com
@@ -10000,6 +10005,7 @@
 0.0.0.0 applogapi.autohome.com.cn
 0.0.0.0 applogios.uc.cn
 0.0.0.0 applovin.com
+0.0.0.0 applovinmax.com
 0.0.0.0 applstr.com
 0.0.0.0 applvn.com
 0.0.0.0 apply.bluetrustloans.com
@@ -35166,6 +35172,7 @@
 0.0.0.0 googleadapis.com
 0.0.0.0 googleads-cn.com
 0.0.0.0 googleads.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.github.io
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
@@ -38643,6 +38650,7 @@
 0.0.0.0 i14laze0.xyz
 0.0.0.0 i16vlgqdhh.com
 0.0.0.0 i2.akjunshi.com
+0.0.0.0 i20k3b5yi.com
 0.0.0.0 i218435.net
 0.0.0.0 i27jhc4ut0.com
 0.0.0.0 i2ad.jp
@@ -42001,6 +42009,7 @@
 0.0.0.0 ironendeavour.com
 0.0.0.0 ironicalclearingsticking.com
 0.0.0.0 ironicschemes.com
+0.0.0.0 ironsource.com
 0.0.0.0 ironsrc.com
 0.0.0.0 irowisoerkqoi.site
 0.0.0.0 irpfhsfkfwgon.website
@@ -54048,6 +54057,7 @@
 0.0.0.0 minr.pw
 0.0.0.0 minstats.xyz
 0.0.0.0 mintaza.xyz
+0.0.0.0 mintegral.com
 0.0.0.0 mintysimilor.com
 0.0.0.0 minunetclose.com
 0.0.0.0 minus.akirashentai.com
@@ -55263,6 +55273,7 @@
 0.0.0.0 mteme7li1d6r.vertexmarketingagency.com
 0.0.0.0 mtest.fontself.com
 0.0.0.0 mtg.macpaw.com
+0.0.0.0 mtgdn.com
 0.0.0.0 mtgvrhc.com
 0.0.0.0 mthnulmutizgj.site
 0.0.0.0 mthonpga.com
@@ -80388,6 +80399,7 @@
 0.0.0.0 tmmp.io
 0.0.0.0 tmmunzeyobwst.online
 0.0.0.0 tmmxaxfisdgrv.space
+0.0.0.0 tmn70vp2u.com
 0.0.0.0 tmnkaqnaubucu.site
 0.0.0.0 tmpbr.getgifted.com
 0.0.0.0 tmpevbnnasziy.site

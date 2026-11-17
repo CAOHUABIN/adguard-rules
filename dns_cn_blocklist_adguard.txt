@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截清单（AdGuard 格式）
 ! Description: 国内专用 DNS 去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
-! Version: 2026.11.17.1301
-! Last modified: 2026-11-17T13:01:33+07:00
+! Version: 2026.11.17.1559
+! Last modified: 2026-11-17T15:59:41+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
-! 唯一域名数: 95803
+! 唯一域名数: 95815
 ! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
 !
 ||0.myikas.com^
@@ -6088,6 +6088,7 @@
 ||adimg.cqnews.net^
 ||adimg.daumcdn.net^
 ||adimg.deviantart.net^
+||adimg.kuaishou.com^
 ||adimg.liba.com^
 ||adimg.mobile.sina.cn^
 ||adimg.uve.weibo.com^
@@ -6291,6 +6292,7 @@
 ||admo.tv^
 ||admoai.com^
 ||admob-cn.com^
+||admob.com^
 ||admobe.com^
 ||admobile.top^
 ||admolo.com^
@@ -6627,6 +6629,7 @@
 ||ads-yallo-production.imgix.net^
 ||ads.alimama.com^
 ||ads.cc^
+||ads.qq.com^
 ||ads.sohu.com^
 ||ads.tvb.com^
 ||ads.yeeyi.com^
@@ -6709,6 +6712,7 @@
 ||adserve2.tom.com^
 ||adserverplus.com^
 ||adserverpub.com^
+||adservice.toutiao.com^
 ||adserving.unibet.com^
 ||adservingfactory.com^
 ||adservon.com^
@@ -6813,6 +6817,7 @@
 ||adstargets.com^
 ||adstat.cp11.ott.cibntv.net^
 ||adstat.izuiyou.com^
+||adstat.kuaishou.com^
 ||adstats.tencentmusic.com^
 ||adstean.com^
 ||adsterra.com^
@@ -10001,6 +10006,7 @@
 ||applogapi.autohome.com.cn^
 ||applogios.uc.cn^
 ||applovin.com^
+||applovinmax.com^
 ||applstr.com^
 ||applvn.com^
 ||apply.bluetrustloans.com^
@@ -35167,6 +35173,7 @@
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
+||googleads.g.doubleclick.net^
 ||googleads.github.io^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -38644,6 +38651,7 @@
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
 ||i2.akjunshi.com^
+||i20k3b5yi.com^
 ||i218435.net^
 ||i27jhc4ut0.com^
 ||i2ad.jp^
@@ -42002,6 +42010,7 @@
 ||ironendeavour.com^
 ||ironicalclearingsticking.com^
 ||ironicschemes.com^
+||ironsource.com^
 ||ironsrc.com^
 ||irowisoerkqoi.site^
 ||irpfhsfkfwgon.website^
@@ -54049,6 +54058,7 @@
 ||minr.pw^
 ||minstats.xyz^
 ||mintaza.xyz^
+||mintegral.com^
 ||mintysimilor.com^
 ||minunetclose.com^
 ||minus.akirashentai.com^
@@ -55264,6 +55274,7 @@
 ||mteme7li1d6r.vertexmarketingagency.com^
 ||mtest.fontself.com^
 ||mtg.macpaw.com^
+||mtgdn.com^
 ||mtgvrhc.com^
 ||mthnulmutizgj.site^
 ||mthonpga.com^
@@ -80389,6 +80400,7 @@
 ||tmmp.io^
 ||tmmunzeyobwst.online^
 ||tmmxaxfisdgrv.space^
+||tmn70vp2u.com^
 ||tmnkaqnaubucu.site^
 ||tmpbr.getgifted.com^
 ||tmpevbnnasziy.site^

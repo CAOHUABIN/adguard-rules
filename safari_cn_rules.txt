@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.17.1301
-! Last modified: 2026-11-17T13:01:33+07:00
+! Version: 2026.11.17.1559
+! Last modified: 2026-11-17T15:59:42+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/95797（按来源收录数优先截取）
+! 覆盖域名: 49000/95809（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5800,6 +5800,7 @@
 ||hubcloud.com.cn^
 ||huishenghuiying.com.cn^
 ||hz.shouyoutv.com^
+||i20k3b5yi.com^
 ||iads.xinmin.cn^
 ||iconworkshop.cn^
 ||icws.jb51.net^
@@ -5925,6 +5926,7 @@
 ||tf.360.cn^
 ||theweeklydonut.org^
 ||tk.504pk.com^
+||tmn70vp2u.com^
 ||tns.simba.taobao.com^
 ||tp.suppercacheimages.top^
 ||track.sohu.com^
@@ -10999,6 +11001,7 @@
 ||adimg.cqnews.net^
 ||adimg.daumcdn.net^
 ||adimg.deviantart.net^
+||adimg.kuaishou.com^
 ||adimg.mobile.sina.cn^
 ||adimg.uve.weibo.com^
 ||adimg1.chosun.com^
@@ -11193,6 +11196,7 @@
 ||admo.tv^
 ||admoai.com^
 ||admob-cn.com^
+||admob.com^
 ||admobe.com^
 ||admobile.top^
 ||admolo.com^
@@ -11522,6 +11526,7 @@
 ||ads-yallo-production.imgix.net^
 ||ads.alimama.com^
 ||ads.cc^
+||ads.qq.com^
 ||ads.tvb.com^
 ||ads2550.bid^
 ||ads2ads.net^
@@ -11601,6 +11606,7 @@
 ||adserve2.tom.com^
 ||adserverplus.com^
 ||adserverpub.com^
+||adservice.toutiao.com^
 ||adserving.unibet.com^
 ||adservingfactory.com^
 ||adservon.com^
@@ -11703,6 +11709,7 @@
 ||adstargets.com^
 ||adstat.cp11.ott.cibntv.net^
 ||adstat.izuiyou.com^
+||adstat.kuaishou.com^
 ||adstats.tencentmusic.com^
 ||adstean.com^
 ||adsterra.com^
@@ -14790,6 +14797,7 @@
 ||applogapi.autohome.com.cn^
 ||applogios.uc.cn^
 ||applovin.com^
+||applovinmax.com^
 ||applstr.com^
 ||applvn.com^
 ||apply.bluetrustloans.com^
@@ -38626,6 +38634,7 @@
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
+||googleads.g.doubleclick.net^
 ||googleads.github.io^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -45040,6 +45049,7 @@
 ||ironendeavour.com^
 ||ironicalclearingsticking.com^
 ||ironicschemes.com^
+||ironsource.com^
 ||ironsrc.com^
 ||irowisoerkqoi.site^
 ||irpfhsfkfwgon.website^
@@ -49000,13 +49010,3 @@
 ||law.bppeloqua.com^
 ||lawdrrnforvzy.space^
 ||lawfirm.paperbirdtech.com^
-||lawful-promise.com^
-||lawfullylimetreecharges.com^
-||lawthjnyfjzwg.online^
-||lawtwhtlebvjd.online^
-||lawyeritalyaching.com^
-||lawyers.rigbycooke.com.au^
-||laxativestuckunclog.com^
-||laxativethem.com^
-||laxsikcp.in^
-||laxsqiibtpijk.site^

@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.17.1301
-! Last modified: 2026-11-17T13:01:32+07:00
+! Version: 2026.11.17.1559
+! Last modified: 2026-11-17T15:59:41+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20171 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17101 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20173 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17104 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95688 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111863
+! 合并去重后唯一规则总数: 111876
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -17699,6 +17699,7 @@ zzzyk.com###Tinfo
 ||adimg.cqnews.net^
 ||adimg.daumcdn.net^
 ||adimg.deviantart.net^
+||adimg.kuaishou.com^
 ||adimg.liba.com^
 ||adimg.mobile.sina.cn^
 ||adimg.uve.weibo.com^
@@ -17912,6 +17913,7 @@ zzzyk.com###Tinfo
 ||admoai.com^
 ||admob-cn.com^
 ||admob.*^
+||admob.com^
 ||admobe.com^
 ||admobile.top^
 ||admolo.com^
@@ -18254,6 +18256,7 @@ zzzyk.com###Tinfo
 ||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xhr,other,redirect=noopvast-2.0
 ||ads.alimama.com^
 ||ads.cc^
+||ads.qq.com^
 ||ads.sohu.com^
 ||ads.tvb.com^
 ||ads.yeeyi.com^
@@ -18348,6 +18351,7 @@ zzzyk.com###Tinfo
 ||adserverpub.com^
 ||adservice*.*^
 ||adservice.
+||adservice.toutiao.com^
 ||adserving.unibet.com^
 ||adservingfactory.com^
 ||adservon.com^
@@ -18456,6 +18460,7 @@ zzzyk.com###Tinfo
 ||adstargets.com^
 ||adstat.cp11.ott.cibntv.net^
 ||adstat.izuiyou.com^
+||adstat.kuaishou.com^
 ||adstats.tencentmusic.com^
 ||adstean.com^
 ||adsterra.com^
@@ -21804,6 +21809,7 @@ zzzyk.com###Tinfo
 ||applogapi.autohome.com.cn^
 ||applogios.uc.cn^
 ||applovin.com^
+||applovinmax.com^
 ||applstr.com^
 ||applvn.com^
 ||apply.bluetrustloans.com^
@@ -48306,6 +48312,7 @@ zzzyk.com###Tinfo
 ||googleads-cn.com^
 ||googleads.com^
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noop.html,domain=rjno1.com,important
+||googleads.g.doubleclick.net^
 ||googleads.github.io^
 ||googleadservices-cn.com^
 ||googleadservices.
@@ -52085,6 +52092,7 @@ zzzyk.com###Tinfo
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
 ||i2.akjunshi.com^
+||i20k3b5yi.com^
 ||i218435.net^
 ||i27jhc4ut0.com^
 ||i2ad.jp^
@@ -55640,6 +55648,7 @@ zzzyk.com###Tinfo
 ||ironendeavour.com^
 ||ironicalclearingsticking.com^
 ||ironicschemes.com^
+||ironsource.com^
 ||ironsrc.com^
 ||irowisoerkqoi.site^
 ||irpfhsfkfwgon.website^
@@ -56736,6 +56745,7 @@ zzzyk.com###Tinfo
 ||jgufdvtygpyds.space^
 ||jgwiaotrgeuoi.space^
 ||jgwlomfinvizq.site^
+||jgwxs.com/images/sim.
 ||jgwxzijr.com^
 ||jgwzimxkoykiy.space^
 ||jgyajiisanpac.site^
@@ -68358,6 +68368,7 @@ zzzyk.com###Tinfo
 ||minr.pw^
 ||minstats.xyz^
 ||mintaza.xyz^
+||mintegral.com^
 ||mintysimilor.com^
 ||minunetclose.com^
 ||minus.akirashentai.com^
@@ -69628,6 +69639,7 @@ zzzyk.com###Tinfo
 ||mteme7li1d6r.vertexmarketingagency.com^
 ||mtest.fontself.com^
 ||mtg.macpaw.com^
+||mtgdn.com^
 ||mtgvrhc.com^
 ||mthnulmutizgj.site^
 ||mthonpga.com^
@@ -95746,6 +95758,7 @@ zzzyk.com###Tinfo
 ||tmmp.io^
 ||tmmunzeyobwst.online^
 ||tmmxaxfisdgrv.space^
+||tmn70vp2u.com^
 ||tmnkaqnaubucu.site^
 ||tmpbr.getgifted.com^
 ||tmpevbnnasziy.site^

@@ -72,15 +72,20 @@ EXTRA_AD_DOMAINS = {
     "pangolin-sdk-toutiaoapi.com", "pangolin-sdk-toutiao2.com",
     "pangolin-sdk-toutiao3.com", "pangolin-sdk-toutiao4.com", "pangolin-sdk-toutiao5.com",
     "ad.toutiao.com", "ad.oceanengine.com", "ad.oceanapi.com", "marketing.oceanengine.com",
+    "adservice.toutiao.com",
     # 优量汇 / 腾讯广告
     "ad.qq.com", "sdk.e.qq.com", "win.gdt.qq.com", "c.gdt.qq.com", "dd.gdt.qq.com",
-    "e.tencentad.cn",
+    "e.tencentad.cn", "ads.qq.com",
     # 快手广告
     "ad.kuaishou.com", "ad.e.kuaishou.com", "e.kwaixs.com",
+    "adimg.kuaishou.com", "adstat.kuaishou.com",
     # 百度联盟
     "ad.baidu.com", "adm.baidu.com",
     # 阿里妈妈 / 淘宝广告
     "alimama.com", "adtao.com", "ads.alimama.com", "cpc.alimama.com", "p4p.alimama.com",
+    # 聚合 / 海外广告 SDK（国内小游戏常集成）
+    "mintegral.com", "mtgdn.com", "applovinmax.com", "ironsource.com", "admob.com",
+    "googleads.g.doubleclick.net",
 }
 
 def is_comment(line):
