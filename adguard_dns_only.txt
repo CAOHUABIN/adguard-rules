@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: DNS 域名规则（从全格式规则提取）
 ! Description: 从全格式合并规则中提取的 DNS 级域名拦截规则（||域名^），每日自动更新。
-! Version: 2026.11.17.1559
-! Last modified: 2026-11-17T15:59:39+07:00
+! Version: 2026.11.18.0414
+! Last modified: 2026-11-18T04:14:36+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 仅含域名级规则，适用于 AdGuard Home / AdGuard DNS 过滤模式
-# 唯一域名数: 288717
+# 唯一域名数: 289180
 # 来源: 同 adguard_rules_merged.txt 的 12 个列表合并去重
 #
 100.pncdn.cn
@@ -1377,6 +1377,7 @@ yihuifu.cn
 ||168.it168.com^
 ||168.it168.com^$script
 ||1680660.com^
+||1688360.cc^
 ||168ty03.com^
 ||168xn.com^
 ||169v9l59i.com^
@@ -1727,6 +1728,7 @@ yihuifu.cn
 ||1k2uh20wr.com^
 ||1k3.com^
 ||1k5vz1ejbcx.staging.probemas.com^
+||1k9kvpvpr3o62nuzo.rest^
 ||1kb5alcna8.com^
 ||1kcasino.com^
 ||1kdailyprofit.co^
@@ -1974,6 +1976,7 @@ yihuifu.cn
 ||1xulomppkrwcr8zni6yz.cfd^
 ||1xwkhcsp3s5.vqsave.ommasign.com^
 ||1y55vfy87.com^
+||1y69gy2mdzaltz1.icu^
 ||1z.x2yf75rzmg8w6mxt73it.cyou^
 ||1zdywcgmlt.com^
 ||1zfbtu1.9ovvpjnlh594rm5.cyou^
@@ -4796,6 +4799,7 @@ yihuifu.cn
 ||559fce54c9.eafbb4f7c7.com^
 ||55ace.com^
 ||55eebe8585.com^
+||55hnvvw1gwl6h1hg.cfd^
 ||55jyjhxq14ynp.rucbr3ftxjbczhro.cyou^
 ||55labs.com^
 ||55labs.com^$3p
@@ -5105,6 +5109,7 @@ yihuifu.cn
 ||5vbs96dea.com^$popup
 ||5vd12a.ru^
 ||5visions.com^
+||5vobauua3ojpklx.icu^
 ||5vpbnbkiey24.com^
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
@@ -7231,6 +7236,7 @@ yihuifu.cn
 ||a.apkeditor.io^
 ||a.apkpure.com^
 ||a.apkpures.xyz^
+||a.appbaqend.com^
 ||a.applvn.com^
 ||a.arbadah.com^
 ||a.arbona.hr^
@@ -7483,6 +7489,7 @@ yihuifu.cn
 ||a.holimsishoe.click^
 ||a.hrewards.com^
 ||a.hspvst.com^
+||a.hstrck.com^
 ||a.hubhubhub.name^
 ||a.huluad.com^
 ||a.humnert.com^
@@ -9345,6 +9352,7 @@ yihuifu.cn
 ||a3.hotpornfile.org^
 ||a3.jandan.net^
 ||a3.mtindex.top^
+||a3.ogt.jp^
 ||a3.websitealive.com^
 ||a3.zdg.de^
 ||a30003.actonservice.com^
@@ -12291,6 +12299,7 @@ yihuifu.cn
 ||abcompteur.com^
 ||abcompteur.com^$3p
 ||abcompteur.com^$third-party
+||abcotvs.net^*/fban_
 ||abcounter.de^
 ||abcproxy.com^
 ||abcsearch.com^
@@ -13695,6 +13704,7 @@ yihuifu.cn
 ||aculturerpa.info^$popup
 ||acumbamail.com^$3p
 ||acustomizedgift.com^
+||acustomizedgift.com^$domain=masslive.com|silive.com
 ||acuteprone.com^
 ||acv.au-hikari-kddi.com^
 ||acv.auhikari-norikae.com^
@@ -15575,6 +15585,7 @@ yihuifu.cn
 ||addthis.com^
 ||addthis.com^$3p,domain=~civilization.com|~imgur.com
 ||addthis.com^$third-party
+||addthis.com^*/p.json?*&ref=
 ||addthiscdn.com^$3p
 ||addthiscdn.com^$domain=~addthis.com
 ||addthisedge.com^
@@ -15748,6 +15759,7 @@ yihuifu.cn
 ||adeqmedia.com^
 ||adeqmedia.com^$3p
 ||ader.mobi^
+||ader.naver.com^$domain=~search.naver.com,xhr
 ||adesampa.com.br^$removeparam=cp_smn_content
 ||adesampa.com.br^$removeparam=cp_smn_source
 ||adesampa.com.br^$removeparam=cp_smn_term
@@ -16894,6 +16906,7 @@ yihuifu.cn
 ||adobecorp.data.adobedc.net^
 ||adobeday.relacionamento.cogna.com.br^
 ||adobedtm.com^$third-party,domain=~adobe.com|~costco.com
+||adobedtm.com^*/satelliteLib-$script,domain=allrecipes.com|nvidia.at|nvidia.be|nvidia.cn|nvidia.co.jp|nvidia.co.kr|nvidia.co.uk|nvidia.com|nvidia.com.br|nvidia.com.mx|nvidia.com.tr|nvidia.com.tw|nvidia.cz|nvidia.de|nvidia.dk|nvidia.es|nvidia.fi|nvidia.fr|nvidia.in|nvidia.it|nvidia.nl|nvidia.no|nvidia.pl|nvidia.ru|nvidia.se
 ||adobee.com^
 ||adobeedge.dva-acc.csda.gov.au^
 ||adobeedge.morganstanley.com^
@@ -19258,6 +19271,7 @@ yihuifu.cn
 ||ads9.chompsms.com^
 ||ads9.speedbit.com^
 ||ads92.radioonlinehd.com^
+||adsaccount.appcpi.net^
 ||adsadmin.corusradionetwork.com^
 ||adsadminister.com^
 ||adsadvisor.io^
@@ -20446,6 +20460,7 @@ yihuifu.cn
 ||adtrack-php-loadbalancer-vpc-1246401395.eu-west-1.elb.amazonaws.com^
 ||adtrack.adleadevent.com^
 ||adtrack.alchemy-web.jp^
+||adtrack.appcpi.net^
 ||adtrack.cimedia.net^
 ||adtrack.gropulse.com^
 ||adtrack.herbalia.rs^
@@ -21487,6 +21502,7 @@ yihuifu.cn
 ||aerontre.com^
 ||aeroplanesomewhat.com^
 ||aeroport-kinshasa.com^
+||aerospeered.cfd^
 ||aerotour.ru^
 ||aerserv.com^
 ||aeru365.jp^
@@ -21544,6 +21560,7 @@ yihuifu.cn
 ||af-z.jp^
 ||af-z.jp^$third-party
 ||af.analytics.elx.cloud^
+||af.analytics.elx.cloud^$domain=arbetsformedlingen.se
 ||af.arunfasteners.co.uk^
 ||af.atsoho.com^
 ||af.click.ru^
@@ -21590,6 +21607,7 @@ yihuifu.cn
 ||afdbwq.blivakker.no^
 ||afdconf.baidu.com^
 ||afders.org^
+||afdhlmqknpjuv.website^
 ||afdqijrzwjcls.website^
 ||afecvu.bulevip.com^
 ||afendisfam.org^
@@ -22381,6 +22399,7 @@ yihuifu.cn
 ||afterwardgangster.com^
 ||afterwardmonth.com^
 ||aftjohnanodes.com^
+||aftonbladetnya.sc.omtrdc.net^
 ||aftosamellatejatni.qpon^
 ||aftrk1.com^
 ||aftrk1.com^$popup
@@ -23342,6 +23361,7 @@ yihuifu.cn
 ||ajjgakza.in^
 ||ajjo5hsvlp.com^
 ||ajklhtxmbqoyn.site^
+||ajkpmapimhptz.site^
 ||ajkr.fastpickle.com^
 ||ajkzd9h.com^
 ||ajlez.broadwayinhollywood.com^
@@ -23571,6 +23591,7 @@ yihuifu.cn
 ||aktkb.eshopygo.pl^
 ||aktmixzlwpyrs.online^
 ||aktpl.com^
+||aktrack.pubmatic.com^
 ||aktualizacja-pl.com^
 ||aktualizacja-pl.net^
 ||aktualnosci.pl.ua^
@@ -23604,6 +23625,7 @@ yihuifu.cn
 ||akycldymoyxpd.online^
 ||akydw.com^
 ||akydxrphsdaaq.site^
+||akydzkrrklryu.space^
 ||akyidxbfhyqfd.online^
 ||akykvnbddvyjo.site^
 ||akzawlyzolowa.top^
@@ -23996,6 +24018,7 @@ yihuifu.cn
 ||alereinc.actonservice.com^
 ||aleroninc.actonservice.com^
 ||alert.autohome.com.cn^
+||alertbread.me^
 ||alerter.pl^
 ||alertgraph.com^
 ||alertme.news^
@@ -24101,6 +24124,7 @@ yihuifu.cn
 ||ali-p2p.pull.yximgs.com^
 ||ali-pro-origin-pull.kwai.net.iberostar.com^
 ||ali-pro-pull.kwai.net.iberostar.com^
+||ali-stats.jpush.cn^
 ||ali-web-player-tracker.biliapi.net^
 ||ali2.a.yximgs.com^
 ||ali213.net^*/promotion/
@@ -24792,6 +24816,7 @@ yihuifu.cn
 ||alx.solarled.ro^
 ||alxbgo.com^
 ||alxbgo.com^$popup
+||alxc.addlv.smt.docomo.ne.jp^
 ||alxfwwwnibtah.site^
 ||alyfdrzipjquz.online^
 ||alypinehubbly.cyou^
@@ -24941,6 +24966,7 @@ yihuifu.cn
 ||amazon-shopaa.shop^
 ||amazon-swap.aakashtiwari.me^
 ||amazon.amazonptj.com^
+||amazon.com^*/impress.html
 ||amazonaws.com^$domain=animeflv.net|mangakakalot.gg|nelomanga.net|uploadhaven.com
 ||amazonaws.com^$domain=animeflv.net|nelomanga.net|uploadhaven.com
 ||amazonaws.com^$xhr,redirect=noop.txt,domain=crackle.com
@@ -25421,6 +25447,7 @@ yihuifu.cn
 ||an.constantcontact.com^
 ||an.dongphim.net^
 ||an.facebook.com^
+||an.gr-wcon.com^$script
 ||an.into-led.com^
 ||an.lp.drsafamanav.com^
 ||an.mail.ru^
@@ -26079,6 +26106,7 @@ yihuifu.cn
 ||analytics-integration.onrender.com^
 ||analytics-integrations-flan-prd.glb.fgns.info^
 ||analytics-integrations-sd-prd.glb.fgns.info^
+||analytics-ios-tcp.rayjump.com^
 ||analytics-iot.api.rusklimat.ru^
 ||analytics-ipv6.tiktokw.us.edgesuite.net^
 ||analytics-ipv6.tiktokw.us^
@@ -26318,6 +26346,7 @@ yihuifu.cn
 ||analytics.activatres.es^
 ||analytics.aculix.online^
 ||analytics.aculix.xyz^
+||analytics.ad.daum.net^
 ||analytics.adac-musikreisen.de^
 ||analytics.adam.page^
 ||analytics.adding.fr^
@@ -27136,6 +27165,7 @@ yihuifu.cn
 ||analytics.chillnfeel.com^
 ||analytics.chimar.com^
 ||analytics.chipman.pt^
+||analytics.chita.ru^
 ||analytics.chocolatemoo53.com^
 ||analytics.choice-guide.org^
 ||analytics.chordhum.com^
@@ -27962,6 +27992,7 @@ yihuifu.cn
 ||analytics.floraprima.de^
 ||analytics.floridatravellife.com^
 ||analytics.floris.amsterdam^
+||analytics.floris.amsterdam^$3p
 ||analytics.flow.riverty.com^
 ||analytics.floydhamilton.tech^
 ||analytics.flusi.news^
@@ -28215,6 +28246,7 @@ yihuifu.cn
 ||analytics.goodysell.com^
 ||analytics.google.com^
 ||analytics.google.com^$3p
+||analytics.google.com^$domain=analytics.google.com
 ||analytics.google.com^$third-party
 ||analytics.googleapis.com^
 ||analytics.googlie.vip^
@@ -28993,6 +29025,7 @@ yihuifu.cn
 ||analytics.lifesizeccloud.com^
 ||analytics.lifestyledemocracy.com^
 ||analytics.lifewithallah.com^
+||analytics.liftoff.io^
 ||analytics.lifuji.com^
 ||analytics.lightball.de^
 ||analytics.lightdash.com^
@@ -29267,6 +29300,7 @@ yihuifu.cn
 ||analytics.methodfishing.com^
 ||analytics.metriko.app^
 ||analytics.metrimato.com^
+||analytics.metrix.ir^
 ||analytics.metro-cc.hr^
 ||analytics.metro-cc.ru^
 ||analytics.metro-tr.com^
@@ -30245,6 +30279,7 @@ yihuifu.cn
 ||analytics.ravelz.com^
 ||analytics.ravetel.com^
 ||analytics.raycho.help^
+||analytics.rayjump.com^
 ||analytics.raywhitecommercialsc.com^
 ||analytics.rca.fr^
 ||analytics.rcore.cz^
@@ -32043,6 +32078,7 @@ yihuifu.cn
 ||analytiks.padoa.fr^
 ||analytiwave.com^
 ||analyze-82dfgsi2.m-w.com^
+||analyze-82dfgsi2.m-w.com^$domain=merriam-webster.com
 ||analyze.lemurbrowser.com^
 ||analyze.travaya.com^
 ||analyze.warp3.io^
@@ -32934,6 +32970,7 @@ yihuifu.cn
 ||apelikecudbear.com^
 ||apenterprise.io^
 ||apepix.com^
+||apepticvolost.click^
 ||apercusdimly.com^
 ||aperio.leicabiosystems.com^
 ||apester.com^$3p
@@ -33168,9 +33205,11 @@ yihuifu.cn
 ||api.ad-locus.com^
 ||api.ad-platform.jmty.jp^
 ||api.ad.forhosting.com^
+||api.ad.intl.xiaomi.com^
 ||api.ad.logic-prod.viasat.io^
 ||api.ad.logic-test.viasat.io^
 ||api.ad.logic.viasat.io^
+||api.ad.xiaomi.com^
 ||api.ada-cloud.com^
 ||api.adaether.com^
 ||api.adalexgois.com.br^
@@ -33692,6 +33731,7 @@ yihuifu.cn
 ||api.falcaonegro.com.br^
 ||api.faleidemaiselesumiu.com.br^
 ||api.fantomeparis.com^
+||api.faphouse.com^$ping
 ||api.farmaciaartesanal.com^
 ||api.farmarte.com^
 ||api.farmflix.com.br^
@@ -33743,6 +33783,7 @@ yihuifu.cn
 ||api.g.micloud.xiaomi.net^
 ||api.g1vicente.online^
 ||api.game-sdk.com^
+||api.gameanalytics.com^
 ||api.gandrapia.adv.br^
 ||api.garageserviceoperation.com^
 ||api.garriga.com.br^
@@ -34275,6 +34316,7 @@ yihuifu.cn
 ||api.reo.dev^$third-party
 ||api.reper.com.br^
 ||api.repro.io^
+||api.reproio.com^
 ||api.resibag.com.br^
 ||api.revenuads.com^
 ||api.revive-adserver.net^
@@ -34325,6 +34367,7 @@ yihuifu.cn
 ||api.sec.intl.miui.com^
 ||api.sec.miui.com^
 ||api.securityleaders.com.br^
+||api.segment.io^
 ||api.selovac.com.br^
 ||api.semijoiaszarah.com.br^
 ||api.sempararcondominio.com.br^
@@ -34589,6 +34632,7 @@ yihuifu.cn
 ||api2.grapeguru.de^
 ||api2.midnance.com^
 ||api2.oraulmartins.com.br^
+||api2.poperblocker.com^
 ||api2.sharkindicators.com^
 ||api2.staakmed.com.br^
 ||api2.tbepc.com^
@@ -35712,6 +35756,7 @@ yihuifu.cn
 ||app.rclb.pl^
 ||app.realnewsnow.com^
 ||app.recruit.caterermail.com^
+||app.redretarget.com^
 ||app.reelcin.org^
 ||app.reflectivedata.com^
 ||app.renozee.com^
@@ -35784,12 +35829,14 @@ yihuifu.cn
 ||app.shopback.com^
 ||app.shopeneo.network^
 ||app.shopimind.com^
+||app.shopimind.com^$3p
 ||app.shoptarget.com.br^$3p
 ||app.shouta.co^
 ||app.showroomprive.com^
 ||app.siemens-energy.com^
 ||app.siemensplmevents.com^
 ||app.singlife.com^
+||app.siteperformancetest.net^
 ||app.siusalukis.com^
 ||app.sjsuspartans.com^
 ||app.sjuhawks.com^
@@ -36293,6 +36340,7 @@ yihuifu.cn
 ||appmetrica.yandex.com^$third-party
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.ru^
+||appmifile.com^*/stat/
 ||appmobile.cn^
 ||appmon.shinhan.com^
 ||appmonsta.ai^
@@ -36417,6 +36465,7 @@ yihuifu.cn
 ||appsentry-eu-ali.closeli.com^
 ||appserver-ap.com^
 ||appsfire.com^
+||appsflyer-report.honkaiimpact3.com^
 ||appsflyer.club^
 ||appsflyer.com.akamaized.net^
 ||appsflyer.com^
@@ -36446,6 +36495,7 @@ yihuifu.cn
 ||apptest.truveiculos.com^
 ||apptics.zoho.in^
 ||apptime.xyz^
+||apptimize.com^$domain=synchrony.com
 ||apptimize.com^$redirect=noop.txt,domain=~synchrony.com,image,media,subdocument,stylesheet,script,xhr,other
 ||apptjmp.com^
 ||apptjmp.com^$popup
@@ -36794,6 +36844,7 @@ yihuifu.cn
 ||arclight.vimeo.com^
 ||arcmocbztwfsu.space^
 ||arcor-partner.de^
+||arcpublishing.com^*/datapoint/save
 ||arcspire.io^
 ||arcticattention.com^
 ||arcticclairvoyant.com^
@@ -37524,6 +37575,7 @@ yihuifu.cn
 ||asistente.christus.mx^
 ||asjhcwvssgrlk.website^
 ||asjitqwjvodhr.site^
+||asjviggppbvjr.space^
 ||ask-gps.ru^
 ||ask-yug.com^
 ||ask.antalis-verpackungen.at^
@@ -37564,6 +37616,7 @@ yihuifu.cn
 ||askbot.com^
 ||askdomainad.com^
 ||askdriver.com^
+||askdriver.com^$redirect=noop.js,script
 ||askewrefusaltrashy.com^
 ||askfollow.us^
 ||askfuelads.com^
@@ -37688,6 +37741,7 @@ yihuifu.cn
 ||assets-v2.northsidesun.com^
 ||assets.9gtb.com^
 ||assets.abbi.io^
+||assets.adobedtm.com^$domain=rottentomatoes.com|mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org|thehill.com|realtor.com|nzherald.co.nz|aia.com.ph|baynews9.com|thesaurus.com|dhc.co.jp|0101.co.jp|staples.com|rikunabi.com|directscout.recruit.co.jp|r-agent.com|sephora.com|chronicle.com|channelnewsasia.com|cnbc.com|bmw.hu|atu.de|songkick.com|worldshop.eu|t-mobile.com|philanthropy.com|otempo.com.br|webmotors.com.br|myglo.com.ua|meijer.com|mtvema.com|mtv.co.uk|mtv.de|mtv.it|edp24.co.uk|cloudflare.com|transfermarkt.com.tr|abbott.com|ubs.com|assets.adobedtm.com|eadt.co.uk|cineplex.com|samsung.com|mastercard.com|mini.com.tr|theargus.co.uk|fakenhamtimes.co.uk|webmd.com
 ||assets.adobedtm.com^$domain=sacbee.com|centredaily.com|tagesspiegel.de
 ||assets.agoradoc.com.br^
 ||assets.ahmybid.net^
@@ -38535,6 +38589,7 @@ yihuifu.cn
 ||au.mywd.com^
 ||au.optimate.me^
 ||au.res.keymedia.com^
+||au1.qualtrics.com^$3p
 ||auajhmhuyzfel.online^
 ||auavaxrfgyyrv.online^
 ||aubainebrowny.cfd^
@@ -38601,6 +38656,7 @@ yihuifu.cn
 ||audience.standardchartered.com.tw^
 ||audience.systems^
 ||audience.systems^$third-party
+||audience.visiblemeasures.com^
 ||audience2media.com^
 ||audience2media.com^$3p
 ||audience2media.com^$third-party
@@ -39816,6 +39872,7 @@ yihuifu.cn
 ||az.everydayhelpguide.com^
 ||az.nzn.io^
 ||az413505.vo.msecnd.net^$3p
+||az416426.vo.msecnd.net^$3p
 ||az667904.vo.msecnd.net^
 ||az693360.vo.msecnd.net^
 ||az6a8nmuz5vbrgd2.exasrv.com^
@@ -40172,6 +40229,7 @@ yihuifu.cn
 ||b26pmm66c91hbjr.cfd^
 ||b29b70e3ca.com^
 ||b2b-update.appwrite.network^
+||b2b.rocketcrm.bz^$domain=fitness-pro.ru
 ||b2b719b22c.com^
 ||b2bcontext.ru^
 ||b2binfo.canon-europe.com^
@@ -40462,6 +40520,7 @@ yihuifu.cn
 ||backstageemergencyblame.com^
 ||backstopclimwwbers.info^
 ||backtension.com^
+||backtension.com^$redirect=noop.js,script
 ||backtoprime.fr^
 ||backtory.com^
 ||backup.rottne.com^
@@ -40487,6 +40546,7 @@ yihuifu.cn
 ||badassjv.com^
 ||badasspups.com^
 ||badb5refl.com^
+||badge.dimensions.ai^
 ||badge.facebook.com^
 ||badgeboat.com^
 ||badgegirdle.com^
@@ -41539,6 +41599,7 @@ yihuifu.cn
 ||baywednesday.com^
 ||bayzhawok.com^
 ||baz.data.adobedc.net^
+||bazaarvoice.com^*/magpie.js
 ||bazamodov.ru^
 ||bazhthybzxdfc.space^
 ||bazlny.homepal.it^
@@ -41613,6 +41674,7 @@ yihuifu.cn
 ||bbcrgate.com^
 ||bbcrgate.com^$popup
 ||bbcwebhosting.com^
+||bbcxlqscqmohr.space^
 ||bbd-tag.de^
 ||bbd834il.de^
 ||bbdhvd.mazzolari-milano.com^
@@ -42311,6 +42373,7 @@ yihuifu.cn
 ||beam.koddi.com^$3p
 ||beam.mjhlifesciences.com^
 ||beam.remp.impresa.pt^
+||beam.remp.nv.ua^
 ||beam.telegram.hr^
 ||beam.telex.hu^
 ||beamanalytics.b-cdn.net^
@@ -42743,6 +42806,7 @@ yihuifu.cn
 ||bemobtrk.com^$document
 ||bemobtrk.com^$popup
 ||bemocksmunched.com^
+||bemolthervati.com^
 ||bemottoincord.com^
 ||bemusedlyrurusarsons.cfd^
 ||bemyhole.cam^$domain=bemyhole.com
@@ -42830,6 +42894,7 @@ yihuifu.cn
 ||beopinion.com^
 ||beoxnxlhzau.com^
 ||beoyzz.parfymonline.se^
+||beparsezigancants.cfd^
 ||bepartof.wechain.eu^
 ||bepearlmoujiks.com^
 ||bepeka.digital^
@@ -43963,6 +44028,7 @@ yihuifu.cn
 ||bi-events-collector.spot.im^
 ||bi-metrics.aramuz.net^
 ||bi-report.maxnapps.com^
+||bi-tracker-cn.rivergame.net^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||bi-tracker-global.rivergame.net^
 ||bi-vert.com^
 ||bi.25space.com^
@@ -43984,6 +44050,7 @@ yihuifu.cn
 ||biallo3.de^
 ||bialywidelec.pl^
 ||biancasunlit.com^
+||bianopixel.com^
 ||bianxian.com^
 ||biao6.com^
 ||biarhejukhyrf.space^
@@ -44216,6 +44283,7 @@ yihuifu.cn
 ||bigdata.downza.com^
 ||bigdatajsext.com^
 ||bigdcdimorrzk.space^
+||bigdpnwootelc.website^
 ||bigduckgames.s3.amazonaws.com^
 ||bigelowcleaning.com^
 ||bigelowcleaning.com^$popup
@@ -46037,6 +46105,7 @@ yihuifu.cn
 ||bmyudk.clarins.de^
 ||bmz-whatsapp.com^
 ||bmziog.supplyanddemand.co.uk^
+||bmznrj7oi.com^
 ||bmzuyj.nifty.com^
 ||bmzvm.dock-drop.com^
 ||bmzzojmzu.com^
@@ -46468,6 +46537,7 @@ yihuifu.cn
 ||bombrw.netshoes.com.br^
 ||bommelstein.org^
 ||bommerangcasino.fr^
+||bomp.odmedia.net^$domain=fcb.tv
 ||bomx.xyz^
 ||bon-whatsapp.com^
 ||bonad.io^
@@ -48883,6 +48953,7 @@ yihuifu.cn
 ||bumpermash.com^
 ||bumpingcarfax.com^
 ||bumpmoss.com^
+||bumpyarses.rest^
 ||bumq.com^
 ||bumq.com^$3p
 ||bumq.com^$third-party
@@ -48958,6 +49029,7 @@ yihuifu.cn
 ||buradakimvar.com^
 ||buram.xyz^
 ||burancasinobonus.fr^
+||burantawnily.com^
 ||burbarkholpen.com^
 ||burbledprilledmakua.qpon^
 ||burblerniffer.shop^
@@ -49358,6 +49430,7 @@ yihuifu.cn
 ||bvnfvpxegkfhj.site^
 ||bvnnxhmypzrpbe.com^
 ||bvnswoiconvxd.site^
+||bvpicpsbasens.site^
 ||bvpqrydt.xyz^
 ||bvqfh.skinesa.com^
 ||bvr.ast.snva.jp^
@@ -49804,6 +49877,7 @@ yihuifu.cn
 ||c-ring-fallback.msedge.net^
 ||c-ring.msedge.net^
 ||c-rings.net^
+||c-rings.net^$script,3p
 ||c-rings.net^$script,third-party
 ||c-stat.eu^
 ||c-t.topya.com^
@@ -49819,6 +49893,7 @@ yihuifu.cn
 ||c.a3e4af26a81dbb2128378052f3be90ad0e4baec37aee360f60d58e58.com^
 ||c.ad-mv.de^
 ||c.admaster.com.cn^$popup
+||c.adroll.com^
 ||c.adsco.re^$script,other,redirect=noop.js,domain=adshnk.com|adshrink.it
 ||c.albss.com^
 ||c.algovid.com^
@@ -49896,6 +49971,7 @@ yihuifu.cn
 ||c.il.msn.com^
 ||c.imedia.cz^
 ||c.imedia.cz^$3p
+||c.imrk.net^
 ||c.in.msn.com^
 ||c.ipaddress.com^
 ||c.it.msn.com^
@@ -49983,6 +50059,7 @@ yihuifu.cn
 ||c.sonnentor.com^
 ||c.statcounter.com^
 ||c.stext.id^
+||c.tbex.ru^
 ||c.teenseks.com^
 ||c.tensor.art^
 ||c.th.msn.com^
@@ -51916,6 +51993,7 @@ yihuifu.cn
 ||carethy.de^
 ||carettareagent.com^
 ||careworkerjobs.com.au^
+||carfax.sc.omtrdc.net^
 ||cargas.actonservice.com^
 ||cargdk.bakerross.co.uk^
 ||cargoattachment.com^
@@ -51930,6 +52008,7 @@ yihuifu.cn
 ||caricatureboretangle.com^
 ||caringcast.com^
 ||caringcoyote.com^
+||caringdonut.com^
 ||caringfinch.com^
 ||caringmink.com^
 ||caringyarn.pro^
@@ -52620,6 +52699,7 @@ yihuifu.cn
 ||cawsg.com^$document
 ||caxivtziqjyil.site^
 ||caxjro6f0.com^
+||caxtongeneric.rest^
 ||caxtsk.russoraffaele.it^
 ||caxuqimnaclcm.website^
 ||caycecole.com^
@@ -52743,6 +52823,7 @@ yihuifu.cn
 ||cbsh.ca^
 ||cbsileads.com^
 ||cbsinteractive.data.adobedc.net^
+||cbslocal.com^*/cbs1x1.gif?
 ||cbsloirslgakw.space^
 ||cbso.uk.net^
 ||cbsooaywxukwm.space^
@@ -52774,6 +52855,7 @@ yihuifu.cn
 ||cbzhv.sageandpaije.co.uk^
 ||cbzjerbxjdiph.online^
 ||cbzmoo.mecalux.fr^
+||cbzmyjfhounss.site^
 ||cbzpuhsiman.com^
 ||cbzrh.bcouturelondon.com^
 ||cbzxy.com^
@@ -53279,6 +53361,7 @@ yihuifu.cn
 ||cdn.borhaj.com^
 ||cdn.br.ae.com^
 ||cdn.branch.io^$domain=underarmour.com|pressreader.com|medium.com
+||cdn.branch.io^$script
 ||cdn.braun634.com^
 ||cdn.brevo.com^
 ||cdn.brid.tv^
@@ -53320,6 +53403,7 @@ yihuifu.cn
 ||cdn.coastoutdoors.ca^
 ||cdn.cohesionapps.com^
 ||cdn.cohesionapps.com^$3p
+||cdn.cohesionapps.com^$domain=gamespot.com
 ||cdn.cohesionapps.com^$domain=thepointsguy.com
 ||cdn.comedia.coccoc.com^
 ||cdn.connectif.cloud^
@@ -53628,6 +53712,7 @@ yihuifu.cn
 ||cdn.nusalayer.com^
 ||cdn.nuvisionhealthcenter.com^
 ||cdn.nvisioncenters.com^
+||cdn.odoscope.cloud^
 ||cdn.onescreen.net^
 ||cdn.onesignal.com^
 ||cdn.oo-t.com^
@@ -53756,6 +53841,7 @@ yihuifu.cn
 ||cdn.smartclick.io^
 ||cdn.smartgoods.de^
 ||cdn.smartnews-ads.com^
+||cdn.smlog.co.kr^
 ||cdn.snigelweb.com^
 ||cdn.snitcher.com^
 ||cdn.socialannex.com^
@@ -54337,6 +54423,7 @@ yihuifu.cn
 ||cenoobi.run^
 ||cenotesbotein.qpon^
 ||cenpsn.creatework.jp^
+||census-app.scorecardresearch.com^
 ||census.misterspex.at^
 ||census.misterspex.no^
 ||census.zorinos.com^
@@ -54438,6 +54525,7 @@ yihuifu.cn
 ||cerdmann.com^
 ||cerdmann.com^$3p
 ||cerebro.edna.yahoo.net^
+||cerebro.edna.yahoo.net^$image
 ||cerebrumiq.com^
 ||cerec.cereconline.com^
 ||cereh.ultimateflirtmethod.com^
@@ -54516,6 +54604,7 @@ yihuifu.cn
 ||cessioglovingtense.qpon^
 ||cessskvbzvwje.website^
 ||cestibegster.com^
+||cestonknobhippian.cyou^
 ||cet.hiermitherz.de^
 ||cet.ximpl.digital^
 ||cetincipango.qpon^
@@ -55157,6 +55246,7 @@ yihuifu.cn
 ||check.jettrade.dk^
 ||check.looser.jp^
 ||check.lowealpine.com^
+||check.tadapi.info^
 ||check.tep.test.ajo.adobe.com^
 ||check2.bankofscotland.co.uk^
 ||check2.lloydsbank.co.uk^
@@ -55769,6 +55859,7 @@ yihuifu.cn
 ||cidvz.clearstemskincare.com^
 ||cieapkjfmavqd.site^
 ||ciearancesaieuscaca008.biz^
+||cieefwimgocmj.com^
 ||cieformation.com^
 ||ciefzrxtdqxgf.site^
 ||ciehv.shopboldr.com^
@@ -56051,6 +56142,7 @@ yihuifu.cn
 ||cjfqtu.vitafy.ch^
 ||cjfwcu.oxfordshop.com.au^
 ||cjgdch.com^
+||cjgelphjcvfzdd.com^
 ||cjgffo.thesportsedit.com^
 ||cjgimadfnuztn.online^
 ||cjgrowdaabdse.website^
@@ -56743,6 +56835,7 @@ yihuifu.cn
 ||click.alibaba.com^$subdocument,third-party
 ||click.aliexpress.com^
 ||click.aliexpress.com^$image
+||click.aliexpress.com^$image,script
 ||click.aliexpress.com^$subdocument,3p
 ||click.aliexpress.com^$subdocument,third-party
 ||click.allkeyshop.com^
@@ -57588,6 +57681,7 @@ yihuifu.cn
 ||clmm29.fun^
 ||clmm34.me^
 ||clmm88.co^
+||clmmandkbvlto.space^
 ||clmmz.me^
 ||clnbze.dziennikbaltycki.pl^
 ||clnbze.dzienniklodzki.pl^
@@ -57625,6 +57719,7 @@ yihuifu.cn
 ||clnkq.thebeardstruggle.com^
 ||clnmetrics.cisco.com^
 ||clnnusgbmqhnr.space^
+||clnxbvxopnzum.website^
 ||clo1p7jd.xyz^
 ||clo41zgrs.com^
 ||cloabobra.cyou^
@@ -57713,6 +57808,7 @@ yihuifu.cn
 ||cloud.campaigns.cineplex.com^
 ||cloud.clinicakaianakelin.com.br^
 ||cloud.colormerad.com^
+||cloud.conversion.pl^
 ||cloud.diagral.fr^
 ||cloud.drivingmarkets.com^
 ||cloud.enspecta.se^
@@ -58045,6 +58141,7 @@ yihuifu.cn
 ||clusterdismissinvolved.com^
 ||clustrmaps.com^
 ||clustrmaps.com^$3p
+||clustrmaps.com^$image,redirect=1x1.gif,3p
 ||clutchcourses.com^
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
@@ -58088,6 +58185,7 @@ yihuifu.cn
 ||cm.czaja-feuerschalen.de^
 ||cm.dmp.360.cn^
 ||cm.everesttech.net.akadns.net^
+||cm.g.doubleclick.net^
 ||cm.hdxxl.icu^
 ||cm.informaengage.com^
 ||cm.nordvpn.com^
@@ -58815,6 +58913,7 @@ yihuifu.cn
 ||coftbvdtlkpmt.website^
 ||coftfgnjvnyew.online^
 ||coggingbrocard.com^
+||coghgwfjheczk.space^
 ||cogivea.com^
 ||cogmatch.net^$third-party
 ||cogmtqgzpyvyl.online^
@@ -60041,6 +60140,7 @@ yihuifu.cn
 ||collector.sst.lumories.si^
 ||collector.sst.lumories.sk^
 ||collector.sst.nettilamppu.fi^
+||collector.statowl.com^
 ||collector.subito.it^
 ||collector.superwall.me^
 ||collector.szlcsc.com^
@@ -60700,6 +60800,7 @@ yihuifu.cn
 ||conf-sg.dc.heytapmobi.com^
 ||conf.international.baidu.com^
 ||conf.optum.com^
+||confe.dc.oppomobile.com^
 ||conference.all-energy.com.au^
 ||conference.flsmidth.com^
 ||conference.velpa.pl^
@@ -60709,6 +60810,7 @@ yihuifu.cn
 ||confessedwarmth.com^
 ||confessinvaluable.com^
 ||confetti.moodle.go-static.info^
+||conff.dc.oppomobile.com^
 ||confiaen.legalitas.com^
 ||confianca.ondec.com.br^
 ||confiant-integrations.global.ssl.fastly.net^
@@ -60735,6 +60837,7 @@ yihuifu.cn
 ||config.htplayground.com^
 ||config.inbold.com^
 ||config.inmobi.com^
+||config.jpush.cn^
 ||config.parsely.com^$third-party
 ||config.prevtech.com.br^
 ||config.safedk.com^
@@ -60837,6 +60940,7 @@ yihuifu.cn
 ||connatix.com^$domain=k12reader.com|androidheadlines.com|britannica.com|behindthename.com|likegeeks.com|iphoneincanada.ca|titantv.com|player.one
 ||connatix.com^$domain=lifehacker.com|thegatewaypundit.com|bleepingcomputer.com
 ||connatix.com^$third-party,domain=~accuweather.com|~businessinsider.de|~bz-berlin.de|~cheddar.tv|~deadline.com|~elnuevoherald.com|~finanzen.net|~fitbook.de|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~myhomebook.de|~olhardigital.com.br|~petbook.de|~sacbee.com|~stylebook.de|~techbook.de|~travelbook.de|~welt.de
+||connatix.com^*/pixel?
 ||connead.net^
 ||connect-analytics-prod-eu.superservice.com^
 ||connect-analytics.maklare.vitec.net^
@@ -60994,6 +61098,7 @@ yihuifu.cn
 ||connect.lavea.de^
 ||connect.leadmagneten.dk^
 ||connect.lgcns.com^
+||connect.liblynx.com^
 ||connect.lightriver.com^
 ||connect.link.boone.health^
 ||connect.lionsclubs.org^
@@ -61096,6 +61201,7 @@ yihuifu.cn
 ||connect.summeriesthai.store^
 ||connect.telstrawholesale.com.au^
 ||connect.telstrawholesale.com^
+||connect.telstrawholesale.com^$badfilter
 ||connect.tevagyabrand.hu^
 ||connect.the-stockmarket.com^
 ||connect.thinkinterval.com^
@@ -61198,6 +61304,7 @@ yihuifu.cn
 ||consent-notice.magix.com^$3p
 ||consent.23g.io^
 ||consent.a24films.com^
+||consent.badoo.com^$domain=support.bumbleforfriends.com
 ||consent.bbcgoodfood.com^
 ||consent.berliner-kurier.de^
 ||consent.boerse-online.de^
@@ -62679,6 +62786,7 @@ yihuifu.cn
 ||counter.1gb.ru^
 ||counter.1i.kz^
 ||counter.24h.com.vn^
+||counter.24log.es^
 ||counter.adcourier.com^
 ||counter.advancewebhosting.com^
 ||counter.ajansspor.com^
@@ -63574,6 +63682,7 @@ yihuifu.cn
 ||cr-brands.net^
 ||cr-brands.net^$popup
 ||cr-eam.com^$3p
+||cr-eec.etp-prod.com^$domain=crunchyroll.com
 ||cr-nielsen.com^
 ||cr-nielsen.com^$third-party
 ||cr-relay.com^
@@ -63967,6 +64076,7 @@ yihuifu.cn
 ||crentexgate.com^$popup
 ||crentgate.com^
 ||crentgate.com^$all
+||crenulablamers.rest^
 ||creofive.com^
 ||creofun.com^
 ||creosolwikingoenone.qpon^
@@ -64298,6 +64408,7 @@ yihuifu.cn
 ||crtsjbsjgvtrl.space^
 ||crtsovgnqbvpb.website^
 ||crtsvwe.sbs^
+||crtwpuarvkntk.space^
 ||crtx.info^$third-party
 ||crtxikhiyhluu.site^
 ||crtytddqotxv.com^
@@ -64572,6 +64683,7 @@ yihuifu.cn
 ||cshog.casio.com^
 ||csi-stock-analytics-dev.codelayer.io^
 ||csi.gstatic.com^
+||csi.gstatic.com^$domain=promiflash.de,redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 ||csicskalangos.com^
 ||csicsoka.ffm.hu^
 ||csikbyfp.athletescorner.co^
@@ -64598,6 +64710,7 @@ yihuifu.cn
 ||cskscenery.com^
 ||cslcbabvxbbnr.site^
 ||cslmpnddwujdf.space^
+||csm.cxpublic.com^
 ||csm.magnetintell.com^
 ||csma95349.analytics.edgesuite.net^
 ||csmads.gameclick.vn^
@@ -64620,6 +64733,7 @@ yihuifu.cn
 ||csplog.kwai-pro.com^
 ||cspmkl.gruppal.com^
 ||csportal.directstar.ru^$domain=store.sony.ru
+||csppololwejdw.online^
 ||csqojhzrapobd.online^
 ||csr.onet.pl^
 ||csr11-i.net.anwalt.de^
@@ -64777,6 +64891,7 @@ yihuifu.cn
 ||ct.needlive.com^
 ||ct.perfecttux.com^
 ||ct.pinterest.com^
+||ct.pinterest.com^$subdocument,redirect=noop.html
 ||ct.scubaschoolsofamerica.com^
 ||ct.skool.com^
 ||ct.taskhuman.com^
@@ -65335,6 +65450,7 @@ yihuifu.cn
 ||curbingspider.com^
 ||curbminers.com^
 ||curbneon.com^
+||curbneon.com^$redirect=noop.js,script
 ||curcubeu.fixmania.ro^
 ||cure.curedpharmacy.com^
 ||cure.trueface.org^
@@ -65843,6 +65959,7 @@ yihuifu.cn
 ||cwqtqpxudxicq.space^
 ||cwqxp.sinnersattire.com^
 ||cwrlsjkvjdgff.site^
+||cws-hulu.conviva.com^
 ||cws.conviva.com^
 ||cwsezpmz.gary.ch^
 ||cwt.citywire.info^
@@ -66322,6 +66439,7 @@ yihuifu.cn
 ||d.aderansbenelux.com^
 ||d.aderanshaircenter.com^
 ||d.adlpo.com^
+||d.adtriba.com^
 ||d.aesthetify.de^
 ||d.agazatmasr.com^
 ||d.agisx-ax.com.ua^
@@ -67371,6 +67489,7 @@ yihuifu.cn
 ||d1uae3ok0byyqw.cloudfront.net^
 ||d1uc64ype5braa.cloudfront.net^
 ||d1udjti6mtxz9q.cloudfront.net^
+||d1udjti6mtxz9q.cloudfront.net^$3p
 ||d1ue5xz1lnqk0d.cloudfront.net^
 ||d1ugiptma3cglb.cloudfront.net^
 ||d1ukp4rdr0i4nl.cloudfront.net^
@@ -68788,6 +68907,7 @@ yihuifu.cn
 ||dailymail.com^$removeparam=ns_campaign
 ||dailymail.com^$removeparam=ns_mchannel
 ||dailymirrornewstoday.com^
+||dailymotion.com^*/log/
 ||dailyniner.com^
 ||dailyplace.shop^
 ||dailyrumor-jp.co.in^
@@ -74929,6 +75049,7 @@ yihuifu.cn
 ||datalayer.orange.fr^
 ||datalogix.com^
 ||datalvanza.net^
+||datalytics.utair.io^$ping
 ||datam.com^
 ||datam.com^$3p
 ||datam.com^$third-party
@@ -75725,6 +75846,7 @@ yihuifu.cn
 ||ddhwxwi6h.com^
 ||ddioce.wolverine.com^
 ||ddissezttnheq.space^
+||dditsadn.com^$domain=livesex.com
 ||ddixfspl.s3.amazonaws.com^
 ||ddixmmrtixxso.site^
 ||ddjdkk.fx-smartsearch.net^
@@ -75830,6 +75952,7 @@ yihuifu.cn
 ||de.sharpmarketing.eu^
 ||de.soquair.com^
 ||de.verintsystemsinc.com^
+||de01.rayjump.com^
 ||de17a.com^
 ||de17a.com^$3p
 ||de17a.com^$third-party
@@ -76236,6 +76359,7 @@ yihuifu.cn
 ||deguxtdhf6d01.cloudfront.net^
 ||deheymjqgdkys.online^
 ||dehiloxar-shop.pages.dev^
+||dehiscekmet.cyou^
 ||dehorsshochet.com^
 ||dehua.ixinfan.com^
 ||dehudoz.com^
@@ -76530,6 +76654,7 @@ yihuifu.cn
 ||demqh.juniperoffice.com^
 ||demr.mspaceads.com^
 ||demr.myspace.com^
+||demtefwuys.com^
 ||denakop.com^
 ||denakop.com^$3p
 ||denakop.com^$third-party
@@ -76805,6 +76930,7 @@ yihuifu.cn
 ||detallefacturas.go-static.info^
 ||detasee.lovable.app^
 ||detatterrene.qpon^
+||detect.rayjump.com^
 ||detectbravecomfy.com^
 ||detectca.easysol.net^
 ||detectdinner.com^
@@ -77119,6 +77245,7 @@ yihuifu.cn
 ||dewrain.world^
 ||dewtrymayhems.qpon^
 ||dewwormna.cyou^
+||dex50.deteql.net^
 ||dexameddthasone.info^
 ||dexchangegenius.com^
 ||dexchangeinc.com^
@@ -77428,6 +77555,7 @@ yihuifu.cn
 ||dheyitpmyheck.space^
 ||dhfbm.auratenewyork.com^
 ||dhfhxr.big-m-one.com^
+||dhfqnadaychyz.space^
 ||dhfs-id.heytapimage.com^
 ||dhfs-in.heytapimage.com^
 ||dhfs-my.heytapimage.com^
@@ -77812,6 +77940,7 @@ yihuifu.cn
 ||dierakete.goaserv.com^
 ||diesci.simpletire.com^
 ||diesilberamis.meeriwelt.de^
+||diessnldvrste.space^
 ||diestock20.com^
 ||diestock56.top^
 ||diet3dart.com^
@@ -78180,6 +78309,7 @@ yihuifu.cn
 ||dikont.xyz^
 ||dikvs.bluebirdbotanicals.com^
 ||dil4q0t0blrf8.cloudfront.net^
+||dilatetampingpogge.cyou^
 ||diletcarno.store^
 ||diligenceshaped.com^
 ||diljmkrvlbley.space^
@@ -78272,6 +78402,7 @@ yihuifu.cn
 ||dioramatupuna.cyou^
 ||diouidlf98.com^
 ||dioxanepenname.cfd^
+||dioxansandust.cyou^
 ||dipan.com^
 ||diplnnoidyhexameter.info^
 ||diplomatie.gov.mr^
@@ -79041,6 +79172,7 @@ yihuifu.cn
 ||dl.orders.express-scripts.com^
 ||dl.popclub.co.in^
 ||dl.purplle.com^
+||dl.reg.163.com^$subdocument,redirect-rule=noop.html
 ||dl.right2vote.in^
 ||dl.rivafashion.com^
 ||dl.shopwell.com^
@@ -79274,6 +79406,7 @@ yihuifu.cn
 ||dmfebzgplqaur.online^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmgfqmltttogq.space^
+||dmhefouycvfrl.online^
 ||dmhisuzamhbsh.website^
 ||dmhkmjjrasysf.website^
 ||dmhulgvmedlik.store^
@@ -79310,13 +79443,16 @@ yihuifu.cn
 ||dmp-ai.ru^$3p
 ||dmp-one.ru^
 ||dmp-one.ru^$3p
+||dmp.citiservi.es^
 ||dmp.citynews.ovh^
 ||dmp.eland-tech.com^
 ||dmp.mall.tv^
 ||dmp.one^
 ||dmp.one^$3p
+||dmp.sbermarketing.ru^
 ||dmp.sina.com.cn^
 ||dmp.starbolt.io^
+||dmp.truoptik.com^
 ||dmpcdn.el-mundo.net^
 ||dmpcloud.net^
 ||dmpcloud.net^$3p
@@ -79535,6 +79671,7 @@ yihuifu.cn
 ||dntcxzpwzgdds.space^
 ||dntds.shop^
 ||dntfctn.com^
+||dnthythskvzho.website^
 ||dnuhjo.proworldinc.com^
 ||dnuit.makefoodsimplebook.com^
 ||dnus40re.xyz^
@@ -79554,6 +79691,7 @@ yihuifu.cn
 ||do-ad-lgsmartad-com.aws-prd.net^
 ||do-global.com^
 ||do-not-tracker.org^
+||do-not-tracker.org^$3p
 ||do.exaai.chat^
 ||do.usefireside.com^
 ||do002.com^
@@ -79688,6 +79826,7 @@ yihuifu.cn
 ||dog89nqcp3al4.cloudfront.net^
 ||dogandliving.de^
 ||dogbedscentral.com^
+||dogbedscentral.com^$redirect=noop.js,script
 ||dogblowenjoyer.com^
 ||dogcbhkupqzor.website^
 ||dogcollarfavourbluff.com^
@@ -80159,6 +80298,7 @@ yihuifu.cn
 ||doubleclick.net^
 ||doubleclick.net^$image,3p
 ||doubleclick.net^$popup
+||doubleclick.net^*/trackimp/$3p
 ||doubleclick.uk.net^
 ||doubleclickbygoogle.com^
 ||doublemax.net^
@@ -80541,6 +80681,7 @@ yihuifu.cn
 ||dragate-in-dc.heytapmobile.com^
 ||dragate-in.dc.heytapmobi.com^
 ||dragate-sg.dc.heytapmobi.com^
+||dragate.dc.oppomobile.com^
 ||draggedindicationconsiderable.com^
 ||dragmanblinded.com^
 ||dragon.codemakes.art^
@@ -81008,6 +81149,7 @@ yihuifu.cn
 ||dsbdyr.com^
 ||dsbexk.com^
 ||dsbhmq.com^
+||dsbiwx.com^
 ||dsbixe.com^
 ||dsbjdf.com^
 ||dsbktckfycinl.online^
@@ -81075,6 +81217,7 @@ yihuifu.cn
 ||dseloqua.danskespil.dk^
 ||dseohc.com^
 ||dseopf.com^
+||dseqwz.com^
 ||dserdo.com^
 ||dserju.com^
 ||dsetx3.com^
@@ -81085,19 +81228,23 @@ yihuifu.cn
 ||dsezzn.com^
 ||dsfdzo.com^
 ||dsfe19.madeindesign.com^
+||dsfgge.com^
 ||dsfixu.com^
 ||dsfjcz.com^
 ||dsfkry.com^
 ||dsfksr.com^
 ||dsfmzp.com^
 ||dsfnvh.com^
+||dsfqfe.com^
 ||dsfsfp.com^
 ||dsftcd.com^
+||dsftrn.com^
 ||dsfvsn.com^
 ||dsfvya.com^
 ||dsfwuqjnctggj.space^
 ||dsfzqo.com^
 ||dsg.interia.pl^
+||dsg.sc.omtrdc.net^
 ||dsgarg.com^
 ||dsgc99.com^
 ||dsgdef.com^
@@ -81141,6 +81288,7 @@ yihuifu.cn
 ||dsincy.com^
 ||dsivor.com^
 ||dsixzz.com^
+||dsiyow.com^
 ||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
 ||dsjdnjdwsmofh.space^
 ||dsjdyv.com^
@@ -81152,6 +81300,7 @@ yihuifu.cn
 ||dsjoiyflhvxpq.website^
 ||dsjvjv.com^
 ||dsjwf5.lorivo.pl^
+||dsjxkh.com^
 ||dsjzsw.com^
 ||dskanj.com^
 ||dskatbcpbesgn.online^
@@ -81207,6 +81356,7 @@ yihuifu.cn
 ||dsmzyk.com^
 ||dsnbwt.com^
 ||dsnbym.com^
+||dsncfs.com^
 ||dsndcg.com^
 ||dsneim.com^
 ||dsnfo.pokemoncenter.com^
@@ -81240,6 +81390,7 @@ yihuifu.cn
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dsp-1.ogury.io^
 ||dsp-ad-cache-gcp-japan-tm.trafficmanager.net^
+||dsp-adcreative.mobshark.net^
 ||dsp-adserver-alb-799935063.us-east-1.elb.amazonaws.com^
 ||dsp-analytics.zenithflow.io^
 ||dsp-api.xaprio.com^
@@ -81267,6 +81418,7 @@ yihuifu.cn
 ||dsp.foremedia.net^
 ||dsp.groupminteraction.ru^
 ||dsp.lenovo.com.cn^*&clientType=api|
+||dsp.logly.co.jp^$3p
 ||dsp.nativeads.com^
 ||dsp.newsbreak.com^
 ||dsp.pushub.net^
@@ -81300,6 +81452,7 @@ yihuifu.cn
 ||dspqoy.com^
 ||dsprpu.com^
 ||dspsdk.pinduoduo.com^
+||dsptrack.mobshark.net^
 ||dspultra.com^
 ||dspultra.com^$popup
 ||dspunion.com^
@@ -81343,6 +81496,7 @@ yihuifu.cn
 ||dssbs.sydneybysail.com^
 ||dssbui.com^
 ||dsscv.laurageller.online^
+||dsscxp.com^
 ||dssiacritics.info^
 ||dssiaj.com^
 ||dsspbw.com^
@@ -81354,6 +81508,7 @@ yihuifu.cn
 ||dsst.tillkassan.se^
 ||dsswdz.com^
 ||dssxfu.com^
+||dssyoq.com^
 ||dsszvq.com^
 ||dst.geniefx.com^
 ||dst.lionandrebel.com^
@@ -81368,6 +81523,7 @@ yihuifu.cn
 ||dstinb.com^
 ||dstjar.com^
 ||dstnwp.com^
+||dstpsd.com^
 ||dstpwgogbw.com^
 ||dstqck.com^
 ||dstsjj.com^
@@ -81876,6 +82032,7 @@ yihuifu.cn
 ||duenschdgoplh.online^
 ||duepose.com^
 ||duetcode.com^
+||duetcode.com^$redirect=noop.js,script
 ||duetocovid19.com^
 ||duettolutistssquama.qpon^
 ||dufai4b1ap33z.cloudfront.net^
@@ -82195,6 +82352,8 @@ yihuifu.cn
 ||dvzycytrxbxav.space^
 ||dw-eu.com.com^
 ||dw-online.ksosoft.com^
+||dw.cbsi.com^$domain=~cbsi.com
+||dw.com.com^$domain=~cnet.com
 ||dw.com.com^$script
 ||dw.dewa.pl^
 ||dw.xcar.com.cn^
@@ -82651,6 +82810,7 @@ yihuifu.cn
 ||dynatrace-managed.com^$third-party
 ||dynatrace.att.com^
 ||dynatrace.com^
+||dynatrace.com^$domain=~dynatracelabs.com|~dynatrace.com|~dcbstatic.com
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
 ||dynbanners.netlify.app^
 ||dynbp.us-billini.com^
@@ -82880,6 +83040,7 @@ yihuifu.cn
 ||e.60sk.ru^
 ||e.adcubes.com^
 ||e.adriaprest.it^
+||e.aimerce.ai^
 ||e.ajak.app^
 ||e.api.adx.huazirc.com^
 ||e.apsalar.com^
@@ -83657,6 +83818,7 @@ yihuifu.cn
 ||ebayrtm.com^
 ||ebayshopnet.com^
 ||ebaystatic.com^*/ScandalJS-
+||ebaystatic.com^*/tracking_
 ||ebaystatic.com^*tracking/configuration.js
 ||ebayu.top^
 ||ebbls.tryautumn.com^
@@ -83956,6 +84118,7 @@ yihuifu.cn
 ||ecchvrxiftetv.website^
 ||eccooutletdeutschland.de^
 ||ecctjf.leroymerlin.com.br^
+||eccvzhzyxcdvo.space^
 ||eccztfkgzgean.site^
 ||ecdhfydktzlvg.com^
 ||ecdmizqngxzzq.site^
@@ -84172,6 +84335,7 @@ yihuifu.cn
 ||ecvmbusiness.mtn.co.za^
 ||ecvvvkancbxjt.online^
 ||ecwsbtzlpzwnb.space^
+||ecx1ptnrtbfiy6b.rest^
 ||ecxtbj.phonehouse.es^
 ||ecxufxavldnpd.site^
 ||ecygpwfhvovzr.website^
@@ -84353,6 +84517,7 @@ yihuifu.cn
 ||edge.energy953radio.ca^
 ||edge.envios.santander.com.mx.cname.cjm.adobe.com^
 ||edge.faz.net^
+||edge.fedy.io^$domain=ensonhaber.com
 ||edge.feuersozietaet.de^
 ||edge.flavournetwork.ca^
 ||edge.flexoplexstore.com^
@@ -84434,6 +84599,7 @@ yihuifu.cn
 ||edge.primeratepfc.com^
 ||edge.purelabpeptides.com^
 ||edge.q107.com^
+||edge.quantserve.com^
 ||edge.regionalacceptance.com^
 ||edge.relaxstay24.com^
 ||edge.ricoh-europe.com^
@@ -84723,6 +84889,7 @@ yihuifu.cn
 ||eebju.shopfreespirited.com^
 ||eeby8ge5n69.fvluyczy4t2mtloqblry.cyou^
 ||eec.crunchyroll.com^
+||eec.crunchyroll.com^$domain=crunchyroll.com
 ||eecfrq.edreams.de^
 ||eechicha.com^
 ||eechie-kist.shop^
@@ -84797,6 +84964,7 @@ yihuifu.cn
 ||eetdi.goggles4u.co.uk^
 ||eetspaae.net^
 ||eetspaae.net^$popup
+||eetxglvpagynf.online^
 ||eetzod.bemol.com.br^
 ||eevfstl1n.com^
 ||eevhqgeudnqeg.space^
@@ -84907,6 +85075,7 @@ yihuifu.cn
 ||efiktugboat.qpon^
 ||efilmsy.pl^
 ||efilmy-online.pl^
+||efitqsgvlaymu.space^
 ||efji4wl5ouowgv1r.cfd^
 ||efjsvt.patyka.com^
 ||eflewandatnig.org^
@@ -85165,6 +85334,7 @@ yihuifu.cn
 ||ehwjabvdtzqge.website^
 ||ehwknx.smile-nurse.jp^
 ||ehwsnbikqtuyp.online^
+||ehxpgscgtxtrf.site^
 ||ehxybi.arno.kr^
 ||ehxyz.com^
 ||ehyrkxjh.com^
@@ -85229,6 +85399,7 @@ yihuifu.cn
 ||eiizoc.poeles-et-granules.fr^
 ||eijqgjhcmjsfm.website^
 ||eikwax.marmot.com^
+||eil786npto9u5bq.icu^
 ||eiljtxtpaajoh.website^
 ||eilkgqllsjgru.space^
 ||eilloupnjlzoj.site^
@@ -85285,6 +85456,7 @@ yihuifu.cn
 ||eiyyjstblubzo.website^
 ||eizda.nelsondigital.io^
 ||eizgttovabu.com^
+||eizxzqzbcikua.online^
 ||eizzih.com^
 ||ej.progresas.lt^
 ||ej.tincheldeluce.com^
@@ -86626,6 +86798,7 @@ yihuifu.cn
 ||embrace.io^
 ||embraceattaindatabase.com^
 ||embracerepine.click^
+||embraidcolloprhoda.cyou^
 ||embraveanderun.com^
 ||embroiderynaturalistsfighter.com^
 ||embruegeobios.qpon^
@@ -86947,6 +87120,7 @@ yihuifu.cn
 ||endgamepinwing.rest^
 ||endgl.cgenetool.com^
 ||endhairfall.com^
+||endhairfall.com^$redirect=noop.json,xhr
 ||endibejc.apayewallet.it^
 ||endingthefed.com^
 ||endisbet.com^
@@ -87318,6 +87492,7 @@ yihuifu.cn
 ||enjeuxgeographiquesducanada.goasrv.com^
 ||enjify.com^
 ||enjihdh0t.com^
+||enjoinsrebiterecoct.cyou^
 ||enjoy.onlydaysavers.com^
 ||enjoyablefax.com^
 ||enjoyedcomputefatality.com^
@@ -87346,6 +87521,7 @@ yihuifu.cn
 ||enmvbafy.zoca.com^
 ||enmvvyoxasqbk.site^
 ||ennedranorway.top^$popup
+||ennerveflorianyuh.cyou^
 ||ennlb.hatanosen.com^
 ||ennuyeelaroid.com^
 ||ennxeslzxsfyb.space^
@@ -87401,6 +87577,7 @@ yihuifu.cn
 ||ens.moneyhouse.ch^
 ||ens.nidwaldnerzeitung.ch^
 ||ens.nzz.ch^
+||ens.nzz.ch^$badfilter
 ||ens.nzzmediasolutions.ch^
 ||ens.obwaldnerzeitung.ch^
 ||ens.tagblatt.ch^
@@ -87651,6 +87828,7 @@ yihuifu.cn
 ||eoredi.com^
 ||eoreu.stellacarakasi.com^
 ||eorkmgovqyswa.website^
+||eosinesfacks.com^
 ||eosopqdrtglpx.online^
 ||eoucn.lovehoney.com^
 ||eousnkffnnbes.space^
@@ -87965,6 +88143,7 @@ yihuifu.cn
 ||eqzoh.eshopygo.ro^
 ||er.5ykj.cn^
 ||er.5ykj.com^
+||er.mmi.bemobile.ua^
 ||er.sanoma-sndp.fi^
 ||er.search.naver.com^
 ||er1kz2j8x3cohtn8npx.cyou^
@@ -88939,6 +89118,7 @@ yihuifu.cn
 ||eu-pillstore.com^
 ||eu-pnrt-stsdk.vivoglobal.com^
 ||eu-romsp-unifyconfig.vivoglobal.com^
+||eu-south-2.alb.pulse.perfmetrics.netflix.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-stsdk.vivoglobal.com^
 ||eu-survey.com^
@@ -88972,13 +89152,16 @@ yihuifu.cn
 ||eu.healthyhappy.de^
 ||eu.ironmountain.com^
 ||eu.kinggroup.buzz^
+||eu.klarnaevt.com^$ping
 ||eu.market-place.su^
 ||eu.namy.sk^
 ||eu.nu^
+||eu.pftk.temu.com^
 ||eu.serissa-patrimoine.fr^
 ||eu.sharpmarketing.eu^
 ||eu.spgo.io^
 ||eu.sst.elemis.com^
+||eu.thtk.temu.com^
 ||eu.usefathom.com^
 ||eu1-rum-openway.guance.com^
 ||eu1-sentry.deyecloud.com^
@@ -89509,6 +89692,7 @@ yihuifu.cn
 ||event.thermofisher.com^
 ||event.thermoscientific.cn^
 ||event.thermoscientific.com^
+||event.togothermany.com^
 ||event.tosspayments.com^
 ||event.tradedealer.ru^
 ||event.trimmer-agent.jp^
@@ -89551,6 +89735,7 @@ yihuifu.cn
 ||eventlog.gryphline.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
+||eventlog.outbrain.com^
 ||eventlog.setka.ru^
 ||eventlogger.soundcloud.com^
 ||eventlqvn.com^
@@ -89641,6 +89826,7 @@ yihuifu.cn
 ||events.api.red.wemesh.ca^
 ||events.api.secureserver.net^
 ||events.apizones.com^
+||events.app-performance.music.amazon.dev^
 ||events.appsflyer.com^
 ||events.artlist.io^
 ||events.askjdhaa.com^
@@ -89773,11 +89959,13 @@ yihuifu.cn
 ||events.il.fi^
 ||events.influencemobile.com^
 ||events.ingatlan.com^
+||events.insiad.com^
 ||events.institutosentido.com^
 ||events.interface.com^
 ||events.ispotaba.com^
 ||events.ivi.ru^
 ||events.jacksonandsons.com^
+||events.jianshu.io^*/sa.gif$image,redirect=1x1.gif,important
 ||events.jora.com^
 ||events.jotform.com^
 ||events.julephosting.de^
@@ -90080,6 +90268,7 @@ yihuifu.cn
 ||evilexchanged.com^
 ||evilsbedont.de^
 ||eviltracker.net^
+||eviltracker.net^$3p
 ||eviqxgeavbscz.website^
 ||eviralstore.com^
 ||evirategrallic.com^
@@ -90223,6 +90412,7 @@ yihuifu.cn
 ||ewesmedia.com^
 ||ewesmedia.com^$popup
 ||ewestrebaseshaykh.cfd^
+||eweszlrjysczx.site^
 ||ewetrotreset.com^
 ||ewfarp.kappa.com^
 ||ewfashuomphim.website^
@@ -90253,6 +90443,7 @@ yihuifu.cn
 ||eworfe.babyartikel.de^
 ||eworldtrack.com^
 ||ewosbbumveduj.space^
+||ewoteswwcsswv.website^
 ||ewounddebi.com^
 ||ewoundscanaccedes.cyou^
 ||ewp.live^
@@ -90370,6 +90561,7 @@ yihuifu.cn
 ||excel2010.life.goasrv.com^
 ||excelhumano.goaserv.com^
 ||excellentbadge.pro^
+||excellentbrass.com^
 ||excellentpartialarm.com^
 ||excellentrobin.com^
 ||excellentsoft.goaserv.com^
@@ -90636,6 +90828,7 @@ yihuifu.cn
 ||exp.exposure.com.au^
 ||exp.flowhq.com.au^
 ||exp.notion.so^
+||exp.notion.so^$domain=notion.so,redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||exp100.strangled.net^
 ||expandeddistressclient.com^
 ||expandsbathingyork.cyou^
@@ -90648,6 +90841,8 @@ yihuifu.cn
 ||expe01.goasrv.com^
 ||expectedtextilereconstruct.com^
 ||expeddctednesseshierophantic.info^
+||expedia.com^*/evaluateexperimentsandlog
+||expedia.com^*/logexperiments
 ||expediency36.com^
 ||expeditionbudgetlikely.com^
 ||expekt.com^
@@ -91474,6 +91669,8 @@ yihuifu.cn
 ||facebook.com^$removeparam=extid
 ||facebook.com^$removeparam=mibextid
 ||facebook.com^$removeparam=rdid
+||facebook.com^*/impression_logging/
+||facebook.com^*/logging/
 ||facebook.metro-shine.com^
 ||facebook.norskdun.no^
 ||facebook.us13.go-static.info^
@@ -92740,6 +92937,7 @@ yihuifu.cn
 ||feature.fm^$third-party
 ||feature.rottne.com^
 ||featureassets.org^
+||featureassets.org^$xhr
 ||featured.bradyid.com^
 ||featured.perfectionholic.com^
 ||featured.premiermedia.net^
@@ -94483,6 +94681,7 @@ yihuifu.cn
 ||firebasedynamiclinks.googleapis.com^
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ||firebaselogging-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^$domain=picsman.ai
 ||firebaselogging.googleapis.com^
 ||firecash.org^
 ||firecatfilms.com^
@@ -94716,6 +94915,7 @@ yihuifu.cn
 ||fishingkitshop.com^
 ||fishingrodsgalore.com^
 ||fishingtoolsbox.com^
+||fishingtoolsbox.com^$redirect=noop.js,script
 ||fishingunderwater.goaserv.com^
 ||fishnew.digital^
 ||fishpapa.blog87.goaserv.com^
@@ -94875,6 +95075,7 @@ yihuifu.cn
 ||fjmqgc.peachysunday.com^
 ||fjnrh.period.co^
 ||fjordsand.com^
+||fjordsand.com^$redirect=noop.js,script
 ||fjortk.braun-hamburg.com^
 ||fjpimtjjtdobs.website^
 ||fjpopxgyfrlxvc.com^
@@ -95202,6 +95403,7 @@ yihuifu.cn
 ||flink.go-static.info^
 ||flintarchedsignature.com^
 ||flintbg.com^
+||flinterunshed.cfd^
 ||flintpeak.vip^
 ||flintstroysrooftop.cyou^
 ||flip-casino.fr^
@@ -95735,6 +95937,7 @@ yihuifu.cn
 ||fnjxd.shop^
 ||fnkejfbxhvkox.website^
 ||fnl.quizizz.com^
+||fnlahamwmqvzj.space^
 ||fnlpncdfxwphb.site^
 ||fnlvhy.wowma.jp^
 ||fnmejjja.nexgenhighlevel.com^
@@ -95939,6 +96142,7 @@ yihuifu.cn
 ||fontmenice.com^
 ||fonts.simoneferretti.net^
 ||fontserif.com^
+||fontserif.com^$redirect=noop.js,script
 ||fontsquirrel.com^*/advertisements/
 ||foo.cosmocode.de^
 ||food-metric.shopee.co.id^
@@ -96130,6 +96334,7 @@ yihuifu.cn
 ||forgoeroctober.cfd^
 ||forgoula.com^
 ||forgtm.aloxtime.com^
+||forhaleposiedlobale.cyou^
 ||forikon.com^
 ||forintsisseis.cyou^
 ||foritalynews.it^
@@ -96149,6 +96354,7 @@ yihuifu.cn
 ||form.harvardbusiness.org^
 ||form.ict-toshiba.jp^
 ||form.info-morimoto-real.jp^
+||form.info-morimoto-real.jp^$badfilter
 ||form.innovative-design-lab.com^
 ||form.jlf698.com^
 ||form.jmhsl888.com^
@@ -97098,6 +97304,7 @@ yihuifu.cn
 ||fraysblotto.cyou^
 ||fraysystems.com^
 ||frazergraces.rest^
+||frazzlecaveats.com^
 ||frbdzc.goguynet.jp^
 ||frbeqzvebqbyq.online^
 ||frbet.net^
@@ -97294,6 +97501,7 @@ yihuifu.cn
 ||freehornygirls.com^
 ||freehost.ag^
 ||freehostedscripts.net^
+||freehostedscripts.net^*.php?site=*&s=*&h=$3p
 ||freehostedscripts.net^*.php?site=*&s=*&h=$third-party
 ||freehoster.ch^
 ||freehostingcloud.com^
@@ -97586,6 +97794,7 @@ yihuifu.cn
 ||frog.editorx.com^
 ||frog.wix.com^
 ||frog.wix.com^$image,ping,xmlhttprequest
+||frog.wix.com^$ping,xhr
 ||frog.yuanfudao.com^
 ||frog9alea.com^
 ||frogator.com^
@@ -98149,7 +98358,7 @@ yihuifu.cn
 ||fundedtradingplus-click.pages.dev^
 ||fundescended.com^
 ||fundingchoicesmessages.google.com^
-||fundingchoicesmessages.google.com^$domain=mobirank.pl|hotdeals.com|coderoad.ru|hardwaresfera.com|namba.keizai.biz|antik-war.lv|ipabox.net|nzherald.co.nz|nmac.to|smart-flash.jp|obserwatorgospodarczy.pl|schmidtisblog.de|androidfilehost.com|what-it.pl|showtv.com.tr|picmix.com|aeiou.pt|expansion.com|pik.poznan.pl|piklodz.pl|pik.warszawa.pl|pik.krakow.pl|pik.katowice.pl|pikgdansk.pl|piktorun.pl|pik.wroclaw.pl|piklublin.pl|techsvet.cz|crystal-launcher.pl|wpteq.org|guideoftheworld.com|gadgetversus.com|rtings.com|techzim.co.zw|tabiris.com|worksheetkids.com|temporary-phone-number.com|diena.lt|tvguru.cz|h-donghua.xyz|prospektangebote.de|funkykit.com|bielskiedrogi.pl|boardingarea.com|tychy.info|odigostoupoliti.eu|murciatoday.com|bestmvno.com|in.gr|audiocircuit.dk|wikiru.jp|trilltrill.jp|amanchourasia.in|0gichul.com|pokeflix.tv|megawypas.com|respublika.lt|smsnator.online|motoryzacyjnyblog.pl|ad4msan.com|tvmaze.com|muzotakt.pl|depesza.fm|styl.fm|edumail.su|423down.com|forex-nawigator.biz|dosgames.com|9to5toys.com|winteach.de|robtex.com|speedof.me|ntelemicro.com|xeud.it|waw4free.pl|gizchina.it|sikayetvar.com|hidencloud.com|forum-audi.com|aszdziennik.pl|dadhero.pl|innpoland.pl|mamadu.pl|9-gld.net|klubzwierzaki.pl|wybierz.tv|codicefiscaleonline.com|pearos.xyz|nintendonews.pl|infotbal.cz|tanielotykroluzloty.pl|niezalezna.pl|catalogueoffers.co.uk|promotions.ae|offertevolantini.it|ajanlatok.hu|reklambladerbjudanden.se|adspecials.us|ofertelecatalog.ro|folhetospromocionais.com|catalogosofertas.com.pe|kundeavisogtilbud.no|catalogosofertas.com.mx|catalogosofertas.com.co|flyerdeals.ca|folderz.nl|folletosofertas.es|promocatalogues.fr|catalogosofertas.com.ec|tilbudsaviseronline.dk|catalogosofertas.cl|catalogosofertas.com.br|promotiez.be|flugblattangebote.at|catalogueoffers.com.au|catalogosofertas.com.ar|cataloguespecials.co.za|invezz.com|mgsm.pl|wiemy.to|oswiecimonline.pl|pasqualepillitteri.it|telegram.hr|gostynin24.pl|freizeitmonster.de|roland-gazeta.pl|czecho.pl|tempmailg.com|infobel.com|natemat.pl|przegladsportowy.onet.pl|ewybory.eu|alipaczka.pl|icrewplay.com|uhdpaper.com|dennikn.sk|ppc.land|gsmservice.pl
+||fundingchoicesmessages.google.com^$domain=mobirank.pl|hotdeals.com|coderoad.ru|hardwaresfera.com|namba.keizai.biz|antik-war.lv|ipabox.net|nzherald.co.nz|nmac.to|smart-flash.jp|obserwatorgospodarczy.pl|schmidtisblog.de|androidfilehost.com|what-it.pl|showtv.com.tr|picmix.com|aeiou.pt|expansion.com|pik.poznan.pl|piklodz.pl|pik.warszawa.pl|pik.krakow.pl|pik.katowice.pl|pikgdansk.pl|piktorun.pl|pik.wroclaw.pl|piklublin.pl|techsvet.cz|crystal-launcher.pl|wpteq.org|guideoftheworld.com|gadgetversus.com|rtings.com|techzim.co.zw|tabiris.com|worksheetkids.com|temporary-phone-number.com|diena.lt|tvguru.cz|h-donghua.xyz|prospektangebote.de|funkykit.com|bielskiedrogi.pl|boardingarea.com|tychy.info|odigostoupoliti.eu|murciatoday.com|bestmvno.com|in.gr|audiocircuit.dk|wikiru.jp|trilltrill.jp|amanchourasia.in|0gichul.com|pokeflix.tv|megawypas.com|respublika.lt|smsnator.online|motoryzacyjnyblog.pl|ad4msan.com|tvmaze.com|muzotakt.pl|depesza.fm|styl.fm|edumail.su|423down.com|forex-nawigator.biz|dosgames.com|9to5toys.com|winteach.de|robtex.com|speedof.me|ntelemicro.com|xeud.it|waw4free.pl|gizchina.it|sikayetvar.com|hidencloud.com|forum-audi.com|aszdziennik.pl|dadhero.pl|innpoland.pl|mamadu.pl|9-gld.net|klubzwierzaki.pl|wybierz.tv|codicefiscaleonline.com|pearos.xyz|nintendonews.pl|infotbal.cz|tanielotykroluzloty.pl|niezalezna.pl|catalogueoffers.co.uk|promotions.ae|offertevolantini.it|ajanlatok.hu|reklambladerbjudanden.se|adspecials.us|ofertelecatalog.ro|folhetospromocionais.com|catalogosofertas.com.pe|kundeavisogtilbud.no|catalogosofertas.com.mx|catalogosofertas.com.co|flyerdeals.ca|folderz.nl|folletosofertas.es|promocatalogues.fr|catalogosofertas.com.ec|tilbudsaviseronline.dk|catalogosofertas.cl|catalogosofertas.com.br|promotiez.be|flugblattangebote.at|catalogueoffers.com.au|catalogosofertas.com.ar|cataloguespecials.co.za|invezz.com|mgsm.pl|wiemy.to|oswiecimonline.pl|pasqualepillitteri.it|telegram.hr|gostynin24.pl|freizeitmonster.de|roland-gazeta.pl|czecho.pl|tempmailg.com|infobel.com|natemat.pl|przegladsportowy.onet.pl|ewybory.eu|alipaczka.pl|icrewplay.com|uhdpaper.com|dennikn.sk|ppc.land|gsmservice.pl|retrovault.ch
 ||fundingchoicesmessages.google.com^$domain=taishin-miyamoto.com|telecomtalk.info|op.gg
 ||fundingchoicesmessages.google.com^$domain=video.repubblica.it|br0wsers.com|mathsspot.com|now.gg|aranzulla.it|3bmeteo.com|interpals.net
 ||fundingchoicesmessages.google.com^$script,redirect-rule=noop.js,domain=soranews24.com
@@ -98212,6 +98421,7 @@ yihuifu.cn
 ||funstorage.goaserv.com^
 ||funtoonez.com^
 ||funtoyplanet.com^
+||funtoyplanet.com^$redirect=noop.js,script
 ||funukghkefdfm.space^
 ||funwithvegas.com^
 ||funyme.com^
@@ -100009,6 +100219,7 @@ yihuifu.cn
 ||gbnfaehebroyq.online^
 ||gbnocxrrfzlbj.online^
 ||gbnxhz.ekstralys.no^
+||gbnzaveoacflu.site^
 ||gbooksdownloader.com^
 ||gbotvisit.com^
 ||gbotvisit.com^$3p
@@ -100201,6 +100412,7 @@ yihuifu.cn
 ||gczpyfnuquhix.online^
 ||gczudi.iddental.co.kr^
 ||gd-ad-lgsmartad-com.aws-prd.net^
+||gd-stats.jpush.cn^
 ||gd.189.cn^*.htm?SP=$3p
 ||gd.189.cn^*.htm?SP=$popup,3p
 ||gd.189.cn^*.htm?SP=$popup,third-party
@@ -100417,6 +100629,7 @@ yihuifu.cn
 ||geguj.jackstillman.com.au^
 ||gegxwvws.shriro.com.au^
 ||gehalvongeld.com^
+||geico.com.ssl.sc.omtrdc.net^
 ||geino63news.goasrv.com^
 ||geinonews.goasrv.com^
 ||geinouchannel23.go-static.info^
@@ -100613,6 +100826,7 @@ yihuifu.cn
 ||geo.perezhilton.com^
 ||geo.play.it^
 ||geo.query.yahoo.com^
+||geo.query.yahoo.com^$domain=~mail.yahoo.com
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.settings.data.microsoft.com.akadns.net^
 ||geo.theawesomer.com^
@@ -102097,6 +102311,7 @@ yihuifu.cn
 ||girevopexem.com^
 ||girhub.com^
 ||girigirilove.com^*/appConfigData?key=adver_
+||giriieucbglvi.website^
 ||girini.ligadivanov.ru^
 ||girl-rus.com^
 ||girlgamingempire.org^
@@ -102174,6 +102389,7 @@ yihuifu.cn
 ||givoiq.nichiigakkan-careerplus.jp^
 ||givviictvunqi.online^
 ||givzelo.shop^
+||giwltihiknix.in^
 ||giwmicgil.com^
 ||gixdir.gitionline.com^
 ||gixiluros.com^
@@ -102219,6 +102435,7 @@ yihuifu.cn
 ||gjjhudchozspp.website^
 ||gjjtey.mystylebags.it^
 ||gjk1sc9o2.com^
+||gjkanuhngwnji.website^
 ||gjkha.beautyandtheboutique.com^
 ||gjkkafhwxblpu.website^
 ||gjkpctauyopzo.website^
@@ -102412,6 +102629,7 @@ yihuifu.cn
 ||glassboxdigital.io^$3p
 ||glassboxdigital.io^$third-party
 ||glasscoyote.com^
+||glasscoyote.com^$redirect=noop.js,script
 ||glassdoor-dataplane.rudderstack.com^
 ||glasses.decorise.pl^
 ||glassesoftruth.com^
@@ -102524,6 +102742,7 @@ yihuifu.cn
 ||glkge.ekster.com^
 ||glkjcdxmnjssm.online^
 ||glkmvagwntgde.website^
+||glkompsqfeuoj.online^
 ||glkwxusceaxxe.com^
 ||gll.yc8c7fpjfci6kz53ivyb.cyou^
 ||gllogiubisccs.website^
@@ -102548,6 +102767,7 @@ yihuifu.cn
 ||global-kaufhaus.com^
 ||global-media.de^*/track/ai.img
 ||global-mktg.transunion.com^
+||global-receiver-ta.thinkingdata.cn^
 ||global-report.ml.youngjoygame.com^
 ||global-sis.engagelab.com^
 ||global-staticplat.cdn.bcebos.com^
@@ -102581,6 +102801,7 @@ yihuifu.cn
 ||globaladmedia.net^
 ||globaladsales.com^
 ||globaladv.net^
+||globalapi.ad.xiaomi.com^
 ||globalbanking.wolterskluwer.com^
 ||globalbrandsmagazine.com^
 ||globalcareers-economist.go-static.info^
@@ -102611,6 +102832,7 @@ yihuifu.cn
 ||globalpark.com^
 ||globalpartners-ltd.com^
 ||globalsellingads.com^
+||globalservices.conde.digital^
 ||globalshopping.website^
 ||globalsiteanalytics.com^
 ||globalsiteanalytics.com^$third-party
@@ -102755,6 +102977,7 @@ yihuifu.cn
 ||gluphordoweb.net^
 ||glurvextopin-official.org^
 ||gluschwein.de^
+||glusidesneezes.rest^
 ||glutenmuttsensuous.com^
 ||glutinslt.qpon^
 ||gluvoob.com^
@@ -102786,6 +103009,7 @@ yihuifu.cn
 ||gm.greekmarket.com^
 ||gm.mmstat.com^
 ||gm.rockbridgeinvest.com^
+||gm38duxoihbmy5o.icu^
 ||gm99.com^$third-party
 ||gma.alicdn.com^
 ||gmads.net^
@@ -104212,6 +104436,7 @@ yihuifu.cn
 ||godark.xyz^
 ||goddedkrater.com^
 ||goddesslamps.com^
+||goddesslamps.com^$redirect=noop.js,script
 ||goddessvip.com^
 ||godev.steps.me^
 ||godfather.yorck.de^
@@ -104569,7 +104794,10 @@ yihuifu.cn
 ||google-analytics-cn.com^
 ||google-analytics.bi.owox.com^
 ||google-analytics.com^
+||google-analytics.com^$domain=avgle.com
+||google-analytics.com^$domain=promiflash.de,redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 ||google-analytics.com^$image,redirect=1x1.gif,domain=simpmusic.org
+||google-analytics.com^$object,redirect=noop.js,script
 ||google-analytics.com^$script,third-party,xmlhttprequest
 ||google-analytics.de.appwesome.com^
 ||google-analytics.zwc365.com^
@@ -105105,6 +105333,7 @@ yihuifu.cn
 ||gracecore.com^
 ||gracedsorels.cyou^
 ||graceful-original.pro^
+||gracefulbucket.com^
 ||gracefulmilk.com^
 ||gracefulmouse.com^
 ||gracefulpony.info^
@@ -112241,6 +112470,7 @@ yihuifu.cn
 ||guineapig.espressive.com^
 ||guineapig.themenaffin.de^
 ||guisardcorner.cfd^
+||guiserdewax.com^
 ||guisianoutyardwee.cfd^
 ||guitaralliance.com^
 ||guitaralliance.com^$3p
@@ -112292,6 +112522,7 @@ yihuifu.cn
 ||gundeli.shop^
 ||gundersons.com^
 ||gundynisperocroup.cyou^
+||gunebodigger.rest^
 ||gunfireendorse.com^
 ||gunft.com^
 ||gunggo.com^
@@ -112660,6 +112891,7 @@ yihuifu.cn
 ||gyadqicrlqnyg.space^
 ||gyaiod.scandinavianoutdoor.com^
 ||gyantak.com^
+||gyassacrunk.cyou^
 ||gyazo.com^$domain=turbobit.net
 ||gybles.shopee.ph^
 ||gybmppuezjtqe.space^
@@ -114106,6 +114338,7 @@ yihuifu.cn
 ||hdvcdndq.horror-shop.com^
 ||hdvcode.com^
 ||hdvmyo.com^
+||hdwolnsltku.com^
 ||hdwrpxwree.com^
 ||hdxdhu.zumnorde.de^
 ||hdypw.com^
@@ -114475,6 +114708,7 @@ yihuifu.cn
 ||hellosherpa.com^
 ||hellosherpa.com^$3p
 ||hellosherpa.com^$third-party
+||hellosmpl.com^$script,3p
 ||hellospur.com^
 ||hellotsu.goasrv.com^
 ||hellounbox.com^
@@ -114812,6 +115046,7 @@ yihuifu.cn
 ||hfbhbzlflpuiz.site^
 ||hfc195b.com^
 ||hfcqcubumdrpp.website^
+||hfcqmktkuwlql.space^
 ||hfcwc.sndys.com.au^
 ||hfcwirfmfgyzk.site^
 ||hfcxgnrjhudkg.site^
@@ -115296,6 +115531,7 @@ yihuifu.cn
 ||hims1nice.com^
 ||himum.trymagicbox.com^
 ||himunpractical.com^$popup
+||hinata.me^*/pageview|
 ||hincedyigppqw.online^
 ||hindi-story.goasrv.com^
 ||hindicatooninsrv.goasrv.com^
@@ -115415,6 +115651,7 @@ yihuifu.cn
 ||histat.com^
 ||histats.com^
 ||histats.com^$3p
+||histats.com^$domain=avgle.com
 ||histats.com^$third-party
 ||histats.link^
 ||histi.co^
@@ -115451,6 +115688,7 @@ yihuifu.cn
 ||hit.c97.org^
 ||hit.cnbce.com^
 ||hit.darmoweliczniki.pl^
+||hit.gemius.pl^
 ||hit.interia.pl^
 ||hit.mybestpro.com^
 ||hit.mynet.com^
@@ -115815,6 +116053,7 @@ yihuifu.cn
 ||hleouh.feelunique.com^
 ||hlerpxag.unipack-v.com^
 ||hlft.holifya.com^
+||hlfzxeuezujhf.space^
 ||hlgdxdfwnqqug.online^
 ||hlgmrrzoeayw.com^
 ||hlhyzh.fann.cz^
@@ -116479,6 +116718,7 @@ yihuifu.cn
 ||hordedenrobes.com^
 ||hordeli.shop^
 ||hordesfrappe.cfd^
+||hordinginfidel.rest^
 ||horelvaceyron.com^
 ||horezi.shop^
 ||horisis.com^
@@ -116812,6 +117052,8 @@ yihuifu.cn
 ||hotwire-widget.dailywire.com^
 ||hotwire-widget.dailywire.com^$3p
 ||hotwire-widget.dailywire.com^$third-party
+||hotwire.com^*/1x1.gif?
+||hotwire.com^*/evaluateexperimentsandlog
 ||hotwords.com.br^
 ||hotwords.com.mx^
 ||hotwords.com^
@@ -117418,6 +117660,7 @@ yihuifu.cn
 ||htnbg.studiofitology.com^
 ||htnblk.kansascitysteaks.com^
 ||htneakzcupxkt.space^
+||htogibvazka.in^
 ||htplayground.com^
 ||htpubmceczzdl.space^
 ||htqfxh.vuch.cz^
@@ -117770,6 +118013,7 @@ yihuifu.cn
 ||hugysoral.digital^
 ||huhccdiporzzp.online^
 ||huhhlasophomoric.info^
+||huhtoric.com^
 ||huhue.com^
 ||huhwryctykitp.space^
 ||hui.sohu.com^
@@ -117904,6 +118148,7 @@ yihuifu.cn
 ||hunt.pirschershop.de^
 ||huntclubst.huntclubchiropractic.com^
 ||huntdown.info^
+||huntedcholeic.com^
 ||hunter-gummistiefel.de^
 ||hunter-hub.com^
 ||hunterdelivery.com^
@@ -117985,6 +118230,7 @@ yihuifu.cn
 ||hushpub.com^
 ||hushpuppiefrance.fr^
 ||huskinessimminentstylus.com^
+||huskingunshort.com^
 ||husky-sock.pro^
 ||huskypartydance.com^
 ||husoxn.investors.com^
@@ -118230,6 +118476,7 @@ yihuifu.cn
 ||hyadain.com^
 ||hyadserver-delivery.reviveservers.com^
 ||hyaeao.bildeleshop.dk^
+||hyaloidfalk.com^
 ||hyaloidsatury.com^
 ||hyalyyeiegmak.online^
 ||hyaplnr.com^
@@ -118309,6 +118556,7 @@ yihuifu.cn
 ||hyhnas.com^
 ||hyhrqbdxmjtjvc.com^
 ||hyhsaqyiusioz.space^
+||hyhtzqotnoloy.site^
 ||hyibby.lampen24.be^
 ||hyihyfouxfsjb.online^
 ||hyip-zanoza.me^
@@ -118447,6 +118695,7 @@ yihuifu.cn
 ||hzdsp.eshopygo.gr^
 ||hzeartjirlhdv.site^
 ||hzeetn.natalie.mu^
+||hzfgijqudwngz.online^
 ||hzfhjh.ledscopic.com^
 ||hzgla.shopwss.com^
 ||hzhepy.lojaiplace.com.br^
@@ -118694,6 +118943,7 @@ yihuifu.cn
 ||i4ek.com^
 ||i5.qkl5c7b8tg1bwph.cyou^
 ||i57eokfjiwoqxzlmetc.cyou^
+||i5dtd6dfl.com^
 ||i5e.19gzjg6grxxpty.cyou^
 ||i5ixiwch2f.themakersmob.com^
 ||i5le8m3qxs.com^
@@ -118902,6 +119152,7 @@ yihuifu.cn
 ||ibd-as-api.iq.com^
 ||ibdhurhzedcpx.online^
 ||ibdoz.trilogyaviationgroup.com^
+||ibdqetdryzpxh.site^
 ||ibe1.iberia.com^
 ||ibeat-analytics.com^
 ||ibeat-analytics.com^$3p
@@ -119882,6 +120133,7 @@ yihuifu.cn
 ||ihtmci.aignermunich.de^
 ||ihtnxu.tannergoods.com^
 ||ihuxptfrsqjqv.space^
+||ihvhklncixhqu.website^
 ||ihvnk.irisandromeo.com^
 ||ihx.infinitehse.com^
 ||ihxeiwbmsjpan.website^
@@ -120263,6 +120515,7 @@ yihuifu.cn
 ||iltmowkvtqvzw.site^
 ||iltoyjifpdloe.website^
 ||iltskegkybift.online^
+||iluelxiiu.com^
 ||ilumina.center^
 ||ilunugnqpnrvro3i1ktnleql.h8j323lxqxkztxu.cyou^
 ||ilupvlxoldmow.space^
@@ -120370,6 +120623,7 @@ yihuifu.cn
 ||imageprostyle-communication.fr^
 ||imageropaque.cyou^
 ||images-ads.aland.com^
+||images-amazon.com^*/ClientSideMetricsAUIJavascript*.js
 ||images-aud.freshmeat.net^
 ||images-aud.slashdot.org^
 ||images-aud.sourceforge.net^
@@ -121075,6 +121329,7 @@ yihuifu.cn
 ||imdb.com^$removeparam=pf_rd_s
 ||imdb.com^$removeparam=pf_rd_t
 ||imdb.com^$removeparam=ref_
+||imdb.com^*/b.gif
 ||imdej.drinkrenude.com^
 ||imdfsqcgexeik.space^
 ||imdprmebrbbbq.space^
@@ -121456,6 +121711,7 @@ yihuifu.cn
 ||imp.optaim.com^
 ||imp.pixiv.net^
 ||imp.pvnsolutions.com^
+||imp.startappservice.com^
 ||imp.xgo.com.cn^
 ||imp.zol.com.cn^
 ||imp2aff.com^
@@ -121627,6 +121883,7 @@ yihuifu.cn
 ||imrtrack.com^$third-party
 ||imrworldwide.com^
 ||imrworldwide.com^$3p
+||imrworldwide.com^$domain=cnet.com,important
 ||imrxppcgretqu.website^
 ||ims.relationshipone.com^
 ||imshiipl.cyou^
@@ -121978,6 +122235,7 @@ yihuifu.cn
 ||indisveloc.store^
 ||inditedstooged.cyou^
 ||indiv.indivmedia.com^
+||individclerkly.click^
 ||individuad.net^
 ||individuad.net^$3p
 ||individuad.net^$third-party
@@ -122016,6 +122274,7 @@ yihuifu.cn
 ||indulgenceslangringer.com^
 ||indulinrayful.com^
 ||indurcardi.store^
+||indurecarone.com^
 ||indush.cfd^
 ||induspupil.go-static.info^
 ||industower.org^
@@ -122819,6 +123078,7 @@ yihuifu.cn
 ||info.ncfp.org^
 ||info.ncoi.nl^
 ||info.neg.co.jp^
+||info.neg.co.jp^$badfilter
 ||info.neosllc.com^
 ||info.nepsisadvisors.com^
 ||info.neptune-software.com^
@@ -123431,10 +123691,12 @@ yihuifu.cn
 ||ingest.appcenter.ms^
 ||ingest.coincodex.com^
 ||ingest.databuckets.com^
+||ingest.do.brainsland.com^
 ||ingest.grupoadslzone.es^
 ||ingest.in.signoz.cloud^
 ||ingest.m2catalyst.com^
 ||ingest.make.rvapps.io^
+||ingest.make.rvapps.io^$domain=zdnet.com
 ||ingest.make.rvohealth.com^
 ||ingest.metzler-electronics.com^
 ||ingest.promptwatch.com^
@@ -123781,6 +124043,7 @@ yihuifu.cn
 ||insight.aon.com^
 ||insight.apothekenblatt.de^
 ||insight.autovistagroup.com^
+||insight.bellmetric.net^
 ||insight.bolsnik.com^
 ||insight.boomer.com^
 ||insight.business.hsbc.com^
@@ -124109,6 +124372,7 @@ yihuifu.cn
 ||installp.com^$3p
 ||installspal.com^
 ||installtracker.com^
+||installtracker.unityads.unity3d.com^
 ||installupdate.online^
 ||installupdate.online^$document
 ||installupdate.online^$popup
@@ -124498,6 +124762,7 @@ yihuifu.cn
 ||internebula.net^
 ||internebula.net^$3p
 ||internebula.net^$third-party
+||internet-abc.de^*/eTracker.js
 ||internet-cleaning-tool.capital-software.qarchive.org^
 ||internet.cz^
 ||internet.degoo.com^
@@ -124917,6 +125182,7 @@ yihuifu.cn
 ||ioruwh09.xyz^
 ||iorzh.sokolovelaw.com^
 ||ios-ads.pulse.weatherbug.net^
+||ios-hack.icu^
 ||ios-informationplatform.wps.cn^
 ||ios-pclog.3u.com^
 ||ios-pclog.i4.cn^
@@ -125002,6 +125268,7 @@ yihuifu.cn
 ||ipa-plausible.c-2d206b1.kyma.ondemand.com^
 ||ipaaxvmhvodxj.site^
 ||ipad.pc899.cn^
+||ipada.cafe.naver.com^$xhr
 ||ipaddr.site^
 ||ipaddresslabs.com^
 ||ipaddresslabs.com^$3p
@@ -125016,6 +125283,7 @@ yihuifu.cn
 ||ipcd-ts.optimizate.com^
 ||ipcfgw.pieces.com^
 ||ipcheck.blogsys.jp^
+||ipcheck.blogsys.jp^$redirect=noop.js,script
 ||ipcheck.blogsys.jp^$script,redirect=noop.js
 ||ipcheker.com^
 ||ipclt.pleasershoes.com^
@@ -125447,8 +125715,10 @@ yihuifu.cn
 ||irq0ql8or.com^
 ||irqaovfrmdmv.com^
 ||irqewz.vilebrequin.com^
+||irqgbqjdbltym.website^
 ||irqjb.saachistyle.com^
 ||irqoqr.industrywest.com^
+||irqs.ioam.de^
 ||irr7idq6i.com^
 ||irradiatestartle.com^
 ||irredsurahi.cyou^
@@ -125687,6 +125957,7 @@ yihuifu.cn
 ||isrug.dermstreet.com^
 ||isrv07.com^
 ||iss.shopimind.com^
+||iss.shopimind.com^$3p
 ||issat.goasrv.com^
 ||isseidemark.cyou^
 ||issizlik-maasi.goaserv.com^
@@ -126032,6 +126303,7 @@ yihuifu.cn
 ||iumwsfnaegusu.space^
 ||iungnc.williamhenry.com^
 ||iuni.go-static.info^
+||iunikbinqlwjp.website^
 ||iunmrmdyetjbe.website^
 ||iuouv.firstday.com^
 ||iup.scholarships.go-static.info^
@@ -127033,6 +127305,7 @@ yihuifu.cn
 ||jcvtdoqmifyzt.site^
 ||jcvuysqcxgtta.site^
 ||jcvwteydzkhlr.space^
+||jcwlunubwpnne.site^
 ||jcxnwlwjigrjr.online^
 ||jcxsrh.aalok.com^
 ||jcycsbnveydxx.space^
@@ -127045,6 +127318,7 @@ yihuifu.cn
 ||jd.patygomes.com^
 ||jd.thehadafiller.com^
 ||jdabrdxqtvzrb.site^
+||jdarqqrnvtjdm.site^
 ||jdauflfpdmoop.online^
 ||jdaxvtlwprmlz.space^
 ||jdbhijdadfjfifciaf.world^
@@ -127184,6 +127458,7 @@ yihuifu.cn
 ||jdzxdlmc3.com^
 ||je-nny.goasrv.com^
 ||je3zdrcua.com^
+||je4ft3gn8vxudum.icu^
 ||jealousembroideryroute.com^
 ||jealoussale.com^
 ||jeans-fashion.com^
@@ -128669,6 +128944,7 @@ yihuifu.cn
 ||jptifzvqhanvha.com^
 ||jptobh.network.com.tr^
 ||jptowa.org^
+||jptptukicludh.space^
 ||jptsxj.7esthe.com^
 ||jptxlqkygrhdo.website^
 ||jpujdlotmzdyw.site^
@@ -128868,6 +129144,7 @@ yihuifu.cn
 ||jrzwrjgxhzotx.site^
 ||js-ad.a.yximgs.com^
 ||js-agent.newrelic.com^
+||js-agent.newrelic.com^$domain=chaturbate.com,redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xhr,other
 ||js-ap1.usemessages.com^
 ||js-apac-ss.ysm.yahoo.com^
 ||js-check.com^
@@ -129150,6 +129427,7 @@ yihuifu.cn
 ||jsuffdjrzpwcw.site^
 ||jsumdixbcmepv.site^
 ||jsuufijxvozvc.space^
+||jsv3.recruitics.com^$script
 ||jsvxbqwjmimbt.site^
 ||jswebcollects.kugou.com^
 ||jswlpe.modainpelle.com^
@@ -130393,6 +130671,7 @@ yihuifu.cn
 ||kartalescortkizlar.com^
 ||kartbarriersystem.com^
 ||kartcalques.rest^
+||karte.io^$domain=delishkitchen.tv
 ||kartik.devishetty.com^
 ||kartik.devishetty.net^
 ||kartinka.com.ua^
@@ -130644,6 +130923,7 @@ yihuifu.cn
 ||kcolbda.com^
 ||kcolbda.com^$3p
 ||kcolbda.com^$third-party
+||kcpf938kzbmglbfvmtgemvz9hlr9i.cfd^
 ||kcqic.drinkamrita.co^
 ||kcqoej.roborock.com^
 ||kcray.com^
@@ -131541,6 +131821,7 @@ yihuifu.cn
 ||kindervertreter.de^
 ||kindervertretung.de^
 ||kindhush.com^
+||kindhush.com^$redirect=noop.js,script
 ||kindjalfuses.com^
 ||kindlereunion.com^
 ||kindlestorsion.com^
@@ -132358,6 +132639,7 @@ yihuifu.cn
 ||knjasgnwitdwf.space^
 ||knjkyjtocepbv.website^
 ||knjybs.luminis-films.com^
+||knk17hyeer4qrup2gk98hikx.cfd^
 ||knknoqpaxluaa.online^
 ||knkpublishingsoftware.com^
 ||knkqjmjyxzev.info^
@@ -133227,6 +133509,7 @@ yihuifu.cn
 ||ktskxm.smartphoto.nl^
 ||ktsnqchncbimr.space^
 ||kttreqkgxslkl.online^
+||kttuskbnjauqr.website^
 ||ktufgaedqrsgw.website^
 ||ktuvdtioaxwmh.website^
 ||ktvgv.com^
@@ -133590,6 +133873,7 @@ yihuifu.cn
 ||kwqpix.ravenna.gr^
 ||kwrhuac.shop^
 ||kwrrzncpgmhow.space^
+||kwrxjobcqfnne.website^
 ||kws.holdmybeerconsulting.com^
 ||kwsebnxfzjxkkn.com^
 ||kwserving.com^
@@ -134094,6 +134378,7 @@ yihuifu.cn
 ||l6joi1276ybr6f66coj9vqbghufcb24poww69.cyou^
 ||l75v1tpenow2eb97fex.cfd^
 ||l799.esaimaa.fi^
+||l7bcsnwc7nzr3uo.icu^
 ||l7xk21bftn2imgt.rest^
 ||l8eotq2v5olokb7tcgc8h38i1.cyou^
 ||l8opsdgim.com^
@@ -134668,6 +134953,7 @@ yihuifu.cn
 ||laquesis.data.olxcdn.com^
 ||lara-betcasino.fr^
 ||laradiodeldiario.net^
+||laraliarestir.com^
 ||laramieargoanosamine.cfd^
 ||larapush.com^
 ||lararforbundet.analytics.ozzi.io^
@@ -135048,6 +135334,7 @@ yihuifu.cn
 ||lbfespmneslew.space^
 ||lbffrgzxxorsd.space^
 ||lbfljqnsfsnfq.website^
+||lbfnjxkuhqsou.online^
 ||lbfxhdprvnxyv.site^
 ||lbg8ajqq-analytics.convkit.com^
 ||lbgbaswimupfs.online^
@@ -135742,6 +136029,7 @@ yihuifu.cn
 ||legenhit.com^
 ||legenhit.com^$third-party
 ||legerpirate.click^
+||legezwqx.com^
 ||legfrissebb.info^
 ||leggyenglishdemonstration.com^
 ||leggyintimidatebullying.com^
@@ -136146,6 +136434,7 @@ yihuifu.cn
 ||lezbiyanki.net^
 ||lezntf.heydudeshoesusa.com^
 ||lezplamgzs.com^
+||lezqeklxpyhsk.space^
 ||leztr.giantpartners.com^
 ||lf-static.tiktokpangle-cdn-us.com^
 ||lf.lelefeminine.com^
@@ -136685,6 +136974,7 @@ yihuifu.cn
 ||lightheartedgoods.shop^
 ||lightheartedpriest.com^
 ||lighthouse.edoinc.com^
+||lighthouselabs.eu^$image
 ||lightindividual.com^
 ||lightingshovestature.com^
 ||lightlyirresponsibility.com^
@@ -136714,6 +137004,7 @@ yihuifu.cn
 ||lihi3.cc^
 ||liiheqkwi.com^
 ||liijacenkubom.site^
+||liijbwvfxuinm.com^
 ||liikxhzzebfwd.space^
 ||liiraspin.fr^
 ||liitwrz.icu^
@@ -138029,6 +138320,7 @@ yihuifu.cn
 ||lionstracking.com^
 ||liontx.stream^
 ||lionvaultora.com^
+||liopirrnlflykv.com^
 ||lior-orvalis.net^
 ||liorjd.shop^
 ||liosix.mtvuutiset.fi^
@@ -138386,6 +138678,7 @@ yihuifu.cn
 ||livestats.fr^$third-party
 ||livestats.kaltura.com^
 ||livestats.matrix.it^
+||livestream.com^*/analytics/
 ||livestt.co^
 ||livesupporti.com^$3p
 ||livesurf.ru^
@@ -138477,6 +138770,7 @@ yihuifu.cn
 ||ljbpfe.notino.es^
 ||ljbqfyfrafzla.space^
 ||ljc.coupang.com^
+||ljc.coupang.com^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||ljcazzzclwglt.site^
 ||ljcns.casadiluce.ca^
 ||ljcokxyweiqjc.site^
@@ -138613,6 +138907,7 @@ yihuifu.cn
 ||lkpmprksau.com^
 ||lkpseyc3d.com^
 ||lkqagavhhaqrp.space^
+||lkqatozmsqjjl.site^
 ||lkqce.dermaflash.com^
 ||lkqd.com^
 ||lkqd.net^
@@ -141215,6 +141510,7 @@ yihuifu.cn
 ||load.gtm.humanrightscourses.org^
 ||load.gtm.humilis.it^
 ||load.gtm.hungrybirds.nl^
+||load.gtm.hurra.com^
 ||load.gtm.hydrobuilder.com^
 ||load.gtm.iaeo.com.br^
 ||load.gtm.iamfy.co^
@@ -143432,6 +143728,7 @@ yihuifu.cn
 ||load.sgtm.jna.dk^
 ||load.sgtm.jobs.1800gotjunk.com^
 ||load.sgtm.joerg-aderhold.de^
+||load.sgtm.joga.dk^
 ||load.sgtm.johnstonsofelgin.com^
 ||load.sgtm.journeytank.com^
 ||load.sgtm.kalkmaster.ch^
@@ -143585,6 +143882,7 @@ yihuifu.cn
 ||load.sgtm.renderedtough.com^
 ||load.sgtm.renewpt.com^
 ||load.sgtm.renoliva.pl^
+||load.sgtm.reseller.bannerheld.de^
 ||load.sgtm.resilientservices.com.au^
 ||load.sgtm.restaurante-sanfrancisco.com^
 ||load.sgtm.restaurante-sanfrancisco.es^
@@ -143710,6 +144008,7 @@ yihuifu.cn
 ||load.sgtm.tennis-point.co.uk^
 ||load.sgtm.tennis-point.com^
 ||load.sgtm.tennis-point.cz^
+||load.sgtm.tennis-point.de^
 ||load.sgtm.tennis-point.dk^
 ||load.sgtm.tennis-point.es^
 ||load.sgtm.tennis-point.fr^
@@ -144888,6 +145187,7 @@ yihuifu.cn
 ||load.sst.clinicminds.com^
 ||load.sst.cloudybd.com^
 ||load.sst.coachclub.com^
+||load.sst.colemanfurniture.com^
 ||load.sst.combi-camp.com^
 ||load.sst.condomerie.com^
 ||load.sst.container-lageret.dk^
@@ -146550,6 +146850,7 @@ yihuifu.cn
 ||loadsurprise.com^
 ||loadtime.org^
 ||loadtime.org^$document
+||loadus.exelator.com^
 ||loafoushuho.com^
 ||loafstrangelysuperintend.com^
 ||loajawun.com^
@@ -146948,6 +147249,7 @@ yihuifu.cn
 ||log-upload-v6.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log-v2-boot.capcutapi.com^
+||log-v4-insight.kaizenplatform.net^
 ||log-va.bytegsdk.com^
 ||log-va.tiktokv.com^
 ||log-verify.mob.com^
@@ -146989,6 +147291,7 @@ yihuifu.cn
 ||log.adplex.co.kr^
 ||log.ads-m.net^
 ||log.adsimp.com^
+||log.adtimaserver.vn^
 ||log.adtraction.fail^
 ||log.aebn.net^
 ||log.affiliate.rakuten.co.jp^
@@ -147310,6 +147613,7 @@ yihuifu.cn
 ||log.mergerestyle.com^
 ||log.mgtv.com^
 ||log.mix.sina.com.cn^
+||log.mmstat.com^
 ||log.modapkan1.com^
 ||log.modapkdescargar.com^
 ||log.modzdownload.com^
@@ -147545,6 +147849,7 @@ yihuifu.cn
 ||log.vcgame.cn^
 ||log.vdn.apps.cntv.cn^
 ||log.veeka.chat^
+||log.ventunotech.com^*/beacon.gif?
 ||log.verdent.ai^
 ||log.vietnamplus.vn^
 ||log.viettimes.vn^
@@ -147703,6 +148008,7 @@ yihuifu.cn
 ||log5-misc-hl.amemv.com^
 ||log5-misc-lf.amemv.com^
 ||log5-misc-lq.amemv.com^
+||log5.interactive-circle.jp^
 ||log5.k2twonline.com^
 ||log5.qishui.com^
 ||log7.citibusinessonline.com^
@@ -147832,6 +148138,7 @@ yihuifu.cn
 ||logger.uol.com.br^
 ||logger.viki.io^
 ||logger.virabeli.fi^
+||logger.virgul.com^
 ||logger.vwonehub.io^
 ||logger.watchfreejoy.com^
 ||logger.yp.ca^
@@ -147844,6 +148151,7 @@ yihuifu.cn
 ||logging-api.sovendus.com^
 ||logging-service-main-prd.k8-svc.jc-gs.com^
 ||logging.api.intuit.com^
+||logging.carambo.la^
 ||logging.console.nutanix.com^
 ||logging.devsisters.cloud^
 ||logging.dhg.myharmony.com^
@@ -147983,6 +148291,7 @@ yihuifu.cn
 ||login.domitize.com^
 ||login.e-ticket.co.jp^
 ||login.edgexml.com^
+||login.eki-net.com^$badfilter
 ||login.epikads.com^
 ||login.expialidosius.com^
 ||login.exploradsteam.com^
@@ -149090,6 +149399,7 @@ yihuifu.cn
 ||lp.svenskapostkodlotteriet.se^
 ||lp.tabcorp.test.ajo.adobe.com^
 ||lp.tfd-corp.co.jp^
+||lp.tfd-corp.co.jp^$badfilter
 ||lp.thalesgroup.com^
 ||lp.thecoloradorapids.com^
 ||lp.thedenvernuggets.com^
@@ -149483,6 +149793,7 @@ yihuifu.cn
 ||ltbbjzwmdavdny.com^
 ||ltbgirights.xyz^
 ||ltbhrzlkgbscn.website^
+||ltbockl9zivumiikjm3nq4r7geuqcvk.cfd^
 ||ltbvd.xsuit.com^
 ||ltbzdstsmjiop.space^
 ||ltcmak.alodokter.com^
@@ -150237,6 +150548,7 @@ yihuifu.cn
 ||lyganiusisai.cfd^
 ||lygjgzc.com^
 ||lygjvxwmm7hcz8233v2mh3veo4melt.cfd^
+||lyhrrwajcfvjg.online^
 ||lyhuuplvlsuii.site^
 ||lyifet.braunschweiger-jobanzeiger.de^
 ||lyingplungeshopping.com^
@@ -150434,6 +150746,7 @@ yihuifu.cn
 ||m-setup.net^
 ||m-store.gronard.de^
 ||m-stratovibe.prod.suno.com^
+||m-stratovibe.prod.suno.com^$xhr,redirect-rule=noop.json
 ||m-t.io^
 ||m-t.io^$third-party
 ||m-t.topya.com^
@@ -150457,6 +150770,7 @@ yihuifu.cn
 ||m.aclk.jp^
 ||m.acmgloballab.com^
 ||m.adbridge.de^
+||m.addthisedge.com^
 ||m.adhdonline.com^
 ||m.adtiming.com^
 ||m.aecrimecentral.com^
@@ -150626,6 +150940,7 @@ yihuifu.cn
 ||m.snitchmate.com^
 ||m.sst.mardigrascasinowv.com^
 ||m.stat2k8y.top^
+||m.stripe.com^$3p,domain=~stripe.network
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||m.suda.io^
 ||m.superhumandemolition.ca^
@@ -150741,6 +151056,7 @@ yihuifu.cn
 ||m4.media-box.co^
 ||m43ly4u7yfq4yx1kg1tnf2.cfd^
 ||m43ocq1uoj.com^
+||m4820qu4n.com^
 ||m485oq2gym.top^
 ||m4d.cemiteriodapenitencia.com.br^
 ||m4d.planoacolher.com.br^
@@ -151150,6 +151466,7 @@ yihuifu.cn
 ||magnetisemedia.com^$third-party
 ||magnetmail1.net^$3p
 ||magnetmail1.net^$third-party
+||magnetrack.klangoo.com^
 ||magnificentarticle.com^
 ||magnificentbearing.com^
 ||magnificentdeedsenses.com^
@@ -151195,6 +151512,7 @@ yihuifu.cn
 ||mahmud.authenticsourceshop.com^
 ||mahmudcollection.shop^
 ||mahoesendozoa.qpon^
+||mahoesinbody.com^
 ||mahoganyproductthat.com^
 ||mahsang.org^
 ||mahsurusenetchalah.qpon^
@@ -151284,6 +151602,7 @@ yihuifu.cn
 ||mail.finwellgroup.com^
 ||mail.firsthome.com^
 ||mail.ghmproperties.com^
+||mail.google.com^*/flushimpressions?
 ||mail.hallym.ac.kr^
 ||mail.imamu.edu.sa^
 ||mail.immo-news24.de^
@@ -151423,6 +151742,7 @@ yihuifu.cn
 ||maivang.vip^
 ||maivang.xyz^
 ||maiwbisqgsdzn.website^
+||majabend.rest^
 ||majdmw.gigasport.at^
 ||majestic-oven.com^
 ||majesticbank.is^
@@ -153093,6 +153413,7 @@ yihuifu.cn
 ||marketing.net.asambeauty.com^
 ||marketing.net.beate-uhse-movie.com^
 ||marketing.net.brillen.com^
+||marketing.net.brillen.de^
 ||marketing.net.brillen.pl^
 ||marketing.net.daraz.lk^
 ||marketing.net.daraz.pk^
@@ -157401,6 +157722,7 @@ yihuifu.cn
 ||mauiekh.shop^
 ||mauiv.innisfree.com^
 ||maukinrosland.com^
+||maulsaughts.cyou^
 ||maunchesudser.qpon^
 ||mausk.shopbeam.com^
 ||mautic-learn.teky.edu.vn^
@@ -157595,6 +157917,7 @@ yihuifu.cn
 ||mbbffn.online^
 ||mbbgbxpvaymmw.store^
 ||mbbhij.mi-home.pl^
+||mbbj1gcncn6zy1wm4q834bjk.rest^
 ||mbbkh-canhan.com^
 ||mbbotoristbeesting.info^
 ||mbcanhan-cskh.com^
@@ -160252,6 +160575,7 @@ yihuifu.cn
 ||metrics.adaysmarch.com^
 ||metrics.addedvitamins.com^
 ||metrics.adelaidenow.com.au^
+||metrics.adflake.com^
 ||metrics.adhdactionguide.com^
 ||metrics.adherent.aesio.fr^
 ||metrics.adidasgolf.com^
@@ -161420,6 +161744,7 @@ yihuifu.cn
 ||metrics.extraspaceasia.com^
 ||metrics.extratv.warnerbros.com^
 ||metrics.extremetech.com^
+||metrics.ezmob.com^
 ||metrics.faceipf.com^
 ||metrics.facethesound.com^
 ||metrics.fahrsicherheit-wiesing.at^
@@ -163514,6 +163839,8 @@ yihuifu.cn
 ||metrics.strategiccoach.com^
 ||metrics.strato.de^
 ||metrics.streaks.jp^
+||metrics.streaks.jp^$redirect=noop.txt,xhr
+||metrics.streaks.jp^$xhr,redirect=noop.txt
 ||metrics.stretchmode.co^
 ||metrics.striderite.com^
 ||metrics.strokeawareness.com^
@@ -163554,6 +163881,7 @@ yihuifu.cn
 ||metrics.svala.com^
 ||metrics.svc.conholdate.cloud^
 ||metrics.svd.se^
+||metrics.swap.gg^$xhr,script
 ||metrics.swiatdomu.com^
 ||metrics.swiftreferrals.co.uk^
 ||metrics.swinburne.edu.au^
@@ -165301,6 +165629,7 @@ yihuifu.cn
 ||missionrewards.com^
 ||missionrs.actonservice.com^
 ||missiqcalqmu.in^
+||missismekbuda.com^
 ||misslk.com^
 ||missoper.com^
 ||misspkl.com^
@@ -166397,6 +166726,7 @@ yihuifu.cn
 ||mobswift.com^
 ||mobt.mastersofbamboo.com^
 ||mobtop.az^
+||mobtop.az^$3p
 ||mobtop.az^$third-party
 ||mobtop.com^
 ||mobtop.com^$3p
@@ -166916,6 +167246,7 @@ yihuifu.cn
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitor-stsdk.vivo.com.cn^
+||monitor-targeting-failures.sqrt-5041.de^
 ||monitor-web.dotfashion.cn^
 ||monitor.adcaffe.com^
 ||monitor.adxsenmeng.com^
@@ -167878,6 +168209,7 @@ yihuifu.cn
 ||mrslove.com^
 ||mrsqtkhcwwezw.online^
 ||mrtdjelutrffv.space^
+||mrtg.emailpartners.net^$image,3p
 ||mrtnsvr.com^
 ||mrufifvitzuf.in^
 ||mrun.blog.goaserv.com^
@@ -167994,6 +168326,7 @@ yihuifu.cn
 ||msg.sqz.app^
 ||msg.umengcloud.com^
 ||msg.video.qiyi.com^
+||msg.video.qiyi.com^$image
 ||msg.youku.com^
 ||msg2.video.qiyi.com^
 ||msga.cupid.iqiyi.com^
@@ -168041,8 +168374,11 @@ yihuifu.cn
 ||msmt.tomcare.be^
 ||msn.com^$removeparam=ei
 ||msn.com^$removeparam=pc
+||msn.com^*/report.js
+||msn.com^*/track.js
 ||msn1.com^
 ||msn5vg8em.com^
+||msnbc.msn.com^*/analytics.js
 ||msnenkmvzkacs.site^
 ||msnfcixxunwrh.site^
 ||msnpurf.themjewelersny.com^
@@ -168544,6 +168880,7 @@ yihuifu.cn
 ||mule.pricelessai.com^
 ||mulesto.com^
 ||mulgmzzbvwqcl.space^
+||mulitauptoretitters.cyou^
 ||mulletscohere.com^
 ||mullitetepid.cfd^
 ||multi-az-ulog.gifshow.com^
@@ -169802,6 +170139,7 @@ yihuifu.cn
 ||myxzlowmrjldr.space^
 ||myylfuf.in^
 ||myyqzpaipkkox.site^
+||myyssxljcljxh.website^
 ||myztaimlepqtz.site^
 ||myztbkzqfbodm.online^
 ||myzuje.z2c9n81uljvxgv4l.cfd^
@@ -169932,6 +170270,7 @@ yihuifu.cn
 ||n0zwlat83.com^
 ||n10.xyz^
 ||n11.com^$removeparam=/pfx|adj/
+||n11scdn.akamaized.net^*ha.js
 ||n12rk1r9h.com^
 ||n1307adserv.xyz^
 ||n152adserv.com^
@@ -169973,6 +170312,7 @@ yihuifu.cn
 ||n4kb43cl2bsw.creatordrop.com^
 ||n4kd6phdxw.com^
 ||n4m5x60.com^
+||n4p-rus.redtram.com^
 ||n4qojfu7kcxcglg1m9.cfd^
 ||n4qrsf6x88.com^
 ||n4sredirect.com^
@@ -170146,8 +170486,10 @@ yihuifu.cn
 ||najtvgov.neyscustoms.com^
 ||najva.com^
 ||najva.com^$third-party
+||najxkrdrh.com^
 ||nakanohito.jp^
 ||nakanohito.jp^$3p
+||nakanohito.jp^*/bi.js$important,domain=nexon.com
 ||nakdboeukjriq.space^
 ||nakdtuqfqomgj.website^
 ||nakedaccused.com^
@@ -171025,6 +171367,7 @@ yihuifu.cn
 ||nd.wearobd.store^
 ||nd.zaherfurniture.com^
 ||nd291.dieti-natura.com^
+||ndaqxxhxljqei.online^
 ||ndaukvuuebhlp.online^
 ||ndbgngx6m.com^
 ||ndbgpajoibiqf.space^
@@ -171240,6 +171583,7 @@ yihuifu.cn
 ||nellads.com^
 ||nellbeakerconsistency.com^
 ||nelo2-col.linecorp.com^
+||nelo2-col.navercorp.com^$domain=~map.naver.com
 ||nelonenmedia-pmd-ads-audio-automatic.nm-stream.nelonenmedia.fi^
 ||nelonenmedia-pmd-ads-audio.nm-stream.nelonenmedia.fi^
 ||nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi^
@@ -171640,6 +171984,7 @@ yihuifu.cn
 ||netflix.com^$removeparam=source
 ||netflix.com^$removeparam=tctx
 ||netflix.com^$removeparam=trackId
+||netflix.com^*/homepagePing?
 ||netflix520.com^
 ||netflixandchiffres.com^
 ||netflixinyourneighborhoodnm.com^
@@ -172250,6 +172595,7 @@ yihuifu.cn
 ||newsea20.shop^
 ||newseek.org^
 ||newsentry.simpals.md^
+||newserv.xyz^$3p
 ||newserver.bardapraia.com.pt^
 ||newserver.zenimart.com^
 ||newsfast36.shop^
@@ -172593,6 +172939,7 @@ yihuifu.cn
 ||nfzxcsyycurrk.site^
 ||ng-ad-lgsmartad-com.aws-prd.net^
 ||ng-vn-notice.gameitop.com^
+||ng.virgul.com^
 ||ng2y405w3y.com^
 ||ng3.ads.warnerbros.com^
 ||ngabq7df9.com^
@@ -173300,6 +173647,7 @@ yihuifu.cn
 ||njiohggwvhfmx.space^
 ||njkixvgivjaeg.online^
 ||njkmjurtegykg.space^
+||njkoiypappleo.website^
 ||njktq.allianceauthentic.com^
 ||njkuvtdzelcuq.website^
 ||njlst.bottlebuzz.com^
@@ -173479,7 +173827,9 @@ yihuifu.cn
 ||nlobp.champssports.ca^
 ||nlocalhost.wordtheminer.com^
 ||nlodtzqlcmbqn.online^
+||nlog.commerce.naver.com^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||nlog.instajob.ai^
+||nlog.naver.com^$domain=~shopping.naver.com|~smartstore.naver.com|~brand.naver.com|~flight.naver.com
 ||nlog.shinhan.com^
 ||nlp-japan.life-and-mind.com^
 ||nlpd.13grandrue.ch^
@@ -173628,6 +173978,7 @@ yihuifu.cn
 ||nmuqvohacmvfz.online^
 ||nmurznwrmixcj.online^
 ||nmvcxewbxwrws.space^
+||nmvniwslrprun.space^
 ||nmws-analytics.sogei.it^
 ||nmxcvnue.it.com^
 ||nmxefyqfkjemw.site^
@@ -173704,6 +174055,7 @@ yihuifu.cn
 ||nnvqzl.franklinsports.com^
 ||nnvstgnnimwha.space^
 ||nnvx.cn^
+||nnwdjfpahulfz.online^
 ||nnxpgn.b-loan.jp^
 ||nnyebjaqiuiws.site^
 ||nnznk.eshopygoexpress.pl^
@@ -174560,6 +174912,7 @@ yihuifu.cn
 ||nr-data.noelleeming.co.nz^
 ||nr-events.taboola.com^
 ||nr-js.imaios.com^
+||nr.bidderstack.com^
 ||nr.mmcdn.com^
 ||nr.noelleeming.co.nz^
 ||nr.static.mmcdn.com^
@@ -175652,6 +176005,7 @@ yihuifu.cn
 ||o.027eat.com^
 ||o.48tube.com^
 ||o.60sk.ru^
+||o.addthis.com^
 ||o.auspost.com.au^
 ||o.bluewin.ch^
 ||o.boh.com^
@@ -175697,6 +176051,7 @@ yihuifu.cn
 ||o.socoms.net^$third-party
 ||o.sst.orangecitypoker.com^
 ||o.swisscom.ch^
+||o.techmaniak.pl^$image
 ||o.webmd.com^
 ||o.xbox.com^
 ||o.y6iet9bunjerl62fn598wmq24o84jjwbolz38.cfd^
@@ -176203,6 +176558,8 @@ yihuifu.cn
 ||oceanarmouroutnumber.com^
 ||oceanautomotive.actonservice.com^
 ||oceancloudhosts.com^
+||oceancloudhosts.com^$redirect=noop.json,xhr
+||oceancloudhosts.com^$~xhr
 ||oceanetsequin.cyou^
 ||oceanicdreamcove.com^
 ||oceaninnmexico.net^
@@ -176367,6 +176724,7 @@ yihuifu.cn
 ||odakhzdbrzbny.website^
 ||odalrevaursartu.net^$popup
 ||odanap.mtrak.pl^
+||odb.outbrain.com^
 ||odb.outbrain.com^$domain=dailytelegraph.com.au
 ||odbierz-bony.ovp.pl^
 ||odbierzdarmowedoladowanie.wordpress.com^
@@ -177425,6 +177783,7 @@ yihuifu.cn
 ||olayomad.com^
 ||olbxpblvbldeu.online^
 ||olc.yodo1api.com^
+||olcbnzjswlnrq.online^
 ||olcjs.chicos.com^
 ||olclm.halloweencostumes.com^
 ||olcrdqatcewmf.online^
@@ -177450,6 +177809,7 @@ yihuifu.cn
 ||olderouncedownstairs.com^
 ||oldersinner.com^
 ||oldestnife.cyou^
+||oldevent.togothermany.com^
 ||oldfashionedoffer.com^
 ||oldftp.otenet.gr^
 ||oldportcoffee.com^
@@ -178466,6 +178826,7 @@ yihuifu.cn
 ||online-ibank.com^
 ||online-liebestest.de^
 ||online-logger.webapp.163.com^
+||online-metrix.net^
 ||online-metrix.net^$3p
 ||online-metrix.net^$third-party
 ||online-mt-com-455208869.p06.elqsandbox.com^
@@ -178508,6 +178869,7 @@ yihuifu.cn
 ||online.sharjahart.org^
 ||online.siteboosters.de^
 ||online.spsglobal.com^
+||online.spsglobal.com^$badfilter
 ||online.tm^
 ||online.yodle.com^
 ||online1.webcams.com^
@@ -179477,6 +179839,9 @@ yihuifu.cn
 ||orbitcarrot.com^
 ||orbitfieldpress.top^
 ||orbitnetwork.net^
+||orbitz.com^*/1x1.gif?
+||orbitz.com^*/2x2.gif?
+||orbitz.com^*/evaluateexperimentsandlog
 ||orblikegermy.cyou^
 ||orbmatchingenough.com^
 ||orbsdiacle.com^
@@ -179882,6 +180247,7 @@ yihuifu.cn
 ||oscarspins.fr^
 ||oscineabettal.cfd^
 ||oscnjc.035000.com^
+||oscnodelaggin.rest^
 ||oscs.ecco.com^
 ||oscs.palazzolasvegas.com^
 ||oscseiyqeaafd.website^
@@ -180836,6 +181202,7 @@ yihuifu.cn
 ||owpysc.lampenundleuchten.at^
 ||owqbirykia.com^
 ||owqbsl.kuhl.com^
+||owqdkqshefhbi.website^
 ||owrkwilxbw.com^
 ||owrkwilxbw.com^$popup
 ||ows.ihs.com^
@@ -181159,10 +181526,12 @@ yihuifu.cn
 ||p.7xccjif6mm6zrf7go6y6z.cyou^
 ||p.acro.sh^
 ||p.aiflyingcar.online^
+||p.alcmpn.com^
 ||p.algovid.com^
 ||p.almeidaebarretto.com.br^
 ||p.altergeo.ru^
 ||p.altergeo.ru^$3p
+||p.analitik.bik.gov.tr^
 ||p.anlo.app^
 ||p.armorgames.net^
 ||p.arty2night.com^
@@ -181285,6 +181654,7 @@ yihuifu.cn
 ||p.victoria.dev^
 ||p.viennaandbailey.co.nz^
 ||p.vq6nsu.cn^
+||p.vtracy.de^
 ||p.wasenderb2b.com.br^
 ||p.wesrki2bil.info^
 ||p.wktfkj.com^
@@ -181414,6 +181784,7 @@ yihuifu.cn
 ||p4r24.eu^
 ||p4wxpiy.nolckeecn14rl4.cyou^
 ||p543.inquirer.com^
+||p55abnw2pnsz0bo.icu^
 ||p593.seattlepi.com^
 ||p5doaulee2.com^
 ||p5hv4.top^
@@ -181699,6 +182070,7 @@ yihuifu.cn
 ||pagerankfree.com^$3p
 ||pagerankfree.com^$third-party
 ||pageranktop.com^
+||pagerpox.rest^
 ||pagerrentablespotlight.com^
 ||pagerrentablespotlight.com^$popup
 ||pages-stats.rbl.ms^
@@ -183402,6 +183774,7 @@ yihuifu.cn
 ||paypal.com^$removeparam=unp_tpcid
 ||paypal.com^$removeparam=unptid
 ||paypal.com^$removeparam=utm_unptid
+||paypal.com^*/pixel.gif$3p
 ||paypal.com^*/pixel.gif$third-party
 ||paypal.no^
 ||paypalcz.cz^
@@ -184755,6 +185128,7 @@ yihuifu.cn
 ||ph.carvertical.com^
 ||ph.equibles.com^
 ||ph.firstresponsegaragedoor.com^
+||ph.givebutter.com^$ping
 ||ph.j1mfm1qgcvyfkj.cyou^
 ||ph.koyeb.com^
 ||ph.nether-realm.com^
@@ -185387,6 +185761,7 @@ yihuifu.cn
 ||pimpandhost.com^$subdocument
 ||pimperysuguaro.cyou^
 ||pimpingffcounselee.info^
+||pimpledpolewigretook.cfd^
 ||pimpmypr.de^
 ||pimpmypr.de^$3p
 ||pimpoint.inriver.com^
@@ -185651,6 +186026,7 @@ yihuifu.cn
 ||pirsch.io^$third-party
 ||pisangcen.cfd^
 ||pisano-web.vakifbank.com.tr^
+||pisano.com.tr^
 ||pisantrint.lovable.app^
 ||piscicultuddres.info^
 ||pisgahserve.com^
@@ -185669,6 +186045,7 @@ yihuifu.cn
 ||pissingteengirlsfreemovies.blogbugs.org^
 ||pissoirfcy.cyou^
 ||pista.pecasmagicas.com.br^
+||pistekernos.cfd^
 ||pistilairwash.cfd^
 ||pistolo-casino.fr^
 ||pistolo-en-ligne.fr^
@@ -186199,6 +186576,7 @@ yihuifu.cn
 ||pix.pub^
 ||pix.pub^$3p
 ||pix.revjet.com^
+||pix.sniperlog.ru^
 ||pix.speedbit.com^
 ||pix.speedbit.com^$third-party
 ||pix.spot.im^
@@ -186306,6 +186684,7 @@ yihuifu.cn
 ||pixel.bullion.media^
 ||pixel.buzzfeed.com^
 ||pixel.byspotify.com^
+||pixel.carambo.la^
 ||pixel.cdnwidget.com^
 ||pixel.chaty.app^
 ||pixel.clickslogistics.com^
@@ -186322,6 +186701,7 @@ yihuifu.cn
 ||pixel.dcard.tw^
 ||pixel.dev.smartnews.com^
 ||pixel.digitalspy.co.uk^
+||pixel.dmdi.pl^
 ||pixel.dordham.com^
 ||pixel.driveniq.com^
 ||pixel.dsp.townsquaremedia.com^
@@ -186638,6 +187018,7 @@ yihuifu.cn
 ||pjskq.kendrascott.com^
 ||pjsos.xyz^
 ||pjstat.com^
+||pjstat.com^$3p
 ||pjsuportejuridico.net^
 ||pjtmj.miraiclinical.com^
 ||pjtra.com^
@@ -189130,6 +189511,7 @@ yihuifu.cn
 ||porntry.com^$3p
 ||porntry.com^$third-party
 ||porntube.com^$removeparam=cid
+||porntube.com^*/track
 ||pornz.fr^
 ||poro.58.com^
 ||porojo.net^
@@ -190411,6 +190793,7 @@ yihuifu.cn
 ||primemart.digital^
 ||primenew.digital^
 ||primenewdev.digital^
+||primer.typekit.net^$xhr
 ||primer.typekit.net^$xmlhttprequest
 ||primesnew.com^
 ||primestable.digital^
@@ -192328,6 +192711,7 @@ yihuifu.cn
 ||publishednundear.com^
 ||publisher-assets.spot.im^
 ||publisher-event.ads.prd.ie.internal.unity3d.com^
+||publisher-event.unityads.unity3d.com^
 ||publisher-network.com^
 ||publisher1st.com^
 ||publisher1st.com^$3p
@@ -193119,6 +193503,7 @@ yihuifu.cn
 ||puwlplgbieinl.space^
 ||puwpush.com^
 ||puxypdnfammzb.online^
+||puyakcvjcyaqi.online^
 ||puysis.com^
 ||puywath.cyou^
 ||puzmzghwgzyfz.online^
@@ -193164,6 +193549,7 @@ yihuifu.cn
 ||pvdbkr.com^
 ||pvdnugjwyrkad.website^
 ||pvdpix.com^
+||pvdpix.com^$3p
 ||pvdpix.com^$third-party
 ||pveja.heydude.de^
 ||pveldvvjrvgru.site^
@@ -193214,6 +193600,7 @@ yihuifu.cn
 ||pvszyovqkuwyn.space^
 ||pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run^
 ||pvtag.yahoo.co.jp^
+||pvtag.yahoo.co.jp^$script,redirect=noop.js,domain=paypayfleamarket.yahoo.co.jp
 ||pvtd.cn^
 ||pvtebufamzfon.site^
 ||pvtest.zol.com.cn^
@@ -193635,6 +194022,7 @@ yihuifu.cn
 ||q175.keskilaakso.fi^
 ||q1c1pmwv6uy5xk3j8rxq6t.cfd^
 ||q1ilb0enze.ru^
+||q1ls1ho9x7wsxlu.icu^
 ||q1media.com^
 ||q1media.com^$3p
 ||q1media.com^$third-party
@@ -193724,6 +194112,7 @@ yihuifu.cn
 ||qadmeronxylvarix.com^
 ||qadraf.frankoniamoda.ch^
 ||qaeadnlcctjvh.online^
+||qaebwlxbamwzg.website^
 ||qaeddggqpmhrs.website^
 ||qaegccfsfdqqr.website^
 ||qaein.coach.com^
@@ -193921,6 +194310,7 @@ yihuifu.cn
 ||qcmc.xklierukbx7yzbq7ev7.cfd^
 ||qcmkz.smartliner-usa.com^
 ||qcmlcwymvatsn.site^
+||qcmoubaihyvbj.online^
 ||qcmtxdjqftulh.site^
 ||qcmxuy.hardloop.de^
 ||qcnlh.spicycubes.co^
@@ -194007,6 +194397,7 @@ yihuifu.cn
 ||qdolvc.bicicletapegas.ro^
 ||qdougjzllrxyv.site^
 ||qdp.qidian.com^
+||qdp.qidian.com^$redirect=noop.js,script
 ||qdpnqtigneiwsovayrwu.com^
 ||qdpwywwuatvno.site^
 ||qdpyytqowlroy.online^
@@ -194127,6 +194518,7 @@ yihuifu.cn
 ||qezdctyarqfib.site^
 ||qezfer.motelamiio.com^
 ||qezhb8t25v59617qiun66wqknul4qtvrj.cfd^
+||qezjexedpmofu.space^
 ||qezkdby1jj.com^
 ||qezodjntkbtah.site^
 ||qezpjlp.cn^
@@ -194313,6 +194705,7 @@ yihuifu.cn
 ||qhxxqt.coolstuff.se^
 ||qhyftzqknm.com^
 ||qhywl.technisportusa.com^
+||qhzpduwizz.com^
 ||qi.498iy4qguu1j8lruq5bto3.cyou^
 ||qia.izerv.online^
 ||qiaafh.atlasformen.de^
@@ -194524,6 +194917,7 @@ yihuifu.cn
 ||qkuddzkexfiez.site^
 ||qkvfnjfhdparr.store^
 ||qkxqsoohtqfiw.com^
+||qkxunypfddbrc.site^
 ||qkxwhdgnpczur.space^
 ||qkxzdm.stellenanzeigen.de^
 ||qkyspzfxnc.ru^
@@ -195123,6 +195517,7 @@ yihuifu.cn
 ||qslcuo.rockdenim.fi^
 ||qsmqv.haydenbjewelry.com^
 ||qsmtdjqc.finanzasparavivirtranquilo.com^
+||qsncpqbnathon.site^
 ||qsne.cn^
 ||qsnjwdwrqwfvu.website^
 ||qsodssvqzzpoi.site^
@@ -195146,6 +195541,7 @@ yihuifu.cn
 ||qt.p1x723p1wc3wf9ty8j4w3vwz6.cfd^
 ||qt4wieces3.com^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
+||qtakjjwgvumvj.space^
 ||qtami.thegoodstuffbotanicals.com^
 ||qtaocw.shadestation.co.uk^
 ||qtaqlbt.ciofgnm.co^
@@ -195290,6 +195686,7 @@ yihuifu.cn
 ||qualityprescriptiondrugs.com^
 ||qualityt56.com^
 ||qualmscres.store^
+||qualtrics.com^*/metrics
 ||quamashsaltest.cyou^
 ||quamembergarena.com^
 ||quamemberthang9-freefirevn.com^
@@ -195338,6 +195735,8 @@ yihuifu.cn
 ||quantserve.com^
 ||quantserve.com^$script,third-party
 ||quantserve.com^$~object,3p
+||quantserve.com^*.swf?$3p
+||quantserve.com^*^a=$3p
 ||quantum-advertising.com^
 ||quantum-ai.io^
 ||quantum-capital.net^
@@ -195858,6 +196257,7 @@ yihuifu.cn
 ||qvrhoopwdrwus.site^
 ||qvrjg.coach.com^
 ||qvrnatsauhini.website^
+||qvrwjxanhbqwd.site^
 ||qvsfrk.stephane-christian.com^
 ||qvsvnckpsmbdu.online^
 ||qvtoipjwjwyib.site^
@@ -195914,6 +196314,7 @@ yihuifu.cn
 ||qwinout.com^
 ||qwjjfgqlfkmih.site^
 ||qwkdjyceo.com^
+||qwkrsjiufwkks.site^
 ||qwkunzuhtgbyu.site^
 ||qwlfbjwkaxqqe.site^
 ||qwnizqblmkevc.space^
@@ -196011,6 +196412,7 @@ yihuifu.cn
 ||qygftliqdmhsu.space^
 ||qygpcxfqqvfhr.online^
 ||qygxrh.vandykes.com^
+||qyilwubonplyd.website^
 ||qyjpy.kotomi.com.au^
 ||qyjsgeltkqask.site^
 ||qykezpy.xyz^
@@ -196133,6 +196535,7 @@ yihuifu.cn
 ||r-card-service.at^
 ||r-dev.urbansitter.net^
 ||r-in.ls.glanceapis.com^
+||r-log.dable.io^
 ||r-money.ru^
 ||r-ms.com^
 ||r-poass.shop^
@@ -196188,6 +196591,8 @@ yihuifu.cn
 ||r.miamano.com^
 ||r.morons.us^
 ||r.moshimo.com^
+||r.movad.de^
+||r.msn.com^
 ||r.my.com^
 ||r.nexoraid1.space^
 ||r.niwepa.com^
@@ -196219,6 +196624,7 @@ yihuifu.cn
 ||r.spininitial.tech^
 ||r.sportsie.com^
 ||r.spttrck.com^
+||r.stripe.com^$ping,script,xhr
 ||r.stripe.com^$ping,script,xmlhttprequest
 ||r.studiosarte.com^
 ||r.superhuman.com^
@@ -196348,6 +196754,7 @@ yihuifu.cn
 ||rabbetget.cfd^
 ||rabbit.donald.cat^
 ||rabbit.kilowatt.media^
+||rabbit.meitustat.com^
 ||rabbit.radicalxchange.org^
 ||rabbit.upwardhomes.net^
 ||rabbitboots.com^
@@ -196663,6 +197070,7 @@ yihuifu.cn
 ||randiesterekjolted.cyou^
 ||randirtiddy.com^
 ||randisphotos.com^
+||randisphotos.com^$redirect=noop.js,script
 ||randiul.com^
 ||randiul.com^$3p
 ||randkazukrainka.pl^
@@ -197012,6 +197420,7 @@ yihuifu.cn
 ||rbcxfemcnoobvw.com^
 ||rbdata.boostymark.com^
 ||rbdfwuffoodto.online^
+||rbdmebwdahhxu.space^
 ||rbdvwhcizpzoz.space^
 ||rbdwa.com^
 ||rbejf.anotherslegacy.dk^
@@ -197108,6 +197517,7 @@ yihuifu.cn
 ||rcevcm.lyst.co.uk^
 ||rcevwjumlnknn.website^
 ||rcf3occ8.de^
+||rcfeowortgtjl.online^
 ||rcgi.video.qq.com^
 ||rcglhxjdr.com^
 ||rcgltzpeupmpi.space^
@@ -198313,6 +198723,7 @@ yihuifu.cn
 ||regdefense.com^
 ||regearlophiid.top^
 ||regenergize.com^
+||regentbeleve.cyou^
 ||regentfundvale.com^
 ||regex-whatsapp.com^
 ||regexmail.com^
@@ -198674,6 +199085,7 @@ yihuifu.cn
 ||rem.rareearthmercantile.com^
 ||rem.rezonmedia.eu^
 ||remailtarget.com^$third-party
+||remain.appcpi.net^
 ||remainder38.com^
 ||remaininghopefully.com^
 ||remainmother.com^
@@ -199033,6 +199445,7 @@ yihuifu.cn
 ||reportenca.net^
 ||reportic.app^
 ||reporting-api.gannettinnovation.com^
+||reporting.aatkit.com^
 ||reporting.autographapp.me^
 ||reporting.cdndex.io^
 ||reporting.honeygain.com^
@@ -200298,6 +200711,7 @@ yihuifu.cn
 ||rigelcabda.com^
 ||rigelink.com^
 ||rigelink.com^$3p
+||riggaluntruth.click^
 ||riggersunfluid.cyou^
 ||riggurgle.com^
 ||righepercu.store^
@@ -200606,6 +201020,7 @@ yihuifu.cn
 ||rjsgoj.senobiru-shop.jp^
 ||rjsouj.clubd.co.jp^
 ||rjsyuqyrazykm.website^
+||rjtaithwowvvj.space^
 ||rjtoo.stewmac.com^
 ||rjtpnsou.curvii.dk^
 ||rjtpnsou.curvii.nl^
@@ -200653,6 +201068,7 @@ yihuifu.cn
 ||rklmstr.com^
 ||rkmdodaubyhyp.space^
 ||rkmmcrvppgvfg.site^
+||rkmqdatokmwfj.online^
 ||rkn3.net^
 ||rknscandisvqp.space^
 ||rkomf.com^
@@ -200952,6 +201368,7 @@ yihuifu.cn
 ||rnwbrm.com^
 ||rnweus.arvelle.de^
 ||rnwswnvddrykq.website^
+||rnxbaalryllfo.online^
 ||rnybul.gismeteo.kz^
 ||rnybul.gismeteo.lt^
 ||rnybul.gismeteo.lv^
@@ -201415,6 +201832,8 @@ yihuifu.cn
 ||roseinebespiceinsecta.qpon^
 ||roselinlin.com^
 ||roselip-fetish.com^
+||rosenberg.appmetrica.webvisor.com^
+||rosenberg.appmetrica.yandex.net^
 ||rosesforus.com^
 ||rosetpurins.com^
 ||roshade.org^
@@ -201549,6 +201968,7 @@ yihuifu.cn
 ||rovemoong.qpon^
 ||rovenskyward.com^
 ||rover.ctrlhealth.io^
+||rover.ebay.com.au^*&cguid=
 ||rover.iqrevealed.com^
 ||rover.medibact.com^
 ||rover.mypowerpeptides.com^
@@ -201854,6 +202274,7 @@ yihuifu.cn
 ||rs.chandpurfish.com^
 ||rs.instantservice.com^
 ||rs.mail.ru^
+||rs.mail.ru^$domain=~account.mail.ru
 ||rs.picmega.com^
 ||rs.raed-sports.com^
 ||rs.sh^
@@ -202004,6 +202425,7 @@ yihuifu.cn
 ||rszpw.elixserpeptides.com^
 ||rszugg.apiste.co.jp^
 ||rt-pixel.com^
+||rt.applovin.com^
 ||rt.applvn.com^
 ||rt.avelleparis.com^
 ||rt.balletbeautiful.com^
@@ -202072,6 +202494,7 @@ yihuifu.cn
 ||rt.viktorlige.co^
 ||rt.viktorlige.store^
 ||rt.vitalpresse.de^
+||rt.vprtrfc.com^
 ||rt.wehealthagain.org^
 ||rt.wellnessnationbuilder.com^
 ||rt.wellnessusanow.com^
@@ -202089,6 +202512,7 @@ yihuifu.cn
 ||rtag.farmers.com^
 ||rtalffozjnwkq.space^
 ||rtapi.abbi.io^
+||rtax.criteo.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
 ||rtb-1.xcafe.com^
@@ -202635,6 +203059,7 @@ yihuifu.cn
 ||rtb.gotrafficmagnetic.com^
 ||rtb.julang.taobao.com^
 ||rtb.klico.link^
+||rtb.loopa.net.au^$domain=junkmail.co.za
 ||rtb.mts.ru^
 ||rtb.nativeads.com^
 ||rtb.nefta.app^
@@ -203696,6 +204121,7 @@ yihuifu.cn
 ||rwulzuaqsafn.com^
 ||rwupvdrxiaeyk.online^
 ||rwupyp.swimmy.fr^
+||rwutanna.in^
 ||rwvcuxrnnouwx.online^
 ||rwvfxkneipjnq.online^
 ||rwwfiiacnksze.online^
@@ -204463,6 +204889,7 @@ yihuifu.cn
 ||s.itm8.se^
 ||s.itous.gr^
 ||s.its4women.ie^
+||s.izrnvo.com^
 ||s.jagdwelt24.de^
 ||s.jamesonlaw.com.au^
 ||s.jessieshome.com^
@@ -206103,6 +206530,7 @@ yihuifu.cn
 ||samsung-beacons.xumo.com^
 ||samsung.apps.linkpc.net^
 ||samsung.com^$removeparam=cid
+||samsung.com^*/scripts/tracking.js
 ||samsung.notifysrv.com^
 ||samsungacr.com^
 ||samsungads.com^
@@ -206534,6 +206962,7 @@ yihuifu.cn
 ||sapi.youxbroker.com^
 ||sapioanalytics.com^
 ||sapiumbovineshanded.qpon^
+||saplingtyndvacual.cyou^
 ||sapmgtkvtoulm.space^
 ||sapnafinance.com^
 ||sapnest.com^
@@ -207378,6 +207807,7 @@ yihuifu.cn
 ||scorebuddy.actonservice.com^
 ||scorecardresearch.com^
 ||scorecardresearch.com^$3p
+||scorecardresearch.com^$domain=cnet.com,important
 ||scorecardresearch.com^$third-party
 ||scoredcasino-fr.fr^
 ||scoredcasino.fr^
@@ -207888,6 +208318,8 @@ yihuifu.cn
 ||sdkc.vervegroupinc.net^
 ||sdkclick.mobile.sina.cn^
 ||sdkconf.avlyun.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.eu.xiaomi.com^
 ||sdkconfig.india.xiaomi.com^
 ||sdkconfig.intl.xiaomi.com^
@@ -215843,6 +216275,7 @@ yihuifu.cn
 ||servst.berkeleypsychiatrists.co.uk^
 ||servsta.alezz-oud.com^
 ||servsvietnam.com^
+||servt.ergadx.com^
 ||servtraff97.com^
 ||servustats.com^
 ||servustats.com^$3p
@@ -216306,6 +216739,7 @@ yihuifu.cn
 ||sg.tradishot.com^
 ||sg.trivianation.com^
 ||sg.xclick24.com^
+||sg01.rayjump.com^
 ||sg2p.wns.windows.com^
 ||sg3.notarize.com^
 ||sg3.steuergo.de^
@@ -216351,6 +216785,7 @@ yihuifu.cn
 ||sghug.jonesroadbeauty.com^
 ||sgimo.gimofirst.com^
 ||sgirls.net^
+||sgisncwuxuiij.site^
 ||sgiujfja.com^
 ||sgiz.mobi^
 ||sgjewpnite.com^
@@ -219204,6 +219639,7 @@ yihuifu.cn
 ||sgtm.rhythmtime.net^
 ||sgtm.riaestudio.com^
 ||sgtm.ricaud.com^
+||sgtm.richads.com^
 ||sgtm.richtanjai.co.th^
 ||sgtm.richter-frenzel.de^
 ||sgtm.rifaup.com.br^
@@ -221855,6 +222291,7 @@ yihuifu.cn
 ||sign-service.ru^
 ||sign-workplace.skin^
 ||sign.use-neo.com^
+||signal-collector.gemaltodigitalbankingidcloud.com^$script
 ||signal-lasix-cap.com^
 ||signal-whatsapp.com^
 ||signal.abyssbattery.com^
@@ -221931,6 +222368,7 @@ yihuifu.cn
 ||signup.vovici.com^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||signxture.shop^
+||sigpkasumvti.in^
 ||siguatv.cn^
 ||sihca.elevenaustralia.com^
 ||sihivauxuyowp.website^
@@ -222925,6 +223363,7 @@ yihuifu.cn
 ||skppwc.billabong.com.br^
 ||skrblsszekwia.online^
 ||skrhg.kendallscollection.com^
+||skroaxhlqynti.site^
 ||skroutza.skroutz.gr^
 ||sks.mrkhub.com^
 ||sksslzkgzhygm.online^
@@ -223978,6 +224417,7 @@ yihuifu.cn
 ||smetrics.aegon.co.uk^
 ||smetrics.aelca.es^
 ||smetrics.aem.playstation.com^
+||smetrics.aem.playstation.com^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||smetrics.aena.es^
 ||smetrics.aetn.com^
 ||smetrics.aetnamedicare.com^
@@ -229227,6 +229667,7 @@ yihuifu.cn
 ||snurphorsify.com^
 ||snuvierfaw.lovable.app^
 ||snuzvaacqofly.online^
+||snva.jp^*/beacon.js
 ||snvaamefxswbh.online^
 ||snvbhd.weltbild.at^
 ||snvkkflgdoekk.site^
@@ -230125,6 +230566,7 @@ yihuifu.cn
 ||sonancejingals.qpon^
 ||sonar-iad.xx.fbcdn.net^
 ||sonar.ryanmoodyfishing.com^
+||sonar.semantiqo.com^$3p
 ||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~gbnews.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||sonar6-akl1-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-ams2-1.xx.fbcdn.net.iberostar.com^
@@ -230536,6 +230978,7 @@ yihuifu.cn
 ||sp-mms.weather.com^
 ||sp-prod-collector-lb-8027305.us-east-1.elb.amazonaws.com^
 ||sp-trk.com^
+||sp-trk.com^$3p
 ||sp-trk.com^$third-party
 ||sp-wukong-tracker.b-cdn.net^
 ||sp.api.no^
@@ -231086,6 +231529,7 @@ yihuifu.cn
 ||spicaealbas.qpon^
 ||spicasamuchco.com^
 ||spice-sugar.net^
+||spice.eplus.jp^*/track.gif
 ||spice.pmctelecom.co.uk^
 ||spiceforthjobless.com^
 ||spiceoptimistic.com^
@@ -231268,6 +231712,7 @@ yihuifu.cn
 ||spitter.pauk.ru^
 ||spittlegrame.cfd^
 ||spiwearpl.com^
+||spixel.socy.es^
 ||spizarnianatury.weebly.com^
 ||spjrfcogai.com^
 ||spjysa.only.com^
@@ -231299,6 +231744,7 @@ yihuifu.cn
 ||spleennest.com^
 ||splendid-garage.com^
 ||splendidaspen.com^
+||splendidlinen.com^
 ||splendidstone.com^
 ||splendidsugar.com^
 ||splendlddate.com^
@@ -231765,6 +232211,7 @@ yihuifu.cn
 ||sputnik1.ru^
 ||sputrey567rik.cfd^
 ||spvtwiiyefosr.online^
+||spxl.socy.es^
 ||spxx7cb5jt.elmquist.info^
 ||spy.epornleak.com^
 ||spy.sli.ce.it^
@@ -231807,6 +232254,7 @@ yihuifu.cn
 ||spywords.com^$third-party
 ||spyzdindnauks.site^
 ||spyzw.sexyhair.com^
+||spzumonvbhcyg.online^
 ||sq.requestads.com^
 ||sq5f10q3d.com^
 ||sqanziqmyedau.online^
@@ -243923,6 +244371,8 @@ yihuifu.cn
 ||sstats.belgiantrain.be^
 ||sstats.bentleymotors.com^
 ||sstats.bever.nl^
+||sstats.bitdefender.com^$important,redirect=noop.txt,xhr
+||sstats.bitdefender.com^$xhr,redirect=noop.txt,~3p,important
 ||sstats.bnpparibasfortis.be^
 ||sstats.bodyform.co.uk^
 ||sstats.bonappetit.com^
@@ -244411,6 +244861,7 @@ yihuifu.cn
 ||st.australianinvestmenteducation.com.au^
 ||st.autohaus-golbeck.de^
 ||st.avivmed.com.br^
+||st.avsplow.com^
 ||st.azcardinals.com^
 ||st.ba6lob.com^
 ||st.bahn.de^
@@ -244784,6 +245235,7 @@ yihuifu.cn
 ||staging2.bloblohub.com^
 ||staging2.velpa.pl^
 ||stagingjobshq.com^
+||stags.bluekai.com^
 ||stahhx.inversapub.com^
 ||stahl.actonservice.com^
 ||stahlvertexgpt.com^
@@ -245466,6 +245918,7 @@ yihuifu.cn
 ||stape.cleannewstore.com^
 ||stape.clesiotheodoro.com.br^
 ||stape.cleusoncarvalho.com.br^
+||stape.clickguard.com^
 ||stape.clinicaaprimorale.com.br^
 ||stape.clinicaatualli.com.br^
 ||stape.clinicacaproni.com.br^
@@ -246753,6 +247206,7 @@ yihuifu.cn
 ||stape.masterlideroficial.com^
 ||stape.matheuspavan.com.br^
 ||stape.matri.com.br^
+||stape.matsato.com^
 ||stape.mauriciodemetrio.com.br^
 ||stape.maxflooringco.com^
 ||stape.maxiloc.com.br^
@@ -248368,6 +248822,7 @@ yihuifu.cn
 ||stat-ext.foi.se^
 ||stat-feedot.ru^
 ||stat-feedot.ru^$3p
+||stat-in.dc.oppomobile.com^
 ||stat-na01.tange365.com^
 ||stat-piwik-tracker.futbol24.com^
 ||stat-plausible.groupe-audeo.com^
@@ -248448,6 +248903,7 @@ yihuifu.cn
 ||stat.akkrt.hu^
 ||stat.alibaba.com^
 ||stat.allfootballapp.com^
+||stat.alloha.tv^
 ||stat.alltforforaldrar.se^
 ||stat.altalex.com^
 ||stat.amebame.com^
@@ -248470,6 +248926,7 @@ yihuifu.cn
 ||stat.blogg.se^
 ||stat.board.com.ua^
 ||stat.boosty.to^
+||stat.botdetector.ru^
 ||stat.brightchat.org^
 ||stat.brollopstorget.se^
 ||stat.browser.heytapmobi.com^
@@ -248688,6 +249145,7 @@ yihuifu.cn
 ||stat.smbc.co.jp^
 ||stat.smfg.co.jp^
 ||stat.social^$third-party
+||stat.sports.ru^
 ||stat.sputnik.ru^
 ||stat.stariidata.com^
 ||stat.starline.de^
@@ -248838,6 +249296,7 @@ yihuifu.cn
 ||statelygriefs.cyou^
 ||statelygrievously.com^
 ||statementbrainless.com^
+||statercloot.cyou^
 ||staterio.com^
 ||stateroom28.com^
 ||staterosai.net^
@@ -248919,6 +249378,7 @@ yihuifu.cn
 ||static-shareaholic.s3.amazonaws.com^
 ||static-srv.com^
 ||static-ssp.yidianzixun.com^
+||static-trackers.adtarget.me^
 ||static-tracking.klaviyo.com^
 ||static-us-img.skywork.ai^
 ||static-xml.vespymedia.com^
@@ -248980,6 +249440,7 @@ yihuifu.cn
 ||static.adxpoint.com^
 ||static.affiliate.rakuten.co.jp^
 ||static.affiliatly.com^
+||static.affiliatly.com^$3p
 ||static.affluent.io^
 ||static.afkwa.com^
 ||static.afront.io^
@@ -249410,6 +249871,7 @@ yihuifu.cn
 ||statistic.csdn.net^
 ||statistic.dbb.de^
 ||statistic.elkobraas.com^
+||statistic.gamona.de^
 ||statistic.jac-systeme.de^
 ||statistic.live.126.net^
 ||statistic.mindkind.io^
@@ -249934,6 +250396,7 @@ yihuifu.cn
 ||stats.appcessible.org^
 ||stats.applizi.com^
 ||stats.applyze.com^
+||stats.appsflyer.com^
 ||stats.aprestrail.re^
 ||stats.aquasana.co.uk^
 ||stats.aquateenmovie.com^
@@ -250560,6 +251023,7 @@ yihuifu.cn
 ||stats.futurdigital.fr^
 ||stats.futureweb.at^
 ||stats.g.doubleclick.net.iberostar.com^
+||stats.g.doubleclick.net^
 ||stats.g.doubleclick.net^$domain=topsporter.net,redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||stats.gaba.co.jp^
 ||stats.galaxyexperte.de^
@@ -250847,6 +251311,7 @@ yihuifu.cn
 ||stats.jotex.se^
 ||stats.jove.com^
 ||stats.jpchd.veraxen.com^
+||stats.jpush.cn^
 ||stats.jsbible.com^
 ||stats.jtrees.io^
 ||stats.jun-etan.com^
@@ -251693,6 +252158,7 @@ yihuifu.cn
 ||stats.swietlikstudio.pl^
 ||stats.swimblueprint.com^
 ||stats.swissotel.com^
+||stats.sxp.smartclip.net^
 ||stats.symbiofest.cz^
 ||stats.symptoma.com^
 ||stats.synedat.io^
@@ -251968,6 +252434,7 @@ yihuifu.cn
 ||stats.virtualpilots.fi^
 ||stats.virtuemart.net^
 ||stats.visions.ch^
+||stats.visistat.com^
 ||stats.visitsweden.com^
 ||stats.vizirune.com^
 ||stats.vk-portal.net^
@@ -253762,6 +254229,7 @@ yihuifu.cn
 ||styriantung.cfd^
 ||styvjlsjnubwt.space^
 ||styyiffenchairs.info^
+||su.addthis.com^
 ||su.bdimg.com^
 ||su.bdstatic.com^
 ||su.fuse.be^
@@ -254044,6 +254512,7 @@ yihuifu.cn
 ||succahscoralla.com^
 ||succeedknockweapons.com^
 ||succeedscene.com^
+||succeedscene.com^$domain=theguardian.com
 ||success-seo.com^
 ||success.act-on.com^
 ||success.azzure-it.com^
@@ -254410,6 +254879,7 @@ yihuifu.cn
 ||sunrise2027.ai^
 ||sunriseoasisps.com^
 ||sunriseoutdoor.cn^
+||sunrooftoupet.com^
 ||sunrosehippi.com^
 ||sunsetcampfires.com^
 ||sunsetstatic.com^
@@ -254603,6 +255073,7 @@ yihuifu.cn
 ||supply.upjers.com^
 ||supplyframe.com^$3p
 ||supplyframe.com^$third-party
+||supplyprimacy.rest^
 ||supplyreward.com^
 ||support-beacon.userlocal.jp^
 ||support-case-2028323.vercel.app^
@@ -254835,6 +255306,7 @@ yihuifu.cn
 ||sutuchillum.cyou^
 ||suu270.alteselevadores.com.br^
 ||suubzcyxkupld.space^
+||suumo.jp^*/tag/
 ||suunta.visma.fi^
 ||suunto2026.live^
 ||suup.fixsmart.ae^
@@ -255616,10 +256088,12 @@ yihuifu.cn
 ||sxcdom.ski-willy.at^
 ||sxchbpyobqvxj.site^
 ||sxdsvaicpjnzg.website^
+||sxdxdxezkc.com^
 ||sxeimx.mydays.de^
 ||sxetpzonjqvzu.site^
 ||sxfiwnqvsoymc.space^
 ||sxflvy.stripme.com.br^
+||sxfovviemdmcf.space^
 ||sxgeo.city^
 ||sxgpxiijzklyi.site^
 ||sxguowei.com^
@@ -255851,15 +256325,18 @@ yihuifu.cn
 ||synapse-da.actonservice.com^
 ||synapseflow.work^
 ||synapseimmobilier.ch^
+||synapsys.us^*/tracker.js
 ||synaptidtakhtadjysilverrod.monster^
 ||synbiobeta.actonservice.com^
 ||sync-a8.cocolocala.jp^
 ||sync-share.com^
 ||sync-transcend-cdn.com^
 ||sync-yieldmo-com-tf-1869548451.eu-west-1.elb.amazonaws.com^
+||sync.1dmp.io^
 ||sync.3fmediagroup.com^
 ||sync.adap.tv^
 ||sync.adkernel.com^
+||sync.adotmob.com^
 ||sync.ads.oveeo.com^
 ||sync.adsp.io^
 ||sync.adspend.space^
@@ -256565,6 +257042,7 @@ yihuifu.cn
 ||t.dresslemuse.com^
 ||t.drifttrck.store^
 ||t.dst.duke.edu^
+||t.dtscdn.com^
 ||t.dukemag.duke.edu^
 ||t.dukewin.duke.edu^
 ||t.dupesandco.com.au^
@@ -256658,6 +257136,7 @@ yihuifu.cn
 ||t.freestore.ai^
 ||t.friars.com^
 ||t.frtyg.com^
+||t.frtyi.com^
 ||t.fullres.net^
 ||t.futuregolf.com.au^
 ||t.futuregolf.com^
@@ -257683,6 +258162,7 @@ yihuifu.cn
 ||tag.aticdn.net^
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
+||tag.aumago.com^$3p,script
 ||tag.b-sync.ch^
 ||tag.benchplatform.com^
 ||tag.beyable.com^
@@ -258150,6 +258630,7 @@ yihuifu.cn
 ||tags.bestow.com^
 ||tags.bk.mufg.jp^
 ||tags.bkrtx.com^$3p
+||tags.bluekai.com^
 ||tags.bmwusa.com^
 ||tags.booker.com^
 ||tags.boschrexroth.com^
@@ -258317,6 +258798,7 @@ yihuifu.cn
 ||tags.newdreamglobal.com^
 ||tags.news.com.au^
 ||tags.news.com.au^$script
+||tags.news.com.au^$~script
 ||tags.newscgp.com^
 ||tags.newzealand.com^
 ||tags.nobreservicos.com.br^
@@ -258722,6 +259204,7 @@ yihuifu.cn
 ||tamgrt.com^
 ||tamgrt.com^$3p
 ||tamgrt.com^$third-party
+||tamgrt.com^*&pixel_version=
 ||tamilbirma.cfd^
 ||tamilblasters.com.in^
 ||tammenaa.com^
@@ -259303,6 +259786,7 @@ yihuifu.cn
 ||targetan.com^
 ||targetemsecure.blob.core.windows.net^
 ||targetfax.com^
+||targetfax.com^$redirect=noop.js,script
 ||targetfuel.com^
 ||targetfuel.com^$3p
 ||targetfuel.com^$third-party
@@ -259552,6 +260036,7 @@ yihuifu.cn
 ||taunphoik.com^
 ||taurendiheim-digital.pages.dev^
 ||taurendiheim.digital^
+||taurus.iad.appboy.com^
 ||taurusx.com^
 ||taut-nature.com^
 ||taut-paper.pro^
@@ -259594,6 +260079,7 @@ yihuifu.cn
 ||taxiwear.com^
 ||taxkob.equestrianstockholm.com^
 ||taxudcemfqgno.site^
+||tayiraglaosoose.cyou^
 ||tayjdbgoarzoh.website^
 ||tayladanismanlik.com^
 ||taylor.gladspring.com^
@@ -259836,6 +260322,7 @@ yihuifu.cn
 ||tcpqpwuedappll.com^
 ||tcpts.nutrafol.com^
 ||tcrk.brunaperipato.com.br^
+||tcrrcispvaqiq.space^
 ||tcs-asp.net^
 ||tcsayn.okkane.co.kr^
 ||tcsgm.lforme.com^
@@ -260490,6 +260977,7 @@ yihuifu.cn
 ||telegexcxn.club^
 ||teleghtxno.click^
 ||telegorda.net^
+||telegraf.detmir-stats.ru^
 ||telegram-china.com^
 ||telegram.app0w.ltd^
 ||telegram.land^
@@ -260610,6 +261098,7 @@ yihuifu.cn
 ||telemetry-veritas-com-1574920751.us-east-1.elb.amazonaws.com^
 ||telemetry-wasd.bigbrain.gg^
 ||telemetry-web.api.playstation.com^
+||telemetry-web.api.playstation.com^$redirect=noop.txt,image,media,subdocument,stylesheet,script,xhr,other
 ||telemetry-web.betterme.world^
 ||telemetry-web.shared.quintoandar.com.br^
 ||telemetry-zxxsfh4u7a-uc.a.run.app^
@@ -261829,11 +262318,13 @@ yihuifu.cn
 ||tfrln.prostatehealthreport.com^
 ||tfrnrvkn.shop^
 ||tfs.rottne.com^
+||tftboakvzyols.website^
 ||tftfbezn.com^
 ||tftgkxgwoiyib.space^
 ||tftjgl.brice.fr^
 ||tftkzr.happy-size.at^
 ||tftpd.net^
+||tftrwoilrsudd.space^
 ||tftwrvvavlpjjq.com^
 ||tfugvz.latamy.pl^
 ||tfunqc.domonet.jp^
@@ -262962,6 +263453,7 @@ yihuifu.cn
 ||tiglck.technopolis.bg^
 ||tiglon.beyondco.de^
 ||tigodoudu.help^
+||tigreritz.cyou^
 ||tigrishabodedcarryon.cfd^
 ||tigroidtanger.com^
 ||tihakapitovau.com^
@@ -263888,6 +264380,7 @@ yihuifu.cn
 ||tkmwrpqilprfm.site^
 ||tkn.kreuzwegerhof-nals.it^
 ||tknbcxkeydeqa.space^
+||tknet.rayjump.com^
 ||tkngeviglxsti.store^
 ||tknjwonueowwc.online^
 ||tkouaelagdzhx.space^
@@ -264823,6 +265316,7 @@ yihuifu.cn
 ||tongj.xilu.com^
 ||tongji-res.meizu.com^
 ||tongji-res1.meizu.com^
+||tongji.90dao.com^$ping
 ||tongji.cam^
 ||tongji.duote.com^
 ||tongji.home.soufun.com^
@@ -265252,6 +265746,7 @@ yihuifu.cn
 ||toriimorwinery.com^
 ||torimochi-ad.net^
 ||torimochi-ad.net^$3p
+||torimochi.line-apps.com^$image,redirect=1x1.gif
 ||toriyi.digital^
 ||torjackan.info^
 ||torkvulidplatform-com.pages.dev^
@@ -265489,6 +265984,7 @@ yihuifu.cn
 ||tozoruaon.com^$popup
 ||tozumlwjxljdn.online^
 ||tp-em.cc^
+||tp-link.com^*/addHits.html
 ||tp.ackermann.ch^
 ||tp.ambria.de^
 ||tp.baur.de^
@@ -267509,6 +268005,7 @@ yihuifu.cn
 ||track-ecpost.xyz^
 ||track-eu.customer.io^
 ||track-eu.hungrypanda.co^
+||track-events.membrana.media^
 ||track-ger.aqara.com^
 ||track-hiberix-pip.com^
 ||track-mail.homage.co^
@@ -267567,6 +268064,7 @@ yihuifu.cn
 ||track.addict-mobile.net^
 ||track.adfault.com^
 ||track.adflow-prod.minionplatform.com^
+||track.adform.net^
 ||track.adherellc.com^
 ||track.admitdftb.com^
 ||track.adoptim.com^
@@ -267597,6 +268095,7 @@ yihuifu.cn
 ||track.aminexa.net^
 ||track.amortransparente.site^
 ||track.amour-connexion.com^
+||track.analitycs.net^
 ||track.analiz-medica.com.ua^
 ||track.analytica.ee^
 ||track.anchorfree.com^
@@ -267632,6 +268131,7 @@ yihuifu.cn
 ||track.atlasvalorum.com.br^
 ||track.atrium.com^
 ||track.auckland.ac.nz^
+||track.audtd.com^
 ||track.automatedcashsites.com^
 ||track.automist.us^
 ||track.autopartsco.com.au^
@@ -267645,6 +268145,7 @@ yihuifu.cn
 ||track.bannedcelebs.com^
 ||track.barberskabet.dk^
 ||track.bauwirtschaft-bw.de^
+||track.bazonline.ch^
 ||track.bbmoto.ro^
 ||track.bcvc.mobi^
 ||track.bdfashion4.xyz^
@@ -268294,6 +268795,7 @@ yihuifu.cn
 ||track.mmsvc.io^
 ||track.mobile-bt.com^
 ||track.mobilevas152cr.com^
+||track.mobshark.net^
 ||track.modernviewmarketing.com^
 ||track.moebel-martin.de^
 ||track.momentuminvestments.io^
@@ -268563,6 +269065,7 @@ yihuifu.cn
 ||track.searchignite.com^
 ||track.searchiq.co^
 ||track.secondstepinc.com^
+||track.securedvisit.com^
 ||track.security-privacy.com^
 ||track.segmentstream.com^
 ||track.segmentstream.com^$3p
@@ -268800,6 +269303,7 @@ yihuifu.cn
 ||track.weartravelers.it^
 ||track.webgeniusbd.com^
 ||track.webitwork.de^
+||track.websiteceo.com^
 ||track.weflatables.com^
 ||track.wellmeasuredskin.com^
 ||track.weltura.com^
@@ -268864,6 +269368,7 @@ yihuifu.cn
 ||track2.mycliplister.com^
 ||track2.newvaluetool.de^
 ||track2.tprg.ru^
+||track2.trbo.com^
 ||track2cash.com^
 ||track3.searchiq.co^
 ||track4433.healthproignite.com^
@@ -268954,6 +269459,7 @@ yihuifu.cn
 ||tracker.a11.vega.aurion11.io^
 ||tracker.adbinead.com^
 ||tracker.adcluster.com.tr^
+||tracker.adotmob.com^
 ||tracker.ads-bidtox.com^
 ||tracker.adsales.rakuten.co.jp^
 ||tracker.affiliate.iqbroker.com^
@@ -269073,11 +269579,13 @@ yihuifu.cn
 ||tracker.mmdlv.it^
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
+||tracker.mtrtb.com^
 ||tracker.muellergroup.com^
 ||tracker.multisearch.io^
 ||tracker.myth.dev^
 ||tracker.napconcursos.com.br^
 ||tracker.nbcuas.com^
+||tracker.neodatagroup.com^
 ||tracker.netklix.com^
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
@@ -269106,6 +269614,7 @@ yihuifu.cn
 ||tracker.redditmedia.com^
 ||tracker.refresher.sk^
 ||tracker.relaido.jp^
+||tracker.remp-beam.golem.de^
 ||tracker.remp.sme.sk^
 ||tracker.revip.info^
 ||tracker.ris.promo^
@@ -269181,10 +269690,13 @@ yihuifu.cn
 ||trackerrr.com^
 ||trackerrr.com^$popup
 ||trackers.adnatus.com^
+||trackers.adtarget.me^
 ||trackers.fubo.tv^
 ||trackerscript.sqreemtech.com^
 ||trackerscript.sqreemtech.com^$3p
+||trackersdk.bdash-cloud.com^
 ||trackersimulator.org^
+||trackersimulator.org^$3p
 ||trackerstats.davidthe.dev^
 ||trackertest.org^$third-party
 ||trackertracker.com^
@@ -269276,6 +269788,7 @@ yihuifu.cn
 ||tracking.3balii.com^
 ||tracking.8mylez.com^
 ||tracking.aapa.org^
+||tracking.aatkit.com^
 ||tracking.abogado.com^
 ||tracking.aboutwood.de^
 ||tracking.abraservice.com^
@@ -270007,6 +270520,7 @@ yihuifu.cn
 ||tracking.hubspot.com^
 ||tracking.humblecollectivecbd.com^
 ||tracking.huntington.com^
+||tracking.hurlmedia.design^
 ||tracking.hyros.com^
 ||tracking.i2w.io^
 ||tracking.ibexnetwork.com^
@@ -270966,6 +271480,7 @@ yihuifu.cn
 ||tracking.winecoolerdirect.com^
 ||tracking.wirtschaftsdienst.hamburg^
 ||tracking.wisepops.com^
+||tracking.wisepops.com^$3p
 ||tracking.witte-perel.nl^
 ||tracking.wlscripts.net^
 ||tracking.woman.dk^
@@ -271886,6 +272401,7 @@ yihuifu.cn
 ||travalexinoprotech.com^
 ||travector.net^
 ||travekocity.com^
+||travel-assets.com^*/experimentrecorder
 ||travel.caradonna.com^
 ||travel.cruisesforless.com^
 ||travel.ec-ovc.com^
@@ -271914,6 +272430,9 @@ yihuifu.cn
 ||travelocidy.com^
 ||travelocite.com^
 ||travelocitu.com^
+||travelocity.com^*/1x1.gif?
+||travelocity.com^*/2x2.gif?
+||travelocity.com^*/evaluateexperimentsandlog
 ||travelocityca.com^
 ||travelocityt.com^
 ||travelocoity.com^
@@ -271999,6 +272518,7 @@ yihuifu.cn
 ||trck.b2bsolutions.woosooq.com^
 ||trck.bdi-services.de^
 ||trck.benefits.alliant.com^
+||trck.bestonlinecasino.club^
 ||trck.chocomelconfeccoes.com.br^
 ||trck.coliseu.com.br^
 ||trck.com-sit.dell.com^
@@ -272224,6 +272744,7 @@ yihuifu.cn
 ||trcko.com^
 ||trckqq.com^
 ||trckqq.com^$document
+||trckr.contextualadv.com^
 ||trckr.nordiskemedier.dk^
 ||trckr1.nordiskemedier.dk^
 ||trcksp.cordial.io^
@@ -272980,6 +273501,7 @@ yihuifu.cn
 ||trk.luisaviaroma.com^
 ||trk.mackayshields.com^
 ||trk.magicfashionevents.com^
+||trk.mail.ru^$image,ping
 ||trk.mail.ru^$image,script
 ||trk.mail.ru^$subdocument,removeparam=mt_click_id
 ||trk.mailchimp.com^
@@ -273435,6 +273957,7 @@ yihuifu.cn
 ||troopinvariably.com^
 ||troopsassistedstupidity.com^
 ||troopsassistedstupidity.com^$popup
+||tropeicdorymen.com^
 ||tropel.go-static.info^
 ||tropezia-palacefr.fr^
 ||tropeziapalacefr.fr^
@@ -274853,6 +275376,7 @@ yihuifu.cn
 ||tw.cx^
 ||tw.goasrv.com^
 ||tw.jav321.com^$popup,domain=ucptt.com
+||tw.netcore.co.in^
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
 ||tw.reppublika.com^
 ||tw.spiriteq.com^
@@ -274885,6 +275409,7 @@ yihuifu.cn
 ||tweaahmal.com^
 ||tweadsialing.com^
 ||tweakbit.com^
+||tweakers.net^*&p=$image
 ||tweakjerk.com^
 ||tweakpersuadelowest.com^
 ||tweedygirly.com^
@@ -275165,6 +275690,7 @@ yihuifu.cn
 ||ty.tayyabhijab.com^
 ||ty371.com^
 ||ty65xcc-smart-manatee.mybluemix.net^
+||ty90nwjc8wjt-a.akamaihd.net^$domain=nypost.com
 ||tyafti.ullapopken.se^
 ||tyanqg.backmarket.es^
 ||tyaxztldkgmmv.website^
@@ -275366,6 +275892,7 @@ yihuifu.cn
 ||u.20minutes.fr^
 ||u.20mn.it^
 ||u.audi-pureprotection.com^
+||u.btserve.com^
 ||u.dxsvr.com^
 ||u.fordprotectplans.com^
 ||u.getevo.ai^
@@ -275675,6 +276202,7 @@ yihuifu.cn
 ||ubilinkbin.com^$popup
 ||ubimasansga.store^
 ||ubiquitoussea.com^
+||ubiquitoussea.com^$redirect=noop.js,script
 ||ubiquitousyard.com^
 ||ubiquitousyard.com^$3p
 ||ubjgaemorrgfx.online^
@@ -276076,6 +276604,7 @@ yihuifu.cn
 ||ufgsz.kiki.world^
 ||ufhmebi.terendesigns.com^
 ||ufhotgzwpu.com^
+||ufhwghrdkqdvs.online^
 ||ufidxaduyqqkq.site^
 ||ufihgd3ck.com^
 ||ufile.cc^
@@ -276619,6 +277148,7 @@ yihuifu.cn
 ||ulinyo.bandito.com.tr^
 ||ulivt.duradry.com^
 ||ulixes.pl^
+||uljvpfkcyktqf.website^
 ||ulk8je1fv9.com^
 ||ulkhtkbqjrtni.website^
 ||ulkjtanswjdyc.site^
@@ -277402,6 +277932,7 @@ yihuifu.cn
 ||unbelievablyabsolutely.com^
 ||unbelievablybridgedonation.com^
 ||unbenddoffsbylaw.qpon^
+||unbesotdyingly.click^
 ||unbewn.byravn.dk^
 ||unbezahlterechnungen.com^
 ||unbitvenefic.qpon^
@@ -277747,6 +278278,7 @@ yihuifu.cn
 ||unitedsolarinfinity.com^
 ||unitedtraders.com^
 ||unitelogreport.reader.qq.com^
+||unitelogreport.reader.qq.com^$redirect=noop.js,script
 ||unitersetboltiambics.cyou^
 ||unitismsiped.qpon^
 ||units.knotch.it^
@@ -277827,6 +278359,7 @@ yihuifu.cn
 ||unlined-you.com^
 ||unloadonly.com^
 ||unloadyourself.com^
+||unloadyourself.com^$redirect=noop.js,script
 ||unlock.2ndshotmvp.com^
 ||unlock.plainbear.co.uk^
 ||unlockads.com^
@@ -277908,6 +278441,7 @@ yihuifu.cn
 ||unresolvedtame.com^
 ||unrestcontemporary.com^
 ||unrhrougeahnf.website^
+||unridesophora.click^
 ||unridhoncho.com^
 ||unrightxxeousnesses.info^
 ||unrigscsc.com^
@@ -278612,6 +279146,7 @@ yihuifu.cn
 ||urlcod.com^
 ||urldefense.com^$image,third-party
 ||urldefense.com^$third-party
+||urldefense.proofpoint.com^*analytics_insight.min.js
 ||urldelivery.com^
 ||urle.me^
 ||urlhausa.com^
@@ -278702,6 +279237,7 @@ yihuifu.cn
 ||us-central1-supersolid-analytics-data.cloudfunctions.net^
 ||us-datareceiver.aki-game.net^
 ||us-east-1-analytics.edgeprod.cldlb.jpmchase.com^
+||us-east-1.paa-reporting-advertising.amazon^
 ||us-east-1.prod.telemetry.toolbox.builder-tools.aws.dev^
 ||us-events.api.iheart.com^
 ||us-go.experian.com^
@@ -278811,6 +279347,7 @@ yihuifu.cn
 ||usc8nll40.com^
 ||uscahcjmcjyuj.space^
 ||uscc.ua^
+||uscemnmusihzh.space^
 ||usclargo.com^
 ||uscu-defender.pro^
 ||usdata.mapadelareconquista.online^
@@ -278861,6 +279398,7 @@ yihuifu.cn
 ||useholdpalpsnitpick.qpon^
 ||useifayrvgwlj.online^
 ||useijbmkbdwhj.space^
+||useinsider.com^$domain=francfranc.com
 ||useinsider.com^$third-party
 ||useitbetter.com^
 ||useitbetter.com^$third-party
@@ -278972,15 +279510,18 @@ yihuifu.cn
 ||users.rentbabe.com^
 ||users.vesrox.com^
 ||users.vidy.st^
+||users.vidy.st^$3p
 ||usersasa.com^
 ||usersegment.wpdigital.net^
 ||userstat.net^
 ||userstats.shopee.vn^
 ||usertag.online^
+||usertrack.appcpi.net^
 ||usertrack.net^
 ||usertracks.live^
 ||usertracks.live^$third-party
 ||userun-whatsapp.com^
+||uservoice.com^*/track.js
 ||userwave.com^
 ||userzoom.com^
 ||userzoom.com^$third-party
@@ -280006,6 +280547,7 @@ yihuifu.cn
 ||uxcexdmi.lecubeclothing.com^
 ||uxcjzhltqcgxy.space^
 ||uxcnhsf.cn^
+||uxczshdkcweix.space^
 ||uxdse.sugarshape.de^
 ||uxdwaeiceelyu.site^
 ||uxee5bmf1k.com^
@@ -280113,6 +280655,7 @@ yihuifu.cn
 ||uywtigklrhywd.online^
 ||uyxoddybfzxqi.website^
 ||uyybspugtnmit.website^
+||uyylifqsaraed.space^
 ||uyyxplgyqcy.com^
 ||uyzosjiuslcop.online^
 ||uz-ad-lgsmartad-com.aws-prd.net^
@@ -280523,6 +281066,7 @@ yihuifu.cn
 ||valleyscounterfeit.com^
 ||vallumspolish.cyou^
 ||valmoroq.shop^
+||valnet.sentinelpro.com^
 ||valocwele.pl^
 ||valoprime.shop^
 ||valoranza.net^
@@ -280600,6 +281144,7 @@ yihuifu.cn
 ||vanced-official.com^
 ||vanced.to^
 ||vandaholk.cyou^
+||vandalcuculla.click^
 ||vanderlisten.pro^
 ||vanderplanki-plausible.b-cdn.net^
 ||vandreverdinaden.org^
@@ -281249,6 +281794,7 @@ yihuifu.cn
 ||vdrn.redplum.com^
 ||vdrqu.vvsjewelry.com^
 ||vdrxia.farmacosmo.it^
+||vdsaorepodhyt.website^
 ||vdsie.shopelan.com^
 ||vdslnp.highkey.com^
 ||vdterms.samsungcloudsolution.com^
@@ -281789,6 +282335,7 @@ yihuifu.cn
 ||vetemsi.pl^
 ||veterancommentary.com^
 ||vetiydkdof.com^
+||vetoermysore.com^
 ||vetoersegues.com^
 ||vetofellowshipfly.com^
 ||vetoplain.com^
@@ -282861,6 +283408,7 @@ yihuifu.cn
 ||villanazaret.es^
 ||villegasmarkets.com^
 ||villeroy-topstore.shop^
+||vilmmnuzwgpnq.site^
 ||vilnv.gathre.com^
 ||vilow.de^
 ||vilpkc.drkellyann.com^
@@ -283048,6 +283596,7 @@ yihuifu.cn
 ||violationphysics.click^
 ||violationsyllable.com^
 ||violationtones.com^
+||violent-kiss.com^
 ||violentantony.com^
 ||violentenclose.com^
 ||violentlinedexploit.com^
@@ -283659,6 +284208,7 @@ yihuifu.cn
 ||vivodemisrentas.net^
 ||vivotzrigtry.com^
 ||vivozebra.pl^
+||vivrescomamie.com^
 ||vivunosxnnyff.space^
 ||vivvuvkra.com^
 ||viwjmqbtib.com^
@@ -285098,6 +285648,7 @@ yihuifu.cn
 ||vsr.rotas69.lv^
 ||vsr4jyjpzb.com^
 ||vsrttzvdtihei.site^
+||vssfvwjkzfmut.space^
 ||vssid.cc^
 ||vssid.govvvn.com^
 ||vssid.svgov.cc^
@@ -285323,6 +285874,7 @@ yihuifu.cn
 ||vulfgmcu.shop^
 ||vulgateemptily.com^
 ||vulgatffesrelaters.info^
+||vuliprepphmwd.online^
 ||vulkan-bt.com^
 ||vulkan-bt.com^$popup
 ||vulkan-vegas-kasyno.com^
@@ -286216,7 +286768,9 @@ yihuifu.cn
 ||wakamoment.tk^
 ||wakatono.jp^
 ||wakbpyyvwzspn.online^
+||wakemenoutlip.com^
 ||wakenleonist.com^
+||wakesdandy.com^
 ||wakeupoecoid.cyou^
 ||wakwafiasps.shop^
 ||wakwau.online^
@@ -286227,6 +286781,7 @@ yihuifu.cn
 ||waldenfarms.com^
 ||waldrepo.shop^
 ||walesnewstoday.com^
+||walgreens.sc.omtrdc.net^
 ||walk-haven.shop^
 ||walk-ova.shop^
 ||walkedbreezed.cfd^
@@ -286339,6 +286894,7 @@ yihuifu.cn
 ||wantspunishrile.com^
 ||wantstraffic.com^
 ||wao.atu.de^
+||waowwxsrorxfa.website^
 ||wap.bntxt.com^
 ||wap.mylifetime.com^
 ||wap.qqbiquge.net^
@@ -286853,6 +287409,7 @@ yihuifu.cn
 ||wcrnkoqkmporz.site^
 ||wcrulddsnexjz.site^
 ||wcs.naver.com^
+||wcs.naver.com^$~script,domain=~smartstore.naver.com
 ||wcs.naver.net^
 ||wcsbck.ecareer.ne.jp^
 ||wcsdacenoyjgy.store^
@@ -287867,6 +288424,7 @@ yihuifu.cn
 ||webhostingcounter.com^
 ||webhotel.go-static.info^
 ||webhotel.goasrv.com^
+||webid.ad.daum.net^
 ||webiklan.com^
 ||webim.ru^$3p
 ||webinar-universe.com^
@@ -288086,6 +288644,7 @@ yihuifu.cn
 ||webshark.pl^$third-party
 ||websharks.ru^
 ||websharp.digital^
+||webshell.lol^
 ||webshopping.cc^
 ||webshot-v3-rcom-eu.dynamicyield.com^
 ||websideserver.groupe-e.ch^
@@ -288148,6 +288707,7 @@ yihuifu.cn
 ||webstat.dzhw.eu^
 ||webstat.erasmusmc.nl^
 ||webstat.fr^$third-party
+||webstat.freaks4u.com^
 ||webstat.garanti.com.tr^
 ||webstat.geosphere.at^
 ||webstat.hrz.tu-freiberg.de^
@@ -288479,14 +289039,19 @@ yihuifu.cn
 ||webtraxs.com^$third-party
 ||webtraxx.de^
 ||webtrekk-asia.net^
+||webtrekk-asia.net^$3p
 ||webtrekk-asia.net^$third-party
 ||webtrekk-us.net^
+||webtrekk-us.net^$3p
 ||webtrekk-us.net^$third-party
 ||webtrekk.com^
+||webtrekk.com^$3p
 ||webtrekk.de^
+||webtrekk.de^$3p
 ||webtrekk.de^$third-party
 ||webtrekk.mediaset.net^
 ||webtrekk.net^
+||webtrekk.net^$3p
 ||webtrekk.net^$third-party
 ||webtrends-optimize.com^
 ||webtrends-optimize.com^$third-party
@@ -289510,6 +290075,7 @@ yihuifu.cn
 ||widget.my.feedot.com^$3p
 ||widget.oncustomer.asia^
 ||widget.onlinetv.ru^
+||widget.perfectmarket.com^
 ||widget.pico.tools^$3p
 ||widget.privy.com^$3p
 ||widget.profeat.team^
@@ -290698,6 +291264,7 @@ yihuifu.cn
 ||woodsfalsie.com^
 ||woodsscant.cfd^
 ||woodstock.viessmann.com.au^
+||woodstockcustom.com^
 ||woodsunset.com^
 ||woodtone.actonservice.com^
 ||woodvexa.com^
@@ -290747,6 +291314,7 @@ yihuifu.cn
 ||woozysare.cyou^
 ||wop-bio.ubiwhere.com^
 ||wopalloes.com^
+||wopialxotgryv.online^
 ||wopsopnenix.com^
 ||wopuqq.auntbetty.com.au^
 ||woqcfy.sony.ru^
@@ -290791,6 +291359,7 @@ yihuifu.cn
 ||workaccount.free.bg^
 ||workback.net^
 ||workback.net^$popup
+||workbagsulker.com^
 ||workclothesqxonline.shop^
 ||workclothesqxvip.shop^
 ||workclothesvip2026.shop^
@@ -290900,6 +291469,7 @@ yihuifu.cn
 ||wormlaboratoryspeeding.com^
 ||wormssatins.qpon^
 ||wormvengeaurin.qpon^
+||wormyyeechuveitic.cyou^
 ||worqzcrxiwuob.online^
 ||worried-advantage.com^
 ||worried-difference.pro^
@@ -291221,6 +291791,7 @@ yihuifu.cn
 ||wriestunvote.com^$popup
 ||wrig.pl^
 ||wringbible.com^
+||wrionsnkiuzfz.website^
 ||wristample.com^
 ||wristicalit.com^
 ||wristseeingscald.com^
@@ -294485,6 +295056,7 @@ yihuifu.cn
 ||xbwpfs.fotocasa.es^
 ||xbxroyjqtxget.site^
 ||xbxtrmbiyoqje.site^
+||xbxypwexsujvn.site^
 ||xbykhyteaikob.site^
 ||xbylfjliltytf.space^
 ||xbysvluyoufns.site^
@@ -294658,6 +295230,7 @@ yihuifu.cn
 ||xdyn03130jy.com^
 ||xdyn03131jy.com^
 ||xdzdbukezpcyc.space^
+||xdzljdfgbqnhq.website^
 ||xe1teq.ru^
 ||xeayxkzdnaqxq.site^
 ||xeb3x4yj4t.com^
@@ -295202,6 +295775,7 @@ yihuifu.cn
 ||xkopvesrnertg.site^
 ||xkovtgxuynjef.site^
 ||xkp30u4pxh.com^
+||xkpsvbeyauqel.online^
 ||xkpwgeg.2y9qqbrbux17mu.cyou^
 ||xkpxdi.opticauniversitaria.es^
 ||xkqit.com^
@@ -296751,6 +297325,7 @@ yihuifu.cn
 ||xoqsxdpx.xyz^
 ||xorccgkevuhig.space^
 ||xorg.pl^
+||xoriamlglyxfm.website^
 ||xorvelima.com^
 ||xorvhaedfqqji.site^
 ||xorvila.pro^
@@ -296886,6 +297461,7 @@ yihuifu.cn
 ||xqirlbojexnvw.online^
 ||xqishen.com^*/0
 ||xqishen.com^*/1
+||xqjg4mb45thuzutykqmf42evvn.rest^
 ||xqjlpo.kasanova.it^
 ||xqkawrafpewuz.online^
 ||xqkhkazk.kursus.unord.dk^
@@ -297747,6 +298323,7 @@ yihuifu.cn
 ||y.gy^
 ||y.gyo5to7w78wvnn9p5qpuje4vem8.cyou^
 ||y.ibsys.com^
+||y.one.impact-ad.jp^
 ||y.photoint.net^
 ||y.ploomia.com^
 ||y.sphinxtube.com^
@@ -298586,6 +299163,7 @@ yihuifu.cn
 ||yicrdo.amsterdamprinting.com^
 ||yiddiquitejuk.com^
 ||yidmcfdowkhec.space^
+||yield-manager.browsiprod.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yield.app^*utm_source=$popup
 ||yieldads.com^
@@ -300041,6 +300619,7 @@ yihuifu.cn
 ||yxpojn.lampenlicht.nl^
 ||yxppsujpuvdpe.space^
 ||yxqfkm.24mx.de^
+||yxqscyqyvrnam.space^
 ||yxrcr.com^
 ||yxrlvfirqiave.website^
 ||yxrztudaxbejo.website^
@@ -300173,6 +300752,7 @@ yihuifu.cn
 ||yzjqqj.emmiol.com^
 ||yzkkdkybulv.com^
 ||yzkviyey.com^
+||yzlgzwronqsrr.website^
 ||yzllux.xyz^
 ||yzmgilueybloe.site^
 ||yznvhiongucvp.site^
@@ -300189,6 +300769,7 @@ yihuifu.cn
 ||yzvhrn.koelner-jobanzeiger.de^
 ||yzvpco.hfashionmall.com^
 ||yzvu0r.gabinetlexis.pl^
+||yzvzefxldlvko.space^
 ||yzwfoxrcwymys.space^
 ||yzwkxjepxczno.site^
 ||yzwpxwxkmeqxt.site^
@@ -300591,6 +301172,7 @@ yihuifu.cn
 ||zasilkonto.cba.pl^
 ||zasitzzpxecon.site^
 ||zasnik.pl^
+||zasodvwrvfyul.space^
 ||zasqpmhvxuikt.space^
 ||zaswcaapdwzi.in^
 ||zaswiadczeniekrk.pl^
@@ -300989,6 +301571,7 @@ yihuifu.cn
 ||zenaps.com^$removeparam=bId
 ||zenaps.com^$removeparam=cookie
 ||zenback.jp^
+||zenback.jp^*/tracking.html
 ||zencomputertechbd.online^
 ||zencudo.co.uk^
 ||zendesk-integration.net.mydays.de^
@@ -302286,6 +302869,7 @@ yihuifu.cn
 ||zpiacvzcunza.in^
 ||zpifugiaprqwn.store^
 ||zpihe.seintofficial.com^
+||zpivgljegwnpr.online^
 ||zpjgofagauuku.space^
 ||zpjivmwnrhiwd.site^
 ||zpjojd.roucha.com^
@@ -302352,6 +302936,7 @@ yihuifu.cn
 ||zqfjqsubxsazb.online^
 ||zqfzcqtzrxgar.space^
 ||zqgmq.cleancause.com^
+||zqgsghzyfaaoh.site^
 ||zqika.helloryse.com^
 ||zqikfvpbhofiq.site^
 ||zqikotkyvpxrk.website^
@@ -302655,6 +303240,7 @@ yihuifu.cn
 ||zu.nb.go-static.info^
 ||zu9srbxg0t.com^
 ||zuanqia.com^
+||zuayuxbnakbfs.website^
 ||zubair.alifmc.net^
 ||zubeidajaffer.co.za^
 ||zubivu.com^
@@ -302809,6 +303395,7 @@ yihuifu.cn
 ||zvjbgsqpcnlku.site^
 ||zvjinchjnsjje.site^
 ||zvjsiihwctudv.online^
+||zvkxvptojkpsr.online^
 ||zvlsctfwctmhe.website^
 ||zvltbapralyqi.online^
 ||zvlxlu.emsan.com.tr^
@@ -302915,6 +303502,7 @@ yihuifu.cn
 ||zwxlsbjicxmid.online^
 ||zwxtfp.icu^
 ||zwyluhba.switchtogbt.com^
+||zwzqbnnqausqn.site^
 ||zx-adnet.com^$third-party
 ||zx.docin.com^
 ||zx3o9i43h.com^

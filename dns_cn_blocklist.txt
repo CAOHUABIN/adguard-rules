@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.17.1559
-! Last modified: 2026-11-17T15:59:41+07:00
+! Version: 2026.11.18.0414
+! Last modified: 2026-11-18T04:14:38+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 95815
+# 唯一域名数: 95818
 #
 0.myikas.com
 0.net.easyjet.com
@@ -13564,6 +13564,7 @@ bmwebm.org
 bmwjdcvvlhbrb.space
 bmxpsxdqliuhj.space
 bmyudk.clarins.de
+bmznrj7oi.com
 bmzuyj.nifty.com
 bmzzojmzu.com
 bn.coupocket.com
@@ -38669,6 +38670,7 @@ i3z.cn
 i4.fuimg.com
 i4320rdrta.com
 i5.akjunshi.com
+i5dtd6dfl.com
 i5le8m3qxs.com
 i5qquywfz.com
 i5rd6bukys.com
@@ -50704,6 +50706,7 @@ m3rsa3rnbm.com
 m3uef4b38brmbntdzx.franchiseplus.nl
 m3v8x28jut.com
 m43ocq1uoj.com
+m4820qu4n.com
 m485oq2gym.top
 m4dynuge4.com
 m4zoxtrcea1k.controlconceptsusa.com

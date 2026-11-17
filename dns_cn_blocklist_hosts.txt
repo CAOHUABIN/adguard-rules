@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.17.1559
-# Last modified: 2026-11-17T15:59:41+07:00
+# Version: 2026.11.18.0414
+# Last modified: 2026-11-18T04:14:38+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95815
+# 唯一域名数: 95818
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -13563,6 +13563,7 @@
 0.0.0.0 bmwjdcvvlhbrb.space
 0.0.0.0 bmxpsxdqliuhj.space
 0.0.0.0 bmyudk.clarins.de
+0.0.0.0 bmznrj7oi.com
 0.0.0.0 bmzuyj.nifty.com
 0.0.0.0 bmzzojmzu.com
 0.0.0.0 bn.coupocket.com
@@ -38668,6 +38669,7 @@
 0.0.0.0 i4.fuimg.com
 0.0.0.0 i4320rdrta.com
 0.0.0.0 i5.akjunshi.com
+0.0.0.0 i5dtd6dfl.com
 0.0.0.0 i5le8m3qxs.com
 0.0.0.0 i5qquywfz.com
 0.0.0.0 i5rd6bukys.com
@@ -50703,6 +50705,7 @@
 0.0.0.0 m3uef4b38brmbntdzx.franchiseplus.nl
 0.0.0.0 m3v8x28jut.com
 0.0.0.0 m43ocq1uoj.com
+0.0.0.0 m4820qu4n.com
 0.0.0.0 m485oq2gym.top
 0.0.0.0 m4dynuge4.com
 0.0.0.0 m4zoxtrcea1k.controlconceptsusa.com
