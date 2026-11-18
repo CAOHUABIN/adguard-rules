@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.18.0414
-! Last modified: 2026-11-18T04:14:38+07:00
+! Version: 2026.11.19.0415
+! Last modified: 2026-11-19T04:15:04+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/95812（按来源收录数优先截取）
+! 覆盖域名: 49000/95822（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5594,6 +5594,7 @@
 ||zzhizbzowrzlvy.com^
 ||zzuccikqt.com^
 ||002777.xyz^
+||0x2jt61f3l.com^
 ||1.15lu.com^
 ||1.201980.com^
 ||1.32xp.com^
@@ -5616,6 +5617,7 @@
 ||1200555.com^
 ||1iuh5l.com^
 ||1nqv0i1kk.com^
+||1uei2j0mz0.com^
 ||2016.bkill.net^
 ||2y2lttjs.hair^
 ||321.jintang114.org^
@@ -5731,6 +5733,7 @@
 ||cos1999.top^
 ||cpro.baidustatic.com^
 ||cpro.xixiliya.cn^
+||crzzbyrea5.com^
 ||css.juqingba.cn^
 ||cxgfq.pinlue.com^
 ||d.ab126.com^
@@ -5765,8 +5768,10 @@
 ||easyrecoverychina.com^
 ||ecma.bdimg.com^
 ||ediuschina.com^
+||enar18ahs1.com^
 ||er.5ykj.cn^
 ||etjkljs.beauty^
+||eu4as22g0c.com^
 ||ezze0ct.com^
 ||fancyapi.com^
 ||fancydsp.com^
@@ -5800,6 +5805,7 @@
 ||hsehk.cn^
 ||hubcloud.com.cn^
 ||huishenghuiying.com.cn^
+||hy851xvexj.com^
 ||hz.shouyoutv.com^
 ||i20k3b5yi.com^
 ||i5dtd6dfl.com^
@@ -5809,6 +5815,7 @@
 ||ig65.vip^
 ||ig66.vip^
 ||ig67.vip^
+||ii4mju7bta.com^
 ||iia1.pikacn.com^
 ||imasdk.googleapis.com^
 ||img.175532.com^
@@ -5835,11 +5842,13 @@
 ||js.oh100.com^
 ||js.ruiwen.com^
 ||js.ubaike.cn^
+||jsdikro5nj.com^
 ||jsx.luyouwang.com^
 ||jxad.jx163.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||kdpic.pchome.com.tw^
+||ked61ojxow.com^
 ||keyshot.cc^
 ||kingdeecn.cn^
 ||kmqianneng66.com^
@@ -5947,6 +5956,7 @@
 ||uu1.3gu.com^
 ||v1.kwpewga.cn^
 ||v1.taksh.cn^
+||variance36.com^
 ||vegaschina.cn^
 ||vernaellac.com^
 ||vfie3ximi3elx4uw.cfd^
@@ -49000,13 +49010,3 @@
 ||launchingspooky.com^
 ||launchjack.com^
 ||launchkite.com^
-||launoiibcxdom.site^
-||laurel.macrovision.com^
-||laurel.rovicorp.com^
-||laurelcourtesyreservation.com^
-||lavaorganic.com^
-||lavatoryhitschoolmaster.com^
-||lave6loki.com^
-||lavenderzenith.com^
-||lavishboot.com^
-||lavnkios.in^

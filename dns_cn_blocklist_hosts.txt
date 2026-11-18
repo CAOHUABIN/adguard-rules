@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.18.0414
-# Last modified: 2026-11-18T04:14:38+07:00
+# Version: 2026.11.19.0415
+# Last modified: 2026-11-19T04:15:04+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95818
+# 唯一域名数: 95828
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -237,6 +237,7 @@
 0.0.0.0 0wk6gdkg8r.com
 0.0.0.0 0wpfe0duo.com
 0.0.0.0 0x01n2ptpuz3.com
+0.0.0.0 0x2jt61f3l.com
 0.0.0.0 0x5.me
 0.0.0.0 0x79jjyph7.com
 0.0.0.0 0xr7ii3df.com
@@ -773,6 +774,7 @@
 0.0.0.0 1u6hvoykk3.com
 0.0.0.0 1ub29e88i.com
 0.0.0.0 1udy3nzsqx.com
+0.0.0.0 1uei2j0mz0.com
 0.0.0.0 1ujz59h62z.com
 0.0.0.0 1urjtp1t6.com
 0.0.0.0 1vd2esrss.com
@@ -19878,6 +19880,7 @@
 0.0.0.0 cryto.xyz
 0.0.0.0 cryvggjyqlhji.site
 0.0.0.0 crzohw.intersport.gr
+0.0.0.0 crzzbyrea5.com
 0.0.0.0 cs-bailing.com.cn
 0.0.0.0 cs-feige.iqiyi.com
 0.0.0.0 cs-op.douyucdn.cn
@@ -28567,6 +28570,7 @@
 0.0.0.0 enacttournamentcute.com
 0.0.0.0 enamelhurdleunpaid.com
 0.0.0.0 enamiteaer.com
+0.0.0.0 enar18ahs1.com
 0.0.0.0 enbazj.ilbianconero.com
 0.0.0.0 enbfjiwrdsdzb.site
 0.0.0.0 enbpnlaiatvav.space
@@ -29357,6 +29361,7 @@
 0.0.0.0 eu.sharpmarketing.eu
 0.0.0.0 eu.viatrisconnect.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 eu4as22g0c.com
 0.0.0.0 euads-o.api.leiniao.com
 0.0.0.0 euapp.levi.com
 0.0.0.0 euboeanrakan.com
@@ -38468,6 +38473,7 @@
 0.0.0.0 hy-partners.com
 0.0.0.0 hy.huangye88.com.cn
 0.0.0.0 hy.huangye88.net
+0.0.0.0 hy851xvexj.com
 0.0.0.0 hyaloidsatury.com
 0.0.0.0 hyalyyeiegmak.online
 0.0.0.0 hyaplnr.com
@@ -39164,6 +39170,7 @@
 0.0.0.0 ihyyqfiijucca.space
 0.0.0.0 ii1.chajiaotong.com
 0.0.0.0 ii4d.com
+0.0.0.0 ii4mju7bta.com
 0.0.0.0 ii9g0qj9.de
 0.0.0.0 iia1.pikacn.com
 0.0.0.0 iiad.com
@@ -43878,6 +43885,7 @@
 0.0.0.0 jscoinminer.com
 0.0.0.0 jscount.com
 0.0.0.0 jsdelvr.com
+0.0.0.0 jsdikro5nj.com
 0.0.0.0 jsdndfzpzrdt.com
 0.0.0.0 jsecoin.com
 0.0.0.0 jsf.cnlinfo.net
@@ -44678,6 +44686,7 @@
 0.0.0.0 kebi1.top
 0.0.0.0 kebpln.darngoodyarn.com
 0.0.0.0 kecrdgqevcqna.website
+0.0.0.0 ked61ojxow.com
 0.0.0.0 kedcnefhjkzra.online
 0.0.0.0 kedeng.xin
 0.0.0.0 keen-eyed.dotabuff.com
@@ -86986,6 +86995,7 @@
 0.0.0.0 variablesthirdtransparent.com
 0.0.0.0 variablestreet.pro
 0.0.0.0 variacgaia.click
+0.0.0.0 variance36.com
 0.0.0.0 variationbelovedsplit.com
 0.0.0.0 variationconfused.com
 0.0.0.0 variety.tc.qq.com

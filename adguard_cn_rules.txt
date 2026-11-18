@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.18.0414
-! Last modified: 2026-11-18T04:14:37+07:00
+! Version: 2026.11.19.0415
+! Last modified: 2026-11-19T04:15:04+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20177 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17107 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20191 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17117 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95688 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111879
+! 合并去重后唯一规则总数: 111893
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -1807,6 +1807,8 @@ $websocket,domain=wap.yushuwu.cloud
 17travel.net,itislooker.com,lookerpets.com,17goforward.com,lookforward.info,happyday543.com,starfocus.news##.ui_adblock
 17u.cn
 17wtv.com##.ad3
+17yoo.cn##.popup[data-popup="placement"]
+17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
@@ -4802,7 +4804,6 @@ cartoonmad.com##td[width="890"] > table > tbody > tr > td[colspan="4"][height="1
 cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 cava.tw###modal-dm:style(display: none !important;)
 cava.tw##body:style(overflow: auto !important;)
-cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 cb.wpio.xyz##.tpc_content > a[target="_blank"][onmouseout]
 cb.wpio.xyz##.tpc_content > span > span > a[target="_blank"][onmouseout]
@@ -8153,6 +8154,7 @@ military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
 mindmanager.cc
+minebbs.com##div[class^="cooperationProvider"]
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
 minhangcidian.com##div[id^="googleAd"]
@@ -8588,6 +8590,7 @@ nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
 nlc.gov.cn###lovexin12xx
 nmgnews.com.cn###div_ad4
 nnhanman.net##div[style="width:728px;padding-top: 8px;"]
+nnyy.in##+js(m3u-prune, adjump, .m3u8)
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
@@ -11136,6 +11139,7 @@ zzzyk.com###Tinfo
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x01n2ptpuz3.com^
+||0x2jt61f3l.com^
 ||0x5.me^
 ||0x79jjyph7.com^
 ||0xr7ii3df.com^
@@ -11826,6 +11830,7 @@ zzzyk.com###Tinfo
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
 ||1udy3nzsqx.com^
+||1uei2j0mz0.com^
 ||1ujz59h62z.com^
 ||1urjtp1t6.com^
 ||1vd2esrss.com^
@@ -32415,6 +32420,7 @@ zzzyk.com###Tinfo
 ||cryto.xyz^
 ||cryvggjyqlhji.site^
 ||crzohw.intersport.gr^
+||crzzbyrea5.com^
 ||cs-bailing.com.cn^
 ||cs-feige.iqiyi.com^
 ||cs-op.douyucdn.cn^
@@ -41443,6 +41449,7 @@ zzzyk.com###Tinfo
 ||enacttournamentcute.com^
 ||enamelhurdleunpaid.com^
 ||enamiteaer.com^
+||enar18ahs1.com^
 ||enbazj.ilbianconero.com^
 ||enbfjiwrdsdzb.site^
 ||enbpnlaiatvav.space^
@@ -41572,6 +41579,7 @@ zzzyk.com###Tinfo
 ||engagetosell.com^
 ||engageya.com^
 ||engagio.com^
+||engine.17yoo.cn/v1/fa^
 ||engine.dcad01.com^
 ||engine.eroge.com^
 ||engine.fxempire.com^
@@ -42257,6 +42265,7 @@ zzzyk.com###Tinfo
 ||eu.sharpmarketing.eu^
 ||eu.viatrisconnect.com^
 ||eu.vortex-win.data.microsoft.com^
+||eu4as22g0c.com^
 ||euads-o.api.leiniao.com^
 ||euapp.levi.com^
 ||euboeanrakan.com^
@@ -51899,6 +51908,7 @@ zzzyk.com###Tinfo
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
+||hy851xvexj.com^
 ||hyaloidsatury.com^
 ||hyalyyeiegmak.online^
 ||hyaplnr.com^
@@ -52683,6 +52693,7 @@ zzzyk.com###Tinfo
 ||ihyyqfiijucca.space^
 ||ii1.chajiaotong.com^
 ||ii4d.com^
+||ii4mju7bta.com^
 ||ii9g0qj9.de^
 ||iia1.pikacn.com^
 ||iiad.com^
@@ -57731,6 +57742,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||jsdelvr.com^
+||jsdikro5nj.com^
 ||jsdndfzpzrdt.com^
 ||jsecoin.com^
 ||jsf.cnlinfo.net^
@@ -58604,6 +58616,7 @@ zzzyk.com###Tinfo
 ||kebi1.top^
 ||kebpln.darngoodyarn.com^
 ||kecrdgqevcqna.website^
+||ked61ojxow.com^
 ||kedcnefhjkzra.online^
 ||kedeng.xin^
 ||keen-eyed.dotabuff.com^
@@ -102491,6 +102504,7 @@ zzzyk.com###Tinfo
 ||variablesthirdtransparent.com^
 ||variablestreet.pro^
 ||variacgaia.click^
+||variance36.com^
 ||variationbelovedsplit.com^
 ||variationconfused.com^
 ||variety.tc.qq.com^

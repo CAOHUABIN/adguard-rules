@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.18.0414
-! Last modified: 2026-11-18T04:14:38+07:00
+! Version: 2026.11.19.0415
+! Last modified: 2026-11-19T04:15:04+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 95818
+# 唯一域名数: 95828
 #
 0.myikas.com
 0.net.easyjet.com
@@ -238,6 +238,7 @@
 0wk6gdkg8r.com
 0wpfe0duo.com
 0x01n2ptpuz3.com
+0x2jt61f3l.com
 0x5.me
 0x79jjyph7.com
 0xr7ii3df.com
@@ -774,6 +775,7 @@
 1u6hvoykk3.com
 1ub29e88i.com
 1udy3nzsqx.com
+1uei2j0mz0.com
 1ujz59h62z.com
 1urjtp1t6.com
 1vd2esrss.com
@@ -19879,6 +19881,7 @@ crystalpvp.ru
 cryto.xyz
 cryvggjyqlhji.site
 crzohw.intersport.gr
+crzzbyrea5.com
 cs-bailing.com.cn
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
@@ -28568,6 +28571,7 @@ enablement.vmware.com
 enacttournamentcute.com
 enamelhurdleunpaid.com
 enamiteaer.com
+enar18ahs1.com
 enbazj.ilbianconero.com
 enbfjiwrdsdzb.site
 enbpnlaiatvav.space
@@ -29358,6 +29362,7 @@ eu.ironmountain.com
 eu.sharpmarketing.eu
 eu.viatrisconnect.com
 eu.vortex-win.data.microsoft.com
+eu4as22g0c.com
 euads-o.api.leiniao.com
 euapp.levi.com
 euboeanrakan.com
@@ -38469,6 +38474,7 @@ hy-cn.cn
 hy-partners.com
 hy.huangye88.com.cn
 hy.huangye88.net
+hy851xvexj.com
 hyaloidsatury.com
 hyalyyeiegmak.online
 hyaplnr.com
@@ -39165,6 +39171,7 @@ ihywcnzlauulc.space
 ihyyqfiijucca.space
 ii1.chajiaotong.com
 ii4d.com
+ii4mju7bta.com
 ii9g0qj9.de
 iia1.pikacn.com
 iiad.com
@@ -43879,6 +43886,7 @@ jscode.jbzj.com
 jscoinminer.com
 jscount.com
 jsdelvr.com
+jsdikro5nj.com
 jsdndfzpzrdt.com
 jsecoin.com
 jsf.cnlinfo.net
@@ -44679,6 +44687,7 @@ kebdnwepskuoe.website
 kebi1.top
 kebpln.darngoodyarn.com
 kecrdgqevcqna.website
+ked61ojxow.com
 kedcnefhjkzra.online
 kedeng.xin
 keen-eyed.dotabuff.com
@@ -86987,6 +86996,7 @@ variabilitydonor.com
 variablesthirdtransparent.com
 variablestreet.pro
 variacgaia.click
+variance36.com
 variationbelovedsplit.com
 variationconfused.com
 variety.tc.qq.com
