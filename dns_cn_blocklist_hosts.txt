@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.19.0415
-# Last modified: 2026-11-19T04:15:04+07:00
+# Version: 2026.11.20.0415
+# Last modified: 2026-11-20T04:15:43+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 95828
+# 唯一域名数: 95834
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -5217,6 +5217,7 @@
 0.0.0.0 ac.livelty.com
 0.0.0.0 ac.prism-world.jp.net
 0.0.0.0 ac00qmnjz.com
+0.0.0.0 ac0vjhnpp.com
 0.0.0.0 ac1.pingpingw.com
 0.0.0.0 ac173c41a1.com
 0.0.0.0 ac3.msn.com
@@ -55215,6 +55216,7 @@
 0.0.0.0 msg1.video.qiyi.com
 0.0.0.0 msg2.video.ptqy.gitv.tv
 0.0.0.0 msg2.video.qiyi.com
+0.0.0.0 msg3zn5w9.com
 0.0.0.0 msga.ptqy.gitv.tv
 0.0.0.0 msgapp.com
 0.0.0.0 msgfocus.com
@@ -60548,6 +60550,7 @@
 0.0.0.0 p3.l.qq.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p30rank.ir
+0.0.0.0 p3bqgc0pi.com
 0.0.0.0 p3p.sogou.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 p3tq.pandasuite.io
@@ -61635,6 +61638,7 @@
 0.0.0.0 pf.newegg.com
 0.0.0.0 pf.pchome.net
 0.0.0.0 pf34zdjoeycr.com
+0.0.0.0 pfac2u4n5.com
 0.0.0.0 pfadviqifnwfe.online
 0.0.0.0 pfanuvwzaf.in
 0.0.0.0 pfatrivandrum.org
@@ -77704,6 +77708,7 @@
 0.0.0.0 szgistaexaeaj.space
 0.0.0.0 szhbxgrzzsiw.com
 0.0.0.0 szhomes.net
+0.0.0.0 szhtkldy4.com
 0.0.0.0 szhyzkj.com
 0.0.0.0 szjbo9a13.com
 0.0.0.0 szkbyo.zkai.co.jp
@@ -83155,6 +83160,7 @@
 0.0.0.0 trap.skype.com
 0.0.0.0 trapescook.com
 0.0.0.0 trapezium69.top
+0.0.0.0 trapezoid76.com
 0.0.0.0 trappcloudservices.trapptechnology.com
 0.0.0.0 trappush.com
 0.0.0.0 traq.li

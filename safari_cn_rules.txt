@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.19.0415
-! Last modified: 2026-11-19T04:15:04+07:00
+! Version: 2026.11.20.0415
+! Last modified: 2026-11-20T04:15:43+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD
-! 覆盖域名: 49000/95822（按来源收录数优先截取）
+! 覆盖域名: 49000/95828（按来源收录数优先截取）
 !
 ||100.pncdn.cn^
 ||enennsa.gushiwen.cn^
@@ -5659,6 +5659,7 @@
 ||abbyychina.com^
 ||abcj.dooccn.com^
 ||abds.pingpingw.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-api.cnblogs.com^
@@ -5879,6 +5880,7 @@
 ||mm.wxc.cc^
 ||mnwor.xuanlishi.com^
 ||ms.cnbanbao.com^
+||msg3zn5w9.com^
 ||mycleanmymac.com^
 ||n0611.com^
 ||n55ylc001.vip^
@@ -5890,10 +5892,12 @@
 ||o.jy135.com^
 ||omes-sec.heytapmobi.com^
 ||ouiokaq.top^
+||p3bqgc0pi.com^
 ||p4p.sina.com.cn^
 ||panyh123456.cn^
 ||parallelsdesktop.cn^
 ||pdfexpert.cc^
+||pfac2u4n5.com^
 ||pic.fengniao.com^
 ||pixoctopus.pixnet.net^
 ||puata.info^
@@ -5931,6 +5935,7 @@
 ||static-cn.plista.com^
 ||static.wjxcdn.com^
 ||swc.weather.com.cn^
+||szhtkldy4.com^
 ||t1.612.com^
 ||taboola.com^
 ||taobao.qq.com^
@@ -5942,6 +5947,7 @@
 ||tns.simba.taobao.com^
 ||tp.suppercacheimages.top^
 ||track.sohu.com^
+||trapezoid76.com^
 ||tt.biquge.la^
 ||tt123.eastday.com^
 ||tvqmgheb.com^
@@ -49004,9 +49010,3 @@
 ||launch.aella.app^
 ||launch.meetsaturn.com^
 ||launch.vypr.it^
-||launchbit.com^
-||launcher.smart-tv.cn^
-||launcherimg.smart-tv.cn^
-||launchingspooky.com^
-||launchjack.com^
-||launchkite.com^

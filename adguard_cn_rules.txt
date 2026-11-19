@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.19.0415
-! Last modified: 2026-11-19T04:15:04+07:00
+! Version: 2026.11.20.0415
+! Last modified: 2026-11-20T04:15:42+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20191 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (17117 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (20197 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (17123 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (95688 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! 合并去重后唯一规则总数: 111893
+! 合并去重后唯一规则总数: 111899
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -16799,6 +16799,7 @@ zzzyk.com###Tinfo
 ||ac.prism-world.jp.net^
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||ac173c41a1.com^
 ||ac3.msn.com^
@@ -69584,6 +69585,7 @@ zzzyk.com###Tinfo
 ||msg1.video.qiyi.com^
 ||msg2.video.ptqy.gitv.tv^
 ||msg2.video.qiyi.com^
+||msg3zn5w9.com^
 ||msga.ptqy.gitv.tv^
 ||msgapp.com^
 ||msgfocus.com^
@@ -75104,6 +75106,7 @@ zzzyk.com###Tinfo
 ||p3.l.qq.com^
 ||p3.zbjimg.com^
 ||p30rank.ir^
+||p3bqgc0pi.com^
 ||p3p.sogou.com^
 ||p3p.yahoo.com^
 ||p3tq.pandasuite.io^
@@ -76260,6 +76263,7 @@ zzzyk.com###Tinfo
 ||pf.newegg.com^
 ||pf.pchome.net^
 ||pf34zdjoeycr.com^
+||pfac2u4n5.com^
 ||pfadviqifnwfe.online^
 ||pfanuvwzaf.in^
 ||pfatrivandrum.org^
@@ -92961,6 +92965,7 @@ zzzyk.com###Tinfo
 ||szhbxgrzzsiw.com^
 ||szhomes.net^
 ||szhongzi.com/js/
+||szhtkldy4.com^
 ||szhyzkj.com^
 ||szjbo9a13.com^
 ||szjjzs.com/js/cs*.js
@@ -98548,6 +98553,7 @@ zzzyk.com###Tinfo
 ||trap.skype.com^
 ||trapescook.com^
 ||trapezium69.top^
+||trapezoid76.com^
 ||trappcloudservices.trapptechnology.com^
 ||trappush.com^
 ||traq.li^

@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Safari 精简拦截规则（主机名版）
 ! Description: 仅含 Safari 内容拦截器支持的 ||域名^ 规则，截取约 49000 条高覆盖域名，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.19.0415
-! Last modified: 2026-11-19T04:15:04+07:00
+! Version: 2026.11.20.0415
+! Last modified: 2026-11-20T04:15:43+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
-! 覆盖域名: 49000/434382（按来源收录数优先截取）
+! 覆盖域名: 49000/434737（按来源收录数优先截取）
 !
 ||agkn.com^
 ||bidswitch.net^
@@ -32428,6 +32428,7 @@
 ||abalone46.com^
 ||abalsljfwasnq.online^
 ||abamatachiol.com^
+||abampuniateducky.cfd^
 ||abasesheres.cfd^
 ||abbqns.gowabi.com^
 ||abc.colayun.cn^
@@ -32547,6 +32548,7 @@
 ||ac.livelty.com^
 ||ac.prism-world.jp.net^
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||ac173c41a1.com^
 ||ac2.tnaflix.com^
@@ -37898,6 +37900,7 @@
 ||bwzett.icu^
 ||bxaclnvwqkrsy.space^
 ||bxcaucgerwmxg.space^
+||bxeddekzfmimn.space^
 ||bxexuenssx.com^
 ||bxflacvuc.com^
 ||bxhmqeiyqicht.online^
@@ -39394,6 +39397,7 @@
 ||coftfgnjvnyew.online^
 ||coghgwfjheczk.space^
 ||cogmtqgzpyvyl.online^
+||cognitivlabs.com^
 ||cogxmr.travelplanet.pl^
 ||cohfp.chairish.com^
 ||cohostnookier.qpon^
@@ -40960,6 +40964,7 @@
 ||dadvanwto.in^
 ||daffaite.com^
 ||daffodilacorn.com^
+||daffodilfrost.mobi^
 ||daftarfilles.shop^
 ||dafvng.sunrefre.jp^
 ||dagong.org^
@@ -43165,6 +43170,7 @@
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvhcob.jtrip.co.jp^
+||dvhhudfpjdpbm.website^
 ||dvhintgubzivus.com^
 ||dvjenundsitys.space^
 ||dvjxk947e.com^
@@ -43853,6 +43859,7 @@
 ||ehdkzm.ottoversand.at^
 ||ehh91kb6ic.com^
 ||ehiakjopnzwcc.online^
+||ehjfywvuslmpe.site^
 ||ehpjcjbqoplgmm.com^
 ||ehpmezpgselsb.space^
 ||ehrlgb.izlato.sk^
@@ -44124,6 +44131,7 @@
 ||elviraawa.com^
 ||elwd3duunc.com^
 ||elwebmx21.com^
+||elydkznpltm.com^
 ||elysiumbrandy.com^
 ||elyxvt.wilsonamplifiers.com^
 ||elzcmnirjjoni.space^
@@ -45210,6 +45218,7 @@
 ||eyenox.eschuhe.de^
 ||eyescrod.cyou^
 ||eyfygb.yourfirm.de^
+||eygbgbthsrqfx.site^
 ||eyhdotouaxqoq.online^
 ||eyhnhgqrdqlrf.space^
 ||eyiyoxz.xyz^
@@ -45599,6 +45608,7 @@
 ||fermagefrauen.cfd^
 ||fermatapodler.cyou^
 ||fermeryherbous.com^
+||fermeryinarkrecooks.cfd^
 ||fermolo.info^
 ||fernzenith.com^
 ||ferret.3tech.no^
@@ -45628,6 +45638,7 @@
 ||feuxdvvkealfs.site^
 ||fevgdluuiqjflm.com^
 ||fewsfcmitftvj.space^
+||fexmjbiamfmkx.site^
 ||fexyop.com^
 ||fezjga8y1.com^
 ||ff.electricoz.life^
@@ -45672,6 +45683,7 @@
 ||fgrmrajrvbmxb.online^
 ||fgvdd.nectarsleep.com^
 ||fgxdrflxrhfgx.online^
+||fh-dxy.com^
 ||fh0og4jhs0.com^
 ||fh259by01r25.com^
 ||fha7l0dvob.com^
@@ -45719,6 +45731,7 @@
 ||ficulaervil.cyou^
 ||fidar.site^
 ||fiddedzakkeu.qpon^
+||fidholjxlidfg.website^
 ||fidruqwny.com^
 ||fidslkezbxudw.site^
 ||fiedctgudxctv.space^
@@ -46234,6 +46247,7 @@
 ||foucqegmupzjw.site^
 ||foudebfbfvsom.space^
 ||fouledbonzery.com^
+||founderhaes.com^
 ||fourier.aliexpress.com^
 ||fourier.taobao.com^
 ||fowl.teamyap.app^
@@ -47861,6 +47875,7 @@
 ||gqbpnoupitmly.site^
 ||gqbqfkmonlphb.site^
 ||gqcrgyufg.com^
+||gqcyumr.com^
 ||gqdajtjwzbikn.space^
 ||gqfck5gnwf88zjqq6pepmwvfg48.cfd^
 ||gqfpqtbdok.com^
@@ -48994,18 +49009,3 @@
 ||hmeoauratefzm.site^
 ||hmeoda.restplatzboerse.ch^
 ||hmeqvp.essencemakeup.com^
-||hmfnaj.notino.bg^
-||hmgculxdgrblr.space^
-||hmgnjf.autoscout24.it^
-||hmicggepjcpph.space^
-||hmiozovxgweym.site^
-||hmixfbvzhnh.com^
-||hmjyvj.glamira.it^
-||hmlvxk.julian-fashion.com^
-||hmmagmmfcrld.com^
-||hmmjtuwoseygq.space^
-||hmooclcwehbec.online^
-||hmpfja.up-t.jp^
-||hmphpointed.com^
-||hmphstained.com^
-||hmqivs.com^

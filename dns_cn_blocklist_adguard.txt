@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截清单（AdGuard 格式）
 ! Description: 国内专用 DNS 去重域名清单（||域名^），适用于 AdGuard/AdGuard Home DNS 订阅，每日自动更新。
-! Version: 2026.11.19.0415
-! Last modified: 2026-11-19T04:15:04+07:00
+! Version: 2026.11.20.0415
+! Last modified: 2026-11-20T04:15:43+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
-! 唯一域名数: 95828
+! 唯一域名数: 95834
 ! 适用于 AdGuard / AdGuard Home DNS 过滤订阅
 !
 ||0.myikas.com^
@@ -5218,6 +5218,7 @@
 ||ac.livelty.com^
 ||ac.prism-world.jp.net^
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||ac173c41a1.com^
 ||ac3.msn.com^
@@ -55216,6 +55217,7 @@
 ||msg1.video.qiyi.com^
 ||msg2.video.ptqy.gitv.tv^
 ||msg2.video.qiyi.com^
+||msg3zn5w9.com^
 ||msga.ptqy.gitv.tv^
 ||msgapp.com^
 ||msgfocus.com^
@@ -60549,6 +60551,7 @@
 ||p3.l.qq.com^
 ||p3.zbjimg.com^
 ||p30rank.ir^
+||p3bqgc0pi.com^
 ||p3p.sogou.com^
 ||p3p.yahoo.com^
 ||p3tq.pandasuite.io^
@@ -61636,6 +61639,7 @@
 ||pf.newegg.com^
 ||pf.pchome.net^
 ||pf34zdjoeycr.com^
+||pfac2u4n5.com^
 ||pfadviqifnwfe.online^
 ||pfanuvwzaf.in^
 ||pfatrivandrum.org^
@@ -77705,6 +77709,7 @@
 ||szgistaexaeaj.space^
 ||szhbxgrzzsiw.com^
 ||szhomes.net^
+||szhtkldy4.com^
 ||szhyzkj.com^
 ||szjbo9a13.com^
 ||szkbyo.zkai.co.jp^
@@ -83156,6 +83161,7 @@
 ||trap.skype.com^
 ||trapescook.com^
 ||trapezium69.top^
+||trapezoid76.com^
 ||trappcloudservices.trapptechnology.com^
 ||trappush.com^
 ||traq.li^
