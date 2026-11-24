@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD/jiekouAD/AWAvenue）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.24.0643
-! Last modified: 2026-11-24T06:43:28+07:00
+! Version: 2026.11.25.0416
+! Last modified: 2026-11-25T04:16:24+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD / jiekouAD / AWAvenue
-! 覆盖域名: 49000/101307（按来源收录数优先截取）
+! 覆盖域名: 49000/101316（按来源收录数优先截取）
 !
 ||enennsa.gushiwen.cn^
 ||udiab1.jianshu.com^
@@ -5377,7 +5377,9 @@
 ||3pkf5m0gd.com^
 ||3twgodwqu.com^
 ||4009997658.com^
+||49ivw88hj9.com^
 ||4eyn3s9wj.com^
+||4hg1oddm34.com^
 ||4rlqjv5c5.com^
 ||4vzi54g47.com^
 ||51y5.net^
@@ -5417,6 +5419,7 @@
 ||a1.q6u.com^
 ||a1.shusanqi.com^
 ||a1.zhanzhang.net^
+||a6j9wqsyq6.com^
 ||aa.gushiwen.org^
 ||aafns.xyz^
 ||ab.cnbanbao.com^
@@ -5481,6 +5484,7 @@
 ||afd.baidu.com^
 ||afqgqg4e.com^
 ||aiclk.com^
+||ajc1d0k4nr.com^
 ||als.baidu.com^
 ||ams.fx678.com^
 ||amung.us^
@@ -5596,6 +5600,7 @@
 ||d227cncaprzd7y.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d6.mobaders.com^
+||d9zkof.com^
 ||da.mgtv.com^
 ||dadatuwz.com^
 ||dai.siyuetian.net^
@@ -5634,6 +5639,7 @@
 ||duiwai.baidu.com^
 ||dwyeuy.com^
 ||dxp.baidu.com^
+||dyv86qq19o.com^
 ||e.kuaishou.com^
 ||e.qq.com^
 ||eabids.com^
@@ -5668,6 +5674,8 @@
 ||fourier.alibaba.com^
 ||fourier.taobao.com^
 ||fpoyvjgdm.com^
+||fps3xggxro.com^
+||fqfhznr3qn.com^
 ||freshmarketer.com^
 ||fronttoad.com^
 ||fstats.xyz^
@@ -5763,6 +5771,7 @@
 ||iyes.youku.com^
 ||iyfbodn.com^
 ||j.diangon.com^
+||j31pozck4v.com^
 ||jads.co^
 ||janapi.jd.com^
 ||jiaoben.eastday.com^
@@ -5929,6 +5938,7 @@
 ||ra1.xyz^
 ||realsrv.com^
 ||realtime-bid.com^
+||remainder22.com^
 ||renamereptiliantrance.com^
 ||renrenkanpian.com^
 ||reportlog.dftoutiao.com^
@@ -8656,7 +8666,6 @@
 ||a64x.com^
 ||a65d5614b2.com^
 ||a6iemt79.xyz^
-||a6j9wqsyq6.com^
 ||a6s.1cakeclub.com^
 ||a6s.modoupai.com^
 ||a6s.ruyiqufu.com^
@@ -43730,6 +43739,7 @@
 ||hxdswx.com^
 ||hxdwsfg.cn^
 ||hxfu.nz53h.cn^
+||hxgnwrwslhzgrmjsfvdevrjpn.com^
 ||hxgqmhtogvxuy.website^
 ||hxhnsopexglnj.online^
 ||hxhohd.xyz^
@@ -47786,7 +47796,6 @@
 ||j2.979067.com^
 ||j2i0.mathon.fr^
 ||j3.dthznc.com^
-||j31pozck4v.com^
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
 ||j927.statnews.com^
@@ -49001,12 +49010,3 @@
 ||jrconttxvpmsz.com^
 ||jrdkc.com^
 ||jrds.net.cn^
-||jrfjcn.mebeli.bg^
-||jrghiftjhpkdv.website^
-||jrhaigou.com^
-||jrhameobeihmv.space^
-||jrhgkpxacbimp.site^
-||jrhyptikfbqls.site^
-||jrixwxojoccnm.com^
-||jrjexx.com^
-||jrjmgjfefawpy.site^

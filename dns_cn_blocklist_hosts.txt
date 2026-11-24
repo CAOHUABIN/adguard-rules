@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.24.0643
-# Last modified: 2026-11-24T06:43:27+07:00
+# Version: 2026.11.25.0416
+# Last modified: 2026-11-25T04:16:23+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 101611
+# 唯一域名数: 101620
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -1673,6 +1673,7 @@
 0.0.0.0 49a15e8b76.com
 0.0.0.0 49dlt9myv.com
 0.0.0.0 49ioqq6kt.com
+0.0.0.0 49ivw88hj9.com
 0.0.0.0 49o4m4a5eo.com
 0.0.0.0 49wanwan.com
 0.0.0.0 4a68b41d1f.com
@@ -1727,6 +1728,7 @@
 0.0.0.0 4h87y9pc59.com
 0.0.0.0 4hf2saujov.com
 0.0.0.0 4hfm8gfow.com
+0.0.0.0 4hg1oddm34.com
 0.0.0.0 4i2q0y9wv.com
 0.0.0.0 4ikj2pbeqb.com
 0.0.0.0 4j7mf4mmx.com
@@ -8247,6 +8249,7 @@
 0.0.0.0 ajarmargaritaalmond.com
 0.0.0.0 ajazaci.icu
 0.0.0.0 ajbeqy.delfi.lt
+0.0.0.0 ajc1d0k4nr.com
 0.0.0.0 ajccwxvuiblhp.online
 0.0.0.0 ajcdubkqpymme.site
 0.0.0.0 ajcode.co
@@ -22950,6 +22953,7 @@
 0.0.0.0 d9r4lqt28t1fm.cloudfront.net
 0.0.0.0 d9w.fl1c.com
 0.0.0.0 d9yk47of1efyy.cloudfront.net
+0.0.0.0 d9zkof.com
 0.0.0.0 d9zx24n0d.com
 0.0.0.0 da-ads.com
 0.0.0.0 da.anythinktech.com
@@ -27612,6 +27616,7 @@
 0.0.0.0 dysuze6ljcmcr.cloudfront.net
 0.0.0.0 dytuj6zs26.com
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
+0.0.0.0 dyv86qq19o.com
 0.0.0.0 dyvkswbqkgfhp.space
 0.0.0.0 dyvoursbending.com
 0.0.0.0 dywjcc.top
@@ -33747,6 +33752,7 @@
 0.0.0.0 fprpdlurhlwde.website
 0.0.0.0 fprqdwuxgn.com
 0.0.0.0 fprrpv.icu
+0.0.0.0 fps3xggxro.com
 0.0.0.0 fpt.inxinternational.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fptdxkm.com
@@ -33769,6 +33775,7 @@
 0.0.0.0 fqcqnb.dwr.com
 0.0.0.0 fqdqgeulweele.site
 0.0.0.0 fqeyqzuncvkpx.website
+0.0.0.0 fqfhznr3qn.com
 0.0.0.0 fqfuegxuujfzs.website
 0.0.0.0 fqgcltsfrjuln.space
 0.0.0.0 fqgogpouhtjlp.space
@@ -40632,6 +40639,7 @@
 0.0.0.0 hxdswx.com
 0.0.0.0 hxdwsfg.cn
 0.0.0.0 hxfu.nz53h.cn
+0.0.0.0 hxgnwrwslhzgrmjsfvdevrjpn.com
 0.0.0.0 hxgqmhtogvxuy.website
 0.0.0.0 hxhnsopexglnj.online
 0.0.0.0 hxhohd.xyz
@@ -72882,6 +72890,7 @@
 0.0.0.0 rxzcheqbhtxdw.com
 0.0.0.0 rxzfhfmoegfvts.com
 0.0.0.0 ry0.rythmefm.com
+0.0.0.0 ry6wy3dr62usd0fnicfk.com
 0.0.0.0 ry7icaih0p.com
 0.0.0.0 ryapalta.com
 0.0.0.0 rybatquick.com

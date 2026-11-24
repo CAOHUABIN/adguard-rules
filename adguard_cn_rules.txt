@@ -1,21 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD + jiekouAD + AWAvenue 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.24.0643
-! Last modified: 2026-11-24T06:43:27+07:00
+! Version: 2026.11.25.0416
+! Last modified: 2026-11-25T04:16:23+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19931 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (16852 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19945 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (16859 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (97166 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 !   [中文/DNS] jiekouAD 轻量广告拦截（banad） (5373 条): https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 !   [中文/DNS] AWAvenue Ads Rule（hosts 版） (1958 条): https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
-! 合并去重后唯一规则总数: 120173
+! 合并去重后唯一规则总数: 120184
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -7502,6 +7502,8 @@ com.tw##img[width="960"][height="90"]:style(height: 0 !important;)
 com:8891/c.php?s=*$third-party
 comefromchina.com##.ad_navtext_11 > li:nth-child(n+2)
 comic.qq.com###fixed_right > div
+comic18j-susu.com,jmcomic-zzz.one,18comic.vip##.top-a2db
+comic18j-susu.com,jmcomic-zzz.one,18comic.vip##.web-right-float-button
 comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com,zhanzhangb.com##a[href*=".jd.com"]
 commonhealth.com.tw##div[class*="ad--"]
 contents.internet.apps.samsung.com##.page-bar
@@ -15493,6 +15495,7 @@ zzzyk.com###Tinfo
 ||49a15e8b76.com^
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
+||49ivw88hj9.com^
 ||49o4m4a5eo.com^
 ||49wanwan.com^
 ||4a68b41d1f.com^
@@ -15551,6 +15554,7 @@ zzzyk.com###Tinfo
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
 ||4hfm8gfow.com^
+||4hg1oddm34.com^
 ||4hw.com.cn/js/common.js
 ||4i2q0y9wv.com^
 ||4ikj2pbeqb.com^
@@ -22473,6 +22477,7 @@ zzzyk.com###Tinfo
 ||ajarmargaritaalmond.com^
 ||ajazaci.icu^
 ||ajbeqy.delfi.lt^
+||ajc1d0k4nr.com^
 ||ajccwxvuiblhp.online^
 ||ajcdubkqpymme.site^
 ||ajcode.co^
@@ -38039,6 +38044,7 @@ zzzyk.com###Tinfo
 ||d9r4lqt28t1fm.cloudfront.net^
 ||d9w.fl1c.com^
 ||d9yk47of1efyy.cloudfront.net^
+||d9zkof.com^
 ||d9zx24n0d.com^
 ||da-ads.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
@@ -42914,6 +42920,7 @@ zzzyk.com###Tinfo
 ||dytt8.net/jsd
 ||dytuj6zs26.com^
 ||dyv1bugovvq1g.cloudfront.net^
+||dyv86qq19o.com^
 ||dyvkswbqkgfhp.space^
 ||dyvoursbending.com^
 ||dywjcc.top^
@@ -49237,6 +49244,7 @@ zzzyk.com###Tinfo
 ||fprpdlurhlwde.website^
 ||fprqdwuxgn.com^
 ||fprrpv.icu^
+||fps3xggxro.com^
 ||fpt.inxinternational.com^
 ||fpt.microsoft.com^
 ||fptdxkm.com^
@@ -49259,6 +49267,7 @@ zzzyk.com###Tinfo
 ||fqcqnb.dwr.com^
 ||fqdqgeulweele.site^
 ||fqeyqzuncvkpx.website^
+||fqfhznr3qn.com^
 ||fqfuegxuujfzs.website^
 ||fqgcltsfrjuln.space^
 ||fqgogpouhtjlp.space^
@@ -56569,6 +56578,7 @@ zzzyk.com###Tinfo
 ||hxdswx.com^
 ||hxdwsfg.cn^
 ||hxfu.nz53h.cn^
+||hxgnwrwslhzgrmjsfvdevrjpn.com^
 ||hxgqmhtogvxuy.website^
 ||hxhnsopexglnj.online^
 ||hxhohd.xyz^
@@ -90307,6 +90317,7 @@ zzzyk.com###Tinfo
 ||rxzcheqbhtxdw.com^
 ||rxzfhfmoegfvts.com^
 ||ry0.rythmefm.com^
+||ry6wy3dr62usd0fnicfk.com^
 ||ry7icaih0p.com^
 ||ryapalta.com^
 ||rybatquick.com^

@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.24.0643
-! Last modified: 2026-11-24T06:43:27+07:00
+! Version: 2026.11.25.0416
+! Last modified: 2026-11-25T04:16:23+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 101611
+# 唯一域名数: 101620
 #
 0.myikas.com
 0.net.easyjet.com
@@ -1674,6 +1674,7 @@
 49a15e8b76.com
 49dlt9myv.com
 49ioqq6kt.com
+49ivw88hj9.com
 49o4m4a5eo.com
 49wanwan.com
 4a68b41d1f.com
@@ -1728,6 +1729,7 @@
 4h87y9pc59.com
 4hf2saujov.com
 4hfm8gfow.com
+4hg1oddm34.com
 4i2q0y9wv.com
 4ikj2pbeqb.com
 4j7mf4mmx.com
@@ -8248,6 +8250,7 @@ ajapk.com
 ajarmargaritaalmond.com
 ajazaci.icu
 ajbeqy.delfi.lt
+ajc1d0k4nr.com
 ajccwxvuiblhp.online
 ajcdubkqpymme.site
 ajcode.co
@@ -22951,6 +22954,7 @@ d9qjkk0othy76.cloudfront.net
 d9r4lqt28t1fm.cloudfront.net
 d9w.fl1c.com
 d9yk47of1efyy.cloudfront.net
+d9zkof.com
 d9zx24n0d.com
 da-ads.com
 da.anythinktech.com
@@ -27613,6 +27617,7 @@ dysuswbgirzbe.site
 dysuze6ljcmcr.cloudfront.net
 dytuj6zs26.com
 dyv1bugovvq1g.cloudfront.net
+dyv86qq19o.com
 dyvkswbqkgfhp.space
 dyvoursbending.com
 dywjcc.top
@@ -33748,6 +33753,7 @@ fprnt.com
 fprpdlurhlwde.website
 fprqdwuxgn.com
 fprrpv.icu
+fps3xggxro.com
 fpt.inxinternational.com
 fpt.microsoft.com
 fptdxkm.com
@@ -33770,6 +33776,7 @@ fqceyqo.com
 fqcqnb.dwr.com
 fqdqgeulweele.site
 fqeyqzuncvkpx.website
+fqfhznr3qn.com
 fqfuegxuujfzs.website
 fqgcltsfrjuln.space
 fqgogpouhtjlp.space
@@ -40633,6 +40640,7 @@ hxdecujrfmyyv.online
 hxdswx.com
 hxdwsfg.cn
 hxfu.nz53h.cn
+hxgnwrwslhzgrmjsfvdevrjpn.com
 hxgqmhtogvxuy.website
 hxhnsopexglnj.online
 hxhohd.xyz
@@ -72883,6 +72891,7 @@ rxys.cn
 rxzcheqbhtxdw.com
 rxzfhfmoegfvts.com
 ry0.rythmefm.com
+ry6wy3dr62usd0fnicfk.com
 ry7icaih0p.com
 ryapalta.com
 rybatquick.com
