@@ -1,21 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD + jiekouAD + AWAvenue 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.25.0416
-! Last modified: 2026-11-25T04:16:23+07:00
+! Version: 2026.11.26.0415
+! Last modified: 2026-11-26T04:15:58+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19945 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (16859 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19954 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (16867 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (97166 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 !   [中文/DNS] jiekouAD 轻量广告拦截（banad） (5373 条): https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 !   [中文/DNS] AWAvenue Ads Rule（hosts 版） (1958 条): https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
-! 合并去重后唯一规则总数: 120184
+! 合并去重后唯一规则总数: 120193
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -9955,7 +9955,6 @@ jmw.com.cn##.top_pic
 jmw.com.cn##[class^="advertising"]
 jokeji.cn##.ad360_280
 jokerlu.com##.main-grids > .recommended-grids
-joyacg.top##a[href^="http"] > .img-fluid
 jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpsub.com##.floatbar_div
 jptt.tv###vast_video_loading_f-player:style(display: none !important;)
@@ -10494,6 +10493,7 @@ maomaomom.com###execphp-21
 maomaomom.com###execphp-4
 maomaomom.com##.textwidget > table[width="1050"]
 map.baidu.com###mapBanner
+map.baidu.com###message-center-panel:has(> span.message-ad-tag)
 map.baidu.com##.damoce-search-item
 map.baidu.com##.search-item[data-stat-code="poisearch.damoce.item"]
 maplestage.com##div[class*="-page-module__ad728Holder___"]
@@ -13712,6 +13712,7 @@ zzzyk.com###Tinfo
 ||0i0i0i0.com^
 ||0i2nax2di.com^
 ||0ihw4ipvm5.com^
+||0jbyj9d2l.com^
 ||0jghm60qg.com^
 ||0kl9n3q2b.com^
 ||0kplffrs42.com^
@@ -17291,6 +17292,7 @@ zzzyk.com###Tinfo
 ||9xf9qkz5.com^
 ||9xob25oszs.com^
 ||9xu.com^
+||9xxne23lm.com^
 ||9ya.net/con/ad
 ||9yad.com^
 ||9ye.com/Files/Editor/ad/
@@ -61129,6 +61131,7 @@ zzzyk.com###Tinfo
 ||j3ossmqgmc.com^
 ||j4s12kfavg.com^
 ||j59g6ff5k.com^
+||j5gv7t9sv.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6gi9jgjpb.com^
@@ -74475,6 +74478,7 @@ zzzyk.com###Tinfo
 ||mn123cass.xyz^
 ||mn1nm.com^
 ||mn230126pb.com^
+||mn3hdpe1y.com^
 ||mn586.com^
 ||mnaspm.com^
 ||mnbgbnrdqihyq.site^
@@ -76144,6 +76148,7 @@ zzzyk.com###Tinfo
 ||nagolympics.com^
 ||nagrande.com^
 ||nagualdoorway.com^
+||nah9b3ag8.com^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||nahobvowdlk.in^
@@ -88005,6 +88010,7 @@ zzzyk.com###Tinfo
 ||recruiting.dukekunshan.edu.cn^
 ||recs-api.conde.digital^
 ||recsys-crawl.4paradigm.com^
+||rectangle20.com^
 ||rectangle99.com^
 ||rectangledevelopernewspapers.com^
 ||rectangular10.com^
@@ -107142,6 +107148,7 @@ zzzyk.com###Tinfo
 ||uaa.com/js/dxj.
 ||uaaooa.stansberryresearch.com^
 ||uaas.yandex.ru^
+||uaazwczowtfswj.com^
 ||uabvfvyfpawye.site^
 ||uabvpjljbbaqa.website^
 ||uacvdinzsjqbv.site^
@@ -107851,6 +107858,7 @@ zzzyk.com###Tinfo
 ||umbrellaomendear.com^
 ||umbretturb.com^
 ||umc.danuoyi.alicdn.com^
+||umd8dz8x9.com^
 ||umdc.aliapp.org^
 ||umdlbn.globetrotter.de^
 ||umdpva.gakumado.mynavi.jp^
@@ -119197,6 +119205,7 @@ zzzyk.com###Tinfo
 ||zisnuthz.com^
 ||zisu.cn.com^
 ||zitdither.com^
+||zitdymshto.icu^
 ||zither89.com^
 ||zitternborghi.com^
 ||ziuggw.archon.pl^

@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.25.0416
-# Last modified: 2026-11-25T04:16:23+07:00
+# Version: 2026.11.26.0415
+# Last modified: 2026-11-26T04:15:59+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 101620
+# 唯一域名数: 101629
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -235,6 +235,7 @@
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0i2nax2di.com
 0.0.0.0 0ihw4ipvm5.com
+0.0.0.0 0jbyj9d2l.com
 0.0.0.0 0jghm60qg.com
 0.0.0.0 0kl9n3q2b.com
 0.0.0.0 0kplffrs42.com
@@ -3141,6 +3142,7 @@
 0.0.0.0 9xf9qkz5.com
 0.0.0.0 9xob25oszs.com
 0.0.0.0 9xu.com
+0.0.0.0 9xxne23lm.com
 0.0.0.0 9yad.com
 0.0.0.0 9yspkomgq.com
 0.0.0.0 9ywl0cwf7e37m5yi.tapin.gg
@@ -44917,6 +44919,7 @@
 0.0.0.0 j3ossmqgmc.com
 0.0.0.0 j4s12kfavg.com
 0.0.0.0 j59g6ff5k.com
+0.0.0.0 j5gv7t9sv.com
 0.0.0.0 j5sgdum5n4.com
 0.0.0.0 j694fx3bp.com
 0.0.0.0 j6gi9jgjpb.com
@@ -57631,6 +57634,7 @@
 0.0.0.0 mn123cass.xyz
 0.0.0.0 mn1nm.com
 0.0.0.0 mn230126pb.com
+0.0.0.0 mn3hdpe1y.com
 0.0.0.0 mn586.com
 0.0.0.0 mnaspm.com
 0.0.0.0 mnbgbnrdqihyq.site
@@ -59211,6 +59215,7 @@
 0.0.0.0 nagolympics.com
 0.0.0.0 nagrande.com
 0.0.0.0 nagualdoorway.com
+0.0.0.0 nah9b3ag8.com
 0.0.0.0 nahdlvqwqkzxby.com
 0.0.0.0 nahg4lhbr.com
 0.0.0.0 nahobvowdlk.in
@@ -70629,6 +70634,7 @@
 0.0.0.0 recruiting.dukekunshan.edu.cn
 0.0.0.0 recs-api.conde.digital
 0.0.0.0 recsys-crawl.4paradigm.com
+0.0.0.0 rectangle20.com
 0.0.0.0 rectangle99.com
 0.0.0.0 rectangledevelopernewspapers.com
 0.0.0.0 rectangular10.com
@@ -89215,6 +89221,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaaooa.stansberryresearch.com
 0.0.0.0 uaas.yandex.ru
+0.0.0.0 uaazwczowtfswj.com
 0.0.0.0 uabvfvyfpawye.site
 0.0.0.0 uabvpjljbbaqa.website
 0.0.0.0 uacvdinzsjqbv.site
@@ -89909,6 +89916,7 @@
 0.0.0.0 umbrellaomendear.com
 0.0.0.0 umbretturb.com
 0.0.0.0 umc.danuoyi.alicdn.com
+0.0.0.0 umd8dz8x9.com
 0.0.0.0 umdc.aliapp.org
 0.0.0.0 umdlbn.globetrotter.de
 0.0.0.0 umdpva.gakumado.mynavi.jp
@@ -100696,6 +100704,7 @@
 0.0.0.0 zisnuthz.com
 0.0.0.0 zisu.cn.com
 0.0.0.0 zitdither.com
+0.0.0.0 zitdymshto.icu
 0.0.0.0 zither89.com
 0.0.0.0 zitternborghi.com
 0.0.0.0 ziuggw.archon.pl

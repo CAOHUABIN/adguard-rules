@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD/jiekouAD/AWAvenue）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.25.0416
-! Last modified: 2026-11-25T04:16:24+07:00
+! Version: 2026.11.26.0415
+! Last modified: 2026-11-26T04:15:59+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD / jiekouAD / AWAvenue
-! 覆盖域名: 49000/101316（按来源收录数优先截取）
+! 覆盖域名: 49000/101325（按来源收录数优先截取）
 !
 ||enennsa.gushiwen.cn^
 ||udiab1.jianshu.com^
@@ -5347,6 +5347,7 @@
 ||zzhizbzowrzlvy.com^
 ||002777.xyz^
 ||094kk.com^
+||0jbyj9d2l.com^
 ||1.15lu.com^
 ||1.201980.com^
 ||1.32xp.com^
@@ -5396,6 +5397,7 @@
 ||8cnd.com^
 ||91p20.space^
 ||9867.org^
+||9xxne23lm.com^
 ||a-mo.net^
 ||a.10tianqi.com^
 ||a.52wubi.com^
@@ -5772,6 +5774,7 @@
 ||iyfbodn.com^
 ||j.diangon.com^
 ||j31pozck4v.com^
+||j5gv7t9sv.com^
 ||jads.co^
 ||janapi.jd.com^
 ||jiaoben.eastday.com^
@@ -5856,6 +5859,7 @@
 ||miniye.xjts.cn^
 ||mlog.aipai.com^
 ||mm.wxc.cc^
+||mn3hdpe1y.com^
 ||mnwor.xuanlishi.com^
 ||mobads.baidu.com^
 ||mosflower.cn^
@@ -5870,6 +5874,7 @@
 ||n0611.com^
 ||n55ylc001.vip^
 ||n6pwo7whs2.com^
+||nah9b3ag8.com^
 ||nawpush.com^
 ||nbsdk-baichuan.alicdn.com^
 ||news.fangdaijisuanqi.com^
@@ -5938,6 +5943,7 @@
 ||ra1.xyz^
 ||realsrv.com^
 ||realtime-bid.com^
+||rectangle20.com^
 ||remainder22.com^
 ||renamereptiliantrance.com^
 ||renrenkanpian.com^
@@ -6048,12 +6054,14 @@
 ||u-x.jd.com^
 ||u1.2048sj.com^
 ||u40pdqw.com^
+||uaazwczowtfswj.com^
 ||ubmcmm.baidustatic.com^
 ||ubmcvideo.baidustatic.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||ue8im.com^
 ||ug.snssdk.com^
+||umd8dz8x9.com^
 ||umdc.aliapp.org^
 ||umeng.com^
 ||umengcloud.com^
@@ -6167,6 +6175,7 @@
 ||zhangyumo.top^
 ||zhanzhang.net^
 ||zhihu-web-analytics.zhihu.com^
+||zitdymshto.icu^
 ||ziweuu.com^
 ||zkhjsta.beauty^
 ||zmhpphp.forum^
@@ -49001,12 +49010,3 @@
 ||jqzfuwquzzljc.online^
 ||jraaraflargqt.website^
 ||jraasj.kobo.com^
-||jrad.jd.com^
-||jradumbwgmggr.space^
-||jrajtygpxefk.com^
-||jraqvedgjkznw.space^
-||jrclick.jd.com^
-||jrcmlyfezriii.online^
-||jrconttxvpmsz.com^
-||jrdkc.com^
-||jrds.net.cn^
