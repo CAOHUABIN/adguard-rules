@@ -1,11 +1,11 @@
 # Title: 国内网络 DNS 拦截清单（hosts 格式）
 # Description: 国内专用去重 hosts 清单，每日自动更新。
-# Version: 2026.11.27.0415
-# Last modified: 2026-11-27T04:15:36+07:00
+# Version: 2026.11.28.0416
+# Last modified: 2026-11-28T04:16:26+07:00
 # Expires: 1 day (update frequency)
 # Homepage: https://github.com/CAOHUABIN/adguard-rules
 #
-# 唯一域名数: 100896
+# 唯一域名数: 100905
 # 兼容 hosts / AdGuard Home hosts / Pi-hole
 #
 0.0.0.0 0.myikas.com
@@ -1168,6 +1168,7 @@
 0.0.0.0 2mo3neop.de
 0.0.0.0 2nbg86d2x.com
 0.0.0.0 2nl6sgd9c.com
+0.0.0.0 2nli0zswf.com
 0.0.0.0 2nn7r6bh1.de
 0.0.0.0 2nvd5j7iv0.com
 0.0.0.0 2o7.net
@@ -40288,6 +40289,7 @@
 0.0.0.0 huxzgdfmeqlgv.online
 0.0.0.0 huzhanbin.cn
 0.0.0.0 huzzahfor.com
+0.0.0.0 hv3lixzlc.com
 0.0.0.0 hv7w3au49.com
 0.0.0.0 hvac.goodcoinc.com
 0.0.0.0 hvac.solutions.jci.com
@@ -45377,6 +45379,7 @@
 0.0.0.0 jiwire.com
 0.0.0.0 jiwwtotahc.in
 0.0.0.0 jixdwtlveqhrl.online
+0.0.0.0 jixgkxfhfp.icu
 0.0.0.0 jixie.io
 0.0.0.0 jixing.cc
 0.0.0.0 jixmlx.xyz
@@ -68975,6 +68978,7 @@
 0.0.0.0 quackupsilon.com
 0.0.0.0 quadquality.com
 0.0.0.0 quadran.eu
+0.0.0.0 quadrant59.com
 0.0.0.0 quaffedpigpens.com
 0.0.0.0 quagdcisczfvh.space
 0.0.0.0 quagzglcqhcro.site
@@ -72737,6 +72741,7 @@
 0.0.0.0 s2d6.com
 0.0.0.0 s2dcm.com
 0.0.0.0 s2dln6sdu.com
+0.0.0.0 s2glduwz1.com
 0.0.0.0 s2plb194m.com
 0.0.0.0 s2sterra.com
 0.0.0.0 s2v36b902.com
@@ -84472,6 +84477,7 @@
 0.0.0.0 tnxwjnqyvosfj.website
 0.0.0.0 tnxxtx.crepeerase.com
 0.0.0.0 tnz3.carrefour-banque.fr
+0.0.0.0 tnz8mdste.com
 0.0.0.0 tnze.cn
 0.0.0.0 tnzttwwahtkwb.website
 0.0.0.0 to-support.me
@@ -91413,6 +91419,7 @@
 0.0.0.0 vdzrjr.kenminkyosai.or.jp
 0.0.0.0 ve.tsdlp.com
 0.0.0.0 ve.velocityclinical.com
+0.0.0.0 ve9gs6j44.com
 0.0.0.0 vebadu.com
 0.0.0.0 vebefsusofpzg.space
 0.0.0.0 vebejgenfzchn.space
@@ -96439,6 +96446,7 @@
 0.0.0.0 xgzdys.com
 0.0.0.0 xgzxpdy.com
 0.0.0.0 xh1tsu69.xyz
+0.0.0.0 xh2ei17sy.com
 0.0.0.0 xh33g.net
 0.0.0.0 xhaahvpleugdp.site
 0.0.0.0 xhaiu.com
@@ -98066,6 +98074,7 @@
 0.0.0.0 ygacesefzgcvt.site
 0.0.0.0 ygaeklqwfmtsl.website
 0.0.0.0 ygcbqnceieyqy.website
+0.0.0.0 ygcmsecmzzhaup.com
 0.0.0.0 ygdogx.hearstmagazines.co.uk
 0.0.0.0 ygdvundpxjbbn.online
 0.0.0.0 ygdwvwept.com

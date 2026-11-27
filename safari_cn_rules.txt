@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 Safari 精简拦截规则（主机名版）
 ! Description: 仅含国内来源（AdGuard Chinese/EasyList China/CJX/anti-AD/jiekouAD/AWAvenue）的 ||域名^ 规则，约 49000 条，适配 iPhone/iPad AdGuard Safari 保护，每日自动更新。
-! Version: 2026.11.27.0415
-! Last modified: 2026-11-27T04:15:37+07:00
+! Version: 2026.11.28.0416
+! Last modified: 2026-11-28T04:16:26+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 只含 Safari 支持的主机名规则 ||域名^，不含进阶语法
 ! 来源: AdGuard Chinese / EasyList China / CJX / anti-AD / jiekouAD / AWAvenue
-! 覆盖域名: 49000/100592（按来源收录数优先截取）
+! 覆盖域名: 49000/100601（按来源收录数优先截取）
 !
 ||enennsa.gushiwen.cn^
 ||udiab1.jianshu.com^
@@ -5405,6 +5405,7 @@
 ||1wkg.cn^
 ||2016.bkill.net^
 ||2020mustang.com^
+||2nli0zswf.com^
 ||2y2lttjs.hair^
 ||321.jintang114.org^
 ||37cs.com^
@@ -5757,6 +5758,7 @@
 ||huichuan.sm.cn^
 ||huishenghuiying.com.cn^
 ||hummingexam.com^
+||hv3lixzlc.com^
 ||hxgnwrwslhzgrmjsfvdevrjpn.com^
 ||hz.shouyoutv.com^
 ||iads.xinmin.cn^
@@ -5801,6 +5803,7 @@
 ||jibn12.jintang114.org^
 ||jihehuaban.com.cn^
 ||jinanrqz.com^
+||jixgkxfhfp.icu^
 ||jke1.jianke.com^
 ||jmosl.com^
 ||js.kt250.com^
@@ -5955,6 +5958,7 @@
 ||qnywphp.forum^
 ||qpb.sohu.com^
 ||qqdata.ab.qq.com^
+||quadrant59.com^
 ||qutyan8848.com^
 ||qxaz2xcw.com^
 ||qxwoiv.com^
@@ -5979,6 +5983,7 @@
 ||s.union.360.cn^
 ||s1.tuzhaozhao.com^
 ||s1.wesiedu.com^
+||s2glduwz1.com^
 ||s3-nl-01.mangabuddy.in^
 ||saitef.cn^
 ||samsungads.com^
@@ -6049,6 +6054,7 @@
 ||tk.504pk.com^
 ||tnc3-bjlgy.snssdk.com^
 ||tns.simba.taobao.com^
+||tnz8mdste.com^
 ||tongjiniao.com^
 ||tools.3g.qq.com^
 ||tp.suppercacheimages.top^
@@ -6089,6 +6095,7 @@
 ||v1.kwpewga.cn^
 ||v1.taksh.cn^
 ||v4dwkcv.com^
+||ve9gs6j44.com^
 ||vegaschina.cn^
 ||vernaellac.com^
 ||vfie3ximi3elx4uw.cfd^
@@ -6137,6 +6144,7 @@
 ||xdyn03121jy.com^
 ||xdyn03130jy.com^
 ||xdyn03131jy.com^
+||xh2ei17sy.com^
 ||xianliao.voto^
 ||xjwhtz10.com^
 ||xjwhtz2.com^
@@ -6179,6 +6187,7 @@
 ||y.photoint.net^
 ||ydjs.zol.com.cn^
 ||ydxdg.xyz^
+||ygcmsecmzzhaup.com^
 ||yihuifu.cn^
 ||yijiuningyia.gushiwen.org^
 ||yinyouapp.com^
@@ -49001,12 +49010,3 @@
 ||jszwxm.hometogo.nl^
 ||jtarfendijmmo.online^
 ||jtbaoo.belvini.de^
-||jtbfbkobnabhi.online^
-||jtbunh.xyz^
-||jtdkmjuiogidh.site^
-||jtemxykefwgmw.online^
-||jtexktcmlh.com^
-||jthajuayablgw.space^
-||jthargdwafkza.online^
-||jthkegumzcwkz.site^
-||jtiavpaxso.in^

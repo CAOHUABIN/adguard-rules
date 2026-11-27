@@ -1,21 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络专用拦截规则（AdGuard 格式）
 ! Description: 合并 AdGuard Chinese filter + EasyList China + CJX + anti-AD + jiekouAD + AWAvenue 的中文规则合集，聚焦国内站点广告与跟踪，体积更小、误伤更低，每日自动更新。
-! Version: 2026.11.27.0415
-! Last modified: 2026-11-27T04:15:36+07:00
+! Version: 2026.11.28.0416
+! Last modified: 2026-11-28T04:16:25+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 ! 说明: 专为国内网络环境整理，合并去重以下中文/国内来源。聚焦国内站点广告与跟踪拦截，
 !       不含国际全量列表，体积更小、误伤更低。适用于 AdGuard / AdGuard Home / uBlock Origin / Adblock Plus。
 ! 来源清单（合并前原始规则数）：
-!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19966 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
-!   [中文] EasyList China（EasyList 国内补充） (16879 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+!   [中文/官方] AdGuard Chinese filter（官方中文过滤） (19975 条): https://filters.adtidy.org/extension/ublock/filters/224.txt
+!   [中文] EasyList China（EasyList 国内补充） (16888 条): https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !   [中文] 乘风广告过滤规则（CJX） (1168 条): https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 !   [中文/DNS] anti-AD（中文广告+跟踪） (96458 条): https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 !   [中文/DNS] jiekouAD 轻量广告拦截（banad） (5373 条): https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 !   [中文/DNS] AWAvenue Ads Rule（hosts 版） (1958 条): https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
-! 合并去重后唯一规则总数: 119460
+! 合并去重后唯一规则总数: 119469
 !
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -14883,6 +14883,7 @@ zzzyk.com###Tinfo
 ||2mo3neop.de^
 ||2nbg86d2x.com^
 ||2nl6sgd9c.com^
+||2nli0zswf.com^
 ||2nn7r6bh1.de^
 ||2nvd5j7iv0.com^
 ||2o7.net^
@@ -56227,6 +56228,7 @@ zzzyk.com###Tinfo
 ||huyaimg.msstatic.com/cdnimage/roomad/
 ||huzhanbin.cn^
 ||huzzahfor.com^
+||hv3lixzlc.com^
 ||hv7w3au49.com^
 ||hvac.goodcoinc.com^
 ||hvac.solutions.jci.com^
@@ -61679,6 +61681,7 @@ zzzyk.com###Tinfo
 ||jiwire.com^
 ||jiwwtotahc.in^
 ||jixdwtlveqhrl.online^
+||jixgkxfhfp.icu^
 ||jixie.io^
 ||jixing.cc^
 ||jixmlx.xyz^
@@ -86324,6 +86327,7 @@ zzzyk.com###Tinfo
 ||quackupsilon.com^
 ||quadquality.com^
 ||quadran.eu^
+||quadrant59.com^
 ||quaffedpigpens.com^
 ||quagdcisczfvh.space^
 ||quagzglcqhcro.site^
@@ -90180,6 +90184,7 @@ zzzyk.com###Tinfo
 ||s2d6.com^
 ||s2dcm.com^
 ||s2dln6sdu.com^
+||s2glduwz1.com^
 ||s2plb194m.com^
 ||s2sterra.com^
 ||s2tu.com/images/*.gif
@@ -102313,6 +102318,7 @@ zzzyk.com###Tinfo
 ||tnxwjnqyvosfj.website^
 ||tnxxtx.crepeerase.com^
 ||tnz3.carrefour-banque.fr^
+||tnz8mdste.com^
 ||tnze.cn^
 ||tnzttwwahtkwb.website^
 ||to-support.me^
@@ -109397,6 +109403,7 @@ zzzyk.com###Tinfo
 ||vdzrjr.kenminkyosai.or.jp^
 ||ve.tsdlp.com^
 ||ve.velocityclinical.com^
+||ve9gs6j44.com^
 ||vebadu.com^
 ||vebefsusofpzg.space^
 ||vebejgenfzchn.space^
@@ -114652,6 +114659,7 @@ zzzyk.com###Tinfo
 ||xgzdys.com^
 ||xgzxpdy.com^
 ||xh1tsu69.xyz^
+||xh2ei17sy.com^
 ||xh33g.net^
 ||xhaahvpleugdp.site^
 ||xhaiu.com^
@@ -116398,6 +116406,7 @@ zzzyk.com###Tinfo
 ||ygacesefzgcvt.site^
 ||ygaeklqwfmtsl.website^
 ||ygcbqnceieyqy.website^
+||ygcmsecmzzhaup.com^
 ||ygdogx.hearstmagazines.co.uk^
 ||ygdvundpxjbbn.online^
 ||ygdwvwept.com^

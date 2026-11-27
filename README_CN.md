@@ -2,14 +2,14 @@
 
 专为**国内网络环境**整理的轻量拦截规则，聚焦国内站点广告与跟踪拦截，合并去重，不含国际全量列表。
 
-生成日期：2026-11-03 ｜ 唯一规则：**119460** 条 ｜ 唯一域名：**100896** 个
+生成日期：2026-11-03 ｜ 唯一规则：**119469** 条 ｜ 唯一域名：**100905** 个
 
 ## 来源清单
 
 | 类别 | 规则列表 | 原始规则数 | 订阅地址 |
 |---|---|---:|---|
-| 中文/官方 | AdGuard Chinese filter（官方中文过滤） | 19966 | https://filters.adtidy.org/extension/ublock/filters/224.txt |
-| 中文 | EasyList China（EasyList 国内补充） | 16879 | https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt |
+| 中文/官方 | AdGuard Chinese filter（官方中文过滤） | 19975 | https://filters.adtidy.org/extension/ublock/filters/224.txt |
+| 中文 | EasyList China（EasyList 国内补充） | 16888 | https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt |
 | 中文 | 乘风广告过滤规则（CJX） | 1168 | https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt |
 | 中文/DNS | anti-AD（中文广告+跟踪） | 96458 | https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt |
 | 中文/DNS | jiekouAD 轻量广告拦截（banad） | 5373 | https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt |

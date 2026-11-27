@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 国内网络 DNS 拦截域名清单（纯域名）
 ! Description: 国内专用 DNS 去重域名清单，一行一个域名，每日自动更新。
-! Version: 2026.11.27.0415
-! Last modified: 2026-11-27T04:15:36+07:00
+! Version: 2026.11.28.0416
+! Last modified: 2026-11-28T04:16:25+07:00
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/CAOHUABIN/adguard-rules
 !
 # 说明: 一行一个域名，兼容 AdGuard Home / Pi-hole / AdGuard DNS / dnsmasq
-# 唯一域名数: 100896
+# 唯一域名数: 100905
 #
 0.myikas.com
 0.net.easyjet.com
@@ -1169,6 +1169,7 @@
 2mo3neop.de
 2nbg86d2x.com
 2nl6sgd9c.com
+2nli0zswf.com
 2nn7r6bh1.de
 2nvd5j7iv0.com
 2o7.net
@@ -40289,6 +40290,7 @@ huwtkpcqaygow.online
 huxzgdfmeqlgv.online
 huzhanbin.cn
 huzzahfor.com
+hv3lixzlc.com
 hv7w3au49.com
 hvac.goodcoinc.com
 hvac.solutions.jci.com
@@ -45378,6 +45380,7 @@ jiwevkrbopz.com
 jiwire.com
 jiwwtotahc.in
 jixdwtlveqhrl.online
+jixgkxfhfp.icu
 jixie.io
 jixing.cc
 jixmlx.xyz
@@ -68976,6 +68979,7 @@ quackgraduation.com
 quackupsilon.com
 quadquality.com
 quadran.eu
+quadrant59.com
 quaffedpigpens.com
 quagdcisczfvh.space
 quagzglcqhcro.site
@@ -72738,6 +72742,7 @@ s2564.sc.origins.en25.com
 s2d6.com
 s2dcm.com
 s2dln6sdu.com
+s2glduwz1.com
 s2plb194m.com
 s2sterra.com
 s2v36b902.com
@@ -84473,6 +84478,7 @@ tnxkpmfknbiwr.space
 tnxwjnqyvosfj.website
 tnxxtx.crepeerase.com
 tnz3.carrefour-banque.fr
+tnz8mdste.com
 tnze.cn
 tnzttwwahtkwb.website
 to-support.me
@@ -91414,6 +91420,7 @@ vdzgsdxfcyeea.com
 vdzrjr.kenminkyosai.or.jp
 ve.tsdlp.com
 ve.velocityclinical.com
+ve9gs6j44.com
 vebadu.com
 vebefsusofpzg.space
 vebejgenfzchn.space
@@ -96440,6 +96447,7 @@ xgyvaf.easydew.co.kr
 xgzdys.com
 xgzxpdy.com
 xh1tsu69.xyz
+xh2ei17sy.com
 xh33g.net
 xhaahvpleugdp.site
 xhaiu.com
@@ -98067,6 +98075,7 @@ yg6p1tskn.com
 ygacesefzgcvt.site
 ygaeklqwfmtsl.website
 ygcbqnceieyqy.website
+ygcmsecmzzhaup.com
 ygdogx.hearstmagazines.co.uk
 ygdvundpxjbbn.online
 ygdwvwept.com
